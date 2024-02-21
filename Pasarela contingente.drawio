@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T23:09:39.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="jda117T57YHCXg1OtsAO" version="23.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-21T23:10:47.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="3K1HtFtC4hnjaGzmRezi" version="23.1.1" type="github" pages="3">
   <diagram name="Tienda" id="mddC_wURRDu6EgvgWiNg">
-    <mxGraphModel dx="2422" dy="1982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2741" dy="2145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,7 +81,7 @@
         </mxCell>
         <mxCell id="rx5bVg-xOdoHbaD6HX3f-15" value="Payment API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rx5bVg-xOdoHbaD6HX3f-7">
           <mxGeometry x="-0.2828" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-3" y="-44" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rx5bVg-xOdoHbaD6HX3f-10" value="" style="group" vertex="1" connectable="0" parent="1">

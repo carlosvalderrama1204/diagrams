@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T15:21:28.411Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="TWgtMNn1ZphFvA3eVvAt" version="23.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-21T15:33:20.876Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="10j76aCqneT1InfIWmxF" version="23.1.1" type="github" pages="2">
   <diagram name="Tienda" id="mddC_wURRDu6EgvgWiNg">
-    <mxGraphModel dx="1941" dy="1695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2418" dy="1920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -135,12 +135,15 @@
           <mxGeometry x="890" y="170" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mkaJklExWA9CGuxn5Ltt-3" value="" style="image;html=1;image=img/lib/clip_art/general/Full_Folder_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="1220" y="122.5" width="60" height="45" as="geometry" />
+          <mxGeometry x="1160" y="260" width="60" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="mkaJklExWA9CGuxn5Ltt-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ltmftzI0RWYy-bsM0idQ-12" target="mkaJklExWA9CGuxn5Ltt-3">
+        <mxCell id="mkaJklExWA9CGuxn5Ltt-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ltmftzI0RWYy-bsM0idQ-12" target="mkaJklExWA9CGuxn5Ltt-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1090" y="200" as="sourcePoint" />
             <mxPoint x="1140" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1190" y="155" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mkaJklExWA9CGuxn5Ltt-27" value="PAG" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mkaJklExWA9CGuxn5Ltt-4">
@@ -149,7 +152,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mkaJklExWA9CGuxn5Ltt-5" value="SFTP&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="158" width="60" height="30" as="geometry" />
+          <mxGeometry x="1120" y="285" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mkaJklExWA9CGuxn5Ltt-6" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1350" y="140" width="350" height="300" as="geometry" />
@@ -169,28 +172,18 @@
         <mxCell id="mkaJklExWA9CGuxn5Ltt-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mkaJklExWA9CGuxn5Ltt-7" target="mkaJklExWA9CGuxn5Ltt-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1320" y="273" />
-              <mxPoint x="1320" y="145" />
+              <mxPoint x="1260" y="273" />
+              <mxPoint x="1260" y="273" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mkaJklExWA9CGuxn5Ltt-21" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="540" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mkaJklExWA9CGuxn5Ltt-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647702-excel-128.png" vertex="1" parent="1">
-          <mxGeometry x="1140" y="336" width="48" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="mkaJklExWA9CGuxn5Ltt-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mkaJklExWA9CGuxn5Ltt-7" target="mkaJklExWA9CGuxn5Ltt-22">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="mkaJklExWA9CGuxn5Ltt-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1.002;exitY=0.835;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ltmftzI0RWYy-bsM0idQ-13" target="mkaJklExWA9CGuxn5Ltt-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1160" y="400" as="sourcePoint" />
+            <mxPoint x="1210" y="350" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1320" y="273" />
-              <mxPoint x="1320" y="364" />
+              <mxPoint x="1190" y="396" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mkaJklExWA9CGuxn5Ltt-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="ltmftzI0RWYy-bsM0idQ-13" target="mkaJklExWA9CGuxn5Ltt-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1072" y="455" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>

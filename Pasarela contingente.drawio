@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T23:05:50.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="2uw251QYMZ7oxi3CJheB" version="23.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-21T23:09:39.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="jda117T57YHCXg1OtsAO" version="23.1.1" type="github" pages="3">
   <diagram name="Tienda" id="mddC_wURRDu6EgvgWiNg">
     <mxGraphModel dx="2422" dy="1982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,7 +48,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ltmftzI0RWYy-bsM0idQ-33" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Arquitectura Pasarela Contingente Ecommerce - TC - TD&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="40" y="-60" width="764" height="30" as="geometry" />
+          <mxGeometry x="50" y="-30" width="764" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0w5hh4LTds88jaBQkFEh-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.dynamo_db;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="308" y="285" width="32" height="40" as="geometry" />

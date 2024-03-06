@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T16:29:21.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="RgDWWLCgvKUaauHI2rUh" version="24.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-06T16:33:35.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="0dl0CJL4RzJqEeOAXTlM" version="24.0.1" type="github" pages="2">
   <diagram name="AS-IS" id="UuhC_c7OqcpIg9iLUWy8">
     <mxGraphModel dx="2741" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -146,7 +146,7 @@
         <mxCell id="NUtxbOa8r3Das-lV6Bm--12" value="&lt;b&gt;Financiero&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=center;horizontal=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="250" y="540" width="190" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NUtxbOa8r3Das-lV6Bm--13" value="&lt;b&gt;Convenios&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=center;horizontal=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="NUtxbOa8r3Das-lV6Bm--13" value="&lt;b&gt;Convenios y Alianzas*&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=center;horizontal=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="50" y="600" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="QWbEbcTO2cf_7ncECevP-5" value="&lt;b&gt;Servicios Juridicos&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=center;horizontal=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">

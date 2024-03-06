@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T20:21:37.554Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9xA-_FuNBGqSY9L3DrWA" version="24.0.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-06T22:11:36.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9CYt0LbERJXxutfAk4Lr" version="24.0.1" type="github" pages="3">
   <diagram name="Tienda" id="mddC_wURRDu6EgvgWiNg">
-    <mxGraphModel dx="2741" dy="2145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1941" dy="1729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -203,7 +203,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7j4OMyj7wpYwMFgOggtT-1" value="Health Check" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ltmftzI0RWYy-bsM0idQ-30">
+        <mxCell id="7j4OMyj7wpYwMFgOggtT-1" value="Health Check" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ltmftzI0RWYy-bsM0idQ-30" vertex="1" connectable="0">
           <mxGeometry x="0.2091" y="3" relative="1" as="geometry">
             <mxPoint x="42" y="2" as="offset" />
           </mxGeometry>
@@ -219,7 +219,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7j4OMyj7wpYwMFgOggtT-2" value="Health check" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ltmftzI0RWYy-bsM0idQ-29">
+        <mxCell id="7j4OMyj7wpYwMFgOggtT-2" value="Health check" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ltmftzI0RWYy-bsM0idQ-29" vertex="1" connectable="0">
           <mxGeometry x="0.2671" y="1" relative="1" as="geometry">
             <mxPoint x="35" y="-3" as="offset" />
           </mxGeometry>

@@ -1,14 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T14:13:27.376Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="GBRKZXv-92mzkDy3dUUh" version="24.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-06T14:27:35.729Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="kn996RQdni7RkUABdI1T" version="24.0.1" type="github" pages="2">
   <diagram name="AS-IS" id="UuhC_c7OqcpIg9iLUWy8">
     <mxGraphModel dx="2741" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YZVapWO6mahxntXNnKu_-1" value="Compensar" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="190" y="110" width="390" height="350" as="geometry" />
+          <mxGeometry x="24" y="30" width="1356" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="YZVapWO6mahxntXNnKu_-47" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="510" y="90" width="850" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="YZVapWO6mahxntXNnKu_-43" value="&lt;b&gt;Negociaciones y Compras&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=center;horizontal=1;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="YZVapWO6mahxntXNnKu_-47" vertex="1">
+          <mxGeometry width="850.0000000000001" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="YZVapWO6mahxntXNnKu_-27" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.file" parent="YZVapWO6mahxntXNnKu_-47" vertex="1">
+          <mxGeometry x="140" y="250" width="37.6" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YZVapWO6mahxntXNnKu_-4" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="290" y="170" width="190" height="90" as="geometry" />
+          <mxGeometry x="124" y="160" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YZVapWO6mahxntXNnKu_-2" value="&lt;b&gt;Flujo Servicios Juridicos&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=center;horizontal=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="YZVapWO6mahxntXNnKu_-4" vertex="1">
           <mxGeometry width="190" height="90" as="geometry" />
@@ -20,29 +29,29 @@
           <mxGeometry x="90" y="30" width="31" height="42" as="geometry" />
         </mxCell>
         <mxCell id="YZVapWO6mahxntXNnKu_-14" value="&lt;b&gt;Comforce&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=center;horizontal=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="140" width="170" height="150" as="geometry" />
+          <mxGeometry x="-176" y="130" width="170" height="150" as="geometry" />
         </mxCell>
         <mxCell id="YZVapWO6mahxntXNnKu_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YZVapWO6mahxntXNnKu_-17" target="YZVapWO6mahxntXNnKu_-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="180" y="190" />
-              <mxPoint x="180" y="215" />
+              <mxPoint x="14" y="180" />
+              <mxPoint x="14" y="205" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YZVapWO6mahxntXNnKu_-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="50" y="170" width="40" height="40" as="geometry" />
+          <mxGeometry x="-116" y="160" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YZVapWO6mahxntXNnKu_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YZVapWO6mahxntXNnKu_-18" target="YZVapWO6mahxntXNnKu_-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="180" y="250" />
-              <mxPoint x="180" y="215" />
+              <mxPoint x="14" y="240" />
+              <mxPoint x="14" y="205" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YZVapWO6mahxntXNnKu_-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="50" y="230" width="40" height="40" as="geometry" />
+          <mxGeometry x="-116" y="220" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YZVapWO6mahxntXNnKu_-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YZVapWO6mahxntXNnKu_-22" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -52,44 +61,16 @@
         <mxCell id="YZVapWO6mahxntXNnKu_-22" value="Consolidado datos&amp;nbsp;&lt;div&gt;juridicos del contrato.xlsx&lt;/div&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.file" parent="1" vertex="1">
           <mxGeometry x="650" y="190.64" width="37" height="39.36" as="geometry" />
         </mxCell>
-        <mxCell id="YZVapWO6mahxntXNnKu_-23" value="" style="group;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="300" y="320" width="190" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="YZVapWO6mahxntXNnKu_-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YZVapWO6mahxntXNnKu_-28" target="YZVapWO6mahxntXNnKu_-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YZVapWO6mahxntXNnKu_-28" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.email;" parent="1" vertex="1">
-          <mxGeometry x="52" y="348.19" width="38" height="33.62" as="geometry" />
-        </mxCell>
-        <mxCell id="YZVapWO6mahxntXNnKu_-24" value="&lt;b&gt;Compras y Abastecimiento&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=center;horizontal=1;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="300" y="320" width="190" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="QWbEbcTO2cf_7ncECevP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YZVapWO6mahxntXNnKu_-27" target="YZVapWO6mahxntXNnKu_-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YZVapWO6mahxntXNnKu_-27" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.file" parent="1" vertex="1">
-          <mxGeometry x="370" y="360" width="27" height="28.72" as="geometry" />
+        <mxCell id="QWbEbcTO2cf_7ncECevP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YZVapWO6mahxntXNnKu_-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="YZVapWO6mahxntXNnKu_-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.628;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="YZVapWO6mahxntXNnKu_-2" target="YZVapWO6mahxntXNnKu_-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YZVapWO6mahxntXNnKu_-38" value="Se pasa a plantilla" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="734" y="185.82" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="YZVapWO6mahxntXNnKu_-47" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="860" y="620" width="240" height="141.81" as="geometry" />
-        </mxCell>
-        <mxCell id="YZVapWO6mahxntXNnKu_-43" value="&lt;b&gt;Negociaciones y Compras&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=center;horizontal=1;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="YZVapWO6mahxntXNnKu_-47" vertex="1">
-          <mxGeometry width="240" height="141.81" as="geometry" />
-        </mxCell>
-        <mxCell id="YZVapWO6mahxntXNnKu_-46" value="" style="group" parent="YZVapWO6mahxntXNnKu_-47" vertex="1" connectable="0">
-          <mxGeometry x="41.5" y="56.23000000000002" width="134.89999999999998" height="28.720000000000027" as="geometry" />
-        </mxCell>
-        <mxCell id="YZVapWO6mahxntXNnKu_-44" value="Consolidado datos&amp;nbsp;&lt;div&gt;juridicos del contrato&lt;/div&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.file" parent="YZVapWO6mahxntXNnKu_-46" vertex="1">
-          <mxGeometry x="108.5" y="0.6399999999999864" width="26.4" height="28.08" as="geometry" />
-        </mxCell>
-        <mxCell id="YZVapWO6mahxntXNnKu_-45" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.file" parent="YZVapWO6mahxntXNnKu_-46" vertex="1">
-          <mxGeometry width="27" height="28.72" as="geometry" />
         </mxCell>
         <mxCell id="YZVapWO6mahxntXNnKu_-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YZVapWO6mahxntXNnKu_-48" target="YZVapWO6mahxntXNnKu_-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -100,30 +81,53 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YZVapWO6mahxntXNnKu_-48" value="&lt;b&gt;Equipo de Datos&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=center;horizontal=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="870" y="800" width="240" height="141.81" as="geometry" />
+          <mxGeometry x="1090" y="130" width="240" height="231.81" as="geometry" />
         </mxCell>
         <mxCell id="YZVapWO6mahxntXNnKu_-49" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.video_form;" parent="1" vertex="1">
-          <mxGeometry x="1290" y="790" width="58" height="49" as="geometry" />
+          <mxGeometry x="1510" y="136.82" width="58" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xZtJYLT5vGzKNLacPbjZ-1" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.video_form;" parent="1" vertex="1">
-          <mxGeometry x="1290" y="892.81" width="58" height="49" as="geometry" />
+          <mxGeometry x="1510" y="312.80999999999995" width="58" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xZtJYLT5vGzKNLacPbjZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.052;entryY=0.555;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="YZVapWO6mahxntXNnKu_-48" target="xZtJYLT5vGzKNLacPbjZ-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xZtJYLT5vGzKNLacPbjZ-10" value="Informe&amp;nbsp;&lt;br&gt;Contraloría" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.file" parent="1" vertex="1">
-          <mxGeometry x="910" y="850" width="27" height="28.72" as="geometry" />
+          <mxGeometry x="1196.5" y="191.28" width="27" height="28.72" as="geometry" />
         </mxCell>
         <mxCell id="xZtJYLT5vGzKNLacPbjZ-11" value="Informe&lt;br&gt;SuperSubsidio" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.file" parent="1" vertex="1">
-          <mxGeometry x="1024.5" y="850" width="27" height="28.72" as="geometry" />
+          <mxGeometry x="1196.5" y="276.14" width="27" height="28.72" as="geometry" />
         </mxCell>
         <mxCell id="xZtJYLT5vGzKNLacPbjZ-12" value="Accede a portal&amp;nbsp;&lt;br&gt;Subsidio" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1226.9166666666665" y="822.5" as="geometry">
+          <mxGeometry x="1446.9166666666665" y="242.5" as="geometry">
             <mxPoint x="2" y="109" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QWbEbcTO2cf_7ncECevP-1" value="&lt;div&gt;Plantilla.xlsx&lt;/div&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.file" vertex="1" parent="1">
+        <mxCell id="QWbEbcTO2cf_7ncECevP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QWbEbcTO2cf_7ncECevP-1" target="xZtJYLT5vGzKNLacPbjZ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QWbEbcTO2cf_7ncECevP-1" value="&lt;div&gt;Plantilla Contraloía.xlsx&lt;/div&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.file" vertex="1" parent="1">
           <mxGeometry x="910" y="185.82" width="37" height="39.36" as="geometry" />
+        </mxCell>
+        <mxCell id="QWbEbcTO2cf_7ncECevP-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="330" width="184" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="QWbEbcTO2cf_7ncECevP-5" value="&lt;b&gt;Servicios Juridicos&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=center;horizontal=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="QWbEbcTO2cf_7ncECevP-6">
+          <mxGeometry x="14" y="-10" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="YZVapWO6mahxntXNnKu_-28" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.email;" parent="QWbEbcTO2cf_7ncECevP-6" vertex="1">
+          <mxGeometry x="80" y="58.72000000000003" width="38" height="33.62" as="geometry" />
+        </mxCell>
+        <mxCell id="YZVapWO6mahxntXNnKu_-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="YZVapWO6mahxntXNnKu_-28" target="YZVapWO6mahxntXNnKu_-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="544" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QWbEbcTO2cf_7ncECevP-7" value="&lt;div&gt;Plantilla SuperSubsidio.xlsx&lt;/div&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.file" vertex="1" parent="1">
+          <mxGeometry x="899" y="270.82" width="37" height="39.36" as="geometry" />
+        </mxCell>
+        <mxCell id="QWbEbcTO2cf_7ncECevP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QWbEbcTO2cf_7ncECevP-7" target="xZtJYLT5vGzKNLacPbjZ-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

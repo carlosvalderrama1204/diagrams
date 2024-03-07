@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T22:11:36.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9CYt0LbERJXxutfAk4Lr" version="24.0.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-07T13:51:46.112Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="m1Blzv3UoQ2SXHl4n3cS" version="24.0.1" type="github" pages="3">
   <diagram name="Tienda" id="mddC_wURRDu6EgvgWiNg">
-    <mxGraphModel dx="1941" dy="1729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2741" dy="2179" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,7 +154,7 @@
         <mxCell id="ltmftzI0RWYy-bsM0idQ-12" value="Ecollect" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fillStyle=auto;strokeColor=#0e8088;fontSize=16;fillColor=#b0e3e6;opacity=80;verticalAlign=top;align=center;dashed=1;arcSize=2;fontStyle=1;shadow=1;" parent="USBShxVxYH5u65u08NJn-3" vertex="1">
           <mxGeometry width="100" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="ltmftzI0RWYy-bsM0idQ-34" value="Health Check" style="rounded=1;whiteSpace=wrap;html=1;" parent="USBShxVxYH5u65u08NJn-3" vertex="1">
+        <mxCell id="ltmftzI0RWYy-bsM0idQ-34" value="&lt;span style=&quot;font-size:11.0pt;font-family:&lt;br/&gt;&amp;quot;Aptos&amp;quot;,sans-serif;mso-fareast-font-family:Aptos;mso-fareast-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:Aptos;mso-ansi-language:ES-MX;mso-fareast-language:EN-US;&lt;br/&gt;mso-bidi-language:AR-SA&quot; lang=&quot;ES-MX&quot;&gt;GetSessionToken&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="USBShxVxYH5u65u08NJn-3" vertex="1">
           <mxGeometry x="10" y="40" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rx5bVg-xOdoHbaD6HX3f-14" value="Payment API" style="rounded=1;whiteSpace=wrap;html=1;" parent="USBShxVxYH5u65u08NJn-3" vertex="1">

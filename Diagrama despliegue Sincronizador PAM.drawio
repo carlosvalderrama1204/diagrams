@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-08T04:06:38.657Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="2hSKlwJz3U6FBkbtHF15" version="24.0.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-08T04:13:46.868Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="VB95NLjW9QK3NiDDmo2l" version="24.0.1" type="github" pages="3">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
     <mxGraphModel dx="1114" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
       <root>
@@ -416,6 +416,15 @@
         </mxCell>
         <mxCell id="SliKgruhRy5jez4xbi1P-109" value="10.89.4.14" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="wVpr-9VvbVRUstRmstYV-13">
           <mxGeometry x="1133.03" y="125" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SliKgruhRy5jez4xbi1P-114" value="" style="group" vertex="1" connectable="0" parent="wVpr-9VvbVRUstRmstYV-13">
+          <mxGeometry x="89.996227017119" y="464.99923076923073" width="323.73" height="161.12" as="geometry" />
+        </mxCell>
+        <mxCell id="SliKgruhRy5jez4xbi1P-111" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Storage Account" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=13;align=left;" vertex="1" parent="SliKgruhRy5jez4xbi1P-114">
+          <mxGeometry width="323.73" height="161.12" as="geometry" />
+        </mxCell>
+        <mxCell id="SliKgruhRy5jez4xbi1P-112" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts_Classic.svg;" vertex="1" parent="SliKgruhRy5jez4xbi1P-114">
+          <mxGeometry x="8" y="9" width="27.65" height="22.12" as="geometry" />
         </mxCell>
         <mxCell id="wVpr-9VvbVRUstRmstYV-22" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Key.svg;" vertex="1" parent="wVpr-9VvbVRUstRmstYV-12">
           <mxGeometry x="13.140495867768596" y="-8.179503586075572e-15" width="24.174418604651162" height="38.98988372093023" as="geometry" />

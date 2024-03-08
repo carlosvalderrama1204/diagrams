@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-08T04:40:00.348Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="a2EvSbRdlTD2U-10x9cA" version="24.0.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-08T04:42:05.496Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="bxjGXp5k_HDBMGpw1vWk" version="24.0.1" type="github" pages="3">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
     <mxGraphModel dx="1114" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
       <root>
@@ -297,7 +297,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cvehKg6R0PCHSddbzMmA" name="Page-2">
-    <mxGraphModel dx="4307" dy="1775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3220" dy="1220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -338,7 +338,7 @@
           <mxGeometry x="85.72622701711897" y="100.11923076923077" width="1200.0975000000003" height="656.8107692307694" as="geometry" />
         </mxCell>
         <mxCell id="wVpr-9VvbVRUstRmstYV-10" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;b&gt;Virtual Network -&amp;nbsp;vnet-netwrk-centrl-main-tst-i/snet-asp-syncro-stream-transc-tst-i&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;align=center;verticalAlign=top;" vertex="1" parent="wVpr-9VvbVRUstRmstYV-15">
-          <mxGeometry width="500" height="300" as="geometry" />
+          <mxGeometry width="400" height="300" as="geometry" />
         </mxCell>
         <mxCell id="wVpr-9VvbVRUstRmstYV-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_network;pointerEvents=1;" vertex="1" parent="wVpr-9VvbVRUstRmstYV-15">
           <mxGeometry x="15.777741292114825" y="8.01354323076923" width="48.847496260417415" height="28.02937984615384" as="geometry" />
@@ -394,7 +394,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SliKgruhRy5jez4xbi1P-114" value="" style="group" vertex="1" connectable="0" parent="wVpr-9VvbVRUstRmstYV-13">
-          <mxGeometry x="150" y="465" width="240" height="145" as="geometry" />
+          <mxGeometry x="148" y="465" width="240" height="145" as="geometry" />
         </mxCell>
         <mxCell id="SliKgruhRy5jez4xbi1P-111" value="StorageAccount -stsyncrostreamtranscdvli" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=13;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="SliKgruhRy5jez4xbi1P-114">
           <mxGeometry width="240.00000000000003" height="145" as="geometry" />

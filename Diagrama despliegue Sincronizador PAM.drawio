@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T20:18:44.394Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="urN0LPmqNU0CmhbjCQdV" version="24.0.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-11T20:20:50.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Ye2xyR6x164nhFpb7-MG" version="24.0.2" type="github" pages="3">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
     <mxGraphModel dx="1114" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
       <root>
@@ -337,7 +337,7 @@
         <mxCell id="wVpr-9VvbVRUstRmstYV-15" value="" style="group" parent="wVpr-9VvbVRUstRmstYV-13" vertex="1" connectable="0">
           <mxGeometry x="85.72622701711897" y="100.11923076923077" width="1200.0975000000003" height="656.8107692307694" as="geometry" />
         </mxCell>
-        <mxCell id="wVpr-9VvbVRUstRmstYV-10" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;b&gt;Virtual Network -&amp;nbsp;vnet-netwrk-centrl-main-tst-i/snet-asp-syncro-stream-transc-tst-i&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;align=center;verticalAlign=top;" parent="wVpr-9VvbVRUstRmstYV-15" vertex="1">
+        <mxCell id="wVpr-9VvbVRUstRmstYV-10" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;b&gt;Virtual Network -&amp;nbsp;vnet-netwrk-centrl-main-[env]-i/snet-asp-syncro-stream-transc-[env]-i&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;align=center;verticalAlign=top;" parent="wVpr-9VvbVRUstRmstYV-15" vertex="1">
           <mxGeometry width="400" height="300" as="geometry" />
         </mxCell>
         <mxCell id="wVpr-9VvbVRUstRmstYV-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_network;pointerEvents=1;" parent="wVpr-9VvbVRUstRmstYV-15" vertex="1">

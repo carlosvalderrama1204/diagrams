@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T20:05:04.901Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="UC2hyN-HTc8XY7mHBh4-" version="24.0.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-11T20:13:01.277Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="xb58RXLGM2SD7HV4I8P9" version="24.0.2" type="github" pages="3">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
     <mxGraphModel dx="1114" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
       <root>
@@ -402,8 +402,8 @@
         <mxCell id="SliKgruhRy5jez4xbi1P-112" value="Container -&amp;nbsp;&lt;br&gt;Scriban templates" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts_Classic.svg;" parent="SliKgruhRy5jez4xbi1P-114" vertex="1">
           <mxGeometry x="51.99687434460492" y="54.997765640516384" width="16.505900561206083" height="13.204720448964867" as="geometry" />
         </mxCell>
-        <mxCell id="ICB-w93kOwRz04Pf4iep-3" value="queue" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts_Classic.svg;" vertex="1" parent="SliKgruhRy5jez4xbi1P-114">
-          <mxGeometry x="151.99687434460492" y="54.99776564051638" width="16.505900561206083" height="13.204720448964867" as="geometry" />
+        <mxCell id="ICB-w93kOwRz04Pf4iep-6" value="queue" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Storage_Queue.svg;" vertex="1" parent="SliKgruhRy5jez4xbi1P-114">
+          <mxGeometry x="162" y="51.95" width="20" height="16.25" as="geometry" />
         </mxCell>
         <mxCell id="SliKgruhRy5jez4xbi1P-87" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;East US 2&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="wVpr-9VvbVRUstRmstYV-13" vertex="1">
           <mxGeometry x="839.9999999999999" y="-30" width="170" height="60" as="geometry" />

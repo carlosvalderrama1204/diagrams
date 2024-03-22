@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T20:22:49.326Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="pWdKjZD3-ArfWnttyoE9" version="24.0.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-03-22T20:22:57.574Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Vi3R73OLv52pHgfMVxZi" version="24.0.6" type="github" pages="5">
   <diagram name="Transar-ActualizaDatosClientes" id="fHDikTJIRvrwIRyV6OEy">
     <mxGraphModel dx="1914" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -1304,9 +1304,6 @@
         </mxCell>
         <mxCell id="KxMdTEGkrdDQJKt2p3Rs-7" value="Proceso DIP" style="outlineConnect=0;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;html=1;shape=mxgraph.aws3.maintenance_window;fillColor=#bac8d3;strokeColor=#23445d;labelPosition=center;" parent="Ab_uVIfK-hD8FIecfPin-1" vertex="1">
           <mxGeometry x="1755" y="954.5" width="40" height="43.37" as="geometry" />
-        </mxCell>
-        <mxCell id="ikPg7eijcmUoi8my0gfj-0" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ab_uVIfK-hD8FIecfPin-1">
-          <mxGeometry x="85" y="108" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

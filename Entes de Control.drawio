@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T20:01:59.989Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="FyHgN7P8qFtO2a1AxtCQ" version="24.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-15T20:02:55.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="zdfRs8pjlLbeWGyd0Zgu" version="24.4.0" type="github" pages="3">
   <diagram name="AS-IS" id="UuhC_c7OqcpIg9iLUWy8">
     <mxGraphModel dx="2261" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -943,6 +943,12 @@
         </mxCell>
         <mxCell id="jchtVFrL5hbBSeBM4m4E-26" value="Tabla Homologacion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-380" y="425.23" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jchtVFrL5hbBSeBM4m4E-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jchtVFrL5hbBSeBM4m4E-27" target="MQ6ydt4OxXAf5EQdnkLw-305">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jchtVFrL5hbBSeBM4m4E-27" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="2330" y="359" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

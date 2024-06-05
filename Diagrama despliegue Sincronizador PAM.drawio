@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T15:57:42.880Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="BTKMTq__MMzhDLfjNuOI" version="24.4.13" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-05T01:40:29.456Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ikZC2DqZha6o1EcWbjqC" version="24.4.13" type="github" pages="3">
   <diagram id="cvehKg6R0PCHSddbzMmA" name="Architect">
-    <mxGraphModel dx="2261" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3046" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -183,10 +183,10 @@
         <mxCell id="TV0X99_XXhs1JwygrjGh-5" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Event_Hubs.svg;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="wVpr-9VvbVRUstRmstYV-12" vertex="1">
           <mxGeometry x="1402.6" y="470" width="36.83" height="38.36" as="geometry" />
         </mxCell>
-        <mxCell id="caNe5jmABopMn6bDhTTT-1" value="Redis" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="wVpr-9VvbVRUstRmstYV-12">
+        <mxCell id="caNe5jmABopMn6bDhTTT-1" value="Redis" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" parent="wVpr-9VvbVRUstRmstYV-12" vertex="1">
           <mxGeometry x="1402.6" y="606" width="50" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="caNe5jmABopMn6bDhTTT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="wVpr-9VvbVRUstRmstYV-12" source="wVpr-9VvbVRUstRmstYV-31" target="caNe5jmABopMn6bDhTTT-1">
+        <mxCell id="caNe5jmABopMn6bDhTTT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" parent="wVpr-9VvbVRUstRmstYV-12" source="wVpr-9VvbVRUstRmstYV-31" target="caNe5jmABopMn6bDhTTT-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="973" y="350" />
@@ -210,7 +210,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="S_TxbR_denedu5hP533k" name="Functions">
-    <mxGraphModel dx="2875" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3873" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -316,6 +316,9 @@
         <mxCell id="A_9nzP41L54CoQiDugyG-29" value="50 Lists" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-23.339999999999975" y="1470" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1Cb1rPqKswtO9hjNAlu7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A_9nzP41L54CoQiDugyG-30" target="1Cb1rPqKswtO9hjNAlu7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A_9nzP41L54CoQiDugyG-30" value="Consolidador" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" parent="1" vertex="1">
           <mxGeometry x="410" y="1250" width="56.66" height="50" as="geometry" />
         </mxCell>
@@ -390,6 +393,9 @@
         </mxCell>
         <mxCell id="Hv0kGlTD2cDz5L9goS_s-22" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="60" y="1540" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1Cb1rPqKswtO9hjNAlu7-1" value="Entrega" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1250" width="56.66" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

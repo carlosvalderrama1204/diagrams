@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T14:34:07.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="oGps4lYz0jyrGuwAwT_K" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-20T14:35:32.246Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="-Qh1sgFkuCgoVwlU3-Sd" version="24.5.4" type="github">
   <diagram name="Page-1" id="stgzFN4wYGvFmKcEGMf-">
     <mxGraphModel dx="2537" dy="1978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -18,7 +18,7 @@
         <mxCell id="SBrDxnc8rNuMI0Z8W_tl-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SBrDxnc8rNuMI0Z8W_tl-10" target="SBrDxnc8rNuMI0Z8W_tl-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SBrDxnc8rNuMI0Z8W_tl-10" value="Independiente&lt;br&gt;Pensionado&lt;div&gt;Domestico&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" parent="1" vertex="1">
+        <mxCell id="SBrDxnc8rNuMI0Z8W_tl-10" value="-Independiente&lt;br&gt;-Pensionado&lt;div&gt;-Domestico&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" parent="1" vertex="1">
           <mxGeometry x="-70" y="201" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SBrDxnc8rNuMI0Z8W_tl-12" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -34,7 +34,7 @@
           <mxGeometry x="35" y="50" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y53e9fs7J-4axapIfYaa-47" value="&lt;b&gt;Procesar Documento&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="SBrDxnc8rNuMI0Z8W_tl-12">
-          <mxGeometry x="30" y="130" width="130" height="40" as="geometry" />
+          <mxGeometry x="35" y="110" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SBrDxnc8rNuMI0Z8W_tl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SBrDxnc8rNuMI0Z8W_tl-1" target="SBrDxnc8rNuMI0Z8W_tl-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -103,6 +103,9 @@
           <mxGeometry x="990" y="10" width="77" height="53.97" as="geometry" />
         </mxCell>
         <mxCell id="y53e9fs7J-4axapIfYaa-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y53e9fs7J-4axapIfYaa-13" target="y53e9fs7J-4axapIfYaa-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y53e9fs7J-4axapIfYaa-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.009;entryY=0.458;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SBrDxnc8rNuMI0Z8W_tl-2" target="y53e9fs7J-4axapIfYaa-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>

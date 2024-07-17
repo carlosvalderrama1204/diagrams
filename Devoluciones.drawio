@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T17:06:55.751Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="JNitCTyNKzgiu8sDfNNG" version="24.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-07-17T21:02:00.534Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="WLolwzOuyACo0Izc6bvc" version="24.6.4" type="github" pages="4">
   <diagram name="Context" id="GarfGactDtrMJLCttcpA">
     <mxGraphModel dx="2736" dy="1880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -144,7 +144,12 @@
           <mxGeometry x="765" y="180" width="250" height="34" as="geometry" />
         </mxCell>
         <mxCell id="fOmNgU-9z8ZZDQzBenX--302" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.094;entryDx=0;entryDy=0;dashed=1;entryPerimeter=0;" edge="1" parent="1" source="fOmNgU-9z8ZZDQzBenX--303" target="fOmNgU-9z8ZZDQzBenX--305">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="243" />
+              <mxPoint x="650" y="417" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="fOmNgU-9z8ZZDQzBenX--303" value="SSO" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#eeeeee;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="765" y="226" width="250" height="34" as="geometry" />

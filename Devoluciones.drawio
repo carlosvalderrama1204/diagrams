@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T04:58:16.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="m5DFOmZs-h0slvWUf5tn" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-17T13:07:42.287Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Es0x0LaFGoKaLgL9i6_f" version="24.6.4" type="github" pages="3">
   <diagram name="Context" id="GarfGactDtrMJLCttcpA">
     <mxGraphModel dx="2524" dy="1846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -294,7 +294,7 @@
         <mxCell id="1BCQ7fBPx4ggTME60zux-46" value="Envío email&lt;br&gt;notificación&amp;nbsp;&lt;br&gt;estado del caso" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.email;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1775" y="1110" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DXIajpOcsOgP7K44Jt2t-1" value="Cuetna x Pagar" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#eeeeee;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="DXIajpOcsOgP7K44Jt2t-1" value="Cuenta x Pagar" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#eeeeee;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2010" y="292.5" width="140" height="34" as="geometry" />
         </mxCell>
       </root>

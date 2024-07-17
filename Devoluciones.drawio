@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T04:58:05.900Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="QjOH_DnGe5VKTW1fe1TD" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-17T04:58:16.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="m5DFOmZs-h0slvWUf5tn" version="24.6.4" type="github" pages="3">
   <diagram name="Context" id="GarfGactDtrMJLCttcpA">
     <mxGraphModel dx="2524" dy="1846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -258,7 +258,7 @@
         </mxCell>
         <mxCell id="1BCQ7fBPx4ggTME60zux-32" value="Consulta Soportes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1BCQ7fBPx4ggTME60zux-27">
           <mxGeometry x="0.2769" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-100" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1BCQ7fBPx4ggTME60zux-23" value="Cola de Solicitudes" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#eeeeee;fontSize=14;" vertex="1" parent="1">

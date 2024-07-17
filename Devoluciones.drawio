@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T16:02:53.943Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="QBVWRfnxIwAF7P9fOUTL" version="24.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-07-17T16:03:54.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="1pyRPSsjZLPgPSV4JzcY" version="24.6.4" type="github" pages="4">
   <diagram name="Context" id="GarfGactDtrMJLCttcpA">
     <mxGraphModel dx="2284" dy="1846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -285,6 +285,14 @@
         <mxCell id="1BCQ7fBPx4ggTME60zux-28" value="Go AnyWhere" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="833.5" y="760" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0Kh6DYek5eypE7S8cEbl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1BCQ7fBPx4ggTME60zux-33" target="0Kh6DYek5eypE7S8cEbl-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2270" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0Kh6DYek5eypE7S8cEbl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1BCQ7fBPx4ggTME60zux-33" target="0Kh6DYek5eypE7S8cEbl-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1BCQ7fBPx4ggTME60zux-33" value="Reembolso" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#eeeeee;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2010" y="361" width="140" height="34" as="geometry" />
         </mxCell>
@@ -315,8 +323,8 @@
         <mxCell id="0Kh6DYek5eypE7S8cEbl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="45b8hEijeU42IVytJgeN-1" target="1BCQ7fBPx4ggTME60zux-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2440" y="15" />
-              <mxPoint x="2440" y="900" />
+              <mxPoint x="2500" y="15" />
+              <mxPoint x="2500" y="900" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -359,6 +367,12 @@
               <mxPoint x="714" y="805" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0Kh6DYek5eypE7S8cEbl-10" value="Transferencia Bancaria" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#eeeeee;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2300" y="214" width="140" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="0Kh6DYek5eypE7S8cEbl-11" value="Ventanilla" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#eeeeee;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="449" width="140" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

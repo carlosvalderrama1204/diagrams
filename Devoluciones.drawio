@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T15:25:27.959Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="2Tv5EPQNiWDvbN70oJpe" version="24.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-07-17T15:26:55.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ntirzkK8nInHtCZLp5z7" version="24.6.4" type="github" pages="4">
   <diagram name="Context" id="GarfGactDtrMJLCttcpA">
     <mxGraphModel dx="2284" dy="1846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -282,7 +282,7 @@
         <mxCell id="1BCQ7fBPx4ggTME60zux-23" value="Cola de Solicitudes" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#eeeeee;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1380" y="483" width="140" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="1BCQ7fBPx4ggTME60zux-28" value="GO AnyWhere" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1BCQ7fBPx4ggTME60zux-28" value="Go AnyWhere" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="833.5" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1BCQ7fBPx4ggTME60zux-33" value="Reembolso" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#eeeeee;fontSize=14;" vertex="1" parent="1">

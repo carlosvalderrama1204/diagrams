@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T14:15:36.489Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="qfB6kAjxYRnGTzsWrOb6" version="24.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-07-17T15:24:43.839Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="m0E6hGMks8FSzby7ht9W" version="24.6.4" type="github" pages="4">
   <diagram name="Context" id="GarfGactDtrMJLCttcpA">
     <mxGraphModel dx="2284" dy="1846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -108,7 +108,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="x529YvzytXji6PWa-FYA" name="Page-2">
-    <mxGraphModel dx="2206" dy="2248" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2902" dy="2300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -312,11 +312,11 @@
         <mxCell id="DXIajpOcsOgP7K44Jt2t-1" value="Cuenta x Pagar" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#eeeeee;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2010" y="292.5" width="140" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="45b8hEijeU42IVytJgeN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="45b8hEijeU42IVytJgeN-1" target="1BCQ7fBPx4ggTME60zux-44">
+        <mxCell id="0Kh6DYek5eypE7S8cEbl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="45b8hEijeU42IVytJgeN-1" target="1BCQ7fBPx4ggTME60zux-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2430" y="15" />
-              <mxPoint x="2430" y="920" />
+              <mxPoint x="2440" y="15" />
+              <mxPoint x="2440" y="900" />
             </Array>
           </mxGeometry>
         </mxCell>

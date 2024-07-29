@@ -51,7 +51,7 @@
         <mxCell id="KrNaTgFMVi8emQTwP3fj-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtwLpvwIfNRgIzX5H4ix-1" target="LtwLpvwIfNRgIzX5H4ix-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LtwLpvwIfNRgIzX5H4ix-1" value="dato no encontrado" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LtwLpvwIfNRgIzX5H4ix-1" value="RNEC=&lt;div&gt;dato no encontrado&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="730" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LtwLpvwIfNRgIzX5H4ix-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtwLpvwIfNRgIzX5H4ix-2" target="LtwLpvwIfNRgIzX5H4ix-11">
@@ -75,7 +75,13 @@
         <mxCell id="LtwLpvwIfNRgIzX5H4ix-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LtwLpvwIfNRgIzX5H4ix-5" target="LtwLpvwIfNRgIzX5H4ix-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LtwLpvwIfNRgIzX5H4ix-5" value="si respuesta cancelada" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K7J0wqWD7UIq2pCUGYVq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="LtwLpvwIfNRgIzX5H4ix-5" target="LtwLpvwIfNRgIzX5H4ix-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K7J0wqWD7UIq2pCUGYVq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LtwLpvwIfNRgIzX5H4ix-5" target="LtwLpvwIfNRgIzX5H4ix-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LtwLpvwIfNRgIzX5H4ix-5" value="RNEC=&lt;div&gt;cancelada&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LtwLpvwIfNRgIzX5H4ix-6" value="Crear Requisitos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -141,14 +147,14 @@
         <mxCell id="t23i-M6s3YgzJmgpdtEC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t23i-M6s3YgzJmgpdtEC-1" target="LtwLpvwIfNRgIzX5H4ix-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t23i-M6s3YgzJmgpdtEC-1" value="Vigente" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="t23i-M6s3YgzJmgpdtEC-1" value="RNEC=&lt;div&gt;Vigente&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="950" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="t23i-M6s3YgzJmgpdtEC-4" value="Si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="215" y="958" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t23i-M6s3YgzJmgpdtEC-6" value="Gestor Inconsistencias" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1150" width="120" height="60" as="geometry" />
+          <mxGeometry x="325" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xe5tBwXCrfxF1LeVXd0f-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xe5tBwXCrfxF1LeVXd0f-1" target="LtwLpvwIfNRgIzX5H4ix-6">
           <mxGeometry relative="1" as="geometry">

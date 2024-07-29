@@ -87,7 +87,22 @@
         <mxCell id="KrNaTgFMVi8emQTwP3fj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LtwLpvwIfNRgIzX5H4ix-8" target="LtwLpvwIfNRgIzX5H4ix-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LtwLpvwIfNRgIzX5H4ix-8" value="Vigente" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="J-B9Z-gkuo7tJZUIgXEq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LtwLpvwIfNRgIzX5H4ix-8" target="J-B9Z-gkuo7tJZUIgXEq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t23i-M6s3YgzJmgpdtEC-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LtwLpvwIfNRgIzX5H4ix-8" target="t23i-M6s3YgzJmgpdtEC-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="1180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t23i-M6s3YgzJmgpdtEC-8" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="t23i-M6s3YgzJmgpdtEC-7">
+          <mxGeometry x="0.3208" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LtwLpvwIfNRgIzX5H4ix-8" value="Creación OK" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="950" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LtwLpvwIfNRgIzX5H4ix-11" value="Notificación" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -116,6 +131,21 @@
         </mxCell>
         <mxCell id="J-B9Z-gkuo7tJZUIgXEq-3" value="Validar datos IA" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J-B9Z-gkuo7tJZUIgXEq-5" value="Crear Datos y Vinculación" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t23i-M6s3YgzJmgpdtEC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t23i-M6s3YgzJmgpdtEC-1" target="LtwLpvwIfNRgIzX5H4ix-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t23i-M6s3YgzJmgpdtEC-1" value="Vigente" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="950" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t23i-M6s3YgzJmgpdtEC-4" value="Si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="958" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t23i-M6s3YgzJmgpdtEC-6" value="Gestor Inconsistencias" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

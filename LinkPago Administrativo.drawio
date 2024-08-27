@@ -281,7 +281,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_FushYFBJQW5cKpZAa4i-13" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=14;dashPattern=8 8;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="_FushYFBJQW5cKpZAa4i-13" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=14;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1034" y="720" as="sourcePoint" />
             <mxPoint x="74.5" y="720" as="targetPoint" />
@@ -292,7 +292,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_FushYFBJQW5cKpZAa4i-15" value="Confirma notificación al bus" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=8 8;endArrow=block;fontSize=14;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="_FushYFBJQW5cKpZAa4i-15" value="Confirma notificación al bus" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;endArrow=block;fontSize=14;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry x="0.1614" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="280" y="900" />

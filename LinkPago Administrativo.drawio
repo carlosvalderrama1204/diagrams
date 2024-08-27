@@ -196,7 +196,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A4bjIZ5TJCifM-9AwGy3-11" value="Homologa datos y envía a Pasarela (HTTP Post)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="685" y="228" width="330" height="30" as="geometry" />
+          <mxGeometry x="700" y="228" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A4bjIZ5TJCifM-9AwGy3-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

@@ -1450,6 +1450,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="huZJwnv4xgB_R8jsP4eI-92" value="Afiliación" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="huZJwnv4xgB_R8jsP4eI-60">
+          <mxGeometry x="-0.3635" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="huZJwnv4xgB_R8jsP4eI-61" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-210" y="-41.15000000000001" width="30" height="60" as="geometry" />
         </mxCell>

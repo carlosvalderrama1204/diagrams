@@ -945,20 +945,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Mk49GCK9Qwhrx8EuVJIj-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 16px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 16px;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; Azure Suscription - Compensar_Corp_Azure_[Env]_I&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontStyle=1;strokeColor=#6c8ebf;fillColor=#dae8fc;container=0;glass=0;shadow=1;spacing=26;spacingTop=0;spacingLeft=-13;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="Mk49GCK9Qwhrx8EuVJIj-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 16px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 16px;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; Azure Suscription - Compensar&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontStyle=1;strokeColor=#6c8ebf;fillColor=#dae8fc;container=0;glass=0;shadow=1;spacing=26;spacingTop=0;spacingLeft=-13;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="551" y="-109.43" width="1266" height="999.43" as="geometry" />
         </mxCell>
         <mxCell id="Mk49GCK9Qwhrx8EuVJIj-11" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Key.svg;container=0;" parent="1" vertex="1">
           <mxGeometry x="599.9997862638928" y="-100" width="30.287489975942258" height="48.849394546912585" as="geometry" />
         </mxCell>
-        <mxCell id="ImlaDK5eVcmNC1BLvQKp-4" value="&lt;b&gt;Clientes&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;align=center;verticalAlign=top;container=0;" parent="1" vertex="1">
+        <mxCell id="ImlaDK5eVcmNC1BLvQKp-4" value="&lt;b&gt;Grupo de Recursos&amp;nbsp; - Clientes&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;align=center;verticalAlign=top;container=0;" parent="1" vertex="1">
           <mxGeometry x="1086" y="18.94" width="514" height="581.06" as="geometry" />
         </mxCell>
         <mxCell id="ImlaDK5eVcmNC1BLvQKp-5" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%26lt%3Bb%26gt%3BResource%20Group%20-%26amp%3Bnbsp%3Brg-gclint-syncro-stream-%5Benv%5D-i%26lt%3B%2Fb%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Bhorizontal%3D1%3Balign%3Dleft%3BverticalAlign%3Dtop%3Bcontainer%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2220.000000000000007%22%20y%3D%22120%22%20width%3D%221060%22%20height%3D%22680%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/ResourceGroup.svg;container=0;" parent="1" vertex="1">
           <mxGeometry x="1105.2408184343615" y="7.002174529411768" width="53.75708940495526" height="42.99793112232203" as="geometry" />
-        </mxCell>
-        <mxCell id="ImlaDK5eVcmNC1BLvQKp-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;East US 2&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;container=0;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="1474" y="-2.72" width="170" height="42.72" as="geometry" />
         </mxCell>
         <mxCell id="ImlaDK5eVcmNC1BLvQKp-8" value="Azure Blob Storeage" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;container=0;" parent="1" vertex="1">
           <mxGeometry x="1168" y="449.99999999999994" width="50" height="45" as="geometry" />
@@ -972,7 +969,7 @@
         <mxCell id="ImlaDK5eVcmNC1BLvQKp-13" value="&lt;div&gt;Form Recognizer API&lt;br&gt;&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Form_Recognizers.svg;container=0;" parent="1" vertex="1">
           <mxGeometry x="1161.4" y="71.8" width="63.2" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="Mk49GCK9Qwhrx8EuVJIj-74" value="&lt;b&gt;Interoperabilidad&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;align=center;verticalAlign=top;container=0;labelBorderColor=none;" parent="1" vertex="1">
+        <mxCell id="Mk49GCK9Qwhrx8EuVJIj-74" value="&lt;b&gt;Grupo de Recursos - Interoperabilidad&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;align=center;verticalAlign=top;container=0;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="620" y="18.94" width="350" height="561.06" as="geometry" />
         </mxCell>
         <mxCell id="Mk49GCK9Qwhrx8EuVJIj-75" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%26lt%3Bb%26gt%3BResource%20Group%20-%26amp%3Bnbsp%3Brg-gclint-syncro-stream-%5Benv%5D-i%26lt%3B%2Fb%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Bhorizontal%3D1%3Balign%3Dleft%3BverticalAlign%3Dtop%3Bcontainer%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2220.000000000000007%22%20y%3D%22120%22%20width%3D%221060%22%20height%3D%22680%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/ResourceGroup.svg;container=0;" parent="1" vertex="1">
@@ -1007,17 +1004,21 @@
         <mxCell id="ImlaDK5eVcmNC1BLvQKp-29" value="Validar Documento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ImlaDK5eVcmNC1BLvQKp-28" vertex="1">
           <mxGeometry x="60" y="160" width="120" height="41.25" as="geometry" />
         </mxCell>
-        <mxCell id="ImlaDK5eVcmNC1BLvQKp-32" value="Token" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ImlaDK5eVcmNC1BLvQKp-28" vertex="1">
-          <mxGeometry x="60" y="110" width="120" height="35" as="geometry" />
-        </mxCell>
         <mxCell id="ImlaDK5eVcmNC1BLvQKp-72" value="Carga Documentos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ImlaDK5eVcmNC1BLvQKp-28" vertex="1">
           <mxGeometry x="60" y="50" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="ImlaDK5eVcmNC1BLvQKp-31" value="Azure Active&lt;div&gt;Directory&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" parent="1" vertex="1">
           <mxGeometry x="773.85" y="80.80000000000001" width="70" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="ImlaDK5eVcmNC1BLvQKp-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.435;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ImlaDK5eVcmNC1BLvQKp-32" target="ImlaDK5eVcmNC1BLvQKp-31" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ImlaDK5eVcmNC1BLvQKp-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.435;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="ImlaDK5eVcmNC1BLvQKp-29" target="ImlaDK5eVcmNC1BLvQKp-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="177.52631578947376" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WOgl4XMOkranJlKREiLw-3" value="Genera Token&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="ImlaDK5eVcmNC1BLvQKp-33">
+          <mxGeometry x="-0.683" y="2" relative="1" as="geometry">
+            <mxPoint x="38" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ImlaDK5eVcmNC1BLvQKp-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.015;entryY=0.519;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ImlaDK5eVcmNC1BLvQKp-29" target="yLDslDyh66V9WZUiYVzm-6" edge="1">
           <mxGeometry relative="1" as="geometry" />

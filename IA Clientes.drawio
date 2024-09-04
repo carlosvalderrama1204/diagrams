@@ -1245,6 +1245,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="huZJwnv4xgB_R8jsP4eI-91" value="Compensar - CCF" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=center;fontStyle=1;container=0;glass=1;shadow=1;spacing=26;spacingTop=0;spacingLeft=-13;fontSize=16;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-128" y="-140" width="598" height="1469.43" as="geometry" />
+        </mxCell>
         <mxCell id="huZJwnv4xgB_R8jsP4eI-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre; font-size: 16px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 16px;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; Azure Suscription - Compensar&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontStyle=1;strokeColor=#6c8ebf;fillColor=#dae8fc;container=0;glass=0;shadow=1;spacing=26;spacingTop=0;spacingLeft=-13;fontSize=16;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="561" y="-99.43" width="1266" height="999.43" as="geometry" />
         </mxCell>
@@ -1448,7 +1451,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="huZJwnv4xgB_R8jsP4eI-61" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry y="-52.72000000000001" width="30" height="60" as="geometry" />
+          <mxGeometry x="-210" y="-41.15000000000001" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="huZJwnv4xgB_R8jsP4eI-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="huZJwnv4xgB_R8jsP4eI-21" target="huZJwnv4xgB_R8jsP4eI-28">
           <mxGeometry relative="1" as="geometry">

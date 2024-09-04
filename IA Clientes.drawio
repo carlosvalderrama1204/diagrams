@@ -1009,6 +1009,14 @@
         <mxCell id="ImlaDK5eVcmNC1BLvQKp-29" value="Validar Documento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ImlaDK5eVcmNC1BLvQKp-28" vertex="1">
           <mxGeometry x="60" y="160" width="120" height="41.25" as="geometry" />
         </mxCell>
+        <mxCell id="WOgl4XMOkranJlKREiLw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ImlaDK5eVcmNC1BLvQKp-28" source="ImlaDK5eVcmNC1BLvQKp-72" target="ImlaDK5eVcmNC1BLvQKp-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WOgl4XMOkranJlKREiLw-6" value="Documentos Base64" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WOgl4XMOkranJlKREiLw-5">
+          <mxGeometry x="0.0012" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ImlaDK5eVcmNC1BLvQKp-72" value="Carga Documentos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ImlaDK5eVcmNC1BLvQKp-28" vertex="1">
           <mxGeometry x="60" y="50" width="120" height="35" as="geometry" />
         </mxCell>

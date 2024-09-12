@@ -779,7 +779,7 @@
         <mxCell id="Zymw6gWbLejjQ-hHyoQO-45" value="Cola de Solicitudes" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#eeeeee;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1380" y="483" width="140" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="Zymw6gWbLejjQ-hHyoQO-46" value="Go AnyWhere" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Zymw6gWbLejjQ-hHyoQO-46" value="MFT" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="833.5" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zymw6gWbLejjQ-hHyoQO-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Zymw6gWbLejjQ-hHyoQO-49" target="Zymw6gWbLejjQ-hHyoQO-67" edge="1">

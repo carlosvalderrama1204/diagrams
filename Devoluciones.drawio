@@ -848,6 +848,9 @@
         <mxCell id="nC7BElcYJ69mnwkWclN1-2" value="BMC?&lt;div&gt;Smax?&lt;/div&gt;&lt;div&gt;CRM?&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="425" y="670" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="nC7BElcYJ69mnwkWclN1-3" value="Visión de servicio?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-42" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -744,18 +744,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="" tags="Connector" id="200">
-          <mxCell style="vsdxID=391;edgeStyle=none;startArrow=none;endArrow=block;startSize=5;endSize=5;strokeColor=#4672c4;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;entryX=0;entryY=0.52;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="115" edge="1" source="ri0N5FCUmMtjtba1Ph-W-215">
-            <mxGeometry relative="1" as="geometry">
-              <mxPoint as="offset" />
-              <Array as="points">
-                <mxPoint x="650" y="552" />
-                <mxPoint x="666.05" y="552.92" />
-              </Array>
-              <mxPoint x="647" y="556.9999999999998" as="sourcePoint" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
         <mxCell id="gHdpr5N7XrerIM6ITImh-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.986;entryY=0.726;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ri0N5FCUmMtjtba1Ph-W-215" target="63">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">

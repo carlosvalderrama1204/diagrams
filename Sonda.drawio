@@ -719,6 +719,9 @@
         <mxCell id="ri0N5FCUmMtjtba1Ph-W-215" value="task- Worker" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_1;" parent="1" vertex="1">
           <mxGeometry x="601" y="577" width="37" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="rc-yBX-SMRaSlfnAGhT6-257" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ri0N5FCUmMtjtba1Ph-W-214" target="115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ri0N5FCUmMtjtba1Ph-W-214" value="task - API" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_1;" parent="1" vertex="1">
           <mxGeometry x="599.75" y="659" width="37" height="48" as="geometry" />
         </mxCell>
@@ -762,9 +765,6 @@
               <mxPoint x="1457" y="430" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="rc-yBX-SMRaSlfnAGhT6-256" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ri0N5FCUmMtjtba1Ph-W-214" target="117">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

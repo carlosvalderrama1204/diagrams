@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.13" pages="2">
   <diagram name="Sonda" id="Page-1">
-    <mxGraphModel dx="1640" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,6 +112,9 @@
         </mxCell>
         <mxCell id="gHdpr5N7XrerIM6ITImh-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="28" source="gHdpr5N7XrerIM6ITImh-207" target="58" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AL-ylFJbFJ0fXG9V-JBX-190" value="Cognito" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#DD344C;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cognito;" vertex="1" parent="28">
+          <mxGeometry x="25" y="329" width="49" height="49" as="geometry" />
         </mxCell>
         <UserObject label="" tags="Background" id="34">
           <mxCell style="vsdxID=448;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,0.75,0],[0.5,0.75,0],[0.25,0.75,0],[0.25,0.75,0],[0.25,0.5,0],[0.25,0.25,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
@@ -724,7 +727,7 @@
         <mxCell id="rc-yBX-SMRaSlfnAGhT6-243" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.ecs_service;" parent="1" vertex="1">
           <mxGeometry x="571.94" y="538.5" width="23.56" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="hKuuXZERX0qeepYzHUgq-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ri0N5FCUmMtjtba1Ph-W-215">
+        <mxCell id="hKuuXZERX0qeepYzHUgq-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ri0N5FCUmMtjtba1Ph-W-215" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="601" y="594" as="sourcePoint" />
             <mxPoint x="602.25" y="676" as="targetPoint" />
@@ -795,6 +798,9 @@
         </mxCell>
         <mxCell id="rc-yBX-SMRaSlfnAGhT6-242" value="&lt;b&gt;Service&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ed7100;" parent="1" vertex="1">
           <mxGeometry x="548" y="537" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AL-ylFJbFJ0fXG9V-JBX-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="116" target="AL-ylFJbFJ0fXG9V-JBX-190">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QJOm7oPZ2gpyJdL4HzTK-1" value="Plataforma Compras y abastecimiento" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="70" width="490" height="600" as="geometry" />
+          <mxGeometry x="140" y="70" width="600" height="600" as="geometry" />
         </mxCell>
         <mxCell id="QJOm7oPZ2gpyJdL4HzTK-2" value="Actor" style="swimlane;startSize=20;html=1;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-1">
-          <mxGeometry y="20" width="120" height="580" as="geometry" />
+          <mxGeometry y="20" width="180" height="580" as="geometry" />
         </mxCell>
         <mxCell id="QJOm7oPZ2gpyJdL4HzTK-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cliente Interno&lt;/div&gt;" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-2">
           <mxGeometry x="40" y="60" width="40" height="60" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="40" y="340" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QJOm7oPZ2gpyJdL4HzTK-3" value="Aplicación" style="swimlane;startSize=20;html=1;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-1">
-          <mxGeometry x="120" y="20" width="120" height="580" as="geometry" />
+          <mxGeometry x="180" y="20" width="170" height="580" as="geometry" />
         </mxCell>
         <mxCell id="QJOm7oPZ2gpyJdL4HzTK-9" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.web;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-3">
           <mxGeometry x="50" y="240" width="60" height="47.400000000000006" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="54" y="410" width="29" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QJOm7oPZ2gpyJdL4HzTK-4" value="SaaS" style="swimlane;startSize=20;html=1;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-1">
-          <mxGeometry x="240" y="20" width="250" height="580" as="geometry" />
+          <mxGeometry x="350" y="20" width="250" height="580" as="geometry" />
         </mxCell>
         <mxCell id="QJOm7oPZ2gpyJdL4HzTK-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-4">
           <mxGeometry x="40" y="90" width="180" height="335" as="geometry" />
@@ -74,22 +74,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-27" value="SaaS" style="swimlane;startSize=20;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="90" width="250" height="580" as="geometry" />
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-39" value="SaaS" style="swimlane;startSize=20;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="90" width="250" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-27">
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-40" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-39">
           <mxGeometry x="40" y="90" width="180" height="335" as="geometry" />
         </mxCell>
-        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-29" value="" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.web_saas_apps;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-27">
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-41" value="" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.web_saas_apps;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-39">
           <mxGeometry x="50" y="100" width="50" height="38.45" as="geometry" />
         </mxCell>
-        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-30" value="Gestión Solicitudes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-27">
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-42" value="Gestión Solicitudes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-39">
           <mxGeometry x="65" y="160" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-31" value="Ordenes de Compra" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-27">
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-43" value="Ordenes de Compra" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-39">
           <mxGeometry x="65" y="220" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-32" value="Catálogos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-27">
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-44" value="Catálogos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-39">
           <mxGeometry x="60" y="280" width="130" height="30" as="geometry" />
         </mxCell>
       </root>

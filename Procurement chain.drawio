@@ -8,7 +8,7 @@
           <mxGeometry x="520" y="160" width="210" height="580" as="geometry" />
         </mxCell>
         <mxCell id="QJOm7oPZ2gpyJdL4HzTK-66" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=0;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;fillColor=default;verticalAlign=top;align=left;spacingLeft=30;dashed=1;fillStyle=auto;gradientColor=#E6E6E6;dashPattern=8 8;rounded=1;opacity=70;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-63">
-          <mxGeometry x="25" y="90" width="160" height="420" as="geometry" />
+          <mxGeometry x="25" y="40" width="160" height="530" as="geometry" />
         </mxCell>
         <mxCell id="QJOm7oPZ2gpyJdL4HzTK-68" value="Crear Orden" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-63">
           <mxGeometry x="45" y="120" width="120" height="20" as="geometry" />
@@ -145,6 +145,9 @@
         <mxCell id="QJOm7oPZ2gpyJdL4HzTK-82" value="&lt;b&gt;TC-GO&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-70">
           <mxGeometry x="30" y="480" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-101" value="&lt;b&gt;Zeus&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-70">
+          <mxGeometry x="30" y="530" width="120" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="QJOm7oPZ2gpyJdL4HzTK-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QJOm7oPZ2gpyJdL4HzTK-18" target="QJOm7oPZ2gpyJdL4HzTK-66">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -182,6 +185,26 @@
         </mxCell>
         <mxCell id="QJOm7oPZ2gpyJdL4HzTK-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.421;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QJOm7oPZ2gpyJdL4HzTK-8" target="QJOm7oPZ2gpyJdL4HzTK-9">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-90" value="Analitica" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="940" y="160" width="210" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-100" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-90">
+          <mxGeometry x="20" y="54" width="170" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-98" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerBI.svg;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-90">
+          <mxGeometry x="30" y="60" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-99" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.reporting;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-90">
+          <mxGeometry x="90" y="120" width="61.5" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="QJOm7oPZ2gpyJdL4HzTK-66" target="QJOm7oPZ2gpyJdL4HzTK-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="720" />
+              <mxPoint x="720" y="720" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

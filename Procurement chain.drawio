@@ -4,6 +4,28 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-90" value="Analitica" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="940" y="160" width="210" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-100" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-90">
+          <mxGeometry x="20" y="76.5" width="170" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-98" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerBI.svg;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-90">
+          <mxGeometry x="30" y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-99" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.reporting;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-90">
+          <mxGeometry x="90" y="120" width="61.5" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-103" value="Reportes e Indicadores" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-90">
+          <mxGeometry x="30" y="232.5" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QJOm7oPZ2gpyJdL4HzTK-66" target="QJOm7oPZ2gpyJdL4HzTK-100">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1045" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QJOm7oPZ2gpyJdL4HzTK-63" value="Interoperabilidad" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="520" y="160" width="210" height="580" as="geometry" />
         </mxCell>
@@ -15,6 +37,18 @@
         </mxCell>
         <mxCell id="QJOm7oPZ2gpyJdL4HzTK-69" value="Aprobar/Rechazar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-63">
           <mxGeometry x="45" y="160" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-104" value="Actualiza Inventario" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-63">
+          <mxGeometry x="45" y="210" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-105" value="Descuentos Financieros" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-63">
+          <mxGeometry x="45" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-106" value="Información Proveedores" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-63">
+          <mxGeometry x="45" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-107" value="Facturación Electrónica" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-63">
+          <mxGeometry x="45" y="380" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QJOm7oPZ2gpyJdL4HzTK-39" value="Seguridad" style="swimlane;startSize=20;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="160" width="250" height="580" as="geometry" />
@@ -185,18 +219,6 @@
         </mxCell>
         <mxCell id="QJOm7oPZ2gpyJdL4HzTK-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.421;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QJOm7oPZ2gpyJdL4HzTK-8" target="QJOm7oPZ2gpyJdL4HzTK-9">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-90" value="Analitica" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="940" y="160" width="210" height="580" as="geometry" />
-        </mxCell>
-        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-100" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-90">
-          <mxGeometry x="20" y="54" width="170" height="156" as="geometry" />
-        </mxCell>
-        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-98" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerBI.svg;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-90">
-          <mxGeometry x="30" y="60" width="30" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-99" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.reporting;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-90">
-          <mxGeometry x="90" y="120" width="61.5" height="69" as="geometry" />
         </mxCell>
         <mxCell id="QJOm7oPZ2gpyJdL4HzTK-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="QJOm7oPZ2gpyJdL4HzTK-66" target="QJOm7oPZ2gpyJdL4HzTK-101">
           <mxGeometry relative="1" as="geometry">

@@ -43,6 +43,12 @@
         <mxCell id="QJOm7oPZ2gpyJdL4HzTK-20" value="Gestión Solicitudes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-4">
           <mxGeometry x="65" y="160" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-25" value="Ordenes de Compra" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-4">
+          <mxGeometry x="65" y="220" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-26" value="Catálogos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-4">
+          <mxGeometry x="60" y="280" width="130" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="QJOm7oPZ2gpyJdL4HzTK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.017;entryY=0.634;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="QJOm7oPZ2gpyJdL4HzTK-1" source="QJOm7oPZ2gpyJdL4HzTK-7" target="QJOm7oPZ2gpyJdL4HzTK-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -67,6 +73,24 @@
               <mxPoint x="140" y="102" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-27" value="SaaS" style="swimlane;startSize=20;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="90" width="250" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-27">
+          <mxGeometry x="40" y="90" width="180" height="335" as="geometry" />
+        </mxCell>
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-29" value="" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.web_saas_apps;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-27">
+          <mxGeometry x="50" y="100" width="50" height="38.45" as="geometry" />
+        </mxCell>
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-30" value="Gestión Solicitudes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-27">
+          <mxGeometry x="65" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-31" value="Ordenes de Compra" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-27">
+          <mxGeometry x="65" y="220" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-32" value="Catálogos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-27">
+          <mxGeometry x="60" y="280" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

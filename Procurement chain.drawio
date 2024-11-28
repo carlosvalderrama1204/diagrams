@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.2" pages="2">
   <diagram name="Page-1" id="_VkZlfbcH69sGK29IT94">
     <mxGraphModel dx="2501" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -227,6 +227,44 @@
               <mxPoint x="720" y="720" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Y7VrP2OMFWgLW5PrTyqu" name="Page-2">
+    <mxGraphModel dx="1434" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gqeoC2oyOUReBt2rsvir-1" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Proveedor 1&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;shadow=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="20" y="228" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gqeoC2oyOUReBt2rsvir-3" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Proveedor 2&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;shadow=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="20" y="308" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gqeoC2oyOUReBt2rsvir-4" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Proveedor 3&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;shadow=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="20" y="388" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gqeoC2oyOUReBt2rsvir-5" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Proveedor 4&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;shadow=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="20" y="478" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gqeoC2oyOUReBt2rsvir-6" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Proveedor 5&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;shadow=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="20" y="568" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gqeoC2oyOUReBt2rsvir-7" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Proveedor 6&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;shadow=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="20" y="658" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gqeoC2oyOUReBt2rsvir-9" value="Phone" style="points=[[0.59,0,0],[0.87,0.015,0],[0.88,0.3,0],[0.99,0.99,0],[0.5,1,0],[0.01,0.99,0],[0.075,0.5,0],[0.17,0.115,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.ip_phone;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="341.5" y="200" width="69" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gqeoC2oyOUReBt2rsvir-11" value="Outlook" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-07-128.png" vertex="1" parent="1">
+          <mxGeometry x="341.5" y="350" width="66" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="gqeoC2oyOUReBt2rsvir-12" value="WebPage" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/seo-and-web-development-6/32/development_computer_website_check_result-128.png" vertex="1" parent="1">
+          <mxGeometry x="350" y="480" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="gqeoC2oyOUReBt2rsvir-13" value="Negociador" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ios-11-glyphs/30/businessman-128.png" vertex="1" parent="1">
+          <mxGeometry x="340" y="610" width="88" height="88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

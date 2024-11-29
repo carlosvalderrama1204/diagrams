@@ -195,8 +195,8 @@
         <mxCell id="QJOm7oPZ2gpyJdL4HzTK-9" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.web;" parent="QJOm7oPZ2gpyJdL4HzTK-3" vertex="1">
           <mxGeometry x="55" y="240" width="60" height="47.400000000000006" as="geometry" />
         </mxCell>
-        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-47" value="Plataforma Compras y&lt;div&gt;Abastecimiento&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="QJOm7oPZ2gpyJdL4HzTK-3" vertex="1">
-          <mxGeometry x="8" y="282.4" width="140" height="40" as="geometry" />
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-47" value="Portal Corporativo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="QJOm7oPZ2gpyJdL4HzTK-3" vertex="1">
+          <mxGeometry x="18" y="287.4" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ovPJWZ0BB9MvrWYSe4TQ-1" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.dns_privatezone_02;" vertex="1" parent="QJOm7oPZ2gpyJdL4HzTK-3">
           <mxGeometry x="-20" y="237.6" width="49.8" height="52.2" as="geometry" />

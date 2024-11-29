@@ -261,6 +261,9 @@
         <mxCell id="ovPJWZ0BB9MvrWYSe4TQ-51" value="DataLake" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Data_Lake_Storage_Gen1.svg;" vertex="1" parent="ovPJWZ0BB9MvrWYSe4TQ-41">
           <mxGeometry x="39.5" y="88" width="64" height="52" as="geometry" />
         </mxCell>
+        <mxCell id="ovPJWZ0BB9MvrWYSe4TQ-74" value="File Shared" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.services.network_file_share_service;" vertex="1" parent="ovPJWZ0BB9MvrWYSe4TQ-41">
+          <mxGeometry x="39.5" y="480" width="55" height="53" as="geometry" />
+        </mxCell>
         <mxCell id="ovPJWZ0BB9MvrWYSe4TQ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="QJOm7oPZ2gpyJdL4HzTK-80" target="QJOm7oPZ2gpyJdL4HzTK-66">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="510" as="targetPoint" />

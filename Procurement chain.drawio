@@ -58,10 +58,11 @@
         <mxCell id="QJOm7oPZ2gpyJdL4HzTK-103" value="Reportes e Indicadores" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="QJOm7oPZ2gpyJdL4HzTK-90" vertex="1">
           <mxGeometry x="30" y="232.5" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QJOm7oPZ2gpyJdL4HzTK-66" target="QJOm7oPZ2gpyJdL4HzTK-100" edge="1">
+        <mxCell id="QJOm7oPZ2gpyJdL4HzTK-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.865;exitY=0.004;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ovPJWZ0BB9MvrWYSe4TQ-22" target="QJOm7oPZ2gpyJdL4HzTK-100" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1045" y="210" />
+              <mxPoint x="229" y="190" />
+              <mxPoint x="1045" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>

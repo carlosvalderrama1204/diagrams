@@ -1,5 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T03:04:54.047Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="QD69lV9XmZktbSY7dJ_R" version="24.4.4" type="github" pages="6">
-  <diagram name="Tienda" id="mddC_wURRDu6EgvgWiNg" />
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="6">
+  <diagram name="Tienda" id="mddC_wURRDu6EgvgWiNg">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="XWnMug6H0lmwDhrA0-m2" name="API">
     <mxGraphModel dx="2261" dy="1947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,7 +75,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="d3GD1TwCdeJ9Ie4J7uA4" name="Page-3">
-    <mxGraphModel dx="2261" dy="1947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2796" dy="885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,7 +108,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W7_Uw7GPDdjRnEWewolE-2" value="Crea Pago en BD" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vw8svXK67T020A2DOlH0-20">
+        <mxCell id="W7_Uw7GPDdjRnEWewolE-2" value="Crea Pago en BD" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vw8svXK67T020A2DOlH0-20" vertex="1" connectable="0">
           <mxGeometry x="0.7665" y="-3" relative="1" as="geometry">
             <mxPoint x="46" y="-4" as="offset" />
           </mxGeometry>
@@ -161,7 +168,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W7_Uw7GPDdjRnEWewolE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vw8svXK67T020A2DOlH0-6" target="9CCDYclUGQoTKDhQcYNn-8">
+        <mxCell id="W7_Uw7GPDdjRnEWewolE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vw8svXK67T020A2DOlH0-6" target="9CCDYclUGQoTKDhQcYNn-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vw8svXK67T020A2DOlH0-6" value="Consulta Pasarela" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eks_cloud;" parent="1" vertex="1">
@@ -199,9 +206,6 @@
         </mxCell>
         <mxCell id="vw8svXK67T020A2DOlH0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="1" source="SifL3W6c8k6Kvlot44At-5" target="9CCDYclUGQoTKDhQcYNn-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IcXjnV803e4mh-Se3Gt0-1" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Arquitectura Pasarela Contingente integración API de Pagos&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="120" y="-60" width="764" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

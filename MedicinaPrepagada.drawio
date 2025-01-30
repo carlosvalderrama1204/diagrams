@@ -461,7 +461,7 @@
           <mxGeometry x="829.98" y="964.5" width="160" height="41" as="geometry" />
         </mxCell>
         <mxCell id="j6bDdMGpDz93DW8rmzN7-72" value="Usuario" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-530" y="233" width="30" height="60" as="geometry" />
+          <mxGeometry x="-530" y="248" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j6bDdMGpDz93DW8rmzN7-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.018;entryY=0.459;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="j6bDdMGpDz93DW8rmzN7-72" target="j6bDdMGpDz93DW8rmzN7-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -475,7 +475,7 @@
         <mxCell id="1AqNGn4-RPj7MKiLD2Wt-3" value="Recaudo Virtual" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1160" y="645.5" width="190.02" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1AqNGn4-RPj7MKiLD2Wt-4" value="Bono" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="1AqNGn4-RPj7MKiLD2Wt-4" value="Pagar Bono" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-200" y="350" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lXkd4oT51DOuvgXlGUWT-7" value="Pagos" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">

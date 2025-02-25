@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16" pages="2">
   <diagram name="SAP-&gt; SMAX" id="AL2OUmJOLECwNEhBRWxB">
-    <mxGraphModel dx="1909" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,9 +22,6 @@
         </mxCell>
         <mxCell id="DEZ073So4GfOy67uZFNO-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="DEZ073So4GfOy67uZFNO-4">
           <mxGeometry x="88" y="110" width="10" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="DEZ073So4GfOy67uZFNO-47" value="getToken" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="DEZ073So4GfOy67uZFNO-4">
-          <mxGeometry x="150" y="130" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DEZ073So4GfOy67uZFNO-6" value="SMAX" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="660" y="80" width="100" height="580" as="geometry" />
@@ -95,8 +92,8 @@
         <mxCell id="DEZ073So4GfOy67uZFNO-58" value="Solicitud Creada" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="368" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DEZ073So4GfOy67uZFNO-44" value="Enviar Solicitud a API SMAX" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="319" y="181" width="190" height="40" as="geometry" />
+        <mxCell id="DEZ073So4GfOy67uZFNO-44" value="SAP envia Solicitud a API SMAX" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="181" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DEZ073So4GfOy67uZFNO-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0.02;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DEZ073So4GfOy67uZFNO-5" target="DEZ073So4GfOy67uZFNO-60">
           <mxGeometry relative="1" as="geometry">
@@ -122,11 +119,14 @@
         <mxCell id="DEZ073So4GfOy67uZFNO-62" value="Confirma Solicitud Creada" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="447.5" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1irfk1pvQp54dDv0D_hQ-1" value="API SMAX Solicita Token (getToken)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="209" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="xrsNiGHcF0rkcWQAtluF" name="SMAX-&gt;SAP">
-    <mxGraphModel dx="1912" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1103" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -198,8 +198,8 @@
             <mxPoint x="560" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Af1pe31WwN8G2V_g1Wxq-42" value="Respuesta SAP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="590" y="338" width="110" height="30" as="geometry" />
+        <mxCell id="Af1pe31WwN8G2V_g1Wxq-42" value="SAP responde con Confirmación&lt;div&gt;Actualización&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="335" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Af1pe31WwN8G2V_g1Wxq-43" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

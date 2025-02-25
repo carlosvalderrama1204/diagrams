@@ -249,7 +249,7 @@
           <mxGeometry x="78" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L9aKJ-nfPwhlGKbj8pTN-4" value="Arquitectura API SMAX" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1120" y="4280" width="829" height="30" as="geometry" />
+          <mxGeometry x="740" y="4430" width="829" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L9aKJ-nfPwhlGKbj8pTN-7" value="&lt;font color=&quot;#000000&quot;&gt;AWS Account -&amp;nbsp;&lt;span style=&quot;&quot; data-teams=&quot;true&quot;&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot;&gt;&lt;strong&gt;aws-compensar-interop-csc&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;[Env]&lt;/font&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="855" y="4603" width="400" height="580" as="geometry" />

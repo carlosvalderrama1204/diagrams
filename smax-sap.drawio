@@ -242,7 +242,7 @@
         <mxCell id="L9aKJ-nfPwhlGKbj8pTN-28" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SAP_HANA_on_Azure.svg;" vertex="1" parent="L9aKJ-nfPwhlGKbj8pTN-53">
           <mxGeometry width="50" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="L9aKJ-nfPwhlGKbj8pTN-56" value="Crear Solicitud SMAX" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="L9aKJ-nfPwhlGKbj8pTN-53">
+        <mxCell id="L9aKJ-nfPwhlGKbj8pTN-56" value="Crear Solicitud" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="L9aKJ-nfPwhlGKbj8pTN-53">
           <mxGeometry x="78" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L9aKJ-nfPwhlGKbj8pTN-63" value="Actualizar Orden de Compra" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="L9aKJ-nfPwhlGKbj8pTN-53">
@@ -301,7 +301,7 @@
         <mxCell id="L9aKJ-nfPwhlGKbj8pTN-47" value="CreateRequest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="L9aKJ-nfPwhlGKbj8pTN-37">
           <mxGeometry x="85" y="450" width="120" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="L9aKJ-nfPwhlGKbj8pTN-64" value="&lt;b&gt;WebSite&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="L9aKJ-nfPwhlGKbj8pTN-37">
+        <mxCell id="L9aKJ-nfPwhlGKbj8pTN-64" value="&lt;b&gt;Site&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="L9aKJ-nfPwhlGKbj8pTN-37">
           <mxGeometry x="20" y="50" width="250" height="190" as="geometry" />
         </mxCell>
         <mxCell id="L9aKJ-nfPwhlGKbj8pTN-65" value="Procesar Solicitud" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="L9aKJ-nfPwhlGKbj8pTN-37">
@@ -349,6 +349,9 @@
           <mxGeometry x="-0.3148" y="-2" relative="1" as="geometry">
             <mxPoint x="22" y="-15" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dEG5WDhOhEcbxB-alNiw-1" value="Envia Crear Solicitud SMAX" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="4640" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

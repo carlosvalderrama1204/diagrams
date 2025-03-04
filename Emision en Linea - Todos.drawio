@@ -3281,7 +3281,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="a_UIK7c7pGeiOp4bpNpZ-53" value="API Facturacion Republicada" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="-105.5" width="120" height="50" as="geometry" />
+          <mxGeometry x="510" y="-110" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="a_UIK7c7pGeiOp4bpNpZ-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a_UIK7c7pGeiOp4bpNpZ-4" target="a_UIK7c7pGeiOp4bpNpZ-53">
           <mxGeometry relative="1" as="geometry">

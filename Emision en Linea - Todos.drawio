@@ -3122,6 +3122,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OQDcOopeE-gFxAorXKGc-1" value="VMPCANCUN - File Server" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="270" width="210" height="140" as="geometry" />
+        </mxCell>
         <mxCell id="a_UIK7c7pGeiOp4bpNpZ-52" value="Integraciones" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="380" y="-160" width="380" height="370" as="geometry" />
         </mxCell>
@@ -3313,9 +3316,6 @@
         </mxCell>
         <mxCell id="a_UIK7c7pGeiOp4bpNpZ-64" value="Exitoso" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="-30" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="OQDcOopeE-gFxAorXKGc-1" value="VMPCANCUN - File Server" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="160" y="270" width="210" height="140" as="geometry" />
         </mxCell>
         <mxCell id="OQDcOopeE-gFxAorXKGc-2" value="VMPCALARCA" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="430" y="270" width="210" height="160" as="geometry" />

@@ -3296,11 +3296,23 @@
             <mxPoint x="650" y="-80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0GtsYmNOB07bs9aZAwjM-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a_UIK7c7pGeiOp4bpNpZ-56" target="0GtsYmNOB07bs9aZAwjM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="a_UIK7c7pGeiOp4bpNpZ-56" value="Reintentos Errores&amp;nbsp;&lt;div&gt;Técnicos&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="30" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0GtsYmNOB07bs9aZAwjM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a_UIK7c7pGeiOp4bpNpZ-58" target="OQDcOopeE-gFxAorXKGc-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="264" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0GtsYmNOB07bs9aZAwjM-7" value="Genera archivo para emision" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0GtsYmNOB07bs9aZAwjM-1">
+          <mxGeometry x="-0.301" y="6" relative="1" as="geometry">
+            <mxPoint x="27" y="4" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="a_UIK7c7pGeiOp4bpNpZ-58" value="Reintentos Errores&amp;nbsp;&lt;div&gt;Funcionales&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="100" width="120" height="50" as="geometry" />
@@ -3389,6 +3401,17 @@
         </mxCell>
         <mxCell id="0GtsYmNOB07bs9aZAwjM-3" value="Recibir notificación reintentos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-69" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0GtsYmNOB07bs9aZAwjM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="a_UIK7c7pGeiOp4bpNpZ-58" target="OQDcOopeE-gFxAorXKGc-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-120" y="125" />
+              <mxPoint x="-120" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0GtsYmNOB07bs9aZAwjM-6" value="Envia notificación por email" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="493.5" width="30" height="16.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

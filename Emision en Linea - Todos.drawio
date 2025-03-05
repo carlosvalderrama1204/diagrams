@@ -3646,14 +3646,14 @@
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-117" value="Reintentos Errores&amp;nbsp;&lt;div&gt;Técnicos http 5xx&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="50" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="bgNHvy8tnrGRwKrJ1NFl-120" value="Generar Archivo emisión adaptador .txt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bgNHvy8tnrGRwKrJ1NFl-120" value="Enviar datos al Gestor de Errores" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="111" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-121" value="Response Emisión" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="814" y="-145.43" width="120" height="30" as="geometry" />
+          <mxGeometry x="800" y="37" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-122" value="Request Emisión" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="819" y="-260" width="110" height="30" as="geometry" />
+          <mxGeometry x="800" y="-115.43" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#26FF34;strokeWidth=2;" edge="1" parent="1" source="bgNHvy8tnrGRwKrJ1NFl-125" target="bgNHvy8tnrGRwKrJ1NFl-84">
           <mxGeometry relative="1" as="geometry">
@@ -3749,7 +3749,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NybThh4gfdI481ssoSHW-9" value="Reporte Errores" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="125" y="450" width="160" height="50" as="geometry" />
+          <mxGeometry x="125" y="430" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_gFXnCaUt4ltgKe1RHc5-1" value="Envia al gestor de errores" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="260.0042857142858" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_gFXnCaUt4ltgKe1RHc5-3" value="Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="500" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

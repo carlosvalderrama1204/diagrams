@@ -3753,8 +3753,8 @@
         <mxCell id="_gFXnCaUt4ltgKe1RHc5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#F1870E;dashed=1;strokeWidth=2;" edge="1" parent="1" source="bgNHvy8tnrGRwKrJ1NFl-156" target="bgNHvy8tnrGRwKrJ1NFl-141">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_gFXnCaUt4ltgKe1RHc5-7" value="Agent IA" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-4/256/robot-128.png" vertex="1" parent="1">
-          <mxGeometry x="-329" y="361.5" width="61" height="61" as="geometry" />
+        <mxCell id="_gFXnCaUt4ltgKe1RHc5-7" value="Agent AI" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-4/256/robot-128.png" vertex="1" parent="1">
+          <mxGeometry x="-320" y="361.5" width="61" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

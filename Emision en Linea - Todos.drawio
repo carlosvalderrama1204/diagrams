@@ -3679,15 +3679,8 @@
             <mxPoint x="-50" y="47" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bgNHvy8tnrGRwKrJ1NFl-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.608;entryY=0.926;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#1411DF;dashed=1;strokeWidth=2;" edge="1" parent="1" source="bgNHvy8tnrGRwKrJ1NFl-120" target="bgNHvy8tnrGRwKrJ1NFl-141">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="14" y="120" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bgNHvy8tnrGRwKrJ1NFl-146" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;Notificación Asincrona&amp;nbsp; Error&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="160" y="95" width="160" height="30" as="geometry" />
+        <mxCell id="bgNHvy8tnrGRwKrJ1NFl-146" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;Notificación Asincrona&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-84" y="190" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-147" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.reload;" vertex="1" parent="1">
           <mxGeometry x="740" y="10" width="24" height="27" as="geometry" />
@@ -3756,6 +3749,12 @@
         </mxCell>
         <mxCell id="_gFXnCaUt4ltgKe1RHc5-3" value="Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="125" y="500" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_gFXnCaUt4ltgKe1RHc5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#F1870E;dashed=1;strokeWidth=2;" edge="1" parent="1" source="bgNHvy8tnrGRwKrJ1NFl-156" target="bgNHvy8tnrGRwKrJ1NFl-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_gFXnCaUt4ltgKe1RHc5-7" value="Agent IA" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-4/256/robot-128.png" vertex="1" parent="1">
+          <mxGeometry x="-329" y="361.5" width="61" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

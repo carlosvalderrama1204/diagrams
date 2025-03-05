@@ -3123,7 +3123,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OQDcOopeE-gFxAorXKGc-1" value="VMPCANCUN - File Server" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="160" y="270" width="210" height="140" as="geometry" />
+          <mxGeometry x="154" y="270" width="210" height="140" as="geometry" />
         </mxCell>
         <mxCell id="a_UIK7c7pGeiOp4bpNpZ-52" value="Interoperabilidad" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="380" y="-160" width="380" height="370" as="geometry" />
@@ -3317,7 +3317,7 @@
             <mxPoint x="27" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a_UIK7c7pGeiOp4bpNpZ-58" value="Generar Archivo manual" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a_UIK7c7pGeiOp4bpNpZ-58" value="Generar Archivo emisión adaptador .txt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="101" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="a_UIK7c7pGeiOp4bpNpZ-62" value="Response Emisión" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">

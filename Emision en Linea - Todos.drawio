@@ -3533,7 +3533,7 @@
           <mxGeometry x="-104" y="-370" width="210" height="160" as="geometry" />
         </mxCell>
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-93" value="Emisión Facturación" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-59" y="-320" width="120" height="60" as="geometry" />
+          <mxGeometry x="-59" y="-320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bgNHvy8tnrGRwKrJ1NFl-96" target="bgNHvy8tnrGRwKrJ1NFl-89">
           <mxGeometry relative="1" as="geometry" />
@@ -3561,7 +3561,7 @@
           <mxGeometry x="-104" y="-560" width="210" height="160" as="geometry" />
         </mxCell>
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-99" value="Emisión Facturación" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-59" y="-510" width="120" height="60" as="geometry" />
+          <mxGeometry x="-59" y="-532" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.919;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bgNHvy8tnrGRwKrJ1NFl-101" target="bgNHvy8tnrGRwKrJ1NFl-111">
           <mxGeometry relative="1" as="geometry">
@@ -3574,7 +3574,7 @@
           <mxGeometry x="-104" y="-735" width="210" height="160" as="geometry" />
         </mxCell>
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-102" value="Emisión Facturación" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-64" y="-685" width="120" height="60" as="geometry" />
+          <mxGeometry x="-59" y="-702" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-103" value="Hercules" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-494" y="-330" width="210" height="160" as="geometry" />

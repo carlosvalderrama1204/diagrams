@@ -1,9 +1,84 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0">
-  <diagram name="Page-1" id="eW9U4Vch_MS2X_GdoxYC">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0" pages="2">
+  <diagram name="AS-IS" id="eW9U4Vch_MS2X_GdoxYC">
+    <mxGraphModel dx="1050" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2XWWIahap93tzurfqWSG-1" value="&lt;span&gt;SEVEN ERP&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="110" y="180" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="2XWWIahap93tzurfqWSG-2" value="&lt;span&gt;Kactus&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="435" y="180" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="2XWWIahap93tzurfqWSG-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;VTENERIFE" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="500" y="220" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2XWWIahap93tzurfqWSG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2XWWIahap93tzurfqWSG-4" target="2XWWIahap93tzurfqWSG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2XWWIahap93tzurfqWSG-4" value="Consulta Usuario" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="235" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2XWWIahap93tzurfqWSG-6" value="AS-IS Integración Seven ERP y IAM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="400" y="58" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pvbcGCA0Qb1AgT1vnkco-1" value="&lt;span&gt;IAM&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="730" y="180" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="pvbcGCA0Qb1AgT1vnkco-2" value="IDM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="235" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pvbcGCA0Qb1AgT1vnkco-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2XWWIahap93tzurfqWSG-3" target="pvbcGCA0Qb1AgT1vnkco-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="290" as="sourcePoint" />
+            <mxPoint x="700" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="0nd7adYpvPlq9VBWDab1" name="TO-BE">
+    <mxGraphModel dx="1050" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VzWLeWy6zfLZ7XhbO8gC-1" value="&lt;span&gt;SEVEN ERP&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="110" y="180" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VzWLeWy6zfLZ7XhbO8gC-2" value="&lt;span&gt;AWS - Interoperabilidad&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="435" y="160" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="VzWLeWy6zfLZ7XhbO8gC-5" value="Consulta Usuario" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VzWLeWy6zfLZ7XhbO8gC-6" value="TO-BE Integración Seven ERP y IAM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="400" y="58" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VzWLeWy6zfLZ7XhbO8gC-10" value="&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;apicolaboradores&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="465" y="190" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VzWLeWy6zfLZ7XhbO8gC-11" value="Token" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="220" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VzWLeWy6zfLZ7XhbO8gC-12" value="Consultar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="265" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VzWLeWy6zfLZ7XhbO8gC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VzWLeWy6zfLZ7XhbO8gC-5" target="VzWLeWy6zfLZ7XhbO8gC-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="235" />
+              <mxPoint x="310" y="235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VzWLeWy6zfLZ7XhbO8gC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VzWLeWy6zfLZ7XhbO8gC-5" target="VzWLeWy6zfLZ7XhbO8gC-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="250" />
+              <mxPoint x="410" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

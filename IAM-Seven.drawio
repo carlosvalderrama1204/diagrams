@@ -113,10 +113,39 @@
           <mxGeometry x="90" y="722" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8g6aftSty8sAVGxq3FYZ-12" value="Consulta Usuario" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="762" width="120" height="40" as="geometry" />
+          <mxGeometry x="120" y="750" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8g6aftSty8sAVGxq3FYZ-13" value="TO-BE Integración Seven ERP y IAM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="380" y="600" width="300" height="30" as="geometry" />
+          <mxGeometry x="360" y="590" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8g6aftSty8sAVGxq3FYZ-27" value="&lt;span&gt;IAM&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="420" y="722" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8g6aftSty8sAVGxq3FYZ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8g6aftSty8sAVGxq3FYZ-28" target="8g6aftSty8sAVGxq3FYZ-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8g6aftSty8sAVGxq3FYZ-28" value="API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="750" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8g6aftSty8sAVGxq3FYZ-29" value="IDM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="810" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8g6aftSty8sAVGxq3FYZ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8g6aftSty8sAVGxq3FYZ-12" target="8g6aftSty8sAVGxq3FYZ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DcPG7F4U2M3nhZqZJbt_-1" value="REST" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8g6aftSty8sAVGxq3FYZ-30">
+          <mxGeometry x="-0.186" y="4" relative="1" as="geometry">
+            <mxPoint x="4" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y5Sa7hWN9CfUO0DxOb0C-1" value="&lt;span&gt;Kactus&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="750" y="722" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="y5Sa7hWN9CfUO0DxOb0C-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;VTENERIFE" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="815" y="762" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y5Sa7hWN9CfUO0DxOb0C-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=37.5;entryPerimeter=0;startArrow=blockThin;startFill=1;" edge="1" parent="1" source="8g6aftSty8sAVGxq3FYZ-29" target="y5Sa7hWN9CfUO0DxOb0C-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

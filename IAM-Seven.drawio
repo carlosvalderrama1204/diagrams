@@ -38,7 +38,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0nd7adYpvPlq9VBWDab1" name="TO-BE">
-    <mxGraphModel dx="1050" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,7 +61,7 @@
           <mxGeometry x="480" y="220" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VzWLeWy6zfLZ7XhbO8gC-12" value="Consultar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="265" width="90" height="30" as="geometry" />
+          <mxGeometry x="480" y="270" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VzWLeWy6zfLZ7XhbO8gC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VzWLeWy6zfLZ7XhbO8gC-5" target="VzWLeWy6zfLZ7XhbO8gC-11">
           <mxGeometry relative="1" as="geometry">
@@ -75,17 +75,23 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="410" y="250" />
-              <mxPoint x="410" y="280" />
+              <mxPoint x="410" y="285" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tUKPK6X9Q3xqHISbx3DO-1" value="&lt;span&gt;Kactus&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="760" y="200" width="180" height="140" as="geometry" />
+          <mxGeometry x="750" y="160" width="180" height="200" as="geometry" />
         </mxCell>
         <mxCell id="8g6aftSty8sAVGxq3FYZ-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;VTENERIFE" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="827" y="250" width="50" height="60" as="geometry" />
+          <mxGeometry x="825" y="270" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8g6aftSty8sAVGxq3FYZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VzWLeWy6zfLZ7XhbO8gC-12" target="8g6aftSty8sAVGxq3FYZ-1">
+        <mxCell id="8g6aftSty8sAVGxq3FYZ-3" value="ConsultarInfo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="805" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8g6aftSty8sAVGxq3FYZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VzWLeWy6zfLZ7XhbO8gC-12" target="8g6aftSty8sAVGxq3FYZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8g6aftSty8sAVGxq3FYZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8g6aftSty8sAVGxq3FYZ-3" target="8g6aftSty8sAVGxq3FYZ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>

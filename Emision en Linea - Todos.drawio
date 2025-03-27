@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0" pages="16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3" pages="16">
   <diagram id="oQg5v4_-Qz-4qN8YKQsb" name="Modelos Emision">
     <mxGraphModel dx="2208" dy="1665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2897,7 +2897,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AU8B_RAlqfNl8LJN1ikA" name="AS-IS">
-    <mxGraphModel dx="2713" dy="1989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2283" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3018,7 +3018,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dJun9FAEtY0rST9gKpB3-7" value="API Driecta" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4Q0vb8qfeZ6MPZrXIkyw-30" vertex="1" connectable="0">
+        <mxCell id="dJun9FAEtY0rST9gKpB3-7" value="API Directa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4Q0vb8qfeZ6MPZrXIkyw-30" vertex="1" connectable="0">
           <mxGeometry x="-0.474" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -3114,13 +3114,13 @@
         <mxCell id="dJun9FAEtY0rST9gKpB3-9" value="Procesamiento batch" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="120" y="-115.5" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UdebGGFHEfITZMu9Nxp9-3" value="Plataforma Bienestar" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;" vertex="1" parent="1">
+        <mxCell id="UdebGGFHEfITZMu9Nxp9-3" value="Plataforma Bienestar" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="-504" y="240" width="210" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="UdebGGFHEfITZMu9Nxp9-4" value="Emisión Facturación" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UdebGGFHEfITZMu9Nxp9-4" value="Emisión Facturación" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-459" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UdebGGFHEfITZMu9Nxp9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.883;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UdebGGFHEfITZMu9Nxp9-4" target="4Q0vb8qfeZ6MPZrXIkyw-2">
+        <mxCell id="UdebGGFHEfITZMu9Nxp9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.883;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="UdebGGFHEfITZMu9Nxp9-4" target="4Q0vb8qfeZ6MPZrXIkyw-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-170" y="330" />
@@ -3129,18 +3129,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UdebGGFHEfITZMu9Nxp9-6" value="Servicio Web Facturación Inmediata" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="UdebGGFHEfITZMu9Nxp9-6" value="Servicio Web Facturación Inmediata" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-204.5" y="-140.5" as="geometry">
             <mxPoint x="33" y="326" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UdebGGFHEfITZMu9Nxp9-7" value="Facturación Administrativa" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;" vertex="1" parent="1">
+        <mxCell id="UdebGGFHEfITZMu9Nxp9-7" value="Facturación Administrativa" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="-510" y="430" width="210" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="UdebGGFHEfITZMu9Nxp9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.033;entryY=0.088;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UdebGGFHEfITZMu9Nxp9-7" target="FhOhQzN8vBZVmSOwkFt1-1">
+        <mxCell id="UdebGGFHEfITZMu9Nxp9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.033;entryY=0.088;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="UdebGGFHEfITZMu9Nxp9-7" target="FhOhQzN8vBZVmSOwkFt1-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UdebGGFHEfITZMu9Nxp9-9" value="Archivo Plano" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UdebGGFHEfITZMu9Nxp9-8">
+        <mxCell id="UdebGGFHEfITZMu9Nxp9-9" value="Archivo Plano" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UdebGGFHEfITZMu9Nxp9-8" vertex="1" connectable="0">
           <mxGeometry x="-0.8116" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

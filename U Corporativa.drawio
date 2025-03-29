@@ -40,13 +40,13 @@
           <mxGeometry x="270" y="450" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SfsyKqqzDjLnTzT2MTOW-7" value="https://compensar.clap.training/auth/login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="700" y="135" width="240" height="30" as="geometry" />
+          <mxGeometry x="709" y="135" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SfsyKqqzDjLnTzT2MTOW-10" value="https://compensarbienestar.clap.training/auth/login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="700" y="245" width="290" height="30" as="geometry" />
+          <mxGeometry x="709" y="245" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SfsyKqqzDjLnTzT2MTOW-13" value="https://unicompensar.clap.training/auth/login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="700" y="355" width="260" height="30" as="geometry" />
+          <mxGeometry x="707" y="355" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SfsyKqqzDjLnTzT2MTOW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SfsyKqqzDjLnTzT2MTOW-16">
           <mxGeometry relative="1" as="geometry">
@@ -59,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SfsyKqqzDjLnTzT2MTOW-16" value="https://www.ucorporativacompensar.com/proveedores/proveedores-canales.html" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="690" y="465" width="450" height="30" as="geometry" />
+          <mxGeometry x="709" y="465" width="450" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SfsyKqqzDjLnTzT2MTOW-18" value="https://www.ucorporativacompensar.com/proveedores/proveedores.html" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="540" y="585" width="410" height="30" as="geometry" />

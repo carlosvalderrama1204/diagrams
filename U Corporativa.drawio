@@ -1,9 +1,78 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
   <diagram name="Page-1" id="uxmNlsoQnHWH00E_gJSY">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SfsyKqqzDjLnTzT2MTOW-5" value="https://www.ucorporativacompensar.com/" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="120" y="50" width="530" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="SfsyKqqzDjLnTzT2MTOW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SfsyKqqzDjLnTzT2MTOW-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SfsyKqqzDjLnTzT2MTOW-1" value="Colaboradores y Sus Familas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="120" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SfsyKqqzDjLnTzT2MTOW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SfsyKqqzDjLnTzT2MTOW-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SfsyKqqzDjLnTzT2MTOW-2" value="Bienestar y Deportes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="230" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SfsyKqqzDjLnTzT2MTOW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SfsyKqqzDjLnTzT2MTOW-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SfsyKqqzDjLnTzT2MTOW-3" value="Desarrollo Empresarial Integral" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="340" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SfsyKqqzDjLnTzT2MTOW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SfsyKqqzDjLnTzT2MTOW-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SfsyKqqzDjLnTzT2MTOW-4" value="Proveedores" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="450" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SfsyKqqzDjLnTzT2MTOW-7" value="https://compensar.clap.training/auth/login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="135" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SfsyKqqzDjLnTzT2MTOW-10" value="https://compensarbienestar.clap.training/auth/login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="245" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SfsyKqqzDjLnTzT2MTOW-13" value="https://unicompensar.clap.training/auth/login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="355" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SfsyKqqzDjLnTzT2MTOW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SfsyKqqzDjLnTzT2MTOW-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SfsyKqqzDjLnTzT2MTOW-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SfsyKqqzDjLnTzT2MTOW-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1130" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SfsyKqqzDjLnTzT2MTOW-16" value="https://www.ucorporativacompensar.com/proveedores/proveedores-canales.html" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="465" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SfsyKqqzDjLnTzT2MTOW-18" value="https://www.ucorporativacompensar.com/proveedores/proveedores.html" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="585" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SfsyKqqzDjLnTzT2MTOW-21" value="https://proveedorescanales.clap.training/auth/login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="585" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SfsyKqqzDjLnTzT2MTOW-22" value="proveedor de Compensar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="615" width="220" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="SfsyKqqzDjLnTzT2MTOW-23" value="proveedor canales" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="615" width="220" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

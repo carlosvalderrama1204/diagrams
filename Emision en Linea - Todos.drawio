@@ -3171,12 +3171,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZdbkOu3kSG9IeqjX_1VH" name="MVP">
-    <mxGraphModel dx="3208" dy="2250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3043" dy="2100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rc8dzLWQ_xPCXRyW66E0-1" value="COMPENSAR" style="rounded=1;whiteSpace=wrap;html=1;gradientDirection=south;dashed=1;strokeWidth=3;verticalAlign=top;fontSize=25;fontStyle=1;strokeColor=light-dark(#f88920, #ededed);arcSize=15;" parent="1" vertex="1">
-          <mxGeometry x="-710" y="-885" width="1550" height="1630" as="geometry" />
+          <mxGeometry x="-545" y="-895" width="1550" height="1630" as="geometry" />
         </mxCell>
         <mxCell id="OQDcOopeE-gFxAorXKGc-1" value="VMPCANCUN - File Server" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="154" y="270" width="210" height="140" as="geometry" />

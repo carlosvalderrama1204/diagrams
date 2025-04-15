@@ -109,10 +109,10 @@
           <mxGeometry x="315" y="640" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="06jfUkknpogjp7twqCvo-10" value="&lt;span&gt;IAM&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="730" y="762" width="180" height="210" as="geometry" />
+          <mxGeometry x="730" y="830" width="180" height="142" as="geometry" />
         </mxCell>
         <mxCell id="06jfUkknpogjp7twqCvo-11" value="IDM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="817" width="120" height="30" as="geometry" />
+          <mxGeometry x="770" y="851" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="06jfUkknpogjp7twqCvo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="06jfUkknpogjp7twqCvo-14" target="06jfUkknpogjp7twqCvo-20">
           <mxGeometry relative="1" as="geometry">
@@ -196,6 +196,21 @@
               <mxPoint x="370" y="859" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kIAbNTCCTRR0vmoHVHbH-7" value="&lt;span&gt;Kactus&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="720" y="660" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="kIAbNTCCTRR0vmoHVHbH-8" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;VTENERIFE" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="820" y="702" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kIAbNTCCTRR0vmoHVHbH-9" value="API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="710" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kIAbNTCCTRR0vmoHVHbH-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=37.5;entryPerimeter=0;" edge="1" parent="1" source="kIAbNTCCTRR0vmoHVHbH-9" target="kIAbNTCCTRR0vmoHVHbH-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kIAbNTCCTRR0vmoHVHbH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kIAbNTCCTRR0vmoHVHbH-3" target="kIAbNTCCTRR0vmoHVHbH-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

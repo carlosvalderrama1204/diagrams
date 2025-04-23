@@ -3585,7 +3585,7 @@
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-82" value="ONBASE" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="510" y="490" width="210" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="bgNHvy8tnrGRwKrJ1NFl-83" value="SAP" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="bgNHvy8tnrGRwKrJ1NFl-83" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-104" y="-140" width="210" height="220" as="geometry" />
         </mxCell>
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-84" value="Emisión Facturación en línea" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
@@ -3609,7 +3609,7 @@
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-88" value="PLCOLAB" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="965" y="405.5" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="bgNHvy8tnrGRwKrJ1NFl-89" value="DIAN" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;strokeWidth=2;gradientColor=#04AF6D;fillColor=#D2F4E7;strokeColor=#04AF6D;" parent="1" vertex="1">
+        <mxCell id="bgNHvy8tnrGRwKrJ1NFl-89" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;strokeWidth=2;gradientColor=#04AF6D;fillColor=#D2F4E7;strokeColor=#04AF6D;" parent="1" vertex="1">
           <mxGeometry x="1230" y="270" width="210" height="160" as="geometry" />
         </mxCell>
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-90" value="Facturación Electrónica" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -3909,6 +3909,12 @@
         </mxCell>
         <mxCell id="fAVxpczhJO_bgD88xe9z-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.estela.com/hs-fs/hubfs/Logo%20FACTURE-1.png?width=300&amp;height=72&amp;name=Logo%20FACTURE-1.png;" vertex="1" parent="1">
           <mxGeometry x="953.38" y="-191" width="173.24" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="fAVxpczhJO_bgD88xe9z-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.dian.gov.co/wp-content/uploads/2025/02/Cab-landing-2025.png;clipPath=inset(29.31% 0.67% 0% 81.67%);" vertex="1" parent="1">
+          <mxGeometry x="1270.36" y="270" width="129.27" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fAVxpczhJO_bgD88xe9z-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;editableCssRules=.*;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNDEyLjM4MDAwNDg4MjgxMjUgMjA0IiBpZD0iRWJlbmVfMiIgd2lkdGg9IjQxMi4zODAwMDQ4ODI4MTI1IiBoZWlnaHQ9IjIwNCI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOnVybCgjbGluZWFyLWdyYWRpZW50KTt9LmNscy0xLC5jbHMtMntmaWxsLXJ1bGU6ZXZlbm9kZDt9LmNscy0ye2ZpbGw6I2ZmZjt9PC9zdHlsZT48bGluZWFyR3JhZGllbnQgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHkyPSIyMDQiIHgyPSIyMDYuMTkiIHkxPSIwIiB4MT0iMjA2LjE5IiBpZD0ibGluZWFyLWdyYWRpZW50Ij48c3RvcCBzdG9wLWNvbG9yPSIjMDBiMWViIiBvZmZzZXQ9IjAiLz48c3RvcCBzdG9wLWNvbG9yPSIjMDA5YWQ5IiBvZmZzZXQ9Ii4yMTIiLz48c3RvcCBzdG9wLWNvbG9yPSIjMDA3ZmM0IiBvZmZzZXQ9Ii41MTkiLz48c3RvcCBzdG9wLWNvbG9yPSIjMDA2ZWI4IiBvZmZzZXQ9Ii43OTIiLz48c3RvcCBzdG9wLWNvbG9yPSIjMDA2OWI0IiBvZmZzZXQ9IjEiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48ZyBpZD0iTGF5ZXJfMSI+PHBvbHlsaW5lIHBvaW50cz0iMCAyMDQgMjA4LjQxMyAyMDQgNDEyLjM4IDAgMCAwIDAgMjA0IiBjbGFzcz0iY2xzLTEiLz48cGF0aCBkPSJtMjQ0LjcyNywzOC4zNTlsLTQwLjU5My0uMDI1djk2LjUxOGwtMzUuNDYtOTYuNTE4aC0zNS4xNmwtMzAuMjc3LDgwLjcxNmMtMy4yMjQtMjAuMzUyLTI0LjI3Ny0yNy4zOC00MC44NC0zMi42NDktMTAuOTM3LTMuNTEyLTIyLjU0MS04LjY3OC0yMi40MzQtMTQuMzg3LjA5MS00LjY4Nyw2LjIyNS05LjA0LDE4LjM3Ny04LjM4NSw4LjE3LjQzMywxNS4zNzMsMS4wOTIsMjkuNzEsOC4wMDZsMTQuMTAyLTI0LjU1N2MtMTMuMDg4LTYuNjU4LTMxLjE2OS0xMC44NjctNDUuOTg1LTEwLjg4M2gtLjA4NmMtMTcuMjc3LDAtMzEuNjc3LDUuNTk4LTQwLjYwMiwxNC44MjQtNi4yMjEsNi40NDMtOS41NzIsMTQuNjI2LTkuNzEyLDIzLjY3OS0uMjI3LDEyLjQ1NCw0LjM0MSwyMS4yOTIsMTMuOTM4LDI4LjMzOCw4LjEwNCw1Ljk0NCwxOC40NjgsOS43OTQsMjcuNjAzLDEyLjYyNiwxMS4yNywzLjQ5MiwyMC40NjcsNi41MjYsMjAuMzYsMTMuMDAyLS4wODMsMi4zNTUtLjk3Nyw0LjU1Mi0yLjY3MSw2LjMzNy0yLjgwNywyLjg5Ny03LjEyNCwzLjk4Ni0xMy4wODQsNC4wOTgtMTEuNDk3LjI0My0yMC4wMjYtMS41NTktMzMuNjEtOS41ODVsLTEyLjUzNiwyNC45MDNjMTMuNTQ2LDcuNzA1LDI5LjU4NiwxMi4yMjMsNDUuOTUyLDEyLjIyM2wyLjEwNi0uMDI0YzE0LjI0Ny0uMjU2LDI1Ljc0NS00LjMxNiwzNC45MjktMTEuNzEyLjUyNy0uNDE2LDEuMDAxLS44NDUsMS40ODgtMS4yNzdsLTQuMDczLDEwLjg3NGgzNi44NzVsNi4xODktMTguODIyYzYuNDc3LDIuMjE0LDEzLjg0NywzLjQzNywyMS42NzYsMy40MzcsNy42MTgsMCwxNC43OTUtMS4xNywyMS4xNTYtMy4yNTJsNS45NjUsMTguNjM3aDYwLjEzN3YtMzguOTY5aDEzLjExM2MzMS43MDYsMCw1MC40NTYtMTYuMTQ3LDUwLjQ1Ni00My4yMDIsMC0zMC4xMzktMTguMjE5LTQzLjk2OS01Ny4wMTEtNDMuOTY5Wm0tOTMuODE2LDgyLjU4N2MtNC43MzcsMC05LjE3Ny0uODI4LTEzLjAwNi0yLjI3NWwxMi44NjYtNDAuNTkzaC4yNDRsMTIuNjQzLDQwLjcwOGMtMy44MDEsMS4zNDktOC4xMzgsMi4xNi0xMi43NDYsMi4xNlptOTYuMTk5LTIzLjMyNGgtOC45NDF2LTMyLjcxMWg4Ljk0MWMxMS45MjcsMCwyMS40MzcsMy45NjEsMjEuNDM3LDE2LjEzOSwwLDEyLjYwMi05LjUxLDE2LjU3Mi0yMS40MzcsMTYuNTcyIiBjbGFzcz0iY2xzLTIiLz48L2c+PC9zdmc+;" vertex="1" parent="1">
+          <mxGeometry x="-18.470000000000027" y="-140" width="48.47" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

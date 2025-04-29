@@ -3960,7 +3960,7 @@
           <mxGeometry x="555" y="810" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Mko5NfoNatoPSfV7UkYT-1" value="Homologaciones" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="654" y="-125.43" width="110" height="50" as="geometry" />
+          <mxGeometry x="660" y="-125.43" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tzIZFnOD2hB3LLc_Hhcf-1" value="Logs" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="200" width="120" height="50" as="geometry" />

@@ -3592,7 +3592,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sTYJvzZdeHplwq9bK0XT" name="TO-BE">
-    <mxGraphModel dx="2702" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2711" dy="1960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3600,7 +3600,7 @@
           <mxGeometry x="920" y="-620" width="240" height="380" as="geometry" />
         </mxCell>
         <mxCell id="Bc1a42AfPo7aUE2n1Zk9-1" value="COMPENSAR" style="rounded=1;whiteSpace=wrap;html=1;gradientDirection=south;dashed=1;strokeWidth=3;verticalAlign=top;fontSize=25;fontStyle=1;strokeColor=light-dark(#f88920, #ededed);" parent="1" vertex="1">
-          <mxGeometry x="-710" y="-885" width="1550" height="1905" as="geometry" />
+          <mxGeometry x="-680" y="-880" width="1550" height="1905" as="geometry" />
         </mxCell>
         <mxCell id="SMwxNIYGxUk6GroNs0wT-1" value="File Server" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="510" y="710" width="210" height="160" as="geometry" />
@@ -3682,7 +3682,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-96" value="API PLCOLAB" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="-115.43" width="140" height="67" as="geometry" />
+          <mxGeometry x="960" y="-108.5" width="140" height="67" as="geometry" />
         </mxCell>
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -3895,9 +3895,6 @@
         <mxCell id="_gFXnCaUt4ltgKe1RHc5-3" value="Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="125" y="500" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_gFXnCaUt4ltgKe1RHc5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#F1870E;dashed=1;strokeWidth=3;" parent="1" source="bgNHvy8tnrGRwKrJ1NFl-156" target="bgNHvy8tnrGRwKrJ1NFl-141" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_gFXnCaUt4ltgKe1RHc5-7" value="Agent AI" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-4/256/robot-128.png" parent="1" vertex="1">
           <mxGeometry x="-320" y="361.5" width="61" height="61" as="geometry" />
         </mxCell>
@@ -3962,10 +3959,10 @@
         <mxCell id="SMwxNIYGxUk6GroNs0wT-4" value="RIP" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="555" y="810" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Mko5NfoNatoPSfV7UkYT-1" value="Homologaciones" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="660" y="-125.43" width="90" height="50" as="geometry" />
+        <mxCell id="Mko5NfoNatoPSfV7UkYT-1" value="Homologaciones" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="654" y="-125.43" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tzIZFnOD2hB3LLc_Hhcf-1" value="Logs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tzIZFnOD2hB3LLc_Hhcf-1" value="Logs" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="200" width="120" height="50" as="geometry" />
         </mxCell>
       </root>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.2" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.14" pages="3">
   <diagram name="Page-1" id="_VkZlfbcH69sGK29IT94">
     <mxGraphModel dx="2062" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -576,6 +576,98 @@
         </mxCell>
         <mxCell id="gqeoC2oyOUReBt2rsvir-80" value="&lt;span style=&quot;color: rgb(37, 37, 37); font-family: Roboto, arial, sans-serif; font-size: 18px; text-align: start;&quot;&gt;¿Dónde está el pedido&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;color: rgb(37, 37, 37); font-family: Roboto, arial, sans-serif; font-size: 18px; text-align: start; text-wrap-mode: wrap;&quot;&gt;que hice hace dos semanas?!!&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="575.5" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="C0q1996Btrh0xCm-BIH7" name="Page-3">
+    <mxGraphModel dx="2864" dy="1081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iJ226VEOwl73PpbQ4nUM-24" value="&lt;b&gt;Capacidades Orientadas a B2E (Business-to-Employee)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="90" y="230" width="770" height="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ226VEOwl73PpbQ4nUM-4" value="Gestión de Proveedores" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="230" y="390" width="530" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ226VEOwl73PpbQ4nUM-5" value="Análisis del Gasto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="330" width="530" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ226VEOwl73PpbQ4nUM-6" value="Onboarding y calificación de proveedores" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="430" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ226VEOwl73PpbQ4nUM-8" value="Gestión de información y documentación del proveedor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="510" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ226VEOwl73PpbQ4nUM-9" value="Gestión de Contratos" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="235" y="690" width="530" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ226VEOwl73PpbQ4nUM-10" value="Creación, negociación y aprobación de contratos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="730" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ226VEOwl73PpbQ4nUM-11" value="Almacenamiento y gestión del ciclo de vida del contrato" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="790" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ226VEOwl73PpbQ4nUM-12" value="Seguimiento de cumplimiento y renovaciones" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="850" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ226VEOwl73PpbQ4nUM-13" value="Procure-to-Pay" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="235" y="980" width="530" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ226VEOwl73PpbQ4nUM-14" value="Requisiciones&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1010" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ226VEOwl73PpbQ4nUM-15" value="Catálogo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1060" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ226VEOwl73PpbQ4nUM-16" value="Flujos de Aprobación" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1120" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ226VEOwl73PpbQ4nUM-17" value="Gestión de Órdenes de Compra" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1180" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ226VEOwl73PpbQ4nUM-18" value="Recepción de Bienes/Servicios" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1229" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ226VEOwl73PpbQ4nUM-19" value="Gestión de Facturas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1280" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ226VEOwl73PpbQ4nUM-20" value="Pagos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="1330" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ226VEOwl73PpbQ4nUM-21" value="Gestión de Riesgos y Cumplimiento" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1440" width="530" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ226VEOwl73PpbQ4nUM-22" value="Analítica y Reportes" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1500" width="530" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ226VEOwl73PpbQ4nUM-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ226VEOwl73PpbQ4nUM-26" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;Capacidades Orientadas a&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;B2B (Business-to-Business)&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1590" width="780" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ226VEOwl73PpbQ4nUM-27" value="Gestión del Ciclo de Vida del Proveedor" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1650" width="510" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ226VEOwl73PpbQ4nUM-28" value="Auto-Registro y Onboarding" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1700" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ226VEOwl73PpbQ4nUM-29" value="Gestión de Perfil (Self-Service)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1754" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ226VEOwl73PpbQ4nUM-30" value="Colaobración en Eventos de Selección y Contratación" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1860" width="510" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ226VEOwl73PpbQ4nUM-31" value="RFx: RFI, RFP, RFQ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="1890" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ226VEOwl73PpbQ4nUM-32" value="Gestión de Eventos de Contratación" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="240" y="610" width="530" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iJ226VEOwl73PpbQ4nUM-33" value="RFx: RFI, RFP, RFQ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="640" width="250" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

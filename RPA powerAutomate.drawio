@@ -193,8 +193,14 @@
         <mxCell id="ushyQL9Of6nbHTiqZUKG-16" value="Crear Proyecto ID" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.website" vertex="1" parent="ushyQL9Of6nbHTiqZUKG-65">
           <mxGeometry x="750" y="50" width="70.1" height="68" as="geometry" />
         </mxCell>
+        <mxCell id="rSKl-7aJEc5JOzgX9uIX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ushyQL9Of6nbHTiqZUKG-65" source="ushyQL9Of6nbHTiqZUKG-72" target="rSKl-7aJEc5JOzgX9uIX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ushyQL9Of6nbHTiqZUKG-72" value="Se realiza Cargue" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.website" vertex="1" parent="ushyQL9Of6nbHTiqZUKG-65">
           <mxGeometry x="3124.95" y="66" width="70.1" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="rSKl-7aJEc5JOzgX9uIX-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="ushyQL9Of6nbHTiqZUKG-65">
+          <mxGeometry x="3310" y="75" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ushyQL9Of6nbHTiqZUKG-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.01;entryY=0.59;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ushyQL9Of6nbHTiqZUKG-11" target="ushyQL9Of6nbHTiqZUKG-16">
           <mxGeometry relative="1" as="geometry">

@@ -1,9 +1,143 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="9pSl8L3i6sOm28P--2q1">
-    <mxGraphModel>
+    <mxGraphModel dx="1489" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-1" value="EspecialistaPlaneación" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="170" width="2570" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ushyQL9Of6nbHTiqZUKG-1" source="ushyQL9Of6nbHTiqZUKG-8" target="ushyQL9Of6nbHTiqZUKG-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-8" value="Recibe Actas Por Correo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ushyQL9Of6nbHTiqZUKG-1">
+          <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-12" value="Solicita Creación de Proyecto en SIMON" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="ushyQL9Of6nbHTiqZUKG-1">
+          <mxGeometry x="520" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-15" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="ushyQL9Of6nbHTiqZUKG-1">
+          <mxGeometry x="590" y="150" width="30" height="16.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ushyQL9Of6nbHTiqZUKG-1" source="ushyQL9Of6nbHTiqZUKG-21" target="ushyQL9Of6nbHTiqZUKG-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-21" value="Recibe id del Proyecto" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="ushyQL9Of6nbHTiqZUKG-1">
+          <mxGeometry x="1100" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ushyQL9Of6nbHTiqZUKG-1" source="ushyQL9Of6nbHTiqZUKG-24" target="ushyQL9Of6nbHTiqZUKG-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-24" value="Diligenciar archivo Excel" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="ushyQL9Of6nbHTiqZUKG-1">
+          <mxGeometry x="1370" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647702-excel-128.png" vertex="1" parent="ushyQL9Of6nbHTiqZUKG-1">
+          <mxGeometry x="1400" y="112.5" width="54" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ushyQL9Of6nbHTiqZUKG-1" source="ushyQL9Of6nbHTiqZUKG-28" target="ushyQL9Of6nbHTiqZUKG-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-50" value="SI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ushyQL9Of6nbHTiqZUKG-46">
+          <mxGeometry x="-0.403" y="6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-28" value="Información completa" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ushyQL9Of6nbHTiqZUKG-1">
+          <mxGeometry x="1650" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ushyQL9Of6nbHTiqZUKG-1" source="ushyQL9Of6nbHTiqZUKG-45" target="ushyQL9Of6nbHTiqZUKG-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-45" value="Valida cada documento" style="whiteSpace=wrap;html=1;" vertex="1" parent="ushyQL9Of6nbHTiqZUKG-1">
+          <mxGeometry x="1910" y="109.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-47" value="Reglas de Negocio" style="whiteSpace=wrap;html=1;" vertex="1" parent="ushyQL9Of6nbHTiqZUKG-1">
+          <mxGeometry x="2110" y="109.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-2" value="Secretaría" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-30" width="2570" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ushyQL9Of6nbHTiqZUKG-2" source="ushyQL9Of6nbHTiqZUKG-3" target="ushyQL9Of6nbHTiqZUKG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="ushyQL9Of6nbHTiqZUKG-2">
+          <mxGeometry x="40" y="50" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-4" value="Luego de Cómite envia acta por correo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ushyQL9Of6nbHTiqZUKG-2">
+          <mxGeometry x="160" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-6" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="ushyQL9Of6nbHTiqZUKG-2">
+          <mxGeometry x="310" y="140" width="30" height="16.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/filetype-pdf-128.png" vertex="1" parent="ushyQL9Of6nbHTiqZUKG-2">
+          <mxGeometry x="354" y="133.25" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ushyQL9Of6nbHTiqZUKG-4" target="ushyQL9Of6nbHTiqZUKG-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-10" value="EspecialistaPlaneación" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="370" width="2570" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-11" value="Recibe Actas Por Correo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ushyQL9Of6nbHTiqZUKG-10">
+          <mxGeometry x="520" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ushyQL9Of6nbHTiqZUKG-10" source="ushyQL9Of6nbHTiqZUKG-16" target="ushyQL9Of6nbHTiqZUKG-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-16" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.website" vertex="1" parent="ushyQL9Of6nbHTiqZUKG-10">
+          <mxGeometry x="750" y="52" width="70.1" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.559;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ushyQL9Of6nbHTiqZUKG-10" source="ushyQL9Of6nbHTiqZUKG-11" target="ushyQL9Of6nbHTiqZUKG-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-18" value="Crea Proyecto en SIMON" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ushyQL9Of6nbHTiqZUKG-10">
+          <mxGeometry x="705.05" y="130" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-19" value="Envia Id del proyecto por correo y aprobación" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ushyQL9Of6nbHTiqZUKG-10">
+          <mxGeometry x="910" y="61" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-23" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="ushyQL9Of6nbHTiqZUKG-10">
+          <mxGeometry x="1181" y="30" width="30" height="16.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ushyQL9Of6nbHTiqZUKG-12" target="ushyQL9Of6nbHTiqZUKG-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ushyQL9Of6nbHTiqZUKG-19" target="ushyQL9Of6nbHTiqZUKG-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-30" value="Equipo Bienestar" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="570" width="2570" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-38" value="File Server" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="770" width="2570" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-39" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ushyQL9Of6nbHTiqZUKG-38">
+          <mxGeometry x="1460" y="50" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-40" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647702-excel-128.png" vertex="1" parent="ushyQL9Of6nbHTiqZUKG-38">
+          <mxGeometry x="1470" y="84.5" width="61" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-41" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/file-extension-names-vol-8/512/24-128.png" vertex="1" parent="ushyQL9Of6nbHTiqZUKG-38">
+          <mxGeometry x="1560" y="85.5" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/brands-applications/512/Doc_B-128.png" vertex="1" parent="ushyQL9Of6nbHTiqZUKG-38">
+          <mxGeometry x="1630" y="79" width="73" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ushyQL9Of6nbHTiqZUKG-28" target="ushyQL9Of6nbHTiqZUKG-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1620" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-44" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ushyQL9Of6nbHTiqZUKG-43">
+          <mxGeometry x="-0.8531" y="1" relative="1" as="geometry">
+            <mxPoint y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ushyQL9Of6nbHTiqZUKG-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ushyQL9Of6nbHTiqZUKG-39" target="ushyQL9Of6nbHTiqZUKG-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -170,13 +170,13 @@
           <mxGeometry x="1430" y="30" width="290" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ushyQL9Of6nbHTiqZUKG-40" value="Presupuesto" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647702-excel-128.png" parent="ushyQL9Of6nbHTiqZUKG-38" vertex="1">
-          <mxGeometry x="1450" y="84.5" width="61" height="61" as="geometry" />
+          <mxGeometry x="1450" y="58" width="61" height="61" as="geometry" />
         </mxCell>
         <mxCell id="ushyQL9Of6nbHTiqZUKG-41" value="Ficha Técnica&lt;div&gt;-Licencia de construcción&lt;/div&gt;&lt;div&gt;-Planos&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/file-extension-names-vol-8/512/24-128.png" parent="ushyQL9Of6nbHTiqZUKG-38" vertex="1">
-          <mxGeometry x="1560" y="85.5" width="60" height="60" as="geometry" />
+          <mxGeometry x="1545" y="60" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ushyQL9Of6nbHTiqZUKG-42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/brands-applications/512/Doc_B-128.png" parent="ushyQL9Of6nbHTiqZUKG-38" vertex="1">
-          <mxGeometry x="1630" y="79" width="73" height="73" as="geometry" />
+          <mxGeometry x="1640" y="58" width="62" height="62" as="geometry" />
         </mxCell>
         <mxCell id="ushyQL9Of6nbHTiqZUKG-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ushyQL9Of6nbHTiqZUKG-28" target="ushyQL9Of6nbHTiqZUKG-39" edge="1">
           <mxGeometry relative="1" as="geometry">

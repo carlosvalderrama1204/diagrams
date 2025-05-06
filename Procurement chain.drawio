@@ -1212,13 +1212,13 @@
           <mxGeometry x="80" y="1540" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qMqN6BwIcRhfVZWK3WPc-11" value="Procesamiento" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=collab;archiType=square;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="490" y="1310" width="720" height="320" as="geometry" />
+          <mxGeometry x="438" y="1310" width="570" height="320" as="geometry" />
         </mxCell>
         <mxCell id="qMqN6BwIcRhfVZWK3WPc-14" value="Ingesta" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="530" y="1420" width="176" height="170" as="geometry" />
         </mxCell>
         <mxCell id="qMqN6BwIcRhfVZWK3WPc-15" value="Transformación" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="810" y="1430" width="176" height="160" as="geometry" />
+          <mxGeometry x="790" y="1420" width="176" height="160" as="geometry" />
         </mxCell>
         <mxCell id="qMqN6BwIcRhfVZWK3WPc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qMqN6BwIcRhfVZWK3WPc-7" target="qMqN6BwIcRhfVZWK3WPc-11">
           <mxGeometry relative="1" as="geometry" />
@@ -1230,10 +1230,16 @@
           <mxGeometry x="550" y="1510" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qMqN6BwIcRhfVZWK3WPc-19" value="Limpieza " style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
-          <mxGeometry x="827" y="1466" width="150" height="44" as="geometry" />
+          <mxGeometry x="803" y="1456" width="150" height="44" as="geometry" />
         </mxCell>
         <mxCell id="qMqN6BwIcRhfVZWK3WPc-20" value="AI" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
-          <mxGeometry x="827" y="1518" width="150" height="44" as="geometry" />
+          <mxGeometry x="803" y="1518" width="150" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="KiRG6BeFUjShJ8mVaeqf-1" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.application;appType=passive;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1310" width="470" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="KiRG6BeFUjShJ8mVaeqf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qMqN6BwIcRhfVZWK3WPc-11" target="KiRG6BeFUjShJ8mVaeqf-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

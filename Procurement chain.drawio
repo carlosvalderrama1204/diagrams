@@ -700,7 +700,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Q7rmiE5RoHRxUN707yW6" name="Page-5">
-    <mxGraphModel dx="2610" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2610" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -725,7 +725,7 @@
         <mxCell id="nO8lwCdYr8qf23EuGbLe-10" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontStyle=1;fontSize=14;" vertex="1" parent="nO8lwCdYr8qf23EuGbLe-8">
           <mxGeometry x="30" y="230" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="nO8lwCdYr8qf23EuGbLe-14" value="Capacidades B2B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nO8lwCdYr8qf23EuGbLe-8">
+        <mxCell id="nO8lwCdYr8qf23EuGbLe-14" value="Capacidades B2B" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="nO8lwCdYr8qf23EuGbLe-8">
           <mxGeometry x="60" y="275" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nO8lwCdYr8qf23EuGbLe-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;fontStyle=1;fontSize=17;" vertex="1" parent="nO8lwCdYr8qf23EuGbLe-8">
@@ -743,7 +743,7 @@
         <mxCell id="nO8lwCdYr8qf23EuGbLe-19" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="nO8lwCdYr8qf23EuGbLe-8">
           <mxGeometry x="170" y="407" width="30" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="1k3pDA_kW75SgnLT4I9z-1" value="Capacidades B2E" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nO8lwCdYr8qf23EuGbLe-8">
+        <mxCell id="1k3pDA_kW75SgnLT4I9z-1" value="Capacidades B2E" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="nO8lwCdYr8qf23EuGbLe-8">
           <mxGeometry x="55" y="115" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1k3pDA_kW75SgnLT4I9z-20" value="Integraciones" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontStyle=1;fontSize=14;" vertex="1" parent="nO8lwCdYr8qf23EuGbLe-8">

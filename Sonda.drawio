@@ -802,7 +802,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="LinkPagos" id="Page-2">
-    <mxGraphModel dx="1678" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2216" dy="931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1328,27 +1328,27 @@
           <mxGeometry x="1089" y="2540" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Uu-Mo4WAqZIpzLcL81mx-126" value="tls1.2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="850" y="1961" width="60" height="30" as="geometry" />
+          <mxGeometry x="850" y="1980" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XSpqzTFHlvoFlnE-qtP_-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XSpqzTFHlvoFlnE-qtP_-102" target="XSpqzTFHlvoFlnE-qtP_-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XSpqzTFHlvoFlnE-qtP_-102" value="nonce 12 bytes + &amp;nbsp;AES-GCM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="545" y="2190" width="150" height="60" as="geometry" />
+          <mxGeometry x="527.5" y="2190" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XSpqzTFHlvoFlnE-qtP_-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XSpqzTFHlvoFlnE-qtP_-105" target="Uu-Mo4WAqZIpzLcL81mx-121">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XSpqzTFHlvoFlnE-qtP_-105" value="Encode Base64" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="2330" width="120" height="60" as="geometry" />
+        <mxCell id="XSpqzTFHlvoFlnE-qtP_-105" value="Encode Base64 URL-Safe" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="2330" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XSpqzTFHlvoFlnE-qtP_-108" value="Clave de Cifrado" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.private_key;" vertex="1" parent="1">
-          <mxGeometry x="420" y="2194.6" width="55.6" height="50.8" as="geometry" />
+          <mxGeometry x="450" y="2194.6" width="55.6" height="50.8" as="geometry" />
         </mxCell>
         <mxCell id="XSpqzTFHlvoFlnE-qtP_-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XSpqzTFHlvoFlnE-qtP_-109" target="XSpqzTFHlvoFlnE-qtP_-111">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XSpqzTFHlvoFlnE-qtP_-109" value="Decode Base64" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XSpqzTFHlvoFlnE-qtP_-109" value="Decode Base64 URL-Safe" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1069" y="2260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XSpqzTFHlvoFlnE-qtP_-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XSpqzTFHlvoFlnE-qtP_-111" target="Uu-Mo4WAqZIpzLcL81mx-124">
@@ -1365,6 +1365,9 @@
         </mxCell>
         <mxCell id="XSpqzTFHlvoFlnE-qtP_-116" value="&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;https://linkpagos.orquestador.prdaws.compensar.com/Payments?Payload=[PAYLOAD_CIFRADO]&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1084" y="2200" width="570" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XSpqzTFHlvoFlnE-qtP_-117" value="&lt;p class=&quot;MsoNormal&quot;&gt;https://linkpagos.orquestador.prdaws.compensar.com/Payments?&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;Payload&lt;/span&gt;={tdoc=13&amp;amp;ndoc=52371876&amp;amp;nombre=Juan%20P%C3%A9rez&amp;amp;Ref=0416051022373925&amp;amp;Val=10000&amp;amp;Nunfac=123456}&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="930" y="2578" width="1050" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

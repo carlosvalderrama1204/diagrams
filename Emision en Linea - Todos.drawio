@@ -3214,7 +3214,7 @@
         <mxCell id="cUOT8k0f3yTACSMCxghE-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.misfacturas.com.co/Publico/Content/img/LogoMisfacturas.png;" vertex="1" parent="cUOT8k0f3yTACSMCxghE-1">
           <mxGeometry x="15" y="24" width="210" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="cUOT8k0f3yTACSMCxghE-4" value="Emisión Extracto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cUOT8k0f3yTACSMCxghE-1">
+        <mxCell id="cUOT8k0f3yTACSMCxghE-4" value="Emisión&amp;nbsp;documento electrónico equivalente -&amp;nbsp; Extracto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="cUOT8k0f3yTACSMCxghE-1">
           <mxGeometry x="60" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cUOT8k0f3yTACSMCxghE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="sj8qv93eI_XP8XZmT2Tl-4" target="cUOT8k0f3yTACSMCxghE-4">
@@ -3641,7 +3641,7 @@
         <mxCell id="fAVxpczhJO_bgD88xe9z-1" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="r0IgPiiobqaqaFqI5VUK-1" vertex="1">
           <mxGeometry y="-210" width="240" height="590" as="geometry" />
         </mxCell>
-        <mxCell id="MjTjl_cUzObXvQGoZekR-6" value="Emisión Extracto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="r0IgPiiobqaqaFqI5VUK-1">
+        <mxCell id="MjTjl_cUzObXvQGoZekR-6" value="Emisión&amp;nbsp;documento electrónico equivalente -&amp;nbsp; Extracto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="r0IgPiiobqaqaFqI5VUK-1">
           <mxGeometry x="60" y="-99" width="120" height="67" as="geometry" />
         </mxCell>
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-79" value="Interoperabilidad" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;strokeWidth=2;" parent="1" vertex="1">

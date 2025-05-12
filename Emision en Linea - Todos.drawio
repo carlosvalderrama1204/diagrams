@@ -4115,6 +4115,10 @@
         <mxCell id="9qN-SKx4dWcU13amu6ZT-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9qN-SKx4dWcU13amu6ZT-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-40" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-39" y="230" />
+              <mxPoint x="-39" y="180" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9qN-SKx4dWcU13amu6ZT-8" value="Tipo 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">

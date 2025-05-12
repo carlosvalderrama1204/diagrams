@@ -4083,7 +4083,7 @@
           <mxGeometry x="160" y="340" width="320" height="200" as="geometry" />
         </mxCell>
         <mxCell id="9qN-SKx4dWcU13amu6ZT-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="50" width="320" height="220" as="geometry" />
+          <mxGeometry x="160" y="10" width="320" height="260" as="geometry" />
         </mxCell>
         <mxCell id="9qN-SKx4dWcU13amu6ZT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9qN-SKx4dWcU13amu6ZT-2">
           <mxGeometry relative="1" as="geometry">
@@ -4096,6 +4096,18 @@
         </mxCell>
         <mxCell id="9qN-SKx4dWcU13amu6ZT-2" value="Tipo 4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9qN-SKx4dWcU13amu6ZT-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9qN-SKx4dWcU13amu6ZT-3" target="9qN-SKx4dWcU13amu6ZT-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="45" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9qN-SKx4dWcU13amu6ZT-35" value="DIAN se declara contingente" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9qN-SKx4dWcU13amu6ZT-34">
+          <mxGeometry x="0.1793" y="-2" relative="1" as="geometry">
+            <mxPoint x="42" y="-13" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9qN-SKx4dWcU13amu6ZT-3" value="DIAN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="150" width="120" height="60" as="geometry" />
@@ -4114,10 +4126,10 @@
         </mxCell>
         <mxCell id="9qN-SKx4dWcU13amu6ZT-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9qN-SKx4dWcU13amu6ZT-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-40" y="180" as="targetPoint" />
+            <mxPoint x="-50" y="180" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-39" y="230" />
-              <mxPoint x="-39" y="180" />
+              <mxPoint x="-50" y="230" />
+              <mxPoint x="-50" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -4158,13 +4170,16 @@
           <mxGeometry x="40" y="410" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9qN-SKx4dWcU13amu6ZT-26" value="CUFE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="230" width="60" height="30" as="geometry" />
+          <mxGeometry x="70" y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9qN-SKx4dWcU13amu6ZT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9qN-SKx4dWcU13amu6ZT-27" target="9qN-SKx4dWcU13amu6ZT-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9qN-SKx4dWcU13amu6ZT-27" value="director Compensar" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-40" y="570" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9qN-SKx4dWcU13amu6ZT-33" value="Se cambia a Contigente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="20" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

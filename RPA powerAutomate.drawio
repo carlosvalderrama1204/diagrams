@@ -469,7 +469,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9abPchw8NFX2rYKGSpsz" name="Page-3">
-    <mxGraphModel dx="1158" dy="1808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2093" dy="2086" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -587,7 +587,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oN_uE1y_xe9WY8pvt1uE-80" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Financiado Fovis?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="oN_uE1y_xe9WY8pvt1uE-1">
-          <mxGeometry x="480" y="89.38" width="130" height="101.25" as="geometry" />
+          <mxGeometry x="570" y="89.37" width="130" height="101.25" as="geometry" />
         </mxCell>
         <mxCell id="oN_uE1y_xe9WY8pvt1uE-34" value="Secretaría Teresa García" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="-30" width="3400" height="200" as="geometry" />
@@ -625,7 +625,7 @@
         <mxCell id="oN_uE1y_xe9WY8pvt1uE-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oN_uE1y_xe9WY8pvt1uE-37" target="oN_uE1y_xe9WY8pvt1uE-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oN_uE1y_xe9WY8pvt1uE-42" value="Profesional de subsidio" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oN_uE1y_xe9WY8pvt1uE-42" value="Profesional de subsidio - Amerylin" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="370" width="3400" height="200" as="geometry" />
         </mxCell>
         <mxCell id="oN_uE1y_xe9WY8pvt1uE-43" value="Crea Id Proyecto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oN_uE1y_xe9WY8pvt1uE-42">
@@ -733,8 +733,13 @@
             <mxPoint x="3220" y="1011.1429268973214" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oN_uE1y_xe9WY8pvt1uE-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oN_uE1y_xe9WY8pvt1uE-80" target="oN_uE1y_xe9WY8pvt1uE-43">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="oN_uE1y_xe9WY8pvt1uE-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oN_uE1y_xe9WY8pvt1uE-80" target="oN_uE1y_xe9WY8pvt1uE-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="310" />
+              <mxPoint x="530" y="460" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="oN_uE1y_xe9WY8pvt1uE-85" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="525" y="398" width="30" height="30" as="geometry" />

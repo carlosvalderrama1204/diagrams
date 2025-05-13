@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.9" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.4" pages="3">
   <diagram name="Adaptador Universal" id="-ICQzN5TTwIt-EsHX7Ux">
     <mxGraphModel dx="1667" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -245,31 +245,36 @@
     </mxGraphModel>
   </diagram>
   <diagram id="312ZLieff55E4QLoy9Cd" name="Publicación F5">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3LoIfGp_q1wwVJskQXtz-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3LoIfGp_q1wwVJskQXtz-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="51" y="170" width="353" height="219" as="geometry" />
         </mxCell>
-        <mxCell id="3LoIfGp_q1wwVJskQXtz-2" value="vmpcalarca&lt;br&gt;Sitio Adaptador Universal&lt;br&gt;http://vmpcalarca" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3LoIfGp_q1wwVJskQXtz-2" value="vmpcalarca&lt;br&gt;Sitio Adaptador Universal&lt;br&gt;http://vmpcalarca" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="149" y="253" width="147" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3LoIfGp_q1wwVJskQXtz-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="3LoIfGp_q1wwVJskQXtz-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="404" y="170" width="378" height="219" as="geometry" />
         </mxCell>
-        <mxCell id="3LoIfGp_q1wwVJskQXtz-4" value="Publicación F5&lt;br&gt;&lt;b&gt;https&lt;/b&gt;://facturacionelectronica.compensar.com/&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3LoIfGp_q1wwVJskQXtz-4" value="Publicación F5&lt;br&gt;&lt;b&gt;https&lt;/b&gt;://facturacionelectronica.compensar.com/&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="452" y="253" width="306" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3LoIfGp_q1wwVJskQXtz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3LoIfGp_q1wwVJskQXtz-2" target="3LoIfGp_q1wwVJskQXtz-4">
+        <mxCell id="3LoIfGp_q1wwVJskQXtz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3LoIfGp_q1wwVJskQXtz-2" target="3LoIfGp_q1wwVJskQXtz-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3LoIfGp_q1wwVJskQXtz-6" value="Proyecto" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3LoIfGp_q1wwVJskQXtz-6" value="Proyecto" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="66" y="186" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3LoIfGp_q1wwVJskQXtz-7" value="Funcionalidades transversales de la compañía" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3LoIfGp_q1wwVJskQXtz-7" value="Funcionalidades transversales de la compañía" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="419" y="181" width="259" height="30" as="geometry" />
         </mxCell>
+        <UserObject label="https://prufacturacionelectronica.compensar.com/default.aspx" link="https://prufacturacionelectronica.compensar.com/default.aspx" id="N7m3pMZoT2Tfdn-AdWFj-1">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="422" y="420" width="360" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>

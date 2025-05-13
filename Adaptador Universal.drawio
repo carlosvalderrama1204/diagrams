@@ -270,7 +270,7 @@
         <mxCell id="3LoIfGp_q1wwVJskQXtz-7" value="Funcionalidades transversales de la compañía" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="419" y="181" width="259" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="https://prufacturacionelectronica.compensar.com/default.aspx" link="https://prufacturacionelectronica.compensar.com/default.aspx" id="N7m3pMZoT2Tfdn-AdWFj-1">
+        <UserObject label="https://prufacturacionelectronica.compensar.com/default.aspx&#xa;&#xa;&#xa;http://vmpruhato/default.aspx" link="https://prufacturacionelectronica.compensar.com/default.aspx" id="N7m3pMZoT2Tfdn-AdWFj-1">
           <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
             <mxGeometry x="422" y="420" width="360" height="40" as="geometry" />
           </mxCell>

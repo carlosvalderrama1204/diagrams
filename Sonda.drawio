@@ -1654,7 +1654,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6k_hCxfZ66nFsu_pYgvU" name="Page-8">
-    <mxGraphModel dx="3182" dy="-180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3182" dy="-138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1963,6 +1963,11 @@
         <mxCell id="sFcmSaD7npnScsnvb8KW-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sFcmSaD7npnScsnvb8KW-16" target="sFcmSaD7npnScsnvb8KW-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sFcmSaD7npnScsnvb8KW-45" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="sFcmSaD7npnScsnvb8KW-39">
+          <mxGeometry x="-0.3952" y="3" relative="1" as="geometry">
+            <mxPoint x="1" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sFcmSaD7npnScsnvb8KW-16" value="Pago pendiente?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1570" y="3528" width="80" height="80" as="geometry" />
         </mxCell>
@@ -2006,6 +2011,12 @@
             <mxPoint x="1455.5" y="3255.88" as="sourcePoint" />
             <mxPoint x="1547.5" y="3255.88" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sFcmSaD7npnScsnvb8KW-46" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="2960" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sFcmSaD7npnScsnvb8KW-47" value="Servicios Administrativos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2010.5" y="3010" width="149" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

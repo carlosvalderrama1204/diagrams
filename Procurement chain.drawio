@@ -1288,6 +1288,18 @@
         <mxCell id="kR3NAx7W6G0YGXGuRNOx-2" value="Aprobaciones Pendientes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="710" width="220" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MTat59FkgVb3G6ZgJzVq-1" value="SAP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="300" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MTat59FkgVb3G6ZgJzVq-2" value="SARLAFT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="390" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MTat59FkgVb3G6ZgJzVq-3" value="SAP" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="790" y="175" width="300" height="445" as="geometry" />
+        </mxCell>
+        <mxCell id="MTat59FkgVb3G6ZgJzVq-4" value="Productos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="220" width="220" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

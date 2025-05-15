@@ -745,10 +745,10 @@
           <mxGeometry x="525" y="398" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oN_uE1y_xe9WY8pvt1uE-86" value="Teresa" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-90" y="-7" width="30" height="60" as="geometry" />
+          <mxGeometry x="-190" y="-7" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oN_uE1y_xe9WY8pvt1uE-87" value="Anderson" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="-7" width="30" height="60" as="geometry" />
+          <mxGeometry x="-90" y="-7" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oN_uE1y_xe9WY8pvt1uE-88" value="Secretaría general - Marcela Munevar" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-350" y="-7" width="30" height="60" as="geometry" />

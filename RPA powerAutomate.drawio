@@ -959,6 +959,9 @@
         <mxCell id="rCDSFm_XSpj_VxxJlC_G-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647702-excel-128.png;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="980" y="-170" width="58" height="58" as="geometry" />
         </mxCell>
+        <mxCell id="rCDSFm_XSpj_VxxJlC_G-17" value="Consejeros" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="-104" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

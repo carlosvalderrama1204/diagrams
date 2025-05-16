@@ -754,7 +754,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vjzmY1XrgLd1x3gEuunO" name="Page-4">
-    <mxGraphModel dx="2593" dy="2545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2355" dy="2158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -871,9 +871,6 @@
         </mxCell>
         <mxCell id="oiGwvSYexxsr-HSBQraY-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/filetype-pdf-128.png" parent="JGgMykRMknSexL4TEs4F-12" vertex="1">
           <mxGeometry x="550" y="43.25" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oiGwvSYexxsr-HSBQraY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="JGgMykRMknSexL4TEs4F-12" source="oiGwvSYexxsr-HSBQraY-1" target="oiGwvSYexxsr-HSBQraY-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JGgMykRMknSexL4TEs4F-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JGgMykRMknSexL4TEs4F-4" target="JGgMykRMknSexL4TEs4F-14" edge="1">
           <mxGeometry relative="1" as="geometry" />

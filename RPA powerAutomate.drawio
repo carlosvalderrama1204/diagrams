@@ -771,7 +771,7 @@
           <mxGeometry x="130" y="30" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JGgMykRMknSexL4TEs4F-5" value="EspecialistaPlaneación - Juan" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="380" width="3400" height="360" as="geometry" />
+          <mxGeometry x="40" y="380" width="2830" height="360" as="geometry" />
         </mxCell>
         <mxCell id="FxV-oi8JxkCjsjzMrKxI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JGgMykRMknSexL4TEs4F-5" source="FxV-oi8JxkCjsjzMrKxI-3" target="FxV-oi8JxkCjsjzMrKxI-5">
           <mxGeometry relative="1" as="geometry" />
@@ -873,7 +873,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JGgMykRMknSexL4TEs4F-17" value="Profesional de subsidio" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="40" y="740" width="3400" height="200" as="geometry" />
+          <mxGeometry x="40" y="740" width="2830" height="200" as="geometry" />
         </mxCell>
         <mxCell id="8nAbC-sI4YmnQhmRd28c-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JGgMykRMknSexL4TEs4F-17" source="8nAbC-sI4YmnQhmRd28c-3" target="8nAbC-sI4YmnQhmRd28c-5">
           <mxGeometry relative="1" as="geometry" />

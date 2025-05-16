@@ -469,7 +469,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9abPchw8NFX2rYKGSpsz" name="Page-3">
-    <mxGraphModel dx="2505" dy="2060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2185" dy="1890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -601,6 +601,27 @@
         <mxCell id="oN_uE1y_xe9WY8pvt1uE-37" value="Luego de Consejo directivo para aprobación de Proyectos envia acta por correo" style="rounded=1;whiteSpace=wrap;html=1;" parent="oN_uE1y_xe9WY8pvt1uE-34" vertex="1">
           <mxGeometry x="140" y="30" width="120" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="oN_uE1y_xe9WY8pvt1uE-76" value="Asunto: Actas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="oN_uE1y_xe9WY8pvt1uE-34" vertex="1">
+          <mxGeometry x="350" y="43.25" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oN_uE1y_xe9WY8pvt1uE-40" value="Actas Independientes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="oN_uE1y_xe9WY8pvt1uE-34" vertex="1">
+          <mxGeometry x="350" y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oN_uE1y_xe9WY8pvt1uE-77" value="Diligenciar Plantilla Acta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="oN_uE1y_xe9WY8pvt1uE-34" vertex="1">
+          <mxGeometry x="350" y="130" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oN_uE1y_xe9WY8pvt1uE-38" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" parent="oN_uE1y_xe9WY8pvt1uE-34" vertex="1">
+          <mxGeometry x="310" y="50" width="30" height="16.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oN_uE1y_xe9WY8pvt1uE-39" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/filetype-pdf-128.png" parent="oN_uE1y_xe9WY8pvt1uE-34" vertex="1">
+          <mxGeometry x="310" y="85" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oN_uE1y_xe9WY8pvt1uE-75" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647702-excel-128.png" parent="oN_uE1y_xe9WY8pvt1uE-34" vertex="1">
+          <mxGeometry x="310" y="130" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="oN_uE1y_xe9WY8pvt1uE-79" value="&lt;b&gt;Propuestas:&lt;/b&gt;&lt;div&gt;1. Diligenciar Plantilla en Correo&lt;/div&gt;&lt;div&gt;2. Diligenciar excel&lt;/div&gt;&lt;div&gt;3. Diligenciar Form&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="oN_uE1y_xe9WY8pvt1uE-34" vertex="1">
+          <mxGeometry x="506" y="20" width="240" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="oN_uE1y_xe9WY8pvt1uE-42" value="Profesional de subsidio - Amerylin" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="370" width="3400" height="200" as="geometry" />
         </mxCell>
@@ -729,27 +750,6 @@
         <mxCell id="oN_uE1y_xe9WY8pvt1uE-88" value="Secretaría general - Marcela Munevar" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-350" y="-7" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oN_uE1y_xe9WY8pvt1uE-76" value="Asunto: Actas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="670" y="-196.75" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oN_uE1y_xe9WY8pvt1uE-40" value="Actas Independientes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="670" y="-150" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oN_uE1y_xe9WY8pvt1uE-77" value="Diligenciar Plantilla Acta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="670" y="-110" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oN_uE1y_xe9WY8pvt1uE-79" value="&lt;b&gt;Propuestas:&lt;/b&gt;&lt;div&gt;1. Diligenciar Plantilla en Correo&lt;/div&gt;&lt;div&gt;2. Diligenciar excel&lt;/div&gt;&lt;div&gt;3. Diligenciar Form&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="826" y="-220" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oN_uE1y_xe9WY8pvt1uE-38" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" parent="1" vertex="1">
-          <mxGeometry x="630" y="-190" width="30" height="16.5" as="geometry" />
-        </mxCell>
-        <mxCell id="oN_uE1y_xe9WY8pvt1uE-39" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/filetype-pdf-128.png" parent="1" vertex="1">
-          <mxGeometry x="630" y="-155" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="oN_uE1y_xe9WY8pvt1uE-75" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647702-excel-128.png" parent="1" vertex="1">
-          <mxGeometry x="630" y="-110" width="28" height="28" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -859,6 +859,15 @@
         </mxCell>
         <mxCell id="JGgMykRMknSexL4TEs4F-15" value="Envío de Actas por Correo" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="JGgMykRMknSexL4TEs4F-12">
           <mxGeometry x="340" y="35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MqAkA2y5lhY3GhsYLmjF-1" value="1 correo por cada Acta" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="JGgMykRMknSexL4TEs4F-12">
+          <mxGeometry x="510" y="56.75" width="30" height="16.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oiGwvSYexxsr-HSBQraY-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/filetype-pdf-128.png" vertex="1" parent="JGgMykRMknSexL4TEs4F-12">
+          <mxGeometry x="550" y="43.25" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oiGwvSYexxsr-HSBQraY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="JGgMykRMknSexL4TEs4F-12" source="oiGwvSYexxsr-HSBQraY-1" target="oiGwvSYexxsr-HSBQraY-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JGgMykRMknSexL4TEs4F-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JGgMykRMknSexL4TEs4F-4" target="JGgMykRMknSexL4TEs4F-14">
           <mxGeometry relative="1" as="geometry" />

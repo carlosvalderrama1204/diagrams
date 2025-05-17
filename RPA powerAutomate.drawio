@@ -796,7 +796,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vjzmY1XrgLd1x3gEuunO" name="Page-4">
-    <mxGraphModel dx="2194" dy="2334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -878,7 +878,7 @@
         <mxCell id="JhoTDlo8PyT3C57Argp1-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="JGgMykRMknSexL4TEs4F-5" source="JhoTDlo8PyT3C57Argp1-17" target="JhoTDlo8PyT3C57Argp1-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JhoTDlo8PyT3C57Argp1-19" value="Acceso y Carga al Sistema Simón" style="whiteSpace=wrap;html=1;rounded=1;" parent="JGgMykRMknSexL4TEs4F-5" vertex="1">
+        <mxCell id="JhoTDlo8PyT3C57Argp1-19" value="Acceso y Carga al Sistema SIMON" style="whiteSpace=wrap;html=1;rounded=1;" parent="JGgMykRMknSexL4TEs4F-5" vertex="1">
           <mxGeometry x="3200" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="stYYxO_RANF-LaPUVrav-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="JGgMykRMknSexL4TEs4F-5" source="JhoTDlo8PyT3C57Argp1-19" target="stYYxO_RANF-LaPUVrav-1" edge="1">
@@ -947,7 +947,7 @@
         <mxCell id="MqAkA2y5lhY3GhsYLmjF-1" value="1 correo por cada Acta" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" parent="JGgMykRMknSexL4TEs4F-12" vertex="1">
           <mxGeometry x="1230" y="76.75" width="30" height="16.5" as="geometry" />
         </mxCell>
-        <mxCell id="8nAbC-sI4YmnQhmRd28c-3" value="Crea el proyecto en Simón y obtiene un ID" style="rounded=1;whiteSpace=wrap;html=1;" parent="JGgMykRMknSexL4TEs4F-12" vertex="1">
+        <mxCell id="8nAbC-sI4YmnQhmRd28c-3" value="Crea el proyecto en sistema SIMON y obtiene un ID" style="rounded=1;whiteSpace=wrap;html=1;" parent="JGgMykRMknSexL4TEs4F-12" vertex="1">
           <mxGeometry x="1260" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8nAbC-sI4YmnQhmRd28c-5" value="Envío de ID" style="whiteSpace=wrap;html=1;rounded=1;" parent="JGgMykRMknSexL4TEs4F-12" vertex="1">

@@ -878,8 +878,8 @@
         <mxCell id="JhoTDlo8PyT3C57Argp1-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="JGgMykRMknSexL4TEs4F-5" source="JhoTDlo8PyT3C57Argp1-17" target="JhoTDlo8PyT3C57Argp1-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JhoTDlo8PyT3C57Argp1-19" value="Acceso y Carga al Sistema SIMON" style="whiteSpace=wrap;html=1;rounded=1;" parent="JGgMykRMknSexL4TEs4F-5" vertex="1">
-          <mxGeometry x="3200" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="JhoTDlo8PyT3C57Argp1-19" value="Carga Archivos al Sistema SIMON (Sistema de Monitoreo de Subsidio Familiar)" style="whiteSpace=wrap;html=1;rounded=1;" parent="JGgMykRMknSexL4TEs4F-5" vertex="1">
+          <mxGeometry x="3200" y="140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="stYYxO_RANF-LaPUVrav-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="JGgMykRMknSexL4TEs4F-5" source="JhoTDlo8PyT3C57Argp1-19" target="stYYxO_RANF-LaPUVrav-1" edge="1">
           <mxGeometry relative="1" as="geometry" />

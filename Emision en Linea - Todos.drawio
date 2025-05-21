@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.5" pages="17">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6" pages="18">
   <diagram id="oQg5v4_-Qz-4qN8YKQsb" name="Modelos Emision">
     <mxGraphModel dx="2208" dy="1665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3629,7 +3629,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sTYJvzZdeHplwq9bK0XT" name="TO-BE">
-    <mxGraphModel dx="3679" dy="3852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2067" dy="2996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3728,7 +3728,7 @@
         <mxCell id="Bc1a42AfPo7aUE2n1Zk9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="bgNHvy8tnrGRwKrJ1NFl-93" target="bgNHvy8tnrGRwKrJ1NFl-111" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IAZ1G9zW28igf5c5I2cx-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Bc1a42AfPo7aUE2n1Zk9-2">
+        <mxCell id="IAZ1G9zW28igf5c5I2cx-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Bc1a42AfPo7aUE2n1Zk9-2" vertex="1" connectable="0">
           <mxGeometry x="0.7291" y="-6" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
@@ -3922,7 +3922,7 @@
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="bgNHvy8tnrGRwKrJ1NFl-88" target="bgNHvy8tnrGRwKrJ1NFl-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bgNHvy8tnrGRwKrJ1NFl-155" value="Gestor de Facturación" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontStyle=1;strokeColor=light-dark(#f1870e, #ededed);strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="bgNHvy8tnrGRwKrJ1NFl-155" value="Gestor de Inconsistencias de Facturación" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontStyle=1;strokeColor=light-dark(#f1870e, #ededed);strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="30" y="300" width="350" height="261" as="geometry" />
         </mxCell>
         <mxCell id="7ZPwo6PWe-y4IKth8wyl-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#F1870E;strokeWidth=3;" parent="1" source="bgNHvy8tnrGRwKrJ1NFl-156" target="bgNHvy8tnrGRwKrJ1NFl-111" edge="1">
@@ -4191,6 +4191,38 @@
         </mxCell>
         <mxCell id="9qN-SKx4dWcU13amu6ZT-36" value="Reintentos" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" parent="1" vertex="1">
           <mxGeometry x="374" y="220" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="nNycDKPEbf4QWE9mGbE2" name="Gestor Inconsistencias">
+    <mxGraphModel dx="2253" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NWBrDeXFGUY1T_ZQyIMq-1" value="Gestor de Inconsistencias de Facturación" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontStyle=1;strokeColor=light-dark(#f1870e, #ededed);strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="150" width="350" height="261" as="geometry" />
+        </mxCell>
+        <mxCell id="NWBrDeXFGUY1T_ZQyIMq-2" value="Autenticación" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NWBrDeXFGUY1T_ZQyIMq-3" value="Análista facturación" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NWBrDeXFGUY1T_ZQyIMq-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="30" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NWBrDeXFGUY1T_ZQyIMq-5" value="Cognito" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#DD344C;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cognito;" vertex="1" parent="1">
+          <mxGeometry x="621" y="50" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="NWBrDeXFGUY1T_ZQyIMq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NWBrDeXFGUY1T_ZQyIMq-2" target="NWBrDeXFGUY1T_ZQyIMq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NWBrDeXFGUY1T_ZQyIMq-7" value="Facturas Pendientes por Emitir" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NWBrDeXFGUY1T_ZQyIMq-8" value="Facturas Pendientes" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="510" y="331" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

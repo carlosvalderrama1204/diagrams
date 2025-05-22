@@ -4196,7 +4196,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nNycDKPEbf4QWE9mGbE2" name="Gestor Inconsistencias">
-    <mxGraphModel dx="2505" dy="2060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2053" dy="1807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4271,7 +4271,7 @@
           <mxGeometry x="450" y="271" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="LiMq7jqnld7GtcuCqSyP-6" value="E-mail" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" parent="1" vertex="1">
-          <mxGeometry x="560" y="-200" width="30" height="16.5" as="geometry" />
+          <mxGeometry x="-665" y="100" width="30" height="16.5" as="geometry" />
         </mxCell>
         <mxCell id="bfyQOBoWouGMRuIUzwsS-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bfyQOBoWouGMRuIUzwsS-21" target="bfyQOBoWouGMRuIUzwsS-22" edge="1">
           <mxGeometry relative="1" as="geometry" />

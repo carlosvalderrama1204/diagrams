@@ -2061,6 +2061,12 @@
         <mxCell id="722x36F3dLW_WxcHlzkB-5" value="Crear Pago" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2350" y="3528" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="722x36F3dLW_WxcHlzkB-7" value="$Valor" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="310" y="3501" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="722x36F3dLW_WxcHlzkB-8" value="$Valor" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1419" y="3314" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

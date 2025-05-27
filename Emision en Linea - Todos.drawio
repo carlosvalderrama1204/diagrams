@@ -4196,7 +4196,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nNycDKPEbf4QWE9mGbE2" name="Gestor Inconsistencias">
-    <mxGraphModel dx="2253" dy="1926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3420" dy="2545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4528,7 +4528,7 @@
           <mxGeometry x="503" y="840" width="41" height="41" as="geometry" />
         </mxCell>
         <mxCell id="mLrzAzNKOY-rO-UeVt-c-41" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/webp,UklGRpwBAABXRUJQVlA4TI8BAAAvf8AfEIDkto0gif//9exud09lo9tgEAHH2rbj0ZvSrGxbnW1rEayygCxDXcr02kgy09m2Zx5HbiQpkitzefc0tPQB9PExMDJe7dvoUew1Nv4sqOMAPCvXgT+DnWajXAeeSevALM8vOUoOrqr9a3RRdAgdX1ii6mhd2M/Cuz65v3/6OkNQIE7Is1fRNBEvAK+EyXgH+E2WnA+Av4lS8AlwTdZdJq+szeBD9mbuhRZnbLu3OVPb/dUZ2u/tzsx+d3lG9vvbM3HcsT4Dxz37c37cFcjxcV8hp8ediTSPe9V9w3U8c58ddyfiAO8/wY4xynOOUQeseTJ5knkMdQ5QnWFyu8fv4YYt5olE3TCgIB53N3XNiY40eibRQ4WeCvTY/p5b3wHbO2F5R+zujNUdsrlTFnfM3ia5fWjxCrfbm45alktnLYubPw1DXG5+moY4Ofvfu31Lgp//3bN2/XffxE7av3vH074WdBYuz8Pjh7zOGMV5Iqn/70cJtfnTR22eFFGaP3MS1OXFnqUOOfpQGAQA;" vertex="1" parent="1">
-          <mxGeometry x="-12" y="34" width="28" height="28" as="geometry" />
+          <mxGeometry x="-11.09" y="28" width="28" height="28" as="geometry" />
         </mxCell>
         <mxCell id="mLrzAzNKOY-rO-UeVt-c-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sourcePerimeterSpacing=33;strokeWidth=2;" edge="1" parent="1" source="mLrzAzNKOY-rO-UeVt-c-45" target="mLrzAzNKOY-rO-UeVt-c-46">
           <mxGeometry relative="1" as="geometry" />

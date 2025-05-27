@@ -1654,7 +1654,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6k_hCxfZ66nFsu_pYgvU" name="Page-8">
-    <mxGraphModel dx="2630" dy="-826" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3179" dy="-519" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1786,8 +1786,8 @@
         <mxCell id="UozVSLSecZ93IvVOa3qZ-8" value="Orquestador - DXC" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1091" y="3140" width="819" height="660" as="geometry" />
         </mxCell>
-        <mxCell id="UozVSLSecZ93IvVOa3qZ-9" value="&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;https://linkpagos.compensar.com/Payments?Payload=[PAYLOAD_CIFRADO]&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;&amp;amp;signature=[HMAC]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="679" y="3495" width="450" height="40" as="geometry" />
+        <mxCell id="UozVSLSecZ93IvVOa3qZ-9" value="&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;https://linkpagos.compensar.com/Payments?Payload=[PAYLOAD_CIFRADO]&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="682" y="3502" width="445" height="26" as="geometry" />
         </mxCell>
         <mxCell id="UozVSLSecZ93IvVOa3qZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.549;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="UozVSLSecZ93IvVOa3qZ-4" target="UozVSLSecZ93IvVOa3qZ-6" edge="1">
           <mxGeometry relative="1" as="geometry" />

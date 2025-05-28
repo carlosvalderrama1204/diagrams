@@ -4240,11 +4240,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nNycDKPEbf4QWE9mGbE2" name="Gestor Inconsistencias">
-    <mxGraphModel dx="3967" dy="2487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3204" dy="2431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NWBrDeXFGUY1T_ZQyIMq-4" value="&lt;span style=&quot;color: rgb(15, 20, 26); font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; font-size: 14px; text-align: start;&quot;&gt;compensar_buzonfacturacion[ENV]&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=3;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;perimeterSpacing=0;glass=0;shadow=1;" parent="1" vertex="1">
+        <mxCell id="NWBrDeXFGUY1T_ZQyIMq-4" value="&lt;span style=&quot;color: rgb(15, 20, 26); font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start;&quot;&gt;compensar_buzonfacturacion[ENV]&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=3;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;perimeterSpacing=0;glass=0;shadow=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-290" y="-90" width="1350" height="1010" as="geometry" />
         </mxCell>
         <mxCell id="bfyQOBoWouGMRuIUzwsS-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#062CEA,#EDEDED);strokeWidth=2;endArrow=block;endFill=1;" parent="1" source="8xvS891SYXIpoKLKwEZW-20" target="bfyQOBoWouGMRuIUzwsS-23" edge="1">

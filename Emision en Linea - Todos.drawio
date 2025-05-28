@@ -3629,7 +3629,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sTYJvzZdeHplwq9bK0XT" name="TO-BE">
-    <mxGraphModel dx="2722" dy="3323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2564" dy="3241" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3849,7 +3849,7 @@
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-121" value="Response&amp;nbsp;&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;Issue/XML3&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="915" y="95" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bgNHvy8tnrGRwKrJ1NFl-122" value="Post&amp;nbsp;&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;Issue/XML3&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="bgNHvy8tnrGRwKrJ1NFl-122" value="Post /&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;Issue/XML3&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="955" y="-25" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#26FF34;strokeWidth=3;" parent="1" source="bgNHvy8tnrGRwKrJ1NFl-125" target="bgNHvy8tnrGRwKrJ1NFl-84" edge="1">
@@ -3901,47 +3901,57 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-155" value="Gestor de Inconsistencias de Facturación" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontStyle=1;strokeColor=light-dark(#f1870e, #ededed);strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="30" y="300" width="350" height="261" as="geometry" />
+          <mxGeometry x="-149.24" y="389" width="350" height="261" as="geometry" />
         </mxCell>
         <mxCell id="7ZPwo6PWe-y4IKth8wyl-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#F1870E;strokeWidth=3;" parent="1" source="bgNHvy8tnrGRwKrJ1NFl-156" target="bgNHvy8tnrGRwKrJ1NFl-111" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="476" />
+              <mxPoint x="340" y="-62" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-156" value="GUI de Gestión de Errores" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="125" y="361.5" width="160" height="50" as="geometry" />
+          <mxGeometry x="-54.239999999999995" y="450.5" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="bgNHvy8tnrGRwKrJ1NFl-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#1411DF;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="bgNHvy8tnrGRwKrJ1NFl-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#1411DF;strokeWidth=2;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" edge="1" target="bgNHvy8tnrGRwKrJ1NFl-156">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="428" y="160" as="sourcePoint" />
-            <mxPoint x="123" y="380" as="targetPoint" />
+            <mxPoint x="-10" y="380" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="103" y="160" />
-              <mxPoint x="103" y="380" />
+              <mxPoint x="-170" y="160" />
+              <mxPoint x="-170" y="463" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NybThh4gfdI481ssoSHW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#F1870E;" parent="1" source="NybThh4gfdI481ssoSHW-1" target="bgNHvy8tnrGRwKrJ1NFl-156" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-190" y="488" />
+              <mxPoint x="-190" y="488" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="NybThh4gfdI481ssoSHW-1" value="Aux. Facturación" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-210" y="370" width="30" height="60" as="geometry" />
+          <mxGeometry x="-260" y="460" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NybThh4gfdI481ssoSHW-3" value="Envia notificación por email" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" parent="1" vertex="1">
-          <mxGeometry x="-170" y="270" width="30" height="16.5" as="geometry" />
+        <mxCell id="NybThh4gfdI481ssoSHW-3" value="Envia notificación por email" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=none;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" parent="1" vertex="1">
+          <mxGeometry x="190" y="93.5" width="30" height="16.5" as="geometry" />
         </mxCell>
         <mxCell id="NybThh4gfdI481ssoSHW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#1411DF;strokeWidth=3;" parent="1" source="bgNHvy8tnrGRwKrJ1NFl-120" target="NybThh4gfdI481ssoSHW-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NybThh4gfdI481ssoSHW-9" value="Reporte Errores" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="125" y="430" width="160" height="50" as="geometry" />
+          <mxGeometry x="-54.239999999999995" y="519" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_gFXnCaUt4ltgKe1RHc5-1" value="Envia al gestor de errores" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="260.0042857142858" y="170" as="geometry" />
         </mxCell>
         <mxCell id="_gFXnCaUt4ltgKe1RHc5-3" value="Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="125" y="500" width="160" height="50" as="geometry" />
+          <mxGeometry x="-54.239999999999995" y="589" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_gFXnCaUt4ltgKe1RHc5-7" value="Agent AI" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-regular-vol-4/256/robot-128.png" parent="1" vertex="1">
-          <mxGeometry x="-320" y="361.5" width="61" height="61" as="geometry" />
+          <mxGeometry x="-370" y="451.5" width="61" height="61" as="geometry" />
         </mxCell>
         <mxCell id="kYBo9Xz0CqznOa5qTHE6-1" value="Plataforma Bienestar" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-489" y="47" width="210" height="103" as="geometry" />
@@ -4027,9 +4037,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2mfNp2o7tdm-TwQPbjln-7" value="Post Login" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2mfNp2o7tdm-TwQPbjln-5">
+        <mxCell id="2mfNp2o7tdm-TwQPbjln-7" value="Post /Login" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2mfNp2o7tdm-TwQPbjln-5">
           <mxGeometry x="-0.5045" y="2" relative="1" as="geometry">
-            <mxPoint x="82" y="-9" as="offset" />
+            <mxPoint x="147" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Mko5NfoNatoPSfV7UkYT-1" value="Homologaciones" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
@@ -4087,6 +4097,9 @@
         </mxCell>
         <mxCell id="2mfNp2o7tdm-TwQPbjln-4" value="Token" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="-123" width="140" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="fvDe5qEitHPAosJ0NnhU-1" value="&lt;span style=&quot;text-align: left;&quot;&gt;POST /facturacion/reprocesarFactura&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="437.5" width="159.24" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -4205,7 +4218,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nNycDKPEbf4QWE9mGbE2" name="Gestor Inconsistencias">
-    <mxGraphModel dx="3432" dy="2524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2316" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4469,7 +4482,7 @@
             <mxPoint x="102" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mLrzAzNKOY-rO-UeVt-c-31" value="POST /v2/facturacion/reprocesarFactura" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="mLrzAzNKOY-rO-UeVt-c-31" value="POST /facturacion/reprocesarFactura" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-110" y="730" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mLrzAzNKOY-rO-UeVt-c-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="mLrzAzNKOY-rO-UeVt-c-37" target="mLrzAzNKOY-rO-UeVt-c-45" edge="1">

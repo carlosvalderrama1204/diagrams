@@ -3629,7 +3629,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sTYJvzZdeHplwq9bK0XT" name="TO-BE">
-    <mxGraphModel dx="1506" dy="2698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1846" dy="2879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3745,10 +3745,10 @@
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-99" value="Emisión Facturación" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#F38A12;strokeColor=#F38A12;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-59" y="-532" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="bgNHvy8tnrGRwKrJ1NFl-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.919;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="1" source="bgNHvy8tnrGRwKrJ1NFl-101" target="bgNHvy8tnrGRwKrJ1NFl-111" edge="1">
+        <mxCell id="bgNHvy8tnrGRwKrJ1NFl-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="bgNHvy8tnrGRwKrJ1NFl-101" target="bgNHvy8tnrGRwKrJ1NFl-111" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="630" y="-655" />
+              <mxPoint x="610" y="-655" />
             </Array>
           </mxGeometry>
         </mxCell>

@@ -3717,11 +3717,6 @@
         <mxCell id="Bc1a42AfPo7aUE2n1Zk9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="bgNHvy8tnrGRwKrJ1NFl-93" target="bgNHvy8tnrGRwKrJ1NFl-111" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IAZ1G9zW28igf5c5I2cx-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Bc1a42AfPo7aUE2n1Zk9-2" vertex="1" connectable="0">
-          <mxGeometry x="0.7291" y="-6" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-93" value="Emisión Facturación" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#F38A12;strokeColor=#F38A12;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-59" y="-320" width="120" height="40" as="geometry" />
         </mxCell>

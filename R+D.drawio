@@ -204,7 +204,7 @@
           <mxGeometry x="-280" y="370" width="100" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="_5o0ibSi2e8DYtXXYduX-52" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-1/640/aws-64.png;" vertex="1" parent="1">
-          <mxGeometry x="430" y="530" width="32" height="32" as="geometry" />
+          <mxGeometry x="420" y="520" width="32" height="32" as="geometry" />
         </mxCell>
         <mxCell id="_5o0ibSi2e8DYtXXYduX-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_5o0ibSi2e8DYtXXYduX-53" target="_5o0ibSi2e8DYtXXYduX-26">
           <mxGeometry relative="1" as="geometry">

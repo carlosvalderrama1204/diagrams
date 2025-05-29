@@ -563,7 +563,7 @@
         <mxCell id="_cskd8p5I6brAU5aOjfc-57" value="Sonda Pagos API" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://icon.icepanel.io/AWS/svg/Containers/Fargate.svg;" vertex="1" parent="1">
           <mxGeometry x="404.66999999999996" y="1822" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_cskd8p5I6brAU5aOjfc-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sourcePerimeterSpacing=20;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_cskd8p5I6brAU5aOjfc-59" target="_cskd8p5I6brAU5aOjfc-57">
+        <mxCell id="_cskd8p5I6brAU5aOjfc-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sourcePerimeterSpacing=20;exitX=0;exitY=0.5;exitDx=0;exitDy=0;targetPerimeterSpacing=20;" edge="1" parent="1" source="_cskd8p5I6brAU5aOjfc-59" target="_cskd8p5I6brAU5aOjfc-57">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>

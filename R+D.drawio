@@ -579,7 +579,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_cskd8p5I6brAU5aOjfc-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_cskd8p5I6brAU5aOjfc-63" target="_cskd8p5I6brAU5aOjfc-9">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="1570" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_cskd8p5I6brAU5aOjfc-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sourcePerimeterSpacing=20;" edge="1" parent="1" source="_cskd8p5I6brAU5aOjfc-63" target="_cskd8p5I6brAU5aOjfc-66">
           <mxGeometry relative="1" as="geometry">

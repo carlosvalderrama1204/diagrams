@@ -313,7 +313,7 @@
           <mxGeometry x="110" y="998.5" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UwilY6op7jSAXLVweiD8-2" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: IBMPlexMono, &amp;quot;Courier New&amp;quot;, monospace, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12px; line-height: 18px; white-space: pre;&quot;&gt;&lt;span style=&quot;&quot; data-teams=&quot;true&quot;&gt;&lt;b&gt;PLAT_EC_RED_PSE&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="985" width="150" height="40" as="geometry" />
+          <mxGeometry x="-60" y="998.5" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

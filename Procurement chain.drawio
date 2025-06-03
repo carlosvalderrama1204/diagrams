@@ -858,10 +858,10 @@
           <mxGeometry x="10" y="50" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="1k3pDA_kW75SgnLT4I9z-5" value="IAM" style="rounded=1;whiteSpace=wrap;html=1;" parent="nO8lwCdYr8qf23EuGbLe-39" vertex="1">
-          <mxGeometry x="120" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1k3pDA_kW75SgnLT4I9z-7" value="Vuciam" style="rounded=1;whiteSpace=wrap;html=1;" parent="nO8lwCdYr8qf23EuGbLe-39" vertex="1">
-          <mxGeometry x="120" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I9ohEUYJ4aIIQylVFsQT-1" value="OpenID" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAACuElEQVR4nO2YO2gUURSGxxcighoUtLGIVhHEQgsFUQRFLMTKmEoLQfEVSWMQi1XEwkayAR+zM98/mw2LsFooiA98IYgYCAgSwUIERS3UEGzE+MjIhQTikrszG2J2BuaH2+2e+39z7pl7zjhOpkyZMsVVV6tzuK/TGXTSajy84oRmOWk1HqYNIKwyngFMt7IMNFpZBhqtLAPTpSAIFgGbgyA4BniSnkh6bcsAcEfSeaC1WCyudBqhQqHQDHQYs8BvSWH1sgFU/w54B1yUtC2Xy838r8Z9398k6RYwMpHpyQDo3/VWUqfrugvH9vQ8b6mka729vQsmbVzSauBplOkpAAhH1xegHdgLfB3N1Kq6jbuuO0dSDhiutaHZBKhIOur7/rqenp7FNoAgCHZLugx8qOeBSNpel/lSqTRf0r2IoLcl7TKg9b5GwzCcUSwW10rKA9+jAID9sc2Xy+UmSc9rBOzzfX/DVN0DQRAsk3Q9AuB0LPPmyQA3LEFGgHO5XG52ZJyYAJVKZR5wVtKPiCz4sQCAIzbz5ozHChITQNLO0TdPZA0Ad+NeSkOWIBfimo8LUC6Xm4CNwAFTC5LuS/pk2f9V5KaSjlvo35tUTzWATa7rLvF9fwtwSNIlSY+AN06UgAcW+pyThmZO0ueJAMwNnBaAn5YjtCIVAFgKOAiC9WnJwDNLDcR+fTYa4IzlCA2YCy7xAIVCoblGHXSkYqQEuiwAw8COxAPk8/m5QL+lFn5JOphogHFH6WONvuSh53ktTpK/SkhaDrys0WD9kXQT2FqpVGYlDsDIzKHA1RidopnISpL2AWvMgJMIgDGNNlYDcdresYJPFMC4+XgP8DgORLXxF6ecb91tzgknCfI8r8VMZmbsjPoulCjjtiHIDPZmZgXKZl6WNNh/0hnqbnPaJ/xTpkyZMhn9BY/1BB+64BPEAAAAAElFTkSuQmCC;" parent="nO8lwCdYr8qf23EuGbLe-39" vertex="1">
           <mxGeometry x="30" y="80" width="48" height="48" as="geometry" />

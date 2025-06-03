@@ -1438,7 +1438,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2liVn_7Ah-z_7VVoZccf" name="Page-8">
-    <mxGraphModel dx="1426" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2216" dy="971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1611,10 +1611,10 @@
           <mxGeometry x="123" y="100" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="09LzCOWTB2m7BKxCuV8K-55" value="SAML" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.saml_token;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="09LzCOWTB2m7BKxCuV8K-49">
-          <mxGeometry x="20" y="230" width="59" height="61" as="geometry" />
+          <mxGeometry x="30" y="230" width="59" height="61" as="geometry" />
         </mxCell>
         <mxCell id="09LzCOWTB2m7BKxCuV8K-56" value="SAML" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.saml_token;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="09LzCOWTB2m7BKxCuV8K-49">
-          <mxGeometry x="20" y="70" width="59" height="61" as="geometry" />
+          <mxGeometry x="30" y="70" width="59" height="61" as="geometry" />
         </mxCell>
         <mxCell id="09LzCOWTB2m7BKxCuV8K-57" value="Aplicaciones" style="swimlane;startSize=20;" vertex="1" parent="1">
           <mxGeometry x="1430" y="490" width="210" height="1270" as="geometry" />

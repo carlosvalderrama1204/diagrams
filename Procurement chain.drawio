@@ -700,7 +700,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Q7rmiE5RoHRxUN707yW6" name="Page-5">
-    <mxGraphModel dx="2864" dy="2250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3518" dy="2299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -795,7 +795,7 @@
           <mxGeometry x="25" y="40" width="160" height="690" as="geometry" />
         </mxCell>
         <mxCell id="A3tbcfKhwd3X5gUY7jTj-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="nO8lwCdYr8qf23EuGbLe-26">
-          <mxGeometry x="42.5" y="70" width="127.5" height="50" as="geometry" />
+          <mxGeometry x="30" y="70" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nO8lwCdYr8qf23EuGbLe-28" value="Crear Orden" style="rounded=1;whiteSpace=wrap;html=1;" parent="nO8lwCdYr8qf23EuGbLe-26" vertex="1">
           <mxGeometry x="45" y="120" width="120" height="20" as="geometry" />

@@ -798,10 +798,10 @@
           <mxGeometry x="30" y="70" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nO8lwCdYr8qf23EuGbLe-28" value="Crear Orden" style="rounded=1;whiteSpace=wrap;html=1;" parent="nO8lwCdYr8qf23EuGbLe-26" vertex="1">
-          <mxGeometry x="45" y="120" width="120" height="20" as="geometry" />
+          <mxGeometry x="45" y="140" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nO8lwCdYr8qf23EuGbLe-29" value="Aprobar/Rechazar" style="rounded=1;whiteSpace=wrap;html=1;" parent="nO8lwCdYr8qf23EuGbLe-26" vertex="1">
-          <mxGeometry x="45" y="160" width="120" height="20" as="geometry" />
+          <mxGeometry x="45" y="170" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nO8lwCdYr8qf23EuGbLe-30" value="Actualiza Inventario" style="rounded=1;whiteSpace=wrap;html=1;" parent="nO8lwCdYr8qf23EuGbLe-26" vertex="1">
           <mxGeometry x="45" y="210" width="120" height="20" as="geometry" />

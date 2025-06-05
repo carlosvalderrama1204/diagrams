@@ -1528,7 +1528,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0Wg2UeNZRQSiT3i38uRw" name="Page-7">
-    <mxGraphModel dx="3518" dy="-39" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2711" dy="-378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1726,7 +1726,22 @@
         <mxCell id="qO1AvfDRLmVimzbekmgX-25" value="Consulta Referencia" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1249" y="3350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qO1AvfDRLmVimzbekmgX-28" value="InvoiceQueryByReference" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Sas3--qQ8KXtVN-svgZU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qO1AvfDRLmVimzbekmgX-28" target="Sas3--qQ8KXtVN-svgZU-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2870" y="2260" />
+              <mxPoint x="2690" y="2260" />
+              <mxPoint x="2690" y="2640" />
+              <mxPoint x="2145" y="2640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sas3--qQ8KXtVN-svgZU-16" value="PC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Sas3--qQ8KXtVN-svgZU-14">
+          <mxGeometry x="0.226" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qO1AvfDRLmVimzbekmgX-28" value="InvoiceQueryByCliente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2835.5" y="2190" width="149" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qO1AvfDRLmVimzbekmgX-29" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/webp,UklGRtIFAABXRUJQVlA4TMUFAAAvf8AfEJDYRpIjSfTf7ayqma3uey0iKGDbdrzN7i9Juza1Ztu2vVWzbdu2bRvVbBTzP9vIjn+s2xld0msC6L//f2/mrL5x9otxxx13xFqsEeMIOXWy1HZRouw3XSDXQ1S331cMvdS5MoGNjU2cQgM1XWdj89Syid6+AzI0K1Rzlh2tv06oegBvp/HUIS5hDQDYNBCDVHzgDQBoSURMVnBg7I8G+3TFc+tCm2DrOPlRGNQpAAB+8yAie/HUkn2GhxRHzDXSAIOt8r6A2kTEwx8AkK9RFaX9nb7hBBHpjfTNbr0FaiTYKOGSAUv36QXx1mvEQiWTQX6F40REzoVejTGVD52w0IuIwRZieFLNWRthGu7jrAYLTY0PDt5EZFjY1TgCQAYABSqGeAD+8SNSGQDY5aGLskoHAIFEJH94VzEkAd66BEDPSikAEE1EOoZ4uqpDYSgRkccAoGChOAC7zQNgW2V4GEREugY796tYGkaFBaFvoT8A/TQF4FXlCAAO2YlI1YAVV7EkjA01w77CbgCKc/cPgOzBLB2AK0RELD4FHJP3PO4KKqMQnyfMkgD4WLABEhnkFgDtQxUAMDrI6AL+OaYDj5NkN819dgCQyeagKY4NyG4AUJSI5ALgEJFlAKwNEwHIlK9gcb4A4LcT+vA9hMVkf/C40i4MICIdARhNpCUAD8I5AG5TzepQA8AfO+U6gYvzeLHi6S8A4URkLQCVifhxABx8iGTxE4DJDTF097YDpAk6QBjSb4dNMMAAwy1w2NsRiQYgnkHkAeAbCxF5BEAIkXoAoFhHxKSeNd418FfzdRohHZODWhNGRgCAEsSbA3COiMh6ABYTmQ3AY3qqotmeFhDPY5tD4TEXekfBMIQEATA9dATgOpErAMx+REQqux4wZBmTH6E/Dc0fkacARJEFANQPOQHIYOUuA4BybxCzQ+HIMj5IVSYOziwCIInhMuAv1yCvAWgoEIA39K6S4e4yOQv1B5ykhOmN2gCgsj+Aa1TaDsAsSwFY/BLXcGUZ98LCgVFIWxtmKQBEAbC40guAWHcBqPaSGmH/MvIy/FCyMYS98JJRkT0AOAAIqRQE4DcH4AOjUd1sZSbcXQ+dtlkQkKA9g4hVc5fQCmx0QMnBpyIfUFpDrb2A26apzSfkMswbAPCOdRt/6QFId9dLfwHINFl8ON3wklF4SK2wSr1OOEpfvWeTgpJdY1ovmKOo2Q0hQ8PLhsQW1ncGFRKZOwuroQyd6EBBUgduq0TELBpwTt5O70KTTkEZYRH1XMySNnNPRTqSn3nehDR7hDAREfGzWmcG9UzaGGeiMYJoqLqRJpqoE+cBEat2Nrnrd+G1XRoz6Fg5lFKCBx3MIo/SKinKi379ZVVJc5110V59ub8mZg1s8IIdtU9WCdiircGst2DS0zvMhW2xAz4ZxOkK/N3FUxe3cBUGeK0z0wUUt88Ko3TSRBWFFVRJbT1dDme3EMMkDsADnTkdN2f2CYBNa4gE+gJAvFl8LkKuAzB4ESnpFQD4ZoUiF5DHZIe0JiKvACi1ibhZJxPpqv68juKkjdPsgPdE3NkB7xiriDTyfwB+CRMoyyHMGtokGQA4jCfSHID5tJ2nrTIDgO8O6iVgHTehNkpA6ZEaRGQNwK7IOiIN3asAsLtmlqY81rCoaqxof1D7aQInImLyGbCPTmTSzbsm2d23VmelOX+IoaBW5ojzAz2HffJTqg/IUPQIIi4mSB+U/nnuoHm6aaAEr0fMsqumsym2ueYb5o4qTbVNgKl0LB8TvJv1fnnjjljRDoiyxVZRDop2xXPJeJHDCdWpZfUFLjOfQ8QkVPQbH/fNZiVoqDvc50+Hq2SzpFUy/WcoTxqLdJ0vnc+soQ3it3hksgL0lC8z3ZFJXXNd8ONTkkTorwDdnUUVI0V64tc7vrhkjb7KMuiLlENtPcyyzlZRjot20x3RzokSbqUxOqolL/33/89aAA==;" vertex="1" parent="1">
@@ -1837,7 +1852,12 @@
           <mxGeometry x="3465" y="2449.32" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sas3--qQ8KXtVN-svgZU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sas3--qQ8KXtVN-svgZU-2" target="Sas3--qQ8KXtVN-svgZU-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3160" y="2539" />
+              <mxPoint x="3160" y="2479" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Sas3--qQ8KXtVN-svgZU-7" value="Notificación" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3465" y="2270" width="120" height="60" as="geometry" />
@@ -1854,6 +1874,20 @@
               <mxPoint x="2420" y="2160" />
               <mxPoint x="2628" y="2160" />
               <mxPoint x="2628" y="2060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sas3--qQ8KXtVN-svgZU-11" value="Sociedad" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2914.5" y="2360" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sas3--qQ8KXtVN-svgZU-13" value="InvoiceQueryByCliente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="2540" width="149" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sas3--qQ8KXtVN-svgZU-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="qO1AvfDRLmVimzbekmgX-28" target="Sas3--qQ8KXtVN-svgZU-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3160" y="2220" />
+              <mxPoint x="3160" y="2464" />
             </Array>
           </mxGeometry>
         </mxCell>

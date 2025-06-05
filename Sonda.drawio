@@ -1848,6 +1848,15 @@
         <mxCell id="Sas3--qQ8KXtVN-svgZU-8" value="InvoiceMulttiPayment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2835.5" y="2030" width="149" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Sas3--qQ8KXtVN-svgZU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7OGw7i_MpudPrGaBvPmH-74" target="Sas3--qQ8KXtVN-svgZU-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2420" y="2160" />
+              <mxPoint x="2628" y="2160" />
+              <mxPoint x="2628" y="2060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

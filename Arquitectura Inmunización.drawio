@@ -1,9 +1,113 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Page-1" id="vmDn7YIeKexfkJLYJOtr">
-    <mxGraphModel>
+    <mxGraphModel dx="2253" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-1" value="SAP PM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0fWgBkCrDiIs0lx5FqNq-2" target="0fWgBkCrDiIs0lx5FqNq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-2" value="Usuario Administrativo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-4" value="Creación del Episodio" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="270" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0fWgBkCrDiIs0lx5FqNq-6" target="0fWgBkCrDiIs0lx5FqNq-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-6" value="Vacunador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="890" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-8" value="Atiende paciente y aplica vacuna" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-10" value="SAP PM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-11" value="SAP PM" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="680" width="200" height="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-16" value="Crea Episodio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0fWgBkCrDiIs0lx5FqNq-11">
+          <mxGeometry x="40" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-40" value="Completa el registro&lt;br&gt;&lt;br&gt;&amp;nbsp;abrir nuevamente el episodio y completar manualmente campos adicionales" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0fWgBkCrDiIs0lx5FqNq-11">
+          <mxGeometry x="40" y="1060" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-12" value="WMS" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="680" width="200" height="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="0fWgBkCrDiIs0lx5FqNq-12" source="0fWgBkCrDiIs0lx5FqNq-21" target="0fWgBkCrDiIs0lx5FqNq-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-21" value="ingresa el ID de Episodio y realiza el descargo de los insumos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0fWgBkCrDiIs0lx5FqNq-12">
+          <mxGeometry x="50" y="330" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-27" value="Registra consumo. (lotes y fechas de vencimiento)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="0fWgBkCrDiIs0lx5FqNq-12">
+          <mxGeometry x="50" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-34" value="Sincronizar Consumo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0fWgBkCrDiIs0lx5FqNq-12">
+          <mxGeometry x="50" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-13" value="Aplicación Fisica" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="680" width="200" height="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-18" value="Atiende paciente y aplica vacuna" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0fWgBkCrDiIs0lx5FqNq-13">
+          <mxGeometry x="40" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-44" value="Conciliación Manual" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0fWgBkCrDiIs0lx5FqNq-13">
+          <mxGeometry x="40" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0fWgBkCrDiIs0lx5FqNq-15" target="0fWgBkCrDiIs0lx5FqNq-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-15" value="Usuario Administrativo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="740" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.558;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0fWgBkCrDiIs0lx5FqNq-6" target="0fWgBkCrDiIs0lx5FqNq-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-380" y="1077" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-26" value="1 a 1&lt;div&gt;(vacuna, jeringa, diluyente, etc.).&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="1020" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-29" value="SAP MM" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="680" width="200" height="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-36" value="Registrar Consumo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0fWgBkCrDiIs0lx5FqNq-29">
+          <mxGeometry x="30" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-38" value="&lt;strong&gt;&amp;nbsp;propensa a errores&lt;/strong&gt;: a veces duplica los datos, a veces no los envía, y no es en tiempo real." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="0fWgBkCrDiIs0lx5FqNq-29">
+          <mxGeometry x="40" y="870" width="100" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0fWgBkCrDiIs0lx5FqNq-33" target="0fWgBkCrDiIs0lx5FqNq-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-33" value="Tarea Programada&#xa;2 minutos" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAADJklEQVR4nO2ZyW9NURzHPzppxRDUo1rsJKQiIhYaYWklhkoqEkubJhYkdkINKQkSsRALfwOJITakKBEhpIaqiFbMNpZtKX3yk+9NTl5v37vTG270k7w0zTn3N9x7zu+c8z0wxf/BOaAP+AQMAyPAV+A1cB04AWwHZlPhfAayAX6jwDVgN1BbjEB6AwZi/fzIAKuBFqABqAeagJVAO9AN9AC/HVvvgX1AXTkSsV8cLOFO4IVjrx/YmOeZR8DDOE6nAxcTTsSjSl/qpWyOa57V+PSN5deGyGMZsIm7P+FEPGqBI8Av2bbh15jTJ7LfpcA7PWxVpzWuwQCsVcXzhpoNQeL4bQYG9aCNzflxDYb0/Uw+njtfJrTfegVvD90HZua0FzsRY54zb3o0Z0L7vaQHbFgt8GkvRSLe/PwgXyfD+t2szsOq/ZQxEaMNGFM1C+zXyuyAOh/M06+UiRhHw5b9A+r4dJI67i6a90iW3qQWYtsefFTHLZSe3oBJFHyBe5yvMY0Uc1OJ7CXFzAF+qjr4ldvU0K6vcYuU061EjpNybigRO4JWOo3AF+CUX6O3CK6g8mlVrHYgm8B3NS6k8mlWrKYNTGBUjbZFqXTqnUNeqhOZ4WxqJ/AtRUOrJd/QeqPG5VQ+qxTrK7/GC9ow2gqflsX7KinntBLpIuXcVSJbSTEZbWxH0iCC58MTB6+QYqocnbijUOcHMZX4YtIh34MF9IR/BD38Jyk8BFHYa5yNrSn4BXGDPZRMnIF95qNLfQaCbqM8o+NSxddR/kTWq1L9ATaENXpWf4d021SuRJY4kumZKEZrnIXHKsXcZGLO69PvJNjvaAkFJ/hkRjOOoSfA4jCGIvr0WKab4awUefdKI5LRRU61sE3lmrAGI/hsc44VfVHlKb+3k3GGmWlfhxO+TvZ8NkhQGNP/t6N8iVyjuVjg5x1p3+bNDq22cfF8vnUqpt2FVMcxWkhl36S7xKyTUGfMk2W2XLuJOl3uDzlO7PL/jt7kTl0QNUkoqFbVqy22Ch8VK4e7dFIbCRCIrw5VacwCtgHHlFi/1MARfa0fwOVyBzkFJeIvn9xqLHC+m2IAAAAASUVORK5CYII=;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="1405" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0fWgBkCrDiIs0lx5FqNq-34" target="0fWgBkCrDiIs0lx5FqNq-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0fWgBkCrDiIs0lx5FqNq-39" target="0fWgBkCrDiIs0lx5FqNq-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-39" value="Vacunador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="1770" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0fWgBkCrDiIs0lx5FqNq-43" value="Usuario" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="1940" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

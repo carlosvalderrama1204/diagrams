@@ -3629,7 +3629,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sTYJvzZdeHplwq9bK0XT" name="TO-BE">
-    <mxGraphModel dx="5079" dy="3838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2796" dy="2838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3819,7 +3819,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="370" y="70" />
-              <mxPoint x="370" y="20" />
+              <mxPoint x="370" y="60" />
+              <mxPoint x="10" y="60" />
+              <mxPoint x="10" y="30" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3854,12 +3856,14 @@
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-122" value="POST /&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;Issue/XML3&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="910" y="-25" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bgNHvy8tnrGRwKrJ1NFl-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#26FF34;strokeWidth=3;" parent="1" source="bgNHvy8tnrGRwKrJ1NFl-125" target="bgNHvy8tnrGRwKrJ1NFl-84" edge="1">
+        <mxCell id="bgNHvy8tnrGRwKrJ1NFl-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.988;entryY=0.703;entryDx=0;entryDy=0;strokeColor=#26FF34;strokeWidth=3;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="bgNHvy8tnrGRwKrJ1NFl-125" target="bgNHvy8tnrGRwKrJ1NFl-84" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="160" y="5" />
-              <mxPoint x="160" y="-55" />
+              <mxPoint x="130" y="5" />
+              <mxPoint x="130" y="-48" />
             </Array>
+            <mxPoint x="595" y="7.5" as="sourcePoint" />
+            <mxPoint x="-50" y="-42.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-124" value="Notificación Sincrona (CUFE, Estado, etc)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="bgNHvy8tnrGRwKrJ1NFl-123" vertex="1" connectable="0">

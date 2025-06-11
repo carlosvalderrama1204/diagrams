@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.4" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4" pages="3">
   <diagram name="Adaptador Universal" id="-ICQzN5TTwIt-EsHX7Ux">
     <mxGraphModel dx="1667" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -271,8 +271,8 @@
           <mxGeometry x="419" y="181" width="259" height="30" as="geometry" />
         </mxCell>
         <UserObject label="https://prufacturacionelectronica.compensar.com/default.aspx&#xa;&#xa;&#xa;http://vmpruhato/default.aspx" link="https://prufacturacionelectronica.compensar.com/default.aspx" id="N7m3pMZoT2Tfdn-AdWFj-1">
-          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
-            <mxGeometry x="422" y="420" width="360" height="40" as="geometry" />
+          <mxCell style="text;whiteSpace=wrap;" parent="1" vertex="1">
+            <mxGeometry x="234" y="430" width="360" height="40" as="geometry" />
           </mxCell>
         </UserObject>
       </root>

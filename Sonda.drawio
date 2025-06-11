@@ -2934,7 +2934,7 @@
         <mxCell id="NQOBS2pv2Idew50-W8dq-46" value="API SAP" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="3510" y="910" width="250" height="204" as="geometry" />
         </mxCell>
-        <mxCell id="NQOBS2pv2Idew50-W8dq-47" value="Factura Administrativa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NQOBS2pv2Idew50-W8dq-47" value="Factura Administrativa -&amp;nbsp;&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;consultaCartera&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3575" y="979.3200000000002" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NQOBS2pv2Idew50-W8dq-48" value="SAP" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">

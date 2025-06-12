@@ -3150,6 +3150,9 @@
         <mxCell id="z9aZVSeGXdS_kwwJcgQQ-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z9aZVSeGXdS_kwwJcgQQ-60" target="z9aZVSeGXdS_kwwJcgQQ-181">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="z9aZVSeGXdS_kwwJcgQQ-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z9aZVSeGXdS_kwwJcgQQ-60" target="z9aZVSeGXdS_kwwJcgQQ-187">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="z9aZVSeGXdS_kwwJcgQQ-60" value="Modulo de Recaudo" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="2410" y="657" width="220" height="143" as="geometry" />
         </mxCell>

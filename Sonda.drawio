@@ -2794,7 +2794,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tz4v2PC-3TeR_fU7zYrA" name="Fac Admin">
-    <mxGraphModel dx="2485" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1944" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2919,7 +2919,7 @@
         <mxCell id="NQOBS2pv2Idew50-W8dq-39" value="Integraciones" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="3490" y="330" width="290" height="900" as="geometry" />
         </mxCell>
-        <mxCell id="NQOBS2pv2Idew50-W8dq-40" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="NQOBS2pv2Idew50-W8dq-40" value="ERPAgent" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="3510" y="390" width="240" height="420" as="geometry" />
         </mxCell>
         <mxCell id="NQOBS2pv2Idew50-W8dq-43" value="getRecordsForPayment" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -2938,7 +2938,13 @@
           <mxGeometry x="4100" y="620" width="290" height="610" as="geometry" />
         </mxCell>
         <mxCell id="NQOBS2pv2Idew50-W8dq-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="NQOBS2pv2Idew50-W8dq-43" target="NQOBS2pv2Idew50-W8dq-47" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3630" y="850" />
+              <mxPoint x="3555" y="850" />
+              <mxPoint x="3555" y="1024" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="NQOBS2pv2Idew50-W8dq-50" value="Consulta Factura Administrativa" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4185" y="919.3200000000002" width="120" height="60" as="geometry" />

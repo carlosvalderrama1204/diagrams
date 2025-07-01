@@ -1457,9 +1457,6 @@
         <mxCell id="09LzCOWTB2m7BKxCuV8K-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" parent="09LzCOWTB2m7BKxCuV8K-28" vertex="1">
           <mxGeometry x="24" y="920" width="176" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="09LzCOWTB2m7BKxCuV8K-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="09LzCOWTB2m7BKxCuV8K-28" vertex="1">
-          <mxGeometry x="30" y="70" width="140" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="09LzCOWTB2m7BKxCuV8K-40" value="API Facturación" style="rounded=1;whiteSpace=wrap;html=1;" parent="09LzCOWTB2m7BKxCuV8K-28" vertex="1">
           <mxGeometry x="45" y="690" width="120" height="30" as="geometry" />
         </mxCell>

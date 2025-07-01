@@ -1530,13 +1530,13 @@
           <mxGeometry x="10" y="30" width="230" height="1170" as="geometry" />
         </mxCell>
         <mxCell id="09LzCOWTB2m7BKxCuV8K-8" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontStyle=1;fontSize=14;" parent="09LzCOWTB2m7BKxCuV8K-6" vertex="1">
-          <mxGeometry x="30" y="230" width="190" height="230" as="geometry" />
+          <mxGeometry x="30" y="270" width="190" height="230" as="geometry" />
         </mxCell>
         <mxCell id="09LzCOWTB2m7BKxCuV8K-9" value="Portal Proveedores" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="09LzCOWTB2m7BKxCuV8K-6" vertex="1">
-          <mxGeometry x="60" y="250" width="130" height="30" as="geometry" />
+          <mxGeometry x="60" y="290" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="09LzCOWTB2m7BKxCuV8K-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;fontStyle=1;fontSize=17;" parent="09LzCOWTB2m7BKxCuV8K-6" vertex="1">
-          <mxGeometry x="30" y="80" width="190" height="100" as="geometry" />
+          <mxGeometry x="30" y="80" width="190" height="170" as="geometry" />
         </mxCell>
         <mxCell id="09LzCOWTB2m7BKxCuV8K-15" value="Capacidades B2E" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="09LzCOWTB2m7BKxCuV8K-6" vertex="1">
           <mxGeometry x="55" y="115" width="130" height="30" as="geometry" />
@@ -1563,13 +1563,13 @@
           <mxGeometry x="92.75" y="962.75" width="64.5" height="64.5" as="geometry" />
         </mxCell>
         <mxCell id="09LzCOWTB2m7BKxCuV8K-136" value="Incidencias" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="09LzCOWTB2m7BKxCuV8K-6" vertex="1">
-          <mxGeometry x="60" y="300" width="130" height="30" as="geometry" />
+          <mxGeometry x="60" y="340" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="09LzCOWTB2m7BKxCuV8K-137" value="Negociaciones (RFX y Subastas)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="09LzCOWTB2m7BKxCuV8K-6" vertex="1">
-          <mxGeometry x="60" y="350" width="130" height="30" as="geometry" />
+          <mxGeometry x="60" y="390" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="09LzCOWTB2m7BKxCuV8K-138" value="Autorizaciones" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="09LzCOWTB2m7BKxCuV8K-6" vertex="1">
-          <mxGeometry x="60" y="390" width="130" height="30" as="geometry" />
+          <mxGeometry x="60" y="430" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="09LzCOWTB2m7BKxCuV8K-23" value="Analitica" style="swimlane;startSize=20;" parent="1" vertex="1">
           <mxGeometry x="1640" y="490" width="160" height="1270" as="geometry" />
@@ -1743,7 +1743,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="09LzCOWTB2m7BKxCuV8K-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;strokeColor=#FF8000;" parent="1" source="09LzCOWTB2m7BKxCuV8K-3" target="09LzCOWTB2m7BKxCuV8K-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="620" />
+              <mxPoint x="460" y="620" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="09LzCOWTB2m7BKxCuV8K-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="09LzCOWTB2m7BKxCuV8K-4" target="09LzCOWTB2m7BKxCuV8K-8" edge="1">
           <mxGeometry relative="1" as="geometry">

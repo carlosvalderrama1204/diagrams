@@ -1538,8 +1538,8 @@
         <mxCell id="09LzCOWTB2m7BKxCuV8K-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;fontStyle=1;fontSize=17;" parent="09LzCOWTB2m7BKxCuV8K-6" vertex="1">
           <mxGeometry x="30" y="80" width="190" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="09LzCOWTB2m7BKxCuV8K-15" value="Capacidades B2E" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="09LzCOWTB2m7BKxCuV8K-6" vertex="1">
-          <mxGeometry x="55" y="115" width="130" height="30" as="geometry" />
+        <mxCell id="09LzCOWTB2m7BKxCuV8K-15" value="Requisión" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="09LzCOWTB2m7BKxCuV8K-6" vertex="1">
+          <mxGeometry x="55" y="150" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="09LzCOWTB2m7BKxCuV8K-16" value="Integraciones" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontStyle=1;fontSize=14;" parent="09LzCOWTB2m7BKxCuV8K-6" vertex="1">
           <mxGeometry x="30" y="560" width="190" height="230" as="geometry" />
@@ -1568,8 +1568,14 @@
         <mxCell id="09LzCOWTB2m7BKxCuV8K-137" value="Negociaciones (RFX y Subastas)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="09LzCOWTB2m7BKxCuV8K-6" vertex="1">
           <mxGeometry x="60" y="390" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="09LzCOWTB2m7BKxCuV8K-138" value="Autorizaciones" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="09LzCOWTB2m7BKxCuV8K-6" vertex="1">
+        <mxCell id="09LzCOWTB2m7BKxCuV8K-138" value="Certificaciones" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="09LzCOWTB2m7BKxCuV8K-6" vertex="1">
           <mxGeometry x="60" y="430" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NzlAIXmM1NL9q2b-EM-u-1" value="Calificaciones" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="09LzCOWTB2m7BKxCuV8K-6">
+          <mxGeometry x="54.999999999999986" y="200" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_-s3HNXED4VROeOxGOrh-1" value="Catalogo" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="09LzCOWTB2m7BKxCuV8K-6">
+          <mxGeometry x="60" y="100" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="09LzCOWTB2m7BKxCuV8K-23" value="Analitica" style="swimlane;startSize=20;" parent="1" vertex="1">
           <mxGeometry x="1640" y="490" width="160" height="1270" as="geometry" />

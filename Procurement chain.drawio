@@ -1841,11 +1841,11 @@
         <mxCell id="09LzCOWTB2m7BKxCuV8K-104" value="Listados Restrictivos - SARLAFT" style="rounded=1;whiteSpace=wrap;html=1;" parent="09LzCOWTB2m7BKxCuV8K-98" vertex="1">
           <mxGeometry x="8.5" y="310" width="146" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="09LzCOWTB2m7BKxCuV8K-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="09LzCOWTB2m7BKxCuV8K-74" target="09LzCOWTB2m7BKxCuV8K-68" edge="1">
+        <mxCell id="09LzCOWTB2m7BKxCuV8K-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="09LzCOWTB2m7BKxCuV8K-74" target="zcz7M5iVEjp3e8iFjxtN-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1660" y="750" />
-              <mxPoint x="1660" y="1315" />
+              <mxPoint x="1660" y="1355" />
             </Array>
           </mxGeometry>
         </mxCell>

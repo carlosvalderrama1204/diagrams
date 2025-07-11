@@ -2145,7 +2145,7 @@
         <mxCell id="uEP0628FTvUwkfTJ7qHV-23" value="Continuá a Fase 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="990" y="440" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uEP0628FTvUwkfTJ7qHV-24" value="" style="endArrow=none;html=1;rounded=0;entryX=1.006;entryY=0.168;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.004;exitY=0.174;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="uEP0628FTvUwkfTJ7qHV-18" target="uEP0628FTvUwkfTJ7qHV-18">
+        <mxCell id="uEP0628FTvUwkfTJ7qHV-24" value="" style="endArrow=none;html=1;rounded=0;entryX=1.006;entryY=0.168;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.004;exitY=0.174;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="uEP0628FTvUwkfTJ7qHV-18" target="uEP0628FTvUwkfTJ7qHV-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="500" as="sourcePoint" />
             <mxPoint x="280" y="470" as="targetPoint" />
@@ -2206,7 +2206,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uEP0628FTvUwkfTJ7qHV-41" value="" style="endArrow=none;html=1;rounded=0;entryX=1.006;entryY=0.168;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.004;exitY=0.174;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="uEP0628FTvUwkfTJ7qHV-41" value="" style="endArrow=none;html=1;rounded=0;entryX=1.006;entryY=0.168;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.004;exitY=0.174;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="78" y="844" as="sourcePoint" />
             <mxPoint x="1280" y="840" as="targetPoint" />

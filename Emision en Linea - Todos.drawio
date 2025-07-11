@@ -3636,7 +3636,7 @@
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-89" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;DIAN&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;strokeWidth=2;gradientColor=#04AF6D;fillColor=#D2F4E7;strokeColor=#04AF6D;" parent="1" vertex="1">
           <mxGeometry x="1410" y="277.5" width="210" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Bc1a42AfPo7aUE2n1Zk9-1" value="Compensar" style="rounded=1;whiteSpace=wrap;html=1;gradientDirection=south;dashed=1;strokeWidth=3;verticalAlign=top;fontSize=29;fontStyle=1;strokeColor=#d79b00;fillColor=#ffe6cc;fontColor=light-dark(#000000,#EDEDED);" parent="1" vertex="1">
+        <mxCell id="Bc1a42AfPo7aUE2n1Zk9-1" value="Compensar" style="rounded=1;whiteSpace=wrap;html=1;gradientDirection=south;strokeWidth=2;verticalAlign=top;fontSize=29;fontStyle=1;strokeColor=light-dark(#f09133, #ce6100);fillColor=#ffe6cc;fontColor=light-dark(#000000,#EDEDED);" parent="1" vertex="1">
           <mxGeometry x="-1030" y="-1260" width="1900" height="2285" as="geometry" />
         </mxCell>
         <mxCell id="f4LLNtYex6HE9IBSAwMh-1" value="Bancor" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;strokeWidth=2;" parent="1" vertex="1">

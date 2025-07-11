@@ -2041,7 +2041,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="r-ObUvmmu0HWiEZBsmnm" name="Flujo Proveedor">
-    <mxGraphModel dx="2443" dy="1010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3420" dy="1414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2068,6 +2068,15 @@
         </mxCell>
         <mxCell id="zSa8H4ZQUjH-ne9Cq34u-10" value="Bot" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Phosphor_Regular_Vol_4-2948/robot-1474.svg" vertex="1" parent="1">
           <mxGeometry x="1580" y="50" width="52.5" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zSa8H4ZQUjH-ne9Cq34u-12" value="OnBase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="135" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zSa8H4ZQUjH-ne9Cq34u-13" value="PCC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="40" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zSa8H4ZQUjH-ne9Cq34u-14" value="PCC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="50" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

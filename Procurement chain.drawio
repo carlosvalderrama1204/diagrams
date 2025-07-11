@@ -1572,7 +1572,7 @@
           <mxGeometry x="60" y="470" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VkCr7A4UrX_s7JV6Hrkx-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/webp,UklGRkoEAABXRUJQVlA4TD4EAAAvf8AfEO8GIZIk2UrOcnrBvyUc3LBTNhy0jSRJrvsQHH+is7uB3EaSI4k1s6eVdWfwWXSvlT1VCbGRJEVSdm/PMT2z/8a8GcyMM/U9UYwkISGBsIb/7qxmHWS4Fqv568ZqCNdBhoQKhAwJhARCwp87GQgJW0NYTQIhQ0D4dWVbXAfXImE11SQQ1vDnykf/rGYtfjqzhgwZbosMCau5Fv9u/HUnQwJBEooOR+CbOEZDhyCTEEQ5Aj94h9BIosSAHxHqYAjK4dEhs5QZgjgc30NBNCsqIZwPHYUEvsIQMPnCr2mog0GYUAN+RKhhJDEZGo6oRDb/SNyhQYMhyG8YJvIODUY5IgwVwhNEHDFTEGw+eScijjsqqSiNySbMjGgobJ7qFs/4ZGeemi63bFeHZ9zNM/qXXdvdKs56MEHFUX2QIsa9vU3R5aw0uehtxp6tYp6t/t9+3JFr5Ncj96Hnd5WHa6/nt03v9fJ3zujxP1oXf3bRq598p/CZEH/55tcg7bZtY29ym9pt2ti27ZzYNuvGdmrbtm3btn3/zNM+773POe/nRvR/Avj/2759vHP1gt6lS3sXrN75+K2+eblzRR3oWNdz4JHeeLerJRnElu1/qw+eLUoEiRnzHlL3fHkaSE5f8ZKy7/szQYOp636S9WQ2aLTgNk0G+xNAs+mbDAj60QWaXvKFnE+VoPGqt8Q8LQXNT/tIyociQFjyiZAvFYBy6g86ugFpDxl7Ae0eIm5l4Em9QsLvakBc84eCfSAxzNtm0kRrj2AJsJeAqw3igszZP8cHist7j28liI7zHMxUDnKJEQVr0V3LFObKdLSIFZXyFttqEO3HlIZjLazGGSqYmyhYj+xXvqioYQrTcACAcHPFkFBRs/7gOgqi3RhjzCgW/hprxhhjtqLgCK5lwkYqQuCfEYaMsaHRouag+lUvKpIxxkaBygmMMRYoqv47pscgOkBhpMZR4SsK7mDaKsxfMVmNs8JL2BZMHXKM1TjJacI0U46JGkc5tYi+JssxVeMgJ/4Hngcgx0yNvRy4j+ewJHM1dpKO4DlHxVk8O4W4GxsbG49RDDdWOUIx2tjY2NhdyG48F4RYM8nWQi7gOUDFITxnqDiN5wQVx/Dcp+Imni/xNMT/xMNraZjOETfT0IZpOw07MN2l4R6mPw0UZP/BxAco6OOoj1NwGdfvGfhqf+PiG/Ft5sjf5GFr+ICNr9bJx1Kyj07bOPrXubpoPecdPn4A10FOoEErpgoDCvj1ejxZLziN5/Fc4lQuwrKYk/m9HUfbLzr4l0oM5V85pa+naK/8E6f1a7vWOj9zar/3aav/Fyd4V4p2Uvdwmm8Ua6XmOqf6965GLeTt/8MJv7o4VVbq/Pec+KsbGmQ0rHrF9eDPU0uTxKS17PrK9eXr04tL49XFFy44+Ynr2W83z15cs3Du3IVrLp69+Y3/vzk=;" vertex="1" parent="09LzCOWTB2m7BKxCuV8K-6">
-          <mxGeometry x="183" y="788" width="48" height="48" as="geometry" />
+          <mxGeometry x="185" y="736" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VkCr7A4UrX_s7JV6Hrkx-10" value="Productos" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="09LzCOWTB2m7BKxCuV8K-6">
           <mxGeometry x="65" y="600" width="130" height="30" as="geometry" />
@@ -1582,6 +1582,9 @@
         </mxCell>
         <mxCell id="VkCr7A4UrX_s7JV6Hrkx-12" value="Proveedores" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="09LzCOWTB2m7BKxCuV8K-6">
           <mxGeometry x="65" y="720" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4hOgqVdYaRQA8WzNop_r-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://itbid.com/wp-content/uploads/2024/09/Logo-itbid-Web-200x67.png;" vertex="1" parent="09LzCOWTB2m7BKxCuV8K-6">
+          <mxGeometry x="84.7" y="30" width="80.6" height="27" as="geometry" />
         </mxCell>
         <mxCell id="09LzCOWTB2m7BKxCuV8K-23" value="Analitica" style="swimlane;startSize=20;" parent="1" vertex="1">
           <mxGeometry x="1370" y="490" width="160" height="1270" as="geometry" />

@@ -3332,7 +3332,7 @@
         <mxCell id="5TPqN0IXguIwiECQ183D-4" value="Aprueba registro" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="682.5" y="670" width="165" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5TPqN0IXguIwiECQ183D-5" value="Envio automatido de docuemtos validos&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5TPqN0IXguIwiECQ183D-5" value="Envio automatico de documentos validos&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="717.5" y="720" width="252.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5TPqN0IXguIwiECQ183D-6" value="Deposita archivos carpeta monitoreada" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">

@@ -3344,7 +3344,7 @@
         <mxCell id="5TPqN0IXguIwiECQ183D-8" value="Notificfa exito de creación" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="850" y="940" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5TPqN0IXguIwiECQ183D-9" value="Notifica Activo en SAP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5TPqN0IXguIwiECQ183D-9" value="Notifica Proveedor Activo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="990" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5TPqN0IXguIwiECQ183D-10" value="Notificación Activo en SAP&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">

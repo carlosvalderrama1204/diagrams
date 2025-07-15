@@ -3278,7 +3278,7 @@
         <mxCell id="cx3jBU-6--2lYj2HGTfQ-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="630" y="880" as="sourcePoint" />
-            <mxPoint x="1330" y="890" as="targetPoint" />
+            <mxPoint x="1330" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cx3jBU-6--2lYj2HGTfQ-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -3335,7 +3335,7 @@
         <mxCell id="5TPqN0IXguIwiECQ183D-5" value="Envio automatido de docuemtos validos&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="717.5" y="720" width="252.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5TPqN0IXguIwiECQ183D-6" value="Depostia archivoscarpeta monitoreada" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5TPqN0IXguIwiECQ183D-6" value="Deposita archivos carpeta monitoreada" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="790" y="850" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5TPqN0IXguIwiECQ183D-7" value="Se ejecuta y crea proveedor en SAP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">

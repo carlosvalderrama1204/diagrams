@@ -3150,7 +3150,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="caSWBA6ia9vCZdoOhtG1" name="Flujo Proveedor TO-BE">
-    <mxGraphModel dx="2275" dy="1224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1925" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3163,7 +3163,7 @@
         <mxCell id="DHkeRCE_wq8iEkeMwoxT-4" value="Proveedor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DHkeRCE_wq8iEkeMwoxT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="DHkeRCE_wq8iEkeMwoxT-5" target="DHkeRCE_wq8iEkeMwoxT-6">
+        <mxCell id="DHkeRCE_wq8iEkeMwoxT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="DHkeRCE_wq8iEkeMwoxT-5" target="DHkeRCE_wq8iEkeMwoxT-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DHkeRCE_wq8iEkeMwoxT-5" value="PCC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -3181,7 +3181,7 @@
         <mxCell id="DHkeRCE_wq8iEkeMwoxT-8" value="Equipo Compras" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DHkeRCE_wq8iEkeMwoxT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="DHkeRCE_wq8iEkeMwoxT-9" target="DHkeRCE_wq8iEkeMwoxT-10">
+        <mxCell id="DHkeRCE_wq8iEkeMwoxT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="DHkeRCE_wq8iEkeMwoxT-9" target="DHkeRCE_wq8iEkeMwoxT-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DHkeRCE_wq8iEkeMwoxT-9" value="OnBase" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -3190,7 +3190,7 @@
         <mxCell id="DHkeRCE_wq8iEkeMwoxT-10" value="OnBase" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1070" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DHkeRCE_wq8iEkeMwoxT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="DHkeRCE_wq8iEkeMwoxT-11" target="DHkeRCE_wq8iEkeMwoxT-12">
+        <mxCell id="DHkeRCE_wq8iEkeMwoxT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="DHkeRCE_wq8iEkeMwoxT-11" target="DHkeRCE_wq8iEkeMwoxT-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DHkeRCE_wq8iEkeMwoxT-11" value="Bot" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -3199,7 +3199,7 @@
         <mxCell id="DHkeRCE_wq8iEkeMwoxT-12" value="Bot" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1270" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DHkeRCE_wq8iEkeMwoxT-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="DHkeRCE_wq8iEkeMwoxT-13" target="DHkeRCE_wq8iEkeMwoxT-14">
+        <mxCell id="DHkeRCE_wq8iEkeMwoxT-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="DHkeRCE_wq8iEkeMwoxT-13" target="DHkeRCE_wq8iEkeMwoxT-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DHkeRCE_wq8iEkeMwoxT-13" value="SAP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">

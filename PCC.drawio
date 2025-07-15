@@ -3327,7 +3327,7 @@
           <mxGeometry x="340" y="570" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5TPqN0IXguIwiECQ183D-3" value="[Información correcta]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="630" width="150" height="30" as="geometry" />
+          <mxGeometry x="540" y="630" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5TPqN0IXguIwiECQ183D-4" value="Aprueba registro" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="682.5" y="670" width="165" height="30" as="geometry" />

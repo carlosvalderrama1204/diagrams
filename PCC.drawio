@@ -2309,7 +2309,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="56f0Bc-tCdR0fGED3Ijp" name="Cadena Facturación AS-IS">
-    <mxGraphModel dx="3128" dy="1683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1251" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2405,7 +2405,7 @@
         </mxCell>
         <mxCell id="tgszn1v8V_pDfojLYnms-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="860" as="sourcePoint" />
+            <mxPoint x="430" y="860" as="sourcePoint" />
             <mxPoint x="780" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -2415,8 +2415,8 @@
         <mxCell id="tgszn1v8V_pDfojLYnms-32" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="870" width="1420" height="615" as="geometry" />
         </mxCell>
-        <mxCell id="tgszn1v8V_pDfojLYnms-33" value="Proveedor de Alimentos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="800" y="870" width="240" height="30" as="geometry" />
+        <mxCell id="tgszn1v8V_pDfojLYnms-33" value="[Proveedor de Alimentos]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="870" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tgszn1v8V_pDfojLYnms-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2464,8 +2464,8 @@
             <mxPoint x="270" y="1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tgszn1v8V_pDfojLYnms-43" value="Proveedor No Alimentos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="712" y="1140" width="240" height="30" as="geometry" />
+        <mxCell id="tgszn1v8V_pDfojLYnms-43" value="[Proveedor No Alimentos]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1139" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tgszn1v8V_pDfojLYnms-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

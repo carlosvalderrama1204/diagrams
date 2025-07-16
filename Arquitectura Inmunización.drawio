@@ -310,7 +310,7 @@
         <mxCell id="JFgaSOVcYE7M2LWqS2Cm-52" value="Registro clinico manual&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1740" y="900" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JFgaSOVcYE7M2LWqS2Cm-53" value="Doble trabajo, flujo Roto" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="JFgaSOVcYE7M2LWqS2Cm-53" value="Doble trabajo, flujo Roto - Reproceso por Información que ya existe en WMS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1650" y="940" width="380" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JFgaSOVcYE7M2LWqS2Cm-54" value="Flujo fragmentado(salto del sistema)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -322,7 +322,7 @@
         <mxCell id="JFgaSOVcYE7M2LWqS2Cm-56" value="No es tiempo real" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="650" y="840" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JFgaSOVcYE7M2LWqS2Cm-57" value="Reporte a Emntes de control" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JFgaSOVcYE7M2LWqS2Cm-57" value="Reporte a Entes de control" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2050" y="990" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ciuofIBG6Pi0sbYrlB1E-1" value="MovimientoInventarioRegistrar" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">

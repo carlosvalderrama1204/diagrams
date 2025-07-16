@@ -2794,7 +2794,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tz4v2PC-3TeR_fU7zYrA" name="Fac Admin">
-    <mxGraphModel dx="1472" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1900" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3115,6 +3115,12 @@
         </mxCell>
         <mxCell id="HM8O7s5Sesc5UqhmtM8o-2" value="Recaudo Empresarial" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3676.5" y="2132.79" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HM8O7s5Sesc5UqhmtM8o-5" value="&amp;lt;xml&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3420" y="1918" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HM8O7s5Sesc5UqhmtM8o-6" value="&amp;lt;xml&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3420" y="1805" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -126,7 +126,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LEZ1B6GXT8Hsg2nMGu4u" name="AS-IS - Flujo Completo">
-    <mxGraphModel dx="2443" dy="1010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1787" dy="961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -351,6 +351,9 @@
         </mxCell>
         <mxCell id="1hO0FE5hmY3XlEhAGed7-8" value="Revisa Pedido" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="430" y="240" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1hO0FE5hmY3XlEhAGed7-9" value="SAP no se entera de la solicitud de Pedido" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="910" y="260" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

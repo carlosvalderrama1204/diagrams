@@ -3755,8 +3755,8 @@
             <mxPoint x="1110" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m1xEYXb_IV_U3_Dc1Axl-22" value="APi d" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="850" y="370" width="194" height="30" as="geometry" />
+        <mxCell id="m1xEYXb_IV_U3_Dc1Axl-22" value="API de Consulta" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="380" width="194" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m1xEYXb_IV_U3_Dc1Axl-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3778,11 +3778,11 @@
         </mxCell>
         <mxCell id="m1xEYXb_IV_U3_Dc1Axl-27" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1090" y="560" as="sourcePoint" />
+            <mxPoint x="1110" y="560" as="sourcePoint" />
             <mxPoint x="760" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m1xEYXb_IV_U3_Dc1Axl-28" value="Devuelve deatos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="m1xEYXb_IV_U3_Dc1Axl-28" value="Devuelve datos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="890" y="520" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m1xEYXb_IV_U3_Dc1Axl-29" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">

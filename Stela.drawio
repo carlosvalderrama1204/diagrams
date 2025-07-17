@@ -401,6 +401,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="YCoPW_e2iOgbAGEfvvUK-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YCoPW_e2iOgbAGEfvvUK-20" target="k8lSa_rNT2mACuqWR2le-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-775" y="580" />
+              <mxPoint x="-360" y="580" />
+              <mxPoint x="-360" y="478" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCoPW_e2iOgbAGEfvvUK-28" value="Descargar artefacto versionado" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YCoPW_e2iOgbAGEfvvUK-27">
+          <mxGeometry x="-0.2862" y="2" relative="1" as="geometry">
+            <mxPoint x="11" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YCoPW_e2iOgbAGEfvvUK-20" value="Azure Artifacts" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Artifacts.svg;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="-800" y="430" width="50" height="50" as="geometry" />
         </mxCell>

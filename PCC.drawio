@@ -3815,7 +3815,7 @@
         <mxCell id="m1xEYXb_IV_U3_Dc1Axl-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="790" as="sourcePoint" />
-            <mxPoint x="770" y="790" as="targetPoint" />
+            <mxPoint x="760" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m1xEYXb_IV_U3_Dc1Axl-38" value="Aprobación comercial" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -3836,7 +3836,7 @@
             <mxPoint x="1110" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m1xEYXb_IV_U3_Dc1Axl-43" value="API Ceración" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="m1xEYXb_IV_U3_Dc1Axl-43" value="API Creación" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="900" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m1xEYXb_IV_U3_Dc1Axl-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -3850,12 +3850,12 @@
         </mxCell>
         <mxCell id="m1xEYXb_IV_U3_Dc1Axl-46" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1510" y="1030" as="sourcePoint" />
+            <mxPoint x="1510" y="1040" as="sourcePoint" />
             <mxPoint x="1110" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m1xEYXb_IV_U3_Dc1Axl-47" value="Código nuevo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="1010" width="140" height="30" as="geometry" />
+          <mxGeometry x="1250" y="1010" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m1xEYXb_IV_U3_Dc1Axl-48" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3863,7 +3863,7 @@
             <mxPoint x="770" y="1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m1xEYXb_IV_U3_Dc1Axl-49" value="Devuele Códgio" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="m1xEYXb_IV_U3_Dc1Axl-49" value="Devuelve Código" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="1050" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m1xEYXb_IV_U3_Dc1Axl-50" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
@@ -3872,7 +3872,7 @@
             <mxPoint x="250" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m1xEYXb_IV_U3_Dc1Axl-51" value="Notificación de producto creqado" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="m1xEYXb_IV_U3_Dc1Axl-51" value="Notificación de producto creado" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="1100" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m1xEYXb_IV_U3_Dc1Axl-52" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">

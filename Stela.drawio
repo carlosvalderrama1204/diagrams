@@ -223,6 +223,11 @@
         <mxCell id="YCoPW_e2iOgbAGEfvvUK-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k8lSa_rNT2mACuqWR2le-4" target="YCoPW_e2iOgbAGEfvvUK-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="YCoPW_e2iOgbAGEfvvUK-26" value="Publicar artefacto versionado" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YCoPW_e2iOgbAGEfvvUK-22">
+          <mxGeometry x="0.3468" y="-5" relative="1" as="geometry">
+            <mxPoint x="46" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="k8lSa_rNT2mACuqWR2le-4" value="Pipeline CI/CD" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=14;image=img/lib/mscae/Azure_Pipelines.svg;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="-470" y="430" width="50" height="50" as="geometry" />
         </mxCell>

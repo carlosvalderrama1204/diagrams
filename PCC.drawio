@@ -3681,8 +3681,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="fkTPVVk0tMdxU-gqSQ89" name="Page-17">
-    <mxGraphModel dx="2012" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="fkTPVVk0tMdxU-gqSQ89" name="Creación PyS">
+    <mxGraphModel dx="1710" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3755,7 +3755,7 @@
             <mxPoint x="1110" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m1xEYXb_IV_U3_Dc1Axl-22" value="API de Consulta" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="m1xEYXb_IV_U3_Dc1Axl-22" value="API de Consulta" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="840" y="380" width="194" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m1xEYXb_IV_U3_Dc1Axl-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -3764,7 +3764,7 @@
             <mxPoint x="1510" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m1xEYXb_IV_U3_Dc1Axl-24" value="Consulta de productos&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="m1xEYXb_IV_U3_Dc1Axl-24" value="Consulta de productos&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1260" y="430" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m1xEYXb_IV_U3_Dc1Axl-25" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
@@ -3797,7 +3797,7 @@
         <mxCell id="m1xEYXb_IV_U3_Dc1Axl-32" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="650" as="sourcePoint" />
-            <mxPoint x="460" y="650" as="targetPoint" />
+            <mxPoint x="450" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m1xEYXb_IV_U3_Dc1Axl-33" value="Resultado en pantalla" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -4022,7 +4022,25 @@
           <mxGeometry x="840" y="2040" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m1xEYXb_IV_U3_Dc1Axl-91" value="Actualización Catálogo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="685" y="2110" width="150" height="30" as="geometry" />
+          <mxGeometry x="677" y="2090" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m1xEYXb_IV_U3_Dc1Axl-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m1xEYXb_IV_U3_Dc1Axl-92" target="m1xEYXb_IV_U3_Dc1Axl-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1xEYXb_IV_U3_Dc1Axl-92" value="Hercules" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m1xEYXb_IV_U3_Dc1Axl-93" value="Hercules" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="2140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m1xEYXb_IV_U3_Dc1Axl-95" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1740" y="1970" as="sourcePoint" />
+            <mxPoint x="1510" y="1970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m1xEYXb_IV_U3_Dc1Axl-96" value="Actualiza Producto" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="1940" width="136" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

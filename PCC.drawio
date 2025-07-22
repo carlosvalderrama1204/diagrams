@@ -4193,12 +4193,12 @@
         <mxCell id="45c4yGk-7nz9fx7riJ9x-1" value="&lt;b&gt;BW&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;shadow=1;verticalAlign=top;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1680" y="470" width="450" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="d4unnO3ZdpsY73UH6rcK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1qLAgcyap-MMmnXhtSmP-1" target="qjizVtl2HiJHYf2vLTTY-3">
+        <mxCell id="d4unnO3ZdpsY73UH6rcK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" edge="1" parent="1" source="1qLAgcyap-MMmnXhtSmP-1" target="qjizVtl2HiJHYf2vLTTY-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2150" y="1261.090909090909" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2440" y="585" />
-              <mxPoint x="2440" y="1261" />
+              <mxPoint x="2390" y="585" />
+              <mxPoint x="2390" y="1261" />
             </Array>
           </mxGeometry>
         </mxCell>

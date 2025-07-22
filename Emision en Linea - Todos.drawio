@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.4" pages="18">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6" pages="18">
   <diagram id="oQg5v4_-Qz-4qN8YKQsb" name="Modelos Emision">
     <mxGraphModel dx="2208" dy="1665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3629,7 +3629,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sTYJvzZdeHplwq9bK0XT" name="TO-BE">
-    <mxGraphModel dx="4156" dy="3684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4504" dy="3516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3654,7 +3654,7 @@
         <mxCell id="fAVxpczhJO_bgD88xe9z-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.misfacturas.com.co/Publico/Content/img/LogoMisfacturas.png;" parent="r0IgPiiobqaqaFqI5VUK-1" vertex="1">
           <mxGeometry x="25" y="-201" width="210" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="w6Wq1j_Bvp8u7MguzN_9-1" value="Batch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="r0IgPiiobqaqaFqI5VUK-1">
+        <mxCell id="w6Wq1j_Bvp8u7MguzN_9-1" value="Batch" style="rounded=1;whiteSpace=wrap;html=1;" parent="r0IgPiiobqaqaFqI5VUK-1" vertex="1">
           <mxGeometry x="60" y="239" width="120" height="67" as="geometry" />
         </mxCell>
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-79" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Interoperabilidad" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=left;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
@@ -4132,6 +4132,12 @@
         </mxCell>
         <mxCell id="CrNZLwiVnibB3_4Z9Lme-1" value="Cuotas Moderadoras&lt;div&gt;Copagos&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="925" y="-512" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RTpWkAZ3UTfz319yw36L-1" value="Datos maestros" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-391" y="680" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RTpWkAZ3UTfz319yw36L-2" value="Envia notificación por email" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=none;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="1">
+          <mxGeometry x="-485" y="701.75" width="30" height="16.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

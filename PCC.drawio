@@ -2617,7 +2617,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="o0BdFm2hq3Q4wczmzJqA" name="Cadena Facturación TO-BE">
-    <mxGraphModel dx="2012" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1472" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2659,7 +2659,7 @@
         <mxCell id="QLQNm8-DG5t6oqC3NnOY-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="QLQNm8-DG5t6oqC3NnOY-7" target="QLQNm8-DG5t6oqC3NnOY-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QLQNm8-DG5t6oqC3NnOY-7" value="Motor de Notificaciones - Integraciones - bot" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="QLQNm8-DG5t6oqC3NnOY-7" value="Componente de Notificaciones - Integraciones - bot" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1280" y="280" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QLQNm8-DG5t6oqC3NnOY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="QLQNm8-DG5t6oqC3NnOY-8" target="QLQNm8-DG5t6oqC3NnOY-17" edge="1">

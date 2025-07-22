@@ -4621,7 +4621,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PIkt4w5L42QEX340D34O" name="Page-19">
-    <mxGraphModel dx="2078" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2839" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4658,8 +4658,18 @@
         <mxCell id="krH8TLl26OGmShH9KfTB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="krH8TLl26OGmShH9KfTB-10" target="krH8TLl26OGmShH9KfTB-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="z3OYyWGs3uaklMJLQAtn-4" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="krH8TLl26OGmShH9KfTB-13">
+          <mxGeometry x="-0.1296" y="-1" relative="1" as="geometry">
+            <mxPoint x="59" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="krH8TLl26OGmShH9KfTB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="krH8TLl26OGmShH9KfTB-10" target="krH8TLl26OGmShH9KfTB-11">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z3OYyWGs3uaklMJLQAtn-5" value="SI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="krH8TLl26OGmShH9KfTB-15">
+          <mxGeometry x="-0.627" y="5" relative="1" as="geometry">
+            <mxPoint y="-5" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="krH8TLl26OGmShH9KfTB-10" value="Emisión Correcta?" style="rhombus;whiteSpace=wrap;html=1;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="374" y="420" width="80" height="80" as="geometry" />
@@ -4669,6 +4679,12 @@
         </mxCell>
         <mxCell id="z3OYyWGs3uaklMJLQAtn-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.estela.com/hs-fs/hubfs/Logo%20FACTURE-1.png?width=300&amp;height=72&amp;name=Logo%20FACTURE-1.png;" vertex="1" parent="1">
           <mxGeometry x="610" y="605" width="147.89" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="z3OYyWGs3uaklMJLQAtn-3" value="Ajustar Factura" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="670" width="255" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z3OYyWGs3uaklMJLQAtn-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/3135/3135715.png?semt=ais_hybrid;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="675" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

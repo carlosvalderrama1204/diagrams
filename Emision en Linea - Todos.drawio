@@ -4640,11 +4640,14 @@
         <mxCell id="krH8TLl26OGmShH9KfTB-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/14982/14982659.png?semt=ais_hybrid;" vertex="1" parent="1">
           <mxGeometry x="175" y="220" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="z3OYyWGs3uaklMJLQAtn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="krH8TLl26OGmShH9KfTB-6" target="krH8TLl26OGmShH9KfTB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="krH8TLl26OGmShH9KfTB-6" value="Homologaciones" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="314" y="260" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="krH8TLl26OGmShH9KfTB-7" value="Reintentos" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="315" y="340" width="200" height="30" as="geometry" />
+          <mxGeometry x="314" y="340" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="krH8TLl26OGmShH9KfTB-8" value="Gestor de Inconsistencias de Facturación" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontStyle=1;fontSize=14;verticalAlign=top;strokeColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="-225" y="600" width="480" height="260" as="geometry" />
@@ -4663,6 +4666,9 @@
         </mxCell>
         <mxCell id="krH8TLl26OGmShH9KfTB-11" value="Operador" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontStyle=1;fontSize=14;verticalAlign=top;strokeColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="600" y="600" width="480" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="z3OYyWGs3uaklMJLQAtn-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.estela.com/hs-fs/hubfs/Logo%20FACTURE-1.png?width=300&amp;height=72&amp;name=Logo%20FACTURE-1.png;" vertex="1" parent="1">
+          <mxGeometry x="610" y="605" width="147.89" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

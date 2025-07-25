@@ -228,7 +228,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rTMZ2JjeL_PiIulDHwSp" name="Virtual">
-    <mxGraphModel dx="2391" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3102" dy="1224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -248,7 +248,7 @@
           <mxGeometry x="-311" y="196" width="340" height="280" as="geometry" />
         </mxCell>
         <mxCell id="GUWkSWVnkGlg_8ps_fVB-2" value="Compensar Salud" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="240" y="102" width="920" height="329" as="geometry" />
+          <mxGeometry x="240" y="102" width="910" height="329" as="geometry" />
         </mxCell>
         <mxCell id="j6bDdMGpDz93DW8rmzN7-63" value="Canales Virtuales(Chatbot, Portal, App)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-311" y="528" width="340" height="280" as="geometry" />
@@ -265,7 +265,7 @@
           <mxGeometry x="-211" y="263" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j6bDdMGpDz93DW8rmzN7-43" value="ERP SAP" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="720" y="490" width="450" height="170" as="geometry" />
+          <mxGeometry x="720" y="490" width="440" height="200" as="geometry" />
         </mxCell>
         <mxCell id="GUWkSWVnkGlg_8ps_fVB-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j6bDdMGpDz93DW8rmzN7-54" target="GUWkSWVnkGlg_8ps_fVB-29">
           <mxGeometry relative="1" as="geometry">
@@ -309,7 +309,7 @@
           <mxGeometry x="350.02" y="729.5" width="159.98" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="j6bDdMGpDz93DW8rmzN7-60" value="Pasarela de pagos" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="730" y="860.45" width="420" height="190" as="geometry" />
+          <mxGeometry x="730" y="720" width="430" height="330.45" as="geometry" />
         </mxCell>
         <mxCell id="j6bDdMGpDz93DW8rmzN7-62" value="&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;GetTransactionInformation&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="849" y="987.95" width="160" height="41" as="geometry" />
@@ -350,12 +350,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GUWkSWVnkGlg_8ps_fVB-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j6bDdMGpDz93DW8rmzN7-72" target="j6bDdMGpDz93DW8rmzN7-65">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-536" y="691" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="GUWkSWVnkGlg_8ps_fVB-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="j6bDdMGpDz93DW8rmzN7-72" target="GUWkSWVnkGlg_8ps_fVB-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j6bDdMGpDz93DW8rmzN7-72" value="Usuario" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-551" y="626" width="30" height="60" as="geometry" />

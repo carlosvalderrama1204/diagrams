@@ -262,7 +262,7 @@
           <mxGeometry x="-211" y="263" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j6bDdMGpDz93DW8rmzN7-43" value="ERP SAP" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="720" y="490" width="450" height="218.89" as="geometry" />
+          <mxGeometry x="720" y="490" width="450" height="170" as="geometry" />
         </mxCell>
         <mxCell id="j6bDdMGpDz93DW8rmzN7-54" value="Receiver" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="346.51" y="964.5" width="165" height="41" as="geometry" />

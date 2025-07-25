@@ -228,12 +228,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rTMZ2JjeL_PiIulDHwSp" name="Virtual">
-    <mxGraphModel dx="2144" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2391" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="j6bDdMGpDz93DW8rmzN7-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Interoperabilidad caja&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;shadow=0;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="240" y="473" width="360" height="627" as="geometry" />
+        </mxCell>
+        <mxCell id="GUWkSWVnkGlg_8ps_fVB-28" value="Tibco" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="314.01" y="508" width="236" height="104" as="geometry" />
         </mxCell>
         <mxCell id="GUWkSWVnkGlg_8ps_fVB-35" value="Interop-Bienestar" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;fontStyle=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="314.01" y="657.5" width="230" height="172" as="geometry" />
@@ -264,6 +267,14 @@
         <mxCell id="j6bDdMGpDz93DW8rmzN7-43" value="ERP SAP" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="720" y="490" width="450" height="170" as="geometry" />
         </mxCell>
+        <mxCell id="GUWkSWVnkGlg_8ps_fVB-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j6bDdMGpDz93DW8rmzN7-54" target="GUWkSWVnkGlg_8ps_fVB-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="985" />
+              <mxPoint x="270" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="j6bDdMGpDz93DW8rmzN7-54" value="Receiver" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="346.51" y="964.5" width="165" height="41" as="geometry" />
         </mxCell>
@@ -283,7 +294,8 @@
         <mxCell id="GUWkSWVnkGlg_8ps_fVB-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j6bDdMGpDz93DW8rmzN7-57" target="j6bDdMGpDz93DW8rmzN7-54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="580" y="738" />
+              <mxPoint x="510" y="750" />
+              <mxPoint x="580" y="750" />
               <mxPoint x="580" y="985" />
             </Array>
           </mxGeometry>
@@ -361,7 +373,7 @@
           <mxGeometry x="827" y="545" width="190.02" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lXkd4oT51DOuvgXlGUWT-7" value="Pagos" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="250" y="612" width="40" height="60" as="geometry" />
+          <mxGeometry x="550.01" y="626" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GUWkSWVnkGlg_8ps_fVB-3" value="CitasMedicasVg" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="647" y="161" width="226" height="60" as="geometry" />
@@ -405,14 +417,8 @@
         <mxCell id="GUWkSWVnkGlg_8ps_fVB-27" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/9252/9252267.png?semt=ais_hybrid;" vertex="1" parent="1">
           <mxGeometry x="-219.5" y="667.5" width="41.39" height="41.39" as="geometry" />
         </mxCell>
-        <mxCell id="GUWkSWVnkGlg_8ps_fVB-28" value="Tibco" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="314.01" y="508" width="236" height="104" as="geometry" />
-        </mxCell>
         <mxCell id="GUWkSWVnkGlg_8ps_fVB-29" value="COMPENSAR.SI.SAPServices" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="336.51" y="539.5" width="187" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="GUWkSWVnkGlg_8ps_fVB-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="j6bDdMGpDz93DW8rmzN7-57" target="lXkd4oT51DOuvgXlGUWT-7">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GUWkSWVnkGlg_8ps_fVB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GUWkSWVnkGlg_8ps_fVB-29" target="1AqNGn4-RPj7MKiLD2Wt-3">
           <mxGeometry relative="1" as="geometry">
@@ -422,6 +428,9 @@
               <mxPoint x="827" y="560" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GUWkSWVnkGlg_8ps_fVB-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="j6bDdMGpDz93DW8rmzN7-57" target="lXkd4oT51DOuvgXlGUWT-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

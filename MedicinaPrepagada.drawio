@@ -245,13 +245,13 @@
           <mxGeometry x="-311" y="196" width="340" height="280" as="geometry" />
         </mxCell>
         <mxCell id="GUWkSWVnkGlg_8ps_fVB-2" value="Compensar Salud" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="205.02" y="110" width="801.98" height="329" as="geometry" />
+          <mxGeometry x="240" y="102" width="920" height="329" as="geometry" />
         </mxCell>
         <mxCell id="j6bDdMGpDz93DW8rmzN7-63" value="Canales Virtuales(Chatbot, Portal, App)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-311" y="528" width="340" height="280" as="geometry" />
         </mxCell>
         <mxCell id="j6bDdMGpDz93DW8rmzN7-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="710" y="511" width="604" height="286" as="geometry" />
+          <mxGeometry x="730" y="508" width="418" height="279" as="geometry" />
         </mxCell>
         <mxCell id="GUWkSWVnkGlg_8ps_fVB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j6bDdMGpDz93DW8rmzN7-15" target="GUWkSWVnkGlg_8ps_fVB-3">
           <mxGeometry relative="1" as="geometry">
@@ -265,7 +265,7 @@
           <mxGeometry x="-211" y="263" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j6bDdMGpDz93DW8rmzN7-43" value="ERP SAP" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="902" y="566" width="270" height="125" as="geometry" />
+          <mxGeometry x="789.98" y="583.89" width="270" height="125" as="geometry" />
         </mxCell>
         <mxCell id="j6bDdMGpDz93DW8rmzN7-54" value="Receiver" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="346.51" y="964.5" width="165" height="41" as="geometry" />
@@ -287,7 +287,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="580" y="738" />
-              <mxPoint x="580" y="993" />
+              <mxPoint x="580" y="985" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -300,10 +300,10 @@
           <mxGeometry x="350.02" y="729.5" width="159.98" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="j6bDdMGpDz93DW8rmzN7-60" value="Pasarela de pagos" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="789.98" y="890" width="358.02" height="190" as="geometry" />
+          <mxGeometry x="730" y="880" width="420" height="190" as="geometry" />
         </mxCell>
         <mxCell id="j6bDdMGpDz93DW8rmzN7-62" value="&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;GetTransactionInformation&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="882" y="1017.5" width="160" height="41" as="geometry" />
+          <mxGeometry x="849" y="1007.5" width="160" height="41" as="geometry" />
         </mxCell>
         <mxCell id="GUWkSWVnkGlg_8ps_fVB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="j6bDdMGpDz93DW8rmzN7-65" target="j6bDdMGpDz93DW8rmzN7-66">
           <mxGeometry relative="1" as="geometry" />
@@ -320,7 +320,7 @@
           <mxGeometry x="347" y="903.95" width="165" height="41" as="geometry" />
         </mxCell>
         <mxCell id="j6bDdMGpDz93DW8rmzN7-69" value="&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;createTransactionPayment&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="882" y="950" width="160" height="41" as="geometry" />
+          <mxGeometry x="850.02" y="934.95" width="160" height="41" as="geometry" />
         </mxCell>
         <mxCell id="GUWkSWVnkGlg_8ps_fVB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j6bDdMGpDz93DW8rmzN7-72" target="j6bDdMGpDz93DW8rmzN7-15">
           <mxGeometry relative="1" as="geometry">
@@ -345,11 +345,12 @@
             <Array as="points">
               <mxPoint x="1363" y="653" />
               <mxPoint x="1363" y="190" />
+              <mxPoint x="873" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1AqNGn4-RPj7MKiLD2Wt-3" value="Recaudo Virtual" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="953" y="637.5" width="190.02" height="30" as="geometry" />
+          <mxGeometry x="830" y="637.5" width="190.02" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lXkd4oT51DOuvgXlGUWT-7" value="Pagos" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="250" y="612" width="40" height="60" as="geometry" />
@@ -410,8 +411,8 @@
             <mxPoint x="480.02" y="760.5184615384615" as="sourcePoint" />
             <mxPoint x="953.0000000000005" y="642.48" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="846" y="560" />
-              <mxPoint x="846" y="653" />
+              <mxPoint x="750" y="560" />
+              <mxPoint x="750" y="653" />
             </Array>
           </mxGeometry>
         </mxCell>

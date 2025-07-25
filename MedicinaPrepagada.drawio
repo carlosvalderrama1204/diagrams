@@ -228,7 +228,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rTMZ2JjeL_PiIulDHwSp" name="Virtual">
-    <mxGraphModel dx="2938" dy="1060" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2938" dy="884" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -236,13 +236,13 @@
           <mxGeometry x="-311" y="196" width="340" height="280" as="geometry" />
         </mxCell>
         <mxCell id="GUWkSWVnkGlg_8ps_fVB-2" value="Compensar Salud" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="205.02" y="110" width="512.98" height="274" as="geometry" />
+          <mxGeometry x="205.02" y="110" width="801.98" height="329" as="geometry" />
         </mxCell>
         <mxCell id="j6bDdMGpDz93DW8rmzN7-63" value="Canales Virtuales(Chatbot, Portal, App)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-311" y="528" width="340" height="280" as="geometry" />
         </mxCell>
         <mxCell id="j6bDdMGpDz93DW8rmzN7-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="710" y="511" width="604" height="248" as="geometry" />
+          <mxGeometry x="710" y="511" width="604" height="286" as="geometry" />
         </mxCell>
         <mxCell id="j6bDdMGpDz93DW8rmzN7-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Interoperabilidad caja&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;shadow=0;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="250" y="473" width="350" height="627" as="geometry" />
@@ -259,13 +259,13 @@
         <mxCell id="j6bDdMGpDz93DW8rmzN7-53" value="Interop" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=0;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;fillColor=default;verticalAlign=top;align=left;spacingLeft=30;dashed=1;fillStyle=auto;gradientColor=#E6E6E6;dashPattern=8 8;rounded=1;opacity=70;" parent="1" vertex="1">
           <mxGeometry x="325.02" y="630" width="190" height="174" as="geometry" />
         </mxCell>
-        <mxCell id="GUWkSWVnkGlg_8ps_fVB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="GUWkSWVnkGlg_8ps_fVB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="1AqNGn4-RPj7MKiLD2Wt-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480.02" y="760.5184615384615" as="sourcePoint" />
             <mxPoint x="953.0000000000005" y="642.48" as="targetPoint" />
             <Array as="points">
               <mxPoint x="846" y="761" />
-              <mxPoint x="846" y="643" />
+              <mxPoint x="846" y="653" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -388,7 +388,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GUWkSWVnkGlg_8ps_fVB-3" value="CitasMedicasVg" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="377" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="647" y="161" width="226" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GUWkSWVnkGlg_8ps_fVB-11" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;Medio_Pago : Pagos_Cuota&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="37" y="652" width="156" height="26" as="geometry" />
@@ -396,14 +396,26 @@
         <mxCell id="GUWkSWVnkGlg_8ps_fVB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUWkSWVnkGlg_8ps_fVB-13" target="GUWkSWVnkGlg_8ps_fVB-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GUWkSWVnkGlg_8ps_fVB-13" value="Pagar - Datafono - Efectivo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GUWkSWVnkGlg_8ps_fVB-13" value="Efectivo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-211" y="355" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GUWkSWVnkGlg_8ps_fVB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" edge="1" parent="1" source="GUWkSWVnkGlg_8ps_fVB-15" target="GUWkSWVnkGlg_8ps_fVB-3">
+        <mxCell id="GUWkSWVnkGlg_8ps_fVB-15" value="WSCOMEPS.serviceagent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="377" y="280" width="226" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GUWkSWVnkGlg_8ps_fVB-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUWkSWVnkGlg_8ps_fVB-19" target="GUWkSWVnkGlg_8ps_fVB-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GUWkSWVnkGlg_8ps_fVB-15" value="Algo???" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="377" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="GUWkSWVnkGlg_8ps_fVB-19" value="Datafono" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-211" y="427" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GUWkSWVnkGlg_8ps_fVB-20" value="WSPASTSAP_TarjetaRecaudoModulo-serviceagent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="377" y="364" width="228" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GUWkSWVnkGlg_8ps_fVB-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.197;entryY=0.942;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="GUWkSWVnkGlg_8ps_fVB-15" target="GUWkSWVnkGlg_8ps_fVB-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GUWkSWVnkGlg_8ps_fVB-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.795;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="GUWkSWVnkGlg_8ps_fVB-20" target="GUWkSWVnkGlg_8ps_fVB-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

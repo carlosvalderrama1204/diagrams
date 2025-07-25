@@ -228,7 +228,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rTMZ2JjeL_PiIulDHwSp" name="Virtual">
-    <mxGraphModel dx="2752" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1754" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -250,7 +250,7 @@
         <mxCell id="j6bDdMGpDz93DW8rmzN7-63" value="Canales Virtuales(Chatbot, Portal, App)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-311" y="528" width="340" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="j6bDdMGpDz93DW8rmzN7-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="j6bDdMGpDz93DW8rmzN7-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="730" y="508" width="418" height="279" as="geometry" />
         </mxCell>
         <mxCell id="GUWkSWVnkGlg_8ps_fVB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j6bDdMGpDz93DW8rmzN7-15" target="GUWkSWVnkGlg_8ps_fVB-3">
@@ -280,7 +280,7 @@
         </mxCell>
         <mxCell id="GUWkSWVnkGlg_8ps_fVB-37" value="/Get" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GUWkSWVnkGlg_8ps_fVB-36">
           <mxGeometry x="0.7847" y="-3" relative="1" as="geometry">
-            <mxPoint x="-6" y="-6" as="offset" />
+            <mxPoint x="-14" y="-41" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GUWkSWVnkGlg_8ps_fVB-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j6bDdMGpDz93DW8rmzN7-57" target="j6bDdMGpDz93DW8rmzN7-54">
@@ -299,11 +299,11 @@
         <mxCell id="j6bDdMGpDz93DW8rmzN7-57" value="Sonda" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350.02" y="729.5" width="159.98" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="j6bDdMGpDz93DW8rmzN7-60" value="Pasarela de pagos" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="730" y="880" width="420" height="190" as="geometry" />
+        <mxCell id="j6bDdMGpDz93DW8rmzN7-60" value="Pasarela de pagos" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="730" y="860.45" width="420" height="190" as="geometry" />
         </mxCell>
         <mxCell id="j6bDdMGpDz93DW8rmzN7-62" value="&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;GetTransactionInformation&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="849" y="1007.5" width="160" height="41" as="geometry" />
+          <mxGeometry x="849" y="987.95" width="160" height="41" as="geometry" />
         </mxCell>
         <mxCell id="GUWkSWVnkGlg_8ps_fVB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="j6bDdMGpDz93DW8rmzN7-65" target="j6bDdMGpDz93DW8rmzN7-66">
           <mxGeometry relative="1" as="geometry" />
@@ -316,11 +316,22 @@
         <mxCell id="j6bDdMGpDz93DW8rmzN7-65" value="Pagar" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-221" y="661" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="GUWkSWVnkGlg_8ps_fVB-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="j6bDdMGpDz93DW8rmzN7-66" target="j6bDdMGpDz93DW8rmzN7-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GUWkSWVnkGlg_8ps_fVB-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j6bDdMGpDz93DW8rmzN7-66" target="j6bDdMGpDz93DW8rmzN7-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="681" y="930" />
+              <mxPoint x="681" y="1008" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="j6bDdMGpDz93DW8rmzN7-66" value="Payment" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="347" y="903.95" width="165" height="41" as="geometry" />
         </mxCell>
         <mxCell id="j6bDdMGpDz93DW8rmzN7-69" value="&lt;span style=&quot;color: rgb(33, 33, 33); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;createTransactionPayment&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="850.02" y="934.95" width="160" height="41" as="geometry" />
+          <mxGeometry x="849" y="893.95" width="160" height="41" as="geometry" />
         </mxCell>
         <mxCell id="GUWkSWVnkGlg_8ps_fVB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j6bDdMGpDz93DW8rmzN7-72" target="j6bDdMGpDz93DW8rmzN7-15">
           <mxGeometry relative="1" as="geometry">

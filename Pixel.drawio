@@ -364,12 +364,12 @@
         </mxCell>
         <mxCell id="eTh47dxPKKR8N7GiRpym-26" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=-0.008;entryY=1.042;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="eTh47dxPKKR8N7GiRpym-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="980" y="570" as="sourcePoint" />
+            <mxPoint x="780" y="571" as="sourcePoint" />
             <mxPoint x="150" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eTh47dxPKKR8N7GiRpym-27" value="Redirecciona a /thankyoucode/{cadenacifrada}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="360" y="540" width="270" height="30" as="geometry" />
+        <mxCell id="eTh47dxPKKR8N7GiRpym-27" value="Redirecciona a /thankyoucode/datosSinCifrar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="540" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eTh47dxPKKR8N7GiRpym-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

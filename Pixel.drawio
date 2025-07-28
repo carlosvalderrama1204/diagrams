@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7" pages="3">
   <diagram name="Opción 1" id="qlOULI5kfTJ6-676rxJu">
     <mxGraphModel dx="1128" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -269,6 +269,128 @@
           <mxGeometry x="-0.0109" y="3" relative="1" as="geometry">
             <mxPoint x="57" y="-1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VfknSUk9wRJ7keVQrUyz-1" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, Helvetica, Arial, sans-serif; text-align: left; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;https://orquestador-web.pruaws.compensar.co/Redirect/&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="310" y="410" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="weHQqAWA1nEFDfGqDPvr-1" value="https://oraclecloud.com/thankyou/" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="XkdiThw9oEUQyR5PPjSf" name="Page-3">
+    <mxGraphModel dx="1289" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eTh47dxPKKR8N7GiRpym-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="eTh47dxPKKR8N7GiRpym-2" target="eTh47dxPKKR8N7GiRpym-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eTh47dxPKKR8N7GiRpym-2" value="Cliente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eTh47dxPKKR8N7GiRpym-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="eTh47dxPKKR8N7GiRpym-4" target="eTh47dxPKKR8N7GiRpym-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eTh47dxPKKR8N7GiRpym-4" value="Tienda Compensar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eTh47dxPKKR8N7GiRpym-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="eTh47dxPKKR8N7GiRpym-6" target="eTh47dxPKKR8N7GiRpym-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eTh47dxPKKR8N7GiRpym-6" value="API de Pagos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eTh47dxPKKR8N7GiRpym-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="eTh47dxPKKR8N7GiRpym-8" target="eTh47dxPKKR8N7GiRpym-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eTh47dxPKKR8N7GiRpym-8" value="PayU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eTh47dxPKKR8N7GiRpym-11" value="Cliente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="695" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eTh47dxPKKR8N7GiRpym-12" value="Tienda Compensar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="695" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eTh47dxPKKR8N7GiRpym-13" value="API de Pagos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="695" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eTh47dxPKKR8N7GiRpym-14" value="PayU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="695" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eTh47dxPKKR8N7GiRpym-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="330" as="sourcePoint" />
+            <mxPoint x="360" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eTh47dxPKKR8N7GiRpym-17" value="Inicia el proceso de pago" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="300" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eTh47dxPKKR8N7GiRpym-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="370" as="sourcePoint" />
+            <mxPoint x="570" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eTh47dxPKKR8N7GiRpym-19" value="Envia Información de la TX" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eTh47dxPKKR8N7GiRpym-18">
+          <mxGeometry x="-0.0846" relative="1" as="geometry">
+            <mxPoint x="4" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eTh47dxPKKR8N7GiRpym-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="410" as="sourcePoint" />
+            <mxPoint x="780" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eTh47dxPKKR8N7GiRpym-21" value="Construye petición Response_URL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eTh47dxPKKR8N7GiRpym-20">
+          <mxGeometry x="-0.3184" y="2" relative="1" as="geometry">
+            <mxPoint x="29" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eTh47dxPKKR8N7GiRpym-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="450" as="sourcePoint" />
+            <mxPoint x="360" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eTh47dxPKKR8N7GiRpym-23" value="Redirecciona pag Intermedia" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eTh47dxPKKR8N7GiRpym-22">
+          <mxGeometry x="-0.2936" y="1" relative="1" as="geometry">
+            <mxPoint x="29" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eTh47dxPKKR8N7GiRpym-26" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=-0.008;entryY=1.042;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="eTh47dxPKKR8N7GiRpym-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="980" y="570" as="sourcePoint" />
+            <mxPoint x="150" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eTh47dxPKKR8N7GiRpym-27" value="Redirecciona a /thankyoucode/{cadenacifrada}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="540" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eTh47dxPKKR8N7GiRpym-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="590" as="sourcePoint" />
+            <mxPoint x="360" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="590" />
+              <mxPoint x="390" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eTh47dxPKKR8N7GiRpym-29" value="Decodifica y muestra mensaje" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eTh47dxPKKR8N7GiRpym-28">
+          <mxGeometry x="-0.0109" y="3" relative="1" as="geometry">
+            <mxPoint x="57" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eTh47dxPKKR8N7GiRpym-30" value="https://oraclecloud.com/thankyou/" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eTh47dxPKKR8N7GiRpym-32" value="https://oraclecloud.com/thankyou/" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="460" y="460" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

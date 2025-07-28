@@ -279,8 +279,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="XkdiThw9oEUQyR5PPjSf" name="Page-3">
-    <mxGraphModel dx="1289" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="XkdiThw9oEUQyR5PPjSf" name="AS-IS">
+    <mxGraphModel dx="1601" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -371,26 +371,14 @@
         <mxCell id="eTh47dxPKKR8N7GiRpym-27" value="Redirecciona a /thankyoucode/datosSinCifrar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="365" y="540" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eTh47dxPKKR8N7GiRpym-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="590" as="sourcePoint" />
-            <mxPoint x="360" y="630" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="390" y="590" />
-              <mxPoint x="390" y="630" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eTh47dxPKKR8N7GiRpym-29" value="Decodifica y muestra mensaje" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eTh47dxPKKR8N7GiRpym-28">
-          <mxGeometry x="-0.0109" y="3" relative="1" as="geometry">
-            <mxPoint x="57" y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="eTh47dxPKKR8N7GiRpym-30" value="https://oraclecloud.com/thankyou/" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="440" y="320" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eTh47dxPKKR8N7GiRpym-32" value="https://oraclecloud.com/thankyou/" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="460" y="460" width="60" height="30" as="geometry" />
+          <mxGeometry x="450" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mx9HHLeGE1VhPkO2v0Jg-1" value="email*&lt;div&gt;&lt;span style=&quot;font-size: 12pt; font-family: Aptos, sans-serif;&quot;&gt;pse_referencia1&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="595" y="345" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

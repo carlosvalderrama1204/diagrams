@@ -3123,7 +3123,7 @@
             <mxPoint x="590" y="3080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ee1CL73031oouKv5auXA-43" value="Ejecuta ME80FN y exporta datos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ee1CL73031oouKv5auXA-43" value="Ejecuta ME80FN/Componente analítico&amp;nbsp; y exporta datos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="3040" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ee1CL73031oouKv5auXA-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">

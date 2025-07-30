@@ -2631,7 +2631,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="o0BdFm2hq3Q4wczmzJqA" name="Cadena Facturación TO-BE">
-    <mxGraphModel dx="2085" dy="1122" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2502" dy="1346" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3344,7 +3344,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zjNL0ydFdX_pVkLIxzYv-26" value="" style="fillColor=#9B3800;strokeColor=#660000" vertex="1" parent="1">
-          <mxGeometry x="2350" y="3012" width="12" height="37" as="geometry" />
+          <mxGeometry x="2349" y="2971" width="12" height="97" as="geometry" />
         </mxCell>
         <mxCell id="zjNL0ydFdX_pVkLIxzYv-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="ee1CL73031oouKv5auXA-22" target="zjNL0ydFdX_pVkLIxzYv-28">
           <mxGeometry relative="1" as="geometry">
@@ -3418,6 +3418,21 @@
         </mxCell>
         <mxCell id="ilp_FIKo6oEtkRYB5fAX-3" value="" style="fillColor=#9B3800;strokeColor=#660000" vertex="1" parent="1">
           <mxGeometry x="2349" y="3743.5" width="12" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="ilp_FIKo6oEtkRYB5fAX-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.939;entryY=0.923;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="zjNL0ydFdX_pVkLIxzYv-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2361" y="3035" as="sourcePoint" />
+            <mxPoint x="2361" y="3058" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2396" y="3035" />
+              <mxPoint x="2396" y="3060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ilp_FIKo6oEtkRYB5fAX-8" value="Despacha bien o Servicio" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ilp_FIKo6oEtkRYB5fAX-7">
+          <mxGeometry x="-0.0159" y="1" relative="1" as="geometry">
+            <mxPoint x="63" y="-3" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

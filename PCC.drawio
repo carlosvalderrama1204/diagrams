@@ -2631,7 +2631,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="o0BdFm2hq3Q4wczmzJqA" name="Cadena Facturación TO-BE">
-    <mxGraphModel dx="2780" dy="1496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1317" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3052,7 +3052,7 @@
         <mxCell id="ee1CL73031oouKv5auXA-29" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="2640" as="sourcePoint" />
-            <mxPoint x="590" y="2640" as="targetPoint" />
+            <mxPoint x="600" y="2640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ee1CL73031oouKv5auXA-30" value="Crear Solped y OC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">

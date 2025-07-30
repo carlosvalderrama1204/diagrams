@@ -3184,7 +3184,7 @@
         <mxCell id="ee1CL73031oouKv5auXA-73" value="Radica factura por canal correspondiente" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2390" y="3540" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ee1CL73031oouKv5auXA-74" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="ee1CL73031oouKv5auXA-74" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" edge="1" target="zjNL0ydFdX_pVkLIxzYv-39">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2735" y="3616" as="sourcePoint" />
             <mxPoint x="627" y="3616" as="targetPoint" />

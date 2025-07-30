@@ -2631,7 +2631,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="o0BdFm2hq3Q4wczmzJqA" name="Cadena Facturación TO-BE">
-    <mxGraphModel dx="1088" dy="585" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1925" dy="1035" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2992,7 +2992,7 @@
         <mxCell id="ee1CL73031oouKv5auXA-6" value="Coordinador/ Aprobador" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="275" y="3830" width="195" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ee1CL73031oouKv5auXA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="zjNL0ydFdX_pVkLIxzYv-24" target="ee1CL73031oouKv5auXA-10" edge="1">
+        <mxCell id="ee1CL73031oouKv5auXA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="zjNL0ydFdX_pVkLIxzYv-39" target="ee1CL73031oouKv5auXA-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ee1CL73031oouKv5auXA-9" value="SAP MM" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -3187,7 +3187,7 @@
         <mxCell id="ee1CL73031oouKv5auXA-74" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2735" y="3616" as="sourcePoint" />
-            <mxPoint x="590" y="3620" as="targetPoint" />
+            <mxPoint x="627" y="3616" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ee1CL73031oouKv5auXA-75" value="Valida factura vs OC vs RAS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -3391,11 +3391,20 @@
         <mxCell id="zjNL0ydFdX_pVkLIxzYv-37" value="" style="fillColor=#9B3800;strokeColor=#660000" vertex="1" parent="1">
           <mxGeometry x="2729" y="3557" width="12" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="ee1CL73031oouKv5auXA-72" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="ee1CL73031oouKv5auXA-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1" source="zjNL0ydFdX_pVkLIxzYv-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2365" y="3573" as="sourcePoint" />
             <mxPoint x="2728" y="3570" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zjNL0ydFdX_pVkLIxzYv-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="zjNL0ydFdX_pVkLIxzYv-24" target="zjNL0ydFdX_pVkLIxzYv-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="594" y="3099" as="sourcePoint" />
+            <mxPoint x="595" y="3830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjNL0ydFdX_pVkLIxzYv-39" value="" style="fillColor=#9B3800;strokeColor=#660000" vertex="1" parent="1">
+          <mxGeometry x="588" y="3590" width="12" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

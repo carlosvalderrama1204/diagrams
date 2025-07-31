@@ -2631,7 +2631,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="o0BdFm2hq3Q4wczmzJqA" name="Cadena Facturación TO-BE">
-    <mxGraphModel dx="2843" dy="1010" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2977" dy="1363" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4788,7 +4788,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_NuqHQr7-iaLzCIUB9Uh" name="Page-18">
-    <mxGraphModel dx="4408" dy="1508" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2885" dy="722" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5180,7 +5180,7 @@
         <mxCell id="TsSo5gHq1BozooptzWWG-119" value="Ejecución Diaria" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=20;" vertex="1" parent="TsSo5gHq1BozooptzWWG-187">
           <mxGeometry x="113" y="1378.87" width="178" height="84.5" as="geometry" />
         </mxCell>
-        <mxCell id="TsSo5gHq1BozooptzWWG-132" value="Accede al modelo Analítico" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=20;" vertex="1" parent="TsSo5gHq1BozooptzWWG-187">
+        <mxCell id="TsSo5gHq1BozooptzWWG-132" value="Genera Notificaciones" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=20;" vertex="1" parent="TsSo5gHq1BozooptzWWG-187">
           <mxGeometry x="371" y="1378.87" width="178" height="84.5" as="geometry" />
         </mxCell>
         <mxCell id="TsSo5gHq1BozooptzWWG-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TsSo5gHq1BozooptzWWG-187" source="TsSo5gHq1BozooptzWWG-146" target="TsSo5gHq1BozooptzWWG-147">
@@ -5192,7 +5192,7 @@
         <mxCell id="TsSo5gHq1BozooptzWWG-147" value="Genera Extracto" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=20;" vertex="1" parent="TsSo5gHq1BozooptzWWG-187">
           <mxGeometry x="375" y="1503.87" width="178" height="84.5" as="geometry" />
         </mxCell>
-        <mxCell id="TsSo5gHq1BozooptzWWG-89" value="&amp;gt; 2 días" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontColor=#9B3800;fontStyle=1" vertex="1" parent="TsSo5gHq1BozooptzWWG-187">
+        <mxCell id="TsSo5gHq1BozooptzWWG-89" value="&amp;gt; 1 días" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontColor=#9B3800;fontStyle=1" vertex="1" parent="TsSo5gHq1BozooptzWWG-187">
           <mxGeometry x="1099" y="1178" width="98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TsSo5gHq1BozooptzWWG-91" value="&amp;gt; 4 días" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontColor=#9B3800;fontStyle=1" vertex="1" parent="TsSo5gHq1BozooptzWWG-187">

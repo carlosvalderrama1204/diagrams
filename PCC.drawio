@@ -5051,10 +5051,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TsSo5gHq1BozooptzWWG-70" value="BOT" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="992" y="2283" width="560" height="253" as="geometry" />
+          <mxGeometry x="1004" y="2325.5" width="560" height="253" as="geometry" />
         </mxCell>
         <mxCell id="TsSo5gHq1BozooptzWWG-72" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Unicons_Line_vol_5-2967/robot-789.svg" vertex="1" parent="1">
-          <mxGeometry x="1003" y="2283" width="59" height="59" as="geometry" />
+          <mxGeometry x="1015" y="2325.5" width="59" height="59" as="geometry" />
         </mxCell>
         <mxCell id="TsSo5gHq1BozooptzWWG-75" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;COE Analítica&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1645" y="2148" width="800" height="120" as="geometry" />

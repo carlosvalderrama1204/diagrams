@@ -375,18 +375,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YCoPW_e2iOgbAGEfvvUK-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="YCoPW_e2iOgbAGEfvvUK-20" target="k8lSa_rNT2mACuqWR2le-5" edge="1">
+        <mxCell id="YCoPW_e2iOgbAGEfvvUK-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;targetPerimeterSpacing=20;sourcePerimeterSpacing=20;" parent="1" source="YCoPW_e2iOgbAGEfvvUK-20" target="k8lSa_rNT2mACuqWR2le-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-775" y="580" />
-              <mxPoint x="-360" y="580" />
-              <mxPoint x="-360" y="478" />
+              <mxPoint x="-270" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YCoPW_e2iOgbAGEfvvUK-28" value="Descargar artefacto versionado" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="YCoPW_e2iOgbAGEfvvUK-27" vertex="1" connectable="0">
           <mxGeometry x="-0.2862" y="2" relative="1" as="geometry">
-            <mxPoint x="11" y="-8" as="offset" />
+            <mxPoint x="33" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YCoPW_e2iOgbAGEfvvUK-20" value="Azure Artifacts" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Artifacts.svg;labelBackgroundColor=none;" parent="1" vertex="1">
@@ -467,17 +466,20 @@
           <mxGeometry x="-617" y="668.5" width="61" height="61" as="geometry" />
         </mxCell>
         <mxCell id="Hc9T-MgdPkuCHYM5lui--1" value="&amp;nbsp;POST /API/Token&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22https%3A%2F%2Fstela.compensar.com%2FAPI%2Flicencia%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3BfontSize%3D14%3BlabelBackgroundColor%3Dnone%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2288%22%20y%3D%22475%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22-75%22%20y%3D%22-30%22%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="135" y="600" as="geometry">
+          <mxGeometry x="118" y="600" as="geometry">
             <mxPoint x="-75" y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Hc9T-MgdPkuCHYM5lui--2" value="&amp;nbsp;GET /API/DescargarRobot&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22https%3A%2F%2Fstela.compensar.com%2FAPI%2Flicencia%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3BfontSize%3D14%3BlabelBackgroundColor%3Dnone%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2288%22%20y%3D%22475%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22-75%22%20y%3D%22-30%22%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="135" y="626" as="geometry">
+          <mxGeometry x="145" y="627" as="geometry">
             <mxPoint x="-75" y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hc9T-MgdPkuCHYM5lui--3" value="Key Vault Secreto" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;" vertex="1" parent="1">
+        <mxCell id="Hc9T-MgdPkuCHYM5lui--3" value="Key Vault Token" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="-581" y="480" width="46" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc9T-MgdPkuCHYM5lui--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.942;entryY=0.543;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="k8lSa_rNT2mACuqWR2le-4" target="Hc9T-MgdPkuCHYM5lui--3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

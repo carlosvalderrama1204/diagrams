@@ -1441,7 +1441,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2liVn_7Ah-z_7VVoZccf" name="Page-8">
-    <mxGraphModel dx="2443" dy="1010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2138" dy="841" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1594,6 +1594,9 @@
         </mxCell>
         <mxCell id="4hOgqVdYaRQA8WzNop_r-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://itbid.com/wp-content/uploads/2024/09/Logo-itbid-Web-200x67.png;" parent="09LzCOWTB2m7BKxCuV8K-6" vertex="1">
           <mxGeometry x="84.7" y="30" width="80.6" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="KHCBh90mR0IdqWgEKWBX-1" value="SARLAFT" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="09LzCOWTB2m7BKxCuV8K-6">
+          <mxGeometry x="60" y="777" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="09LzCOWTB2m7BKxCuV8K-23" value="Analitica" style="swimlane;startSize=20;" parent="1" vertex="1">
           <mxGeometry x="1370" y="490" width="160" height="1270" as="geometry" />
@@ -1910,6 +1913,15 @@
             <Array as="points">
               <mxPoint x="920" y="1210" />
               <mxPoint x="920" y="1322" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KHCBh90mR0IdqWgEKWBX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.527;entryY=1.477;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KHCBh90mR0IdqWgEKWBX-1" target="09LzCOWTB2m7BKxCuV8K-104">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="496" y="1282" />
+              <mxPoint x="496" y="1819" />
+              <mxPoint x="1935" y="1819" />
             </Array>
           </mxGeometry>
         </mxCell>

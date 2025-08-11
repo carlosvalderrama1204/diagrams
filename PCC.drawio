@@ -4819,7 +4819,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_NuqHQr7-iaLzCIUB9Uh" name="Page-18">
-    <mxGraphModel dx="2303" dy="795" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3377" dy="1363" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4854,7 +4854,7 @@
         <mxCell id="MpYPsq_rO1vDTQDHmLiR-6" value="FRONT" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;verticalAlign=top;dashed=1;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1308.75" y="1069.25" width="325" height="373" as="geometry" />
         </mxCell>
-        <mxCell id="d4unnO3ZdpsY73UH6rcK-1" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Modelo Analítico&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fontStyle=1;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="d4unnO3ZdpsY73UH6rcK-1" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Modelo Analítico&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fontStyle=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1473" y="1503" width="800" height="120" as="geometry" />
         </mxCell>
         <mxCell id="qjizVtl2HiJHYf2vLTTY-2" value="Power BI" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">

@@ -4819,7 +4819,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_NuqHQr7-iaLzCIUB9Uh" name="Page-18">
-    <mxGraphModel dx="3068" dy="852" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2303" dy="795" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5421,6 +5421,16 @@
               <mxPoint x="2349" y="686" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9cUrscljPwIAhHlLv7QV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.93;entryY=0.187;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="p-TNNIdfe3nccy9PlRFi-34" target="RTXOYZltlT9a-pRzNJVc-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1689" y="1161" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9cUrscljPwIAhHlLv7QV-6" value="Se retorna al&amp;nbsp;&lt;div&gt;Creador OC&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1656" y="1026" width="75" height="89" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -5413,6 +5413,15 @@
         <mxCell id="9cUrscljPwIAhHlLv7QV-2" value="Aprobación Móvil" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="2219" y="519" width="162" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9cUrscljPwIAhHlLv7QV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.691;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;" edge="1" parent="1" source="RTXOYZltlT9a-pRzNJVc-1" target="9cUrscljPwIAhHlLv7QV-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2347" y="1047" />
+              <mxPoint x="2347" y="686" />
+              <mxPoint x="2349" y="686" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

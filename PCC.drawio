@@ -5069,10 +5069,10 @@
           <mxGeometry x="-485" y="1901" width="770" height="2505" as="geometry" />
         </mxCell>
         <mxCell id="TsSo5gHq1BozooptzWWG-187" value="Robot/Componente" style="swimlane;whiteSpace=wrap;html=1;startSize=82;fontSize=55;" parent="1" vertex="1">
-          <mxGeometry x="289" y="1904" width="1325.72" height="2500" as="geometry" />
+          <mxGeometry x="289" y="1904" width="674" height="2500" as="geometry" />
         </mxCell>
         <mxCell id="TsSo5gHq1BozooptzWWG-142" value="&lt;font style=&quot;font-size: 46px;&quot;&gt;Notificaciones&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fontStyle=1;verticalAlign=top;textShadow=1;" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
-          <mxGeometry x="899" y="878" width="1926" height="1517" as="geometry" />
+          <mxGeometry x="899" y="878" width="1926" height="1578" as="geometry" />
         </mxCell>
         <mxCell id="TsSo5gHq1BozooptzWWG-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=9;" parent="TsSo5gHq1BozooptzWWG-187" source="TsSo5gHq1BozooptzWWG-70" target="TsSo5gHq1BozooptzWWG-142" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -5081,75 +5081,6 @@
               <mxPoint x="795" y="1441" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="TsSo5gHq1BozooptzWWG-83" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;RAS&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fontStyle=1;verticalAlign=top;textShadow=1;" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
-          <mxGeometry x="1009.5" y="973" width="824.5" height="324" as="geometry" />
-        </mxCell>
-        <mxCell id="TsSo5gHq1BozooptzWWG-85" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/7286/7286255.png?semt=ais_hybrid;" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
-          <mxGeometry x="1030" y="980" width="48.28" height="48.28" as="geometry" />
-        </mxCell>
-        <mxCell id="TsSo5gHq1BozooptzWWG-86" value="Requisidor" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=27;" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
-          <mxGeometry x="1067" y="1051.5" width="178" height="84.5" as="geometry" />
-        </mxCell>
-        <mxCell id="TsSo5gHq1BozooptzWWG-88" value="Equipo Seguimiento" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=27;" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
-          <mxGeometry x="1609" y="1058" width="178" height="84.5" as="geometry" />
-        </mxCell>
-        <mxCell id="TsSo5gHq1BozooptzWWG-93" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Listo Para Facturar&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fontStyle=1;verticalAlign=top;textShadow=1;" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
-          <mxGeometry x="1885" y="1011" width="824.5" height="242" as="geometry" />
-        </mxCell>
-        <mxCell id="TsSo5gHq1BozooptzWWG-94" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/7286/7286255.png?semt=ais_hybrid;" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
-          <mxGeometry x="1906" y="1021" width="48.28" height="48.28" as="geometry" />
-        </mxCell>
-        <mxCell id="TsSo5gHq1BozooptzWWG-95" value="Proveedor" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=27;" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
-          <mxGeometry x="2202.75" y="1087" width="178" height="84.5" as="geometry" />
-        </mxCell>
-        <mxCell id="TsSo5gHq1BozooptzWWG-96" value="RAS OK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontColor=#009900;fontStyle=1" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
-          <mxGeometry x="2222" y="1181" width="128" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TsSo5gHq1BozooptzWWG-98" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Seguimiento a Facturación&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fontStyle=1;verticalAlign=top;textShadow=1;" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
-          <mxGeometry x="1012" y="1310" width="824.5" height="242" as="geometry" />
-        </mxCell>
-        <mxCell id="TsSo5gHq1BozooptzWWG-99" value="Proveedor" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=27;" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
-          <mxGeometry x="1329" y="1377.2800000000002" width="178" height="84.5" as="geometry" />
-        </mxCell>
-        <mxCell id="TsSo5gHq1BozooptzWWG-100" value="Sin Facturar &amp;gt; 5 días con RAS OK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontColor=#9B3800;fontStyle=1" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
-          <mxGeometry x="1232.25" y="1492" width="392.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TsSo5gHq1BozooptzWWG-101" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/7286/7286255.png?semt=ais_hybrid;" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
-          <mxGeometry x="1036.97" y="1329" width="48.28" height="48.28" as="geometry" />
-        </mxCell>
-        <mxCell id="TsSo5gHq1BozooptzWWG-104" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Seguimiento a Causación&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fontStyle=1;verticalAlign=top;textShadow=1;" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
-          <mxGeometry x="1894" y="1317.25" width="824.5" height="242" as="geometry" />
-        </mxCell>
-        <mxCell id="TsSo5gHq1BozooptzWWG-105" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/7286/7286255.png?semt=ais_hybrid;" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
-          <mxGeometry x="1918.9700000000003" y="1336.25" width="48.28" height="48.28" as="geometry" />
-        </mxCell>
-        <mxCell id="TsSo5gHq1BozooptzWWG-106" value="Cuentas por Pagar" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=27;" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
-          <mxGeometry x="2206.25" y="1377.2800000000002" width="178" height="84.5" as="geometry" />
-        </mxCell>
-        <mxCell id="TsSo5gHq1BozooptzWWG-107" value="Factura no causada/Rechazada &amp;gt; 5 días" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontColor=#9B3800;fontStyle=1" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
-          <mxGeometry x="2068.5" y="1494.25" width="448.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TsSo5gHq1BozooptzWWG-109" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Alerta de Descuentos Financieros&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fontStyle=1;verticalAlign=top;textShadow=1;" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
-          <mxGeometry x="1010.5" y="1627" width="824.5" height="242" as="geometry" />
-        </mxCell>
-        <mxCell id="TsSo5gHq1BozooptzWWG-110" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/7286/7286255.png?semt=ais_hybrid;" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
-          <mxGeometry x="1035.4700000000003" y="1646" width="48.28" height="48.28" as="geometry" />
-        </mxCell>
-        <mxCell id="TsSo5gHq1BozooptzWWG-111" value="Cuentas por Pagar" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=27;" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
-          <mxGeometry x="1314.5" y="1705.75" width="178" height="84.5" as="geometry" />
-        </mxCell>
-        <mxCell id="TsSo5gHq1BozooptzWWG-112" value="Descuento Financiero" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontColor=light-dark(#d7a409, #543300);fontStyle=1" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
-          <mxGeometry x="1211.5" y="1800" width="392.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TsSo5gHq1BozooptzWWG-115" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Extracto Mensual&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fontStyle=1;verticalAlign=top;textShadow=1;" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
-          <mxGeometry x="1906" y="1642" width="824.5" height="242" as="geometry" />
-        </mxCell>
-        <mxCell id="TsSo5gHq1BozooptzWWG-116" value="Proveedor" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=27;" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
-          <mxGeometry x="2226" y="1721.0300000000002" width="178" height="84.5" as="geometry" />
-        </mxCell>
-        <mxCell id="TsSo5gHq1BozooptzWWG-117" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/11021/11021898.png?semt=ais_hybrid;" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
-          <mxGeometry x="1929" y="1653" width="68.03" height="68.03" as="geometry" />
         </mxCell>
         <mxCell id="TsSo5gHq1BozooptzWWG-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;strokeWidth=9;" parent="TsSo5gHq1BozooptzWWG-187" source="TsSo5gHq1BozooptzWWG-70" target="TsSo5gHq1BozooptzWWG-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -5195,18 +5126,6 @@
         </mxCell>
         <mxCell id="TsSo5gHq1BozooptzWWG-147" value="Genera Extracto" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=20;" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
           <mxGeometry x="363" y="1503.87" width="178" height="84.5" as="geometry" />
-        </mxCell>
-        <mxCell id="TsSo5gHq1BozooptzWWG-89" value="&amp;gt; 1 días" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontColor=#9B3800;fontStyle=1" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
-          <mxGeometry x="1107" y="1151" width="98" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TsSo5gHq1BozooptzWWG-91" value="&amp;gt; 4 días" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontColor=#9B3800;fontStyle=1" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
-          <mxGeometry x="1380" y="1169" width="98" height="15.25" as="geometry" />
-        </mxCell>
-        <mxCell id="TsSo5gHq1BozooptzWWG-92" value="&amp;gt; 15 días" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontColor=#9B3800;fontStyle=1" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
-          <mxGeometry x="1646" y="1181" width="118" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TsSo5gHq1BozooptzWWG-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="TsSo5gHq1BozooptzWWG-187" source="TsSo5gHq1BozooptzWWG-116" target="TsSo5gHq1BozooptzWWG-116" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TsSo5gHq1BozooptzWWG-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=9;" parent="TsSo5gHq1BozooptzWWG-187" source="TsSo5gHq1BozooptzWWG-152" target="TsSo5gHq1BozooptzWWG-158" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -5261,29 +5180,32 @@
         <mxCell id="TsSo5gHq1BozooptzWWG-166" value="Detalle Administrativo" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=27;" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
           <mxGeometry x="-494" y="563" width="236" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="Nvw43MaCcleuu8c2wyQp-1" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Alerta de SOLPED&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fontStyle=1;verticalAlign=top;textShadow=1;" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
-          <mxGeometry x="995.5" y="1961" width="824.5" height="331" as="geometry" />
-        </mxCell>
-        <mxCell id="Nvw43MaCcleuu8c2wyQp-4" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Alerta de OC Sin liberar&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fontStyle=1;verticalAlign=top;textShadow=1;" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
-          <mxGeometry x="1918.97" y="1968" width="824.5" height="315" as="geometry" />
-        </mxCell>
-        <mxCell id="Nvw43MaCcleuu8c2wyQp-3" value="Sin OC&amp;gt; 8 días" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontColor=#9B3800;fontStyle=1" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
-          <mxGeometry x="1311" y="2142" width="175.25" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Nvw43MaCcleuu8c2wyQp-2" value="Coordinador de Compras - Consolidado" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=27;" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
-          <mxGeometry x="1301.25" y="2034" width="191.25" height="84.5" as="geometry" />
-        </mxCell>
         <mxCell id="kOezv8T-gQw_DhDci0St-1" value="SOLPED" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=27;" vertex="1" parent="TsSo5gHq1BozooptzWWG-187">
           <mxGeometry x="-347" y="1542.5" width="178" height="84.5" as="geometry" />
         </mxCell>
+        <mxCell id="Nvw43MaCcleuu8c2wyQp-1" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Alerta de SOLPED&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fontStyle=1;verticalAlign=top;textShadow=1;" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
+          <mxGeometry x="999" y="957" width="824.5" height="331" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvw43MaCcleuu8c2wyQp-2" value="Coordinador de Compras - Consolidado" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=27;" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
+          <mxGeometry x="1253" y="1030" width="295" height="84.5" as="geometry" />
+        </mxCell>
         <mxCell id="kOezv8T-gQw_DhDci0St-2" value="Periodicidad semanal" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=27;" vertex="1" parent="TsSo5gHq1BozooptzWWG-187">
-          <mxGeometry x="1036.97" y="2190" width="283.72" height="84.5" as="geometry" />
+          <mxGeometry x="1040.4700000000003" y="1186" width="283.72" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3qo1UUKVPbIPBydB2rDd-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/7286/7286255.png?semt=ais_hybrid;" vertex="1" parent="TsSo5gHq1BozooptzWWG-187">
+          <mxGeometry x="1041" y="981" width="48.28" height="48.28" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvw43MaCcleuu8c2wyQp-4" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Alerta de OC Sin liberar&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fontStyle=1;verticalAlign=top;textShadow=1;" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
+          <mxGeometry x="1894" y="965" width="824.5" height="315" as="geometry" />
         </mxCell>
         <mxCell id="kOezv8T-gQw_DhDci0St-3" value="Periodicidad diaria" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=27;" vertex="1" parent="TsSo5gHq1BozooptzWWG-187">
-          <mxGeometry x="1951" y="2177" width="283.72" height="84.5" as="geometry" />
+          <mxGeometry x="1926.0299999999997" y="1174" width="283.72" height="84.5" as="geometry" />
         </mxCell>
-        <mxCell id="3qo1UUKVPbIPBydB2rDd-1" value="Periodicidad semanal" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=27;" vertex="1" parent="TsSo5gHq1BozooptzWWG-187">
-          <mxGeometry x="1042" y="1203" width="283.72" height="84.5" as="geometry" />
+        <mxCell id="Nvw43MaCcleuu8c2wyQp-5" value="Auxiliar Operativo" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=27;" parent="TsSo5gHq1BozooptzWWG-187" vertex="1">
+          <mxGeometry x="2206.0299999999997" y="1034" width="178" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3qo1UUKVPbIPBydB2rDd-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/7286/7286255.png?semt=ais_hybrid;" vertex="1" parent="TsSo5gHq1BozooptzWWG-187">
+          <mxGeometry x="1944.5299999999997" y="989" width="48.28" height="48.28" as="geometry" />
         </mxCell>
         <mxCell id="TsSo5gHq1BozooptzWWG-188" value="Acción" style="swimlane;whiteSpace=wrap;html=1;fontSize=55;startSize=82;" parent="1" vertex="1">
           <mxGeometry x="957.25" y="1904" width="2366.75" height="2500" as="geometry" />
@@ -5297,14 +5219,110 @@
         <mxCell id="TsSo5gHq1BozooptzWWG-179" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/14180/14180779.png?semt=ais_hybrid;fontSize=27;" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
           <mxGeometry x="537.75" y="349.5" width="58" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="Nvw43MaCcleuu8c2wyQp-5" value="Auxiliar Operativo" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=27;" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
-          <mxGeometry x="1562.75" y="2037" width="178" height="84.5" as="geometry" />
+        <mxCell id="TsSo5gHq1BozooptzWWG-83" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;RAS&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fontStyle=1;verticalAlign=top;textShadow=1;" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
+          <mxGeometry x="334.75" y="1355" width="824.5" height="324" as="geometry" />
         </mxCell>
-        <mxCell id="Nvw43MaCcleuu8c2wyQp-6" value="&amp;gt; 8 horas creación" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontColor=#9B3800;fontStyle=1" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
-          <mxGeometry x="1564.13" y="2140" width="175.25" height="30" as="geometry" />
+        <mxCell id="TsSo5gHq1BozooptzWWG-85" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/7286/7286255.png?semt=ais_hybrid;" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
+          <mxGeometry x="355.25" y="1362" width="48.28" height="48.28" as="geometry" />
+        </mxCell>
+        <mxCell id="TsSo5gHq1BozooptzWWG-86" value="Requisidor" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=27;" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
+          <mxGeometry x="392.25" y="1433.5" width="178" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TsSo5gHq1BozooptzWWG-88" value="Equipo Seguimiento" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=27;" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
+          <mxGeometry x="934.25" y="1440" width="178" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TsSo5gHq1BozooptzWWG-93" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Listo Para Facturar&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fontStyle=1;verticalAlign=top;textShadow=1;" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
+          <mxGeometry x="1210.25" y="1393" width="824.5" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="TsSo5gHq1BozooptzWWG-94" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/7286/7286255.png?semt=ais_hybrid;" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
+          <mxGeometry x="1231.25" y="1403" width="48.28" height="48.28" as="geometry" />
+        </mxCell>
+        <mxCell id="TsSo5gHq1BozooptzWWG-95" value="Proveedor" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=27;" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
+          <mxGeometry x="1528" y="1469" width="178" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TsSo5gHq1BozooptzWWG-96" value="RAS OK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontColor=#009900;fontStyle=1" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
+          <mxGeometry x="1547.25" y="1563" width="128" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TsSo5gHq1BozooptzWWG-89" value="&amp;gt; 1 días" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontColor=#9B3800;fontStyle=1" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
+          <mxGeometry x="432.25" y="1533" width="98" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TsSo5gHq1BozooptzWWG-91" value="&amp;gt; 4 días" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontColor=#9B3800;fontStyle=1" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
+          <mxGeometry x="705.25" y="1551" width="98" height="15.25" as="geometry" />
+        </mxCell>
+        <mxCell id="TsSo5gHq1BozooptzWWG-92" value="&amp;gt; 15 días" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontColor=#9B3800;fontStyle=1" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
+          <mxGeometry x="948.75" y="1548" width="118" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3qo1UUKVPbIPBydB2rDd-1" value="Periodicidad diaria" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=27;" vertex="1" parent="TsSo5gHq1BozooptzWWG-188">
+          <mxGeometry x="367.25" y="1585" width="283.72" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TsSo5gHq1BozooptzWWG-98" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Seguimiento a Facturación&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fontStyle=1;verticalAlign=top;textShadow=1;" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
+          <mxGeometry x="342.25" y="1751" width="824.5" height="306" as="geometry" />
+        </mxCell>
+        <mxCell id="TsSo5gHq1BozooptzWWG-99" value="Proveedor" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=27;" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
+          <mxGeometry x="659.25" y="1818.2800000000002" width="178" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TsSo5gHq1BozooptzWWG-100" value="Sin Facturar &amp;gt; 5 días con RAS OK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontColor=#9B3800;fontStyle=1" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
+          <mxGeometry x="501.75" y="1927" width="480.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TsSo5gHq1BozooptzWWG-101" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/7286/7286255.png?semt=ais_hybrid;" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
+          <mxGeometry x="367.22" y="1770" width="48.28" height="48.28" as="geometry" />
+        </mxCell>
+        <mxCell id="TsSo5gHq1BozooptzWWG-104" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Seguimiento a Causación&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fontStyle=1;verticalAlign=top;textShadow=1;" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
+          <mxGeometry x="1224.25" y="1758.25" width="824.5" height="299.75" as="geometry" />
+        </mxCell>
+        <mxCell id="TsSo5gHq1BozooptzWWG-105" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/7286/7286255.png?semt=ais_hybrid;" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
+          <mxGeometry x="1249.2200000000003" y="1777.25" width="48.28" height="48.28" as="geometry" />
+        </mxCell>
+        <mxCell id="TsSo5gHq1BozooptzWWG-106" value="Cuentas por Pagar" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=27;" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
+          <mxGeometry x="1536.5" y="1818.2800000000002" width="178" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TsSo5gHq1BozooptzWWG-107" value="Factura no causada/Rechazada &amp;gt; 5 días" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontColor=#9B3800;fontStyle=1" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
+          <mxGeometry x="1365.75" y="1914" width="548.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TsSo5gHq1BozooptzWWG-109" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Alerta de Descuentos Financieros&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fontStyle=1;verticalAlign=top;textShadow=1;" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
+          <mxGeometry x="342.25" y="2120" width="824.5" height="242" as="geometry" />
+        </mxCell>
+        <mxCell id="TsSo5gHq1BozooptzWWG-110" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/7286/7286255.png?semt=ais_hybrid;" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
+          <mxGeometry x="367.22000000000025" y="2139" width="48.28" height="48.28" as="geometry" />
+        </mxCell>
+        <mxCell id="TsSo5gHq1BozooptzWWG-111" value="Cuentas por Pagar" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=27;" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
+          <mxGeometry x="646.25" y="2198.75" width="178" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TsSo5gHq1BozooptzWWG-112" value="Descuento Financiero" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontColor=light-dark(#d7a409, #543300);fontStyle=1" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
+          <mxGeometry x="543.25" y="2293" width="392.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TsSo5gHq1BozooptzWWG-115" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Extracto Mensual&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fontStyle=1;verticalAlign=top;textShadow=1;" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
+          <mxGeometry x="1237.75" y="2135" width="824.5" height="242" as="geometry" />
+        </mxCell>
+        <mxCell id="TsSo5gHq1BozooptzWWG-116" value="Proveedor" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=27;" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
+          <mxGeometry x="1557.75" y="2214.03" width="178" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TsSo5gHq1BozooptzWWG-117" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/11021/11021898.png?semt=ais_hybrid;" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
+          <mxGeometry x="1260.75" y="2146" width="68.03" height="68.03" as="geometry" />
+        </mxCell>
+        <mxCell id="TsSo5gHq1BozooptzWWG-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="TsSo5gHq1BozooptzWWG-188" source="TsSo5gHq1BozooptzWWG-116" target="TsSo5gHq1BozooptzWWG-116" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3qo1UUKVPbIPBydB2rDd-4" value="Periodicidad diaria" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=27;" vertex="1" parent="TsSo5gHq1BozooptzWWG-188">
+          <mxGeometry x="367.25" y="1960" width="283.72" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3qo1UUKVPbIPBydB2rDd-6" value="Periodicidad Mensual" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=27;" vertex="1" parent="TsSo5gHq1BozooptzWWG-188">
+          <mxGeometry x="1255.25" y="2277.5" width="283.72" height="84.5" as="geometry" />
         </mxCell>
         <mxCell id="TsSo5gHq1BozooptzWWG-87" value="Jefe" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=27;fillColor=#f8cecc;strokeColor=#b85450;" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
-          <mxGeometry x="679.75" y="1048" width="178" height="84.5" as="geometry" />
+          <mxGeometry x="673.25" y="1430" width="178" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3qo1UUKVPbIPBydB2rDd-3" value="Periodicidad diaria" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=27;" vertex="1" parent="TsSo5gHq1BozooptzWWG-188">
+          <mxGeometry x="1240.25" y="1581" width="283.72" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3qo1UUKVPbIPBydB2rDd-5" value="Periodicidad diaria" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=27;" vertex="1" parent="TsSo5gHq1BozooptzWWG-188">
+          <mxGeometry x="1244.25" y="1960" width="283.72" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvw43MaCcleuu8c2wyQp-3" value="Sin OC&amp;gt; 8 días" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontColor=#9B3800;fontStyle=1" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
+          <mxGeometry x="590" y="1135" width="260.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvw43MaCcleuu8c2wyQp-6" value="OC &amp;gt; 8 horas creación" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontColor=#9B3800;fontStyle=1" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
+          <mxGeometry x="1432.75" y="1131" width="351.59" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TsSo5gHq1BozooptzWWG-200" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Funcionalidades Proveedores&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fontStyle=1;verticalAlign=top;textShadow=1;" parent="1" vertex="1">
           <mxGeometry x="1433" y="2410" width="1259" height="242" as="geometry" />

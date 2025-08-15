@@ -4819,7 +4819,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_NuqHQr7-iaLzCIUB9Uh" name="Page-18">
-    <mxGraphModel dx="2885" dy="1122" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5686" dy="2020" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5262,7 +5262,7 @@
           <mxGeometry x="659.25" y="1818.2800000000002" width="178" height="84.5" as="geometry" />
         </mxCell>
         <mxCell id="TsSo5gHq1BozooptzWWG-100" value="Sin Facturar &amp;gt; 5 días con RAS OK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontColor=#9B3800;fontStyle=1" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
-          <mxGeometry x="501.75" y="1927" width="480.5" height="30" as="geometry" />
+          <mxGeometry x="499.25" y="1919" width="480.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TsSo5gHq1BozooptzWWG-101" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/7286/7286255.png?semt=ais_hybrid;" parent="TsSo5gHq1BozooptzWWG-188" vertex="1">
           <mxGeometry x="367.22" y="1770" width="48.28" height="48.28" as="geometry" />
@@ -5304,7 +5304,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3qo1UUKVPbIPBydB2rDd-4" value="Periodicidad diaria" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=27;" vertex="1" parent="TsSo5gHq1BozooptzWWG-188">
-          <mxGeometry x="367.25" y="1960" width="283.72" height="84.5" as="geometry" />
+          <mxGeometry x="367.25" y="1965" width="283.72" height="84.5" as="geometry" />
         </mxCell>
         <mxCell id="3qo1UUKVPbIPBydB2rDd-6" value="Periodicidad Mensual" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=27;" vertex="1" parent="TsSo5gHq1BozooptzWWG-188">
           <mxGeometry x="1255.25" y="2277.5" width="283.72" height="84.5" as="geometry" />

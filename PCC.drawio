@@ -1441,7 +1441,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2liVn_7Ah-z_7VVoZccf" name="Page-8">
-    <mxGraphModel dx="2154" dy="828" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2843" dy="1211" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2028,6 +2028,9 @@
         <mxCell id="nYMvW2e319FU-oF2nato-13" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;html=1;whiteSpace=wrap;fontSize=13;fontStyle=1;container=0;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;fillColor=#f5f5f5;verticalAlign=top;align=left;spacingLeft=30;fillStyle=auto;rounded=1;opacity=70;fontColor=#333333;strokeColor=#666666;" parent="nYMvW2e319FU-oF2nato-11" vertex="1">
           <mxGeometry x="16" y="60" width="178" height="813" as="geometry" />
         </mxCell>
+        <mxCell id="2Rk7ZWR9WVcWd7oYnMgX-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="nYMvW2e319FU-oF2nato-11">
+          <mxGeometry x="27.5" y="103.5" width="155.5" height="313.5" as="geometry" />
+        </mxCell>
         <mxCell id="nYMvW2e319FU-oF2nato-23" value="Interlocutor" style="rounded=1;whiteSpace=wrap;html=1;" parent="nYMvW2e319FU-oF2nato-11" vertex="1">
           <mxGeometry x="45" y="125" width="120" height="30" as="geometry" />
         </mxCell>
@@ -2216,7 +2219,7 @@
           <mxGeometry x="60" y="496" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nYMvW2e319FU-oF2nato-52" value="Carga documentos" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="nYMvW2e319FU-oF2nato-43" vertex="1">
-          <mxGeometry x="60" y="569" width="130" height="30" as="geometry" />
+          <mxGeometry x="60" y="571" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nYMvW2e319FU-oF2nato-53" value="Aceptar/Rechazar Ordenes" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="nYMvW2e319FU-oF2nato-43" vertex="1">
           <mxGeometry x="60" y="613" width="130" height="30" as="geometry" />
@@ -2329,6 +2332,10 @@
         <mxCell id="nYMvW2e319FU-oF2nato-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="nYMvW2e319FU-oF2nato-82" source="nYMvW2e319FU-oF2nato-84" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-15" y="258" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="8" y="262" />
+              <mxPoint x="8" y="258" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nYMvW2e319FU-oF2nato-84" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="nYMvW2e319FU-oF2nato-82" vertex="1">
@@ -2351,6 +2358,9 @@
         </mxCell>
         <mxCell id="IJFX7ykI0H0wmjAPRsU2-10" value="GUI SAP" style="rounded=1;whiteSpace=wrap;html=1;" parent="nYMvW2e319FU-oF2nato-82" vertex="1">
           <mxGeometry x="81" y="329.9000000000001" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="2Rk7ZWR9WVcWd7oYnMgX-6" value="&lt;b&gt;Comforce&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nYMvW2e319FU-oF2nato-82">
+          <mxGeometry x="45" y="818" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nYMvW2e319FU-oF2nato-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.017;entryY=0.441;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="nYMvW2e319FU-oF2nato-84" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2563,7 +2573,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1796" y="2728" />
-              <mxPoint x="1796" y="2873" />
+              <mxPoint x="1796" y="2907" />
             </Array>
           </mxGeometry>
         </mxCell>

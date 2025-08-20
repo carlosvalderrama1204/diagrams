@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7" pages="19">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0" pages="19">
   <diagram id="oQg5v4_-Qz-4qN8YKQsb" name="Modelos Emision">
     <mxGraphModel dx="2208" dy="1665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3629,14 +3629,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sTYJvzZdeHplwq9bK0XT" name="TO-BE">
-    <mxGraphModel dx="4504" dy="3516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5824" dy="4581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-89" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;DIAN&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;strokeWidth=2;gradientColor=#04AF6D;fillColor=#D2F4E7;strokeColor=#04AF6D;" parent="1" vertex="1">
           <mxGeometry x="1410" y="277.5" width="210" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Bc1a42AfPo7aUE2n1Zk9-1" value="Compensar" style="rounded=1;whiteSpace=wrap;html=1;gradientDirection=south;strokeWidth=2;verticalAlign=top;fontSize=29;fontStyle=1;strokeColor=light-dark(#f09133, #ce6100);fillColor=#ffe6cc;fontColor=light-dark(#000000,#EDEDED);" parent="1" vertex="1">
+        <mxCell id="Bc1a42AfPo7aUE2n1Zk9-1" value="Compensar" style="rounded=1;whiteSpace=wrap;html=1;gradientDirection=south;strokeWidth=4;verticalAlign=top;fontSize=29;fontStyle=1;strokeColor=#FF8000;fillColor=#FFFFFF;fontColor=light-dark(#000000,#EDEDED);" parent="1" vertex="1">
           <mxGeometry x="-1030" y="-1260" width="1900" height="2285" as="geometry" />
         </mxCell>
         <mxCell id="f4LLNtYex6HE9IBSAwMh-1" value="Bancor" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;strokeWidth=2;" parent="1" vertex="1">
@@ -3672,13 +3672,13 @@
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-82" value="ONBASE" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="510" y="490" width="210" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="bgNHvy8tnrGRwKrJ1NFl-83" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="bgNHvy8tnrGRwKrJ1NFl-83" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-230" y="-150" width="210" height="240" as="geometry" />
         </mxCell>
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-84" value="Emisión Facturación en línea" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-185" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bgNHvy8tnrGRwKrJ1NFl-85" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="bgNHvy8tnrGRwKrJ1NFl-85" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;fillColor=#CCE5FF;strokeColor=#82b366;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1070" y="-209" width="260" height="880" as="geometry" />
         </mxCell>
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="bgNHvy8tnrGRwKrJ1NFl-88" target="SMwxNIYGxUk6GroNs0wT-3" edge="1">
@@ -3908,7 +3908,7 @@
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="bgNHvy8tnrGRwKrJ1NFl-88" target="bgNHvy8tnrGRwKrJ1NFl-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bgNHvy8tnrGRwKrJ1NFl-155" value="Gestor de Inconsistencias de Facturación" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontStyle=1;strokeColor=light-dark(#f1870e, #ededed);strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="bgNHvy8tnrGRwKrJ1NFl-155" value="Gestor de Inconsistencias de Facturación" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontStyle=1;strokeColor=#d79b00;strokeWidth=2;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="-275.24" y="399" width="350" height="261" as="geometry" />
         </mxCell>
         <mxCell id="7ZPwo6PWe-y4IKth8wyl-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#F1870E;strokeWidth=3;" parent="1" source="bgNHvy8tnrGRwKrJ1NFl-156" target="bgNHvy8tnrGRwKrJ1NFl-111" edge="1">
@@ -4133,10 +4133,10 @@
         <mxCell id="CrNZLwiVnibB3_4Z9Lme-1" value="Cuotas Moderadoras&lt;div&gt;Copagos&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="925" y="-512" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RTpWkAZ3UTfz319yw36L-1" value="Datos maestros" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="RTpWkAZ3UTfz319yw36L-1" value="Datos maestros" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-391" y="680" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RTpWkAZ3UTfz319yw36L-2" value="Envia notificación por email" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=none;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="1">
+        <mxCell id="RTpWkAZ3UTfz319yw36L-2" value="Envia notificación por email" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=none;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" parent="1" vertex="1">
           <mxGeometry x="-485" y="701.75" width="30" height="16.5" as="geometry" />
         </mxCell>
       </root>

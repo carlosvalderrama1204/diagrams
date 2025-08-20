@@ -2017,7 +2017,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nYMvW2e319FU-oF2nato-11" value="Interoperabilidad" style="swimlane;startSize=20;gradientColor=none;strokeColor=#4184CA;fillColor=#4184CA;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="935" y="2222" width="376.5" height="1528" as="geometry" />
+          <mxGeometry x="952" y="2258.5" width="209" height="1528" as="geometry" />
         </mxCell>
         <mxCell id="nYMvW2e319FU-oF2nato-13" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;html=1;whiteSpace=wrap;fontSize=13;fontStyle=1;container=0;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;fillColor=#f5f5f5;verticalAlign=top;align=left;spacingLeft=30;fillStyle=auto;rounded=1;opacity=70;fontColor=#333333;strokeColor=#666666;" parent="nYMvW2e319FU-oF2nato-11" vertex="1">
           <mxGeometry x="16" y="60" width="178" height="813" as="geometry" />
@@ -2086,7 +2086,7 @@
           <mxGeometry x="52.5" y="799" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nYMvW2e319FU-oF2nato-32" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/webp,UklGRkoEAABXRUJQVlA4TD4EAAAvf8AfEO8GIZIk2UrOcnrBvyUc3LBTNhy0jSRJrvsQHH+is7uB3EaSI4k1s6eVdWfwWXSvlT1VCbGRJEVSdm/PMT2z/8a8GcyMM/U9UYwkISGBsIb/7qxmHWS4Fqv568ZqCNdBhoQKhAwJhARCwp87GQgJW0NYTQIhQ0D4dWVbXAfXImE11SQQ1vDnykf/rGYtfjqzhgwZbosMCau5Fv9u/HUnQwJBEooOR+CbOEZDhyCTEEQ5Aj94h9BIosSAHxHqYAjK4dEhs5QZgjgc30NBNCsqIZwPHYUEvsIQMPnCr2mog0GYUAN+RKhhJDEZGo6oRDb/SNyhQYMhyG8YJvIODUY5IgwVwhNEHDFTEGw+eScijjsqqSiNySbMjGgobJ7qFs/4ZGeemi63bFeHZ9zNM/qXXdvdKs56MEHFUX2QIsa9vU3R5aw0uehtxp6tYp6t/t9+3JFr5Ncj96Hnd5WHa6/nt03v9fJ3zujxP1oXf3bRq598p/CZEH/55tcg7bZtY29ym9pt2ti27ZzYNuvGdmrbtm3btn3/zNM+773POe/nRvR/Avj/2759vHP1gt6lS3sXrN75+K2+eblzRR3oWNdz4JHeeLerJRnElu1/qw+eLUoEiRnzHlL3fHkaSE5f8ZKy7/szQYOp636S9WQ2aLTgNk0G+xNAs+mbDAj60QWaXvKFnE+VoPGqt8Q8LQXNT/tIyociQFjyiZAvFYBy6g86ugFpDxl7Ae0eIm5l4Em9QsLvakBc84eCfSAxzNtm0kRrj2AJsJeAqw3igszZP8cHist7j28liI7zHMxUDnKJEQVr0V3LFObKdLSIFZXyFttqEO3HlIZjLazGGSqYmyhYj+xXvqioYQrTcACAcHPFkFBRs/7gOgqi3RhjzCgW/hprxhhjtqLgCK5lwkYqQuCfEYaMsaHRouag+lUvKpIxxkaBygmMMRYoqv47pscgOkBhpMZR4SsK7mDaKsxfMVmNs8JL2BZMHXKM1TjJacI0U46JGkc5tYi+JssxVeMgJ/4Hngcgx0yNvRy4j+ewJHM1dpKO4DlHxVk8O4W4GxsbG49RDDdWOUIx2tjY2NhdyG48F4RYM8nWQi7gOUDFITxnqDiN5wQVx/Dcp+Imni/xNMT/xMNraZjOETfT0IZpOw07MN2l4R6mPw0UZP/BxAco6OOoj1NwGdfvGfhqf+PiG/Ft5sjf5GFr+ICNr9bJx1Kyj07bOPrXubpoPecdPn4A10FOoEErpgoDCvj1ejxZLziN5/Fc4lQuwrKYk/m9HUfbLzr4l0oM5V85pa+naK/8E6f1a7vWOj9zar/3aav/Fyd4V4p2Uvdwmm8Ua6XmOqf6965GLeTt/8MJv7o4VVbq/Pec+KsbGmQ0rHrF9eDPU0uTxKS17PrK9eXr04tL49XFFy44+Ynr2W83z15cs3Du3IVrLp69+Y3/vzk=;" parent="nYMvW2e319FU-oF2nato-11" vertex="1">
-          <mxGeometry x="3.5" y="541" width="48" height="48" as="geometry" />
+          <mxGeometry x="1" y="506.5" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="nYMvW2e319FU-oF2nato-33" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.tibco.com/content/dam/tibco/images/tibco-header-logo.svg;" parent="nYMvW2e319FU-oF2nato-11" vertex="1">
           <mxGeometry x="91.33" y="951" width="35.34" height="10" as="geometry" />
@@ -2148,10 +2148,9 @@
         <mxCell id="nYMvW2e319FU-oF2nato-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="nYMvW2e319FU-oF2nato-11" target="nYMvW2e319FU-oF2nato-91" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="196.5" y="663" />
-              <mxPoint x="196.5" y="663" />
+              <mxPoint x="194" y="663" />
             </Array>
-            <mxPoint x="200.5" y="663" as="sourcePoint" />
+            <mxPoint x="194" y="660.5" as="sourcePoint" />
             <mxPoint x="256.5" y="623" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -2504,14 +2503,14 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="920" y="3120" />
-              <mxPoint x="920" y="3232" />
+              <mxPoint x="920" y="3284" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nYMvW2e319FU-oF2nato-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="nYMvW2e319FU-oF2nato-39" target="nYMvW2e319FU-oF2nato-84" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1171" y="3195" />
+              <mxPoint x="1171" y="3252" />
               <mxPoint x="1171" y="2670" />
               <mxPoint x="1272" y="2670" />
             </Array>
@@ -2568,7 +2567,7 @@
         <mxCell id="Z9PgFIBRhuBC4YKxzpBZ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nYMvW2e319FU-oF2nato-76" target="Z9PgFIBRhuBC4YKxzpBZ-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="897" y="2735" />
+              <mxPoint x="897" y="2772" />
             </Array>
           </mxGeometry>
         </mxCell>

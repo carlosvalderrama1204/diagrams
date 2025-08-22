@@ -1451,7 +1451,7 @@
         <mxCell id="nYMvW2e319FU-oF2nato-44" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DFE6EF;gradientColor=none;strokeColor=#1A4F8A;strokeWidth=3;" parent="nYMvW2e319FU-oF2nato-43" vertex="1">
           <mxGeometry x="10" y="54" width="230" height="1394" as="geometry" />
         </mxCell>
-        <mxCell id="nYMvW2e319FU-oF2nato-46" value="Panel Cliente Interno" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;verticalAlign=top;shadow=1;strokeWidth=2;" parent="nYMvW2e319FU-oF2nato-43" vertex="1">
+        <mxCell id="nYMvW2e319FU-oF2nato-46" value="Portal Cliente Interno" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;verticalAlign=top;shadow=1;strokeWidth=2;" parent="nYMvW2e319FU-oF2nato-43" vertex="1">
           <mxGeometry x="30" y="111" width="190" height="330" as="geometry" />
         </mxCell>
         <mxCell id="aqGcZJZDrWT9u679pfPu-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="nYMvW2e319FU-oF2nato-43" vertex="1">
@@ -1466,11 +1466,11 @@
         <mxCell id="aqGcZJZDrWT9u679pfPu-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="nYMvW2e319FU-oF2nato-43" vertex="1">
           <mxGeometry x="43" y="274.5" width="169.7" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="nYMvW2e319FU-oF2nato-45" value="Panel Proveedor" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=14;shadow=1;strokeWidth=2;" parent="nYMvW2e319FU-oF2nato-43" vertex="1">
+        <mxCell id="nYMvW2e319FU-oF2nato-45" value="Portal Proveedor" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=14;shadow=1;strokeWidth=2;" parent="nYMvW2e319FU-oF2nato-43" vertex="1">
           <mxGeometry x="30" y="459" width="190" height="291" as="geometry" />
         </mxCell>
         <mxCell id="aqGcZJZDrWT9u679pfPu-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="nYMvW2e319FU-oF2nato-43" vertex="1">
-          <mxGeometry x="39.299999999999976" y="563.5" width="169.7" height="45" as="geometry" />
+          <mxGeometry x="39.299999999999976" y="566" width="169.7" height="45" as="geometry" />
         </mxCell>
         <mxCell id="aqGcZJZDrWT9u679pfPu-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="nYMvW2e319FU-oF2nato-43" vertex="1">
           <mxGeometry x="39.3" y="484" width="169.7" height="45" as="geometry" />

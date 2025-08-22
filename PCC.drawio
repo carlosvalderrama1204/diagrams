@@ -2137,7 +2137,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nYMvW2e319FU-oF2nato-11" value="Interoperabilidad" style="swimlane;startSize=20;gradientColor=none;strokeColor=#4184CA;fillColor=#4184CA;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="952" y="2258.5" width="207" height="1528" as="geometry" />
+          <mxGeometry x="953" y="2255" width="207" height="1528" as="geometry" />
         </mxCell>
         <mxCell id="aqGcZJZDrWT9u679pfPu-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="nYMvW2e319FU-oF2nato-11" vertex="1">
           <mxGeometry x="222" y="961" width="187" height="162" as="geometry" />

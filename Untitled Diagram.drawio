@@ -76,10 +76,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AbtZpUXl4OqjuwyhX3op" name="To-BE">
-    <mxGraphModel dx="3128" dy="1683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1710" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PtiiRsZfVB26Y7gW9x7X-1" value="SMAX" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="362.39" y="800" width="120" height="168.75" as="geometry" />
+        </mxCell>
         <mxCell id="5CRAIR-sN3VCdlVYzTAv-140" value="Interoperabilidad" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="732.16" y="1150" width="195" height="460" as="geometry" />
         </mxCell>
@@ -133,8 +136,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="195" y="720" />
-              <mxPoint x="287" y="720" />
-              <mxPoint x="287" y="718" />
+              <mxPoint x="270" y="720" />
+              <mxPoint x="270" y="880" />
+              <mxPoint x="365" y="880" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -191,8 +195,8 @@
         <mxCell id="5CRAIR-sN3VCdlVYzTAv-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="5CRAIR-sN3VCdlVYzTAv-169" target="5CRAIR-sN3VCdlVYzTAv-175">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="670" y="718" />
-              <mxPoint x="670" y="718" />
+              <mxPoint x="650" y="718" />
+              <mxPoint x="650" y="892" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -216,26 +220,26 @@
         <mxCell id="5CRAIR-sN3VCdlVYzTAv-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="5CRAIR-sN3VCdlVYzTAv-173" target="5CRAIR-sN3VCdlVYzTAv-166">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5CRAIR-sN3VCdlVYzTAv-173" value="Certificado" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5CRAIR-sN3VCdlVYzTAv-173" value="Certificado/&lt;div&gt;Desprendible&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="650" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5CRAIR-sN3VCdlVYzTAv-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="5CRAIR-sN3VCdlVYzTAv-175" target="5CRAIR-sN3VCdlVYzTAv-169">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5CRAIR-sN3VCdlVYzTAv-175" value="Incapacidad" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="695" width="90" height="30" as="geometry" />
+          <mxGeometry x="380" y="865" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5CRAIR-sN3VCdlVYzTAv-176" value="Descarga Certificado" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Document_icons-2697/647704-pdf-1197.svg" vertex="1" parent="1">
           <mxGeometry x="260" y="635" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5CRAIR-sN3VCdlVYzTAv-177" value="Carga Incapacidad" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Document_icons-2697/647704-pdf-1197.svg" vertex="1" parent="1">
-          <mxGeometry x="251" y="725" width="30" height="30" as="geometry" />
+          <mxGeometry x="210" y="835" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5CRAIR-sN3VCdlVYzTAv-178" value="BASE 64" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="560" y="665" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5CRAIR-sN3VCdlVYzTAv-179" value="BASE 64" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="560" y="695" width="40" height="20" as="geometry" />
+          <mxGeometry x="540" y="840" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5CRAIR-sN3VCdlVYzTAv-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="5CRAIR-sN3VCdlVYzTAv-181" target="5CRAIR-sN3VCdlVYzTAv-166">
           <mxGeometry relative="1" as="geometry" />

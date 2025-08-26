@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2024-02-16T03:10:28.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.5" etag="YpUdMA-YL7eaDRbkJnyh" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
   <diagram name="Page-1" id="MSnPON3nnzi3dWuj75Ny">
-    <mxGraphModel>
+    <mxGraphModel dx="1251" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6fw9KXCmpRsjkZwA0WqT-1" value="ChatBot" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6fw9KXCmpRsjkZwA0WqT-2" value="Interoperabilidad" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="265" y="90" width="220" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="6fw9KXCmpRsjkZwA0WqT-3" value="API Colaboradores" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="335" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6fw9KXCmpRsjkZwA0WqT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6fw9KXCmpRsjkZwA0WqT-1" target="6fw9KXCmpRsjkZwA0WqT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6fw9KXCmpRsjkZwA0WqT-6" value="On-premise" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="580" y="125" width="260" height="235" as="geometry" />
+        </mxCell>
+        <mxCell id="6fw9KXCmpRsjkZwA0WqT-7" value="KWInfog" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="625" y="160" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6fw9KXCmpRsjkZwA0WqT-9" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="890" y="190" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6fw9KXCmpRsjkZwA0WqT-11" value="Autenticación" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="215" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6fw9KXCmpRsjkZwA0WqT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6fw9KXCmpRsjkZwA0WqT-3" target="6fw9KXCmpRsjkZwA0WqT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6fw9KXCmpRsjkZwA0WqT-12" value="ConsultarInfo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="260" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6fw9KXCmpRsjkZwA0WqT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6fw9KXCmpRsjkZwA0WqT-12" target="6fw9KXCmpRsjkZwA0WqT-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

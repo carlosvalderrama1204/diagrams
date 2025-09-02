@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2" pages="3">
   <diagram name="ASIS" id="MSnPON3nnzi3dWuj75Ny">
     <mxGraphModel dx="2614" dy="961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -626,6 +626,99 @@
         </mxCell>
         <mxCell id="PtiiRsZfVB26Y7gW9x7X-4" value="Desprendible de Pago" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="362" y="698" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xzkfj6TKJHRel-6yAczQ" name="Page-3">
+    <mxGraphModel dx="1710" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="esyZHL2A3CM8QDvMuFh5-7" value="&lt;span&gt;API Seguridad - Interoperabilidad&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="15" y="90" width="270" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="esyZHL2A3CM8QDvMuFh5-1" value="Obtener Token" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="esyZHL2A3CM8QDvMuFh5-2" value="SiteMap" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="esyZHL2A3CM8QDvMuFh5-3" value="Conexion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="250" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="esyZHL2A3CM8QDvMuFh5-4" value="Obtener Usuario" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="280" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="esyZHL2A3CM8QDvMuFh5-5" value="Validar Usuario" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="310" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="esyZHL2A3CM8QDvMuFh5-6" value="Validar Usuario Encriptado" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="340" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="esyZHL2A3CM8QDvMuFh5-8" value="Gestión Clientes" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="460" y="90" width="320" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="esyZHL2A3CM8QDvMuFh5-9" value="Framework IAM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="esyZHL2A3CM8QDvMuFh5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.995;entryY=0.471;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="esyZHL2A3CM8QDvMuFh5-9" target="esyZHL2A3CM8QDvMuFh5-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="esyZHL2A3CM8QDvMuFh5-11" value="&lt;span&gt;API&amp;nbsp;&lt;/span&gt;eDirectory (eDirAPI)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="20" y="570" width="270" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="esyZHL2A3CM8QDvMuFh5-12" value="Crear Sesion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="640" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="esyZHL2A3CM8QDvMuFh5-13" value="Obtener Token anti-CSRF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="690" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="esyZHL2A3CM8QDvMuFh5-14" value="Consultar Atributos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="750" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="esyZHL2A3CM8QDvMuFh5-15" value="Comparar Contraseña" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="810" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="esyZHL2A3CM8QDvMuFh5-16" value="Cerrar Sesión" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="870" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="esyZHL2A3CM8QDvMuFh5-17" value="Gestión Clientes" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="460" y="560" width="320" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="esyZHL2A3CM8QDvMuFh5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="esyZHL2A3CM8QDvMuFh5-18" target="esyZHL2A3CM8QDvMuFh5-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="esyZHL2A3CM8QDvMuFh5-20" value="REST" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="esyZHL2A3CM8QDvMuFh5-19">
+          <mxGeometry x="0.6733" y="-1" relative="1" as="geometry">
+            <mxPoint x="15" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="esyZHL2A3CM8QDvMuFh5-18" value="Lógica Propia" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="esyZHL2A3CM8QDvMuFh5-21" value="Driver LDAP" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="20" y="980" width="270" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="esyZHL2A3CM8QDvMuFh5-24" value="Consultar Atributos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="esyZHL2A3CM8QDvMuFh5-25" value="Comparar Contraseña" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="1220" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="esyZHL2A3CM8QDvMuFh5-27" value="Gestión Clientes" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="460" y="970" width="320" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="esyZHL2A3CM8QDvMuFh5-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="esyZHL2A3CM8QDvMuFh5-30" target="esyZHL2A3CM8QDvMuFh5-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="esyZHL2A3CM8QDvMuFh5-29" value="LDAP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="esyZHL2A3CM8QDvMuFh5-28">
+          <mxGeometry x="0.6733" y="-1" relative="1" as="geometry">
+            <mxPoint x="15" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="esyZHL2A3CM8QDvMuFh5-30" value="Lógica Propia" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

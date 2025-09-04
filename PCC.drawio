@@ -1441,7 +1441,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2liVn_7Ah-z_7VVoZccf" name="Page-8">
-    <mxGraphModel dx="2538" dy="923" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1923" dy="636" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2296,6 +2296,16 @@
         <mxCell id="Z9PgFIBRhuBC4YKxzpBZ-28" value="API Módulo Seguridad" style="rounded=1;whiteSpace=wrap;html=1;" parent="nYMvW2e319FU-oF2nato-11" vertex="1">
           <mxGeometry x="49" y="498" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="nYMvW2e319FU-oF2nato-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="nYMvW2e319FU-oF2nato-11" source="nYMvW2e319FU-oF2nato-39" target="nYMvW2e319FU-oF2nato-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="219" y="994" />
+              <mxPoint x="219" y="411" />
+              <mxPoint x="185" y="411" />
+              <mxPoint x="185" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nYMvW2e319FU-oF2nato-40" value="Portales de Acceso" style="swimlane;startSize=20;html=1;strokeColor=#4184CA;fillColor=#4184CA;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="252" y="2257" width="185" height="1531" as="geometry" />
         </mxCell>
@@ -2387,7 +2397,10 @@
           <mxGeometry x="81" y="329.9000000000001" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="2Rk7ZWR9WVcWd7oYnMgX-6" value="&lt;b&gt;Comforce&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="nYMvW2e319FU-oF2nato-82" vertex="1">
-          <mxGeometry x="45" y="818" width="120" height="40" as="geometry" />
+          <mxGeometry x="35" y="805" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xxGb3uJImfHreLym2LLO-2" value="&lt;b&gt;Gestión Clientes&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nYMvW2e319FU-oF2nato-82">
+          <mxGeometry x="40" y="467" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nYMvW2e319FU-oF2nato-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.017;entryY=0.441;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="nYMvW2e319FU-oF2nato-84" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2567,15 +2580,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nYMvW2e319FU-oF2nato-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="nYMvW2e319FU-oF2nato-39" target="nYMvW2e319FU-oF2nato-84" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1171" y="3252" />
-              <mxPoint x="1171" y="2670" />
-              <mxPoint x="1272" y="2670" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="IJFX7ykI0H0wmjAPRsU2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IJFX7ykI0H0wmjAPRsU2-1" target="IJFX7ykI0H0wmjAPRsU2-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -2621,7 +2625,8 @@
         <mxCell id="Z9PgFIBRhuBC4YKxzpBZ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="nYMvW2e319FU-oF2nato-76" target="Z9PgFIBRhuBC4YKxzpBZ-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="897" y="2772" />
+              <mxPoint x="907" y="2841" />
+              <mxPoint x="907" y="2772" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2665,40 +2670,49 @@
         <mxCell id="aqGcZJZDrWT9u679pfPu-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="85" y="2196" width="43" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xxGb3uJImfHreLym2LLO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z9PgFIBRhuBC4YKxzpBZ-28" target="xxGb3uJImfHreLym2LLO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="j2fTn0SyYU36JYIKZLW3" name="APIS">
-    <mxGraphModel dx="1665" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1142" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5pC7VZJ1ufNt08ljbL5R-1" value="API Cierre Orden de Compra" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5pC7VZJ1ufNt08ljbL5R-1" value="API Cierre Orden de Compra" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5pC7VZJ1ufNt08ljbL5R-2" value="API Consulta Listados Sarlaft" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5pC7VZJ1ufNt08ljbL5R-2" value="API Consulta Listados Sarlaft" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5pC7VZJ1ufNt08ljbL5R-3" value="API Creación Producto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5pC7VZJ1ufNt08ljbL5R-3" value="API Creación Producto" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5pC7VZJ1ufNt08ljbL5R-4" value="API Creación Recepciones" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5pC7VZJ1ufNt08ljbL5R-4" value="API Creación Recepciones" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5pC7VZJ1ufNt08ljbL5R-5" value="API Edición Orden Compra" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5pC7VZJ1ufNt08ljbL5R-5" value="API Edición Orden Compra" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5pC7VZJ1ufNt08ljbL5R-6" value="API Firma Electrónica" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5pC7VZJ1ufNt08ljbL5R-6" value="API Firma Electrónica" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5pC7VZJ1ufNt08ljbL5R-7" value="API Proveedores" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5pC7VZJ1ufNt08ljbL5R-7" value="API Proveedores" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5pC7VZJ1ufNt08ljbL5R-8" value="API Requisiciones" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5pC7VZJ1ufNt08ljbL5R-8" value="API Requisiciones" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5pC7VZJ1ufNt08ljbL5R-9" value="API ERP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5pC7VZJ1ufNt08ljbL5R-9" value="API ERP" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9b-kk7_0D_ITve1BaskY-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1080" width="190" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="9b-kk7_0D_ITve1BaskY-2" value="Tercero" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1110" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
   <diagram name="Page-1" id="n0hfhET1ci13XwUxuyb5">
-    <mxGraphModel dx="3102" dy="1224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1585" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="g1v90EZW2xBQ1bl9iYu3-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g1v90EZW2xBQ1bl9iYu3-25" target="g1v90EZW2xBQ1bl9iYu3-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="g1v90EZW2xBQ1bl9iYu3-25" value="Integración Bus" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1080" y="539" width="220" height="325" as="geometry" />
         </mxCell>
@@ -70,11 +73,20 @@
         <mxCell id="g1v90EZW2xBQ1bl9iYu3-24" value="Sisviv" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="779" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="g1v90EZW2xBQ1bl9iYu3-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g1v90EZW2xBQ1bl9iYu3-26" target="g1v90EZW2xBQ1bl9iYu3-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="g1v90EZW2xBQ1bl9iYu3-26" value="Framework IAM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="666.5" width="210" height="70" as="geometry" />
+          <mxGeometry x="770" y="665" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="g1v90EZW2xBQ1bl9iYu3-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g1v90EZW2xBQ1bl9iYu3-27" target="g1v90EZW2xBQ1bl9iYu3-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g1v90EZW2xBQ1bl9iYu3-27" value="Adaptador BUS Tibco" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="666.5" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="g1v90EZW2xBQ1bl9iYu3-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g1v90EZW2xBQ1bl9iYu3-28" target="g1v90EZW2xBQ1bl9iYu3-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g1v90EZW2xBQ1bl9iYu3-28" value="LDAP" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1080" y="930" width="220" height="325" as="geometry" />

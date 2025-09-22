@@ -11,7 +11,7 @@
           <mxGeometry x="-137.5" y="50" width="145" height="170" as="geometry" />
         </mxCell>
         <mxCell id="3F5eK62oKUuV28n4bGqt-3" value="Ecollect" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="150" y="50" width="430" height="450" as="geometry" />
+          <mxGeometry x="150" y="-80" width="430" height="580" as="geometry" />
         </mxCell>
         <mxCell id="3F5eK62oKUuV28n4bGqt-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3F5eK62oKUuV28n4bGqt-4" target="3F5eK62oKUuV28n4bGqt-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -105,12 +105,12 @@
         <mxCell id="3F5eK62oKUuV28n4bGqt-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3F5eK62oKUuV28n4bGqt-30" target="3F5eK62oKUuV28n4bGqt-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="319" y="-70" />
+              <mxPoint x="319" y="-210" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3F5eK62oKUuV28n4bGqt-30" value="Banco" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="-100" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="-240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f8g0Qp49FTSZDEzWzNfA-1" value="Notificacion -&amp;nbsp;RecaudoVirtual" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-201.25" y="740" width="232.5" height="30" as="geometry" />

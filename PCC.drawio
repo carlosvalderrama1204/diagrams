@@ -6736,7 +6736,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YC5mr36T1rf00PrPBtZC" name="Page-20">
-    <mxGraphModel dx="1804" dy="954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1710" dy="738" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7171,6 +7171,26 @@
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-93" value="CatalogoData" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GFKUDrLAvWVa6kMiMYM9-92">
           <mxGeometry x="0.476" y="-4" relative="1" as="geometry">
             <mxPoint x="47" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GFKUDrLAvWVa6kMiMYM9-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GFKUDrLAvWVa6kMiMYM9-94" target="GFKUDrLAvWVa6kMiMYM9-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFKUDrLAvWVa6kMiMYM9-94" value="Otro app/usuario" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1218" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GFKUDrLAvWVa6kMiMYM9-95" value="Otro app/usuario" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1218" y="1485" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GFKUDrLAvWVa6kMiMYM9-97" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1274" y="1128" as="sourcePoint" />
+            <mxPoint x="773" y="1123" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GFKUDrLAvWVa6kMiMYM9-98" value="Registro Info/ actualización" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GFKUDrLAvWVa6kMiMYM9-97">
+          <mxGeometry x="0.3443" y="-3" relative="1" as="geometry">
+            <mxPoint x="96" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

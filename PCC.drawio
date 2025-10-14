@@ -6762,7 +6762,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YC5mr36T1rf00PrPBtZC" name="Page-20">
-    <mxGraphModel dx="1251" dy="704" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="757" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7219,45 +7219,48 @@
             <mxPoint x="96" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F0vWi8bOxOTwmbpHwrzz-1" value="Creación o" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="F0vWi8bOxOTwmbpHwrzz-1" value="Creación o" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="604" y="1185" width="76" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="F0vWi8bOxOTwmbpHwrzz-2" value="CondPrecio&lt;div&gt;RegistroInfo&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="F0vWi8bOxOTwmbpHwrzz-2" value="CondPrecio&lt;div&gt;RegistroInfo&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="337" y="1175" width="83" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="F0vWi8bOxOTwmbpHwrzz-4" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="F0vWi8bOxOTwmbpHwrzz-4" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="1111" as="sourcePoint" />
             <mxPoint x="540" y="1111" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F0vWi8bOxOTwmbpHwrzz-5" value="Id Producto" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F0vWi8bOxOTwmbpHwrzz-4">
+        <mxCell id="F0vWi8bOxOTwmbpHwrzz-5" value="Id Producto" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="F0vWi8bOxOTwmbpHwrzz-4" vertex="1" connectable="0">
           <mxGeometry x="0.3562" y="-2" relative="1" as="geometry">
             <mxPoint x="11" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F0vWi8bOxOTwmbpHwrzz-6" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="F0vWi8bOxOTwmbpHwrzz-6" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="542" y="1125" as="sourcePoint" />
             <mxPoint x="322" y="1125" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F0vWi8bOxOTwmbpHwrzz-7" value="Id Producto" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F0vWi8bOxOTwmbpHwrzz-6">
+        <mxCell id="F0vWi8bOxOTwmbpHwrzz-7" value="Id Producto" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="F0vWi8bOxOTwmbpHwrzz-6" vertex="1" connectable="0">
           <mxGeometry x="0.3562" y="-2" relative="1" as="geometry">
             <mxPoint x="11" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F0vWi8bOxOTwmbpHwrzz-8" value="1. API Crear Material (Descripción)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="F0vWi8bOxOTwmbpHwrzz-8" value="1. API Crear Material (Descripción)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="693" y="982" width="203" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="F0vWi8bOxOTwmbpHwrzz-9" value="4. API Actualizar Registro Info (Precio + condiciones de Precio)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="F0vWi8bOxOTwmbpHwrzz-9" value="4. API Actualizar Registro Info (Precio + condiciones de Precio)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="697" y="1057" width="353" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="F0vWi8bOxOTwmbpHwrzz-10" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Material + Registro Info" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="F0vWi8bOxOTwmbpHwrzz-10" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Material + Registro Info" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="269" y="1289" width="35" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="F0vWi8bOxOTwmbpHwrzz-11" value="2. API Crear Servicios (Descripción)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="F0vWi8bOxOTwmbpHwrzz-11" value="2. API Crear Servicios (Descripción)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="693" y="1008" width="209" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="dX8-9qSETQUTHKHkiFUv-1" value="Orquestación" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1284" width="120" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

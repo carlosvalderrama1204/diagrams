@@ -7263,13 +7263,13 @@
           <mxGeometry x="540" y="1284" width="120" height="25" as="geometry" />
         </mxCell>
         <mxCell id="dX8-9qSETQUTHKHkiFUv-5" value="1. API Interlocutor - Tercero" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="728" y="444" width="164" height="26" as="geometry" />
+          <mxGeometry x="778" y="506" width="164" height="26" as="geometry" />
         </mxCell>
         <mxCell id="dX8-9qSETQUTHKHkiFUv-6" value="2. API Proveedor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="726" y="470" width="109" height="26" as="geometry" />
+          <mxGeometry x="776" y="532" width="109" height="26" as="geometry" />
         </mxCell>
         <mxCell id="dX8-9qSETQUTHKHkiFUv-7" value="3. API Acreedor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="730" y="493" width="101" height="26" as="geometry" />
+          <mxGeometry x="780" y="555" width="101" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

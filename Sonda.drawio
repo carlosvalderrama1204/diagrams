@@ -2763,7 +2763,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tz4v2PC-3TeR_fU7zYrA" name="Fac Admin">
-    <mxGraphModel dx="2355" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1783" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2975,7 +2975,7 @@
           <mxGeometry x="2925" y="1719" width="220" height="86" as="geometry" />
         </mxCell>
         <mxCell id="dwGabsPkOprH5CrOZPuH-20" value="Integraciones" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="3520" y="1695" width="420" height="670" as="geometry" />
+          <mxGeometry x="3520" y="1540" width="420" height="825" as="geometry" />
         </mxCell>
         <mxCell id="dwGabsPkOprH5CrOZPuH-21" value="eCollectAgentv2" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;verticalAlign=top;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="3610" y="1748" width="240" height="267" as="geometry" />
@@ -3135,8 +3135,23 @@
         <mxCell id="X8lFSlmiVgvkkkFeah94-17" value="Refencia" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2361" y="2177.69" width="120" height="39.18" as="geometry" />
         </mxCell>
-        <mxCell id="X8lFSlmiVgvkkkFeah94-20" value="Calcular digito Verificación" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3840" y="1550" width="120" height="60" as="geometry" />
+        <mxCell id="X8lFSlmiVgvkkkFeah94-20" value="API Calcular digito Verificación" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="3675" y="1610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X8lFSlmiVgvkkkFeah94-24" value="Consulta x Cliente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4450" y="1866.77" width="170" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="X8lFSlmiVgvkkkFeah94-25" value="Consulta x Referencia" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="4450" y="1903.5" width="170" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="gbVOxzmV3SCHpOR-bDoh-1" value="Consulta x Referencia" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="3796.5" y="1893.5" width="170" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="gbVOxzmV3SCHpOR-bDoh-2" value="Consulta x Cliente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3796.5" y="1855.36" width="170" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="v76WpB3UK4-i44NBfPJv-1" value="Notificación" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="3811" y="1958.6" width="170" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

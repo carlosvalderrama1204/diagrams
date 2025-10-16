@@ -6783,26 +6783,26 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YC5mr36T1rf00PrPBtZC" name="Page-20">
-    <mxGraphModel dx="1426" dy="757" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2437" dy="1081" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PoYzqm-kH-43nkvsFnDp-1" value="Cargue Inicial" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAHkAAAB9CAYAAACGa8xfAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAojSURBVHhe7Z0JkBTVGcf/sIgIAgoKCAtanCoSIlkMCghKCFrRJCVUFhIVE1PhsmJFjpCjSJmqjQQQITGJEWPMUTFEwBxGhUSB4IFCTDg2wQ2syOUuh5xhkcu8v/1t2enp6emZ3Z6Z7vf9qqZ2vjdT3b39f+973/fem35N3jdASTRN5a+SYFRkC1CRLUBFtgAV2QJUZAtQkS1ARbYAFdkCVGQLUJEtQEW2ABXZAlRkC1CRLUBFtgAV2QIKszKEp9y1Afj7EuCt14CaLcCZk/JhHuh0BTD5aaDlhVIgbH4O6DYAaNNRCpJBfkU+exp4YSGwfA5wdJ8UFoDOVwHTVgKt2kuB8OQ9wE5T+SaaypcgofPnrvduBSrKgCXTCytwJra9DDwyBjhSKwXxJz8ib30JmHu9cdEbpaDISZjQ0YtMYReNNTesRgpiQoKEjlbkUycc93xojxTEjIQIHa3I6xcDVavEiCkJEDo6kU+/B7zyhEmNTklBjIm50NGJvKcS2L1JjAQQY6EjFHkzUHdEjIQQU6GjE7mmyhn8SBoxFDo6kesOyZsEEjOhoxM56cRIaBW5IcREaBW5ocRAaBW5MShyoVXkxqKIhVaRG5MiFVpFbmyKUGgVOQqKTGgVOSqKSGgVOUqKRGgV2c15bYHWFzfua28V8JspQN1hOUn+iW61Jlc+rvqxGEXGxT2AaauBCzpLQbKxsyUf2w/srxYj+dgpMl3nut+KkXzs7ZPX/grY+Ccxko29Ip84CiwaBzw/O5mLG1zYGXh5aXYu0KmPCcS6SEEjw99cjZkLtL1ECvKLipwPmEpNXwN07C0F+UXzZAtQkS1ARbYAFdkCVGQLUJEtQEW2ABXZAlRkC1CRLUBFtgAV2QJUZAtQkS1ARbYAFdkCVGQLUJEtQEW2ABXZAlRkC1CRLUBFtoBkrbs+t5V5tQY69jJ/z5fCIkAX1zcQLlwfPgW47i6gXTcpVNzE113zpy23fAeYs9v8naUCBxBPkdl6p/wBuNWI3LSZFCrpiJ/IbToBE5cCV35SCpRMxEvkknOAT30b6DlECpQwxEvky0cAQ+4WQwlLfERuYVKjm2Y4AZeSFfERuWMf4NIyMZRsiE+ePHwyMO5hMUJQWwU8WwFseTF1R9cmJabCfAy4+RtAj+ukMAsO7gT+uhDY9Axw/KAU+sDzXH4jMPYHQKt2Uuihei2w+F7gwHanEo+eA3TuKx964H6X/O7b64HzLwI+fT8wYIx8mJ74iPz5HwHDJokRAJ//scyIt9JUCO5NFUQT48jKyoHxPwPOaSGFAXDHuqWmy1izKPOx3Vx9GzDhKXO+JlIgcMedBaOAw+9IgYFPI+Azxry7vp44AjxkMortr0uBgQ+XYyrZ63op8Cce7rp5S6D9ZWIEwPq6+Gumlc0PJ8L7Z4F1TwKPjHYEDIKf83thKo+X7euAd3eI4WLbq0jZw/LgLmDHG2K4YCveZ15u+KiqyhVipCde0XUmXjRucc2jjtjZUPm8af0zxfCBx+Oek/xeY0Kv473Wk8cd1+2Fz+f0q4h1mXftSY7IvAmrf5LbtoG80f9YZlrKNinwsHUN8Nqvs6889fQZXtBh1+SI/IFLNAGRF/aDLS/48IGmDIDYF3s5tNsJ0vxY/7v0D0Bt0ebDY3tf7F9vewC4/aep/XEeSY7IjHhP1YnhYugEYP4BYJ5p6XzN329u/Gzzn3vGvNlKd20QwwX7X26B74Wjb4yEF5jouv7Y3td3twCjvh4uqIuQZPXJfpT2S21FTFGaNRcjA+8d82/FHXoC144vaAsNS/JFjgrmwE3jcfvsFPmSK03f3F4MgS2S5V64woT5qJfaN4G1JhiLAXaK3P5SYOR9Tr9aT7cBwMByMVxwrLxrfzFcMIp/aipQUeYEbLlG3g3F/T+kwV53PeJeYPYOYPzjwPS/ATNfTW3d9ZR9zr81czCFAxcLRgKz+jhpVjZP3OXQpF9scNwn9+UgiV9gGeJ5nXb3yRw65Nowzk8HrTDpORT4+O3pgyy2Yo5IPX4nMKMLsGJu5hE0wgV+JT4iH3hb3rhgmddb8Jq5eDEDdoscForL1ZZ9b5KCAI7uA5aatGlqB2D594NbNgdImp8nhos9lalDpzX/ljcuKPBF3cVIj4ocFua6nAwYafrhMHPaTL04UfK9a5yBFj84YOK3TJfj3IddY9r/NXl+7X/EcMGBmAu7ipEeFTkb6B7Zomcb1znky0Z4n1boZec/gYdvdYTyQnfNnW28HK39/9kmuurDe8RwQU/QtpMY6VGRc6G1ccV3PArMe8dZFsxh0yA4kvaX+WJ44JImb19/+iSw+TkxDJXLTSV5VwwXvYeF8ir2iswWdv9HgImmdd5n3OaKedmnQXSXXBb84F5g3A+N6yyVDzzwuG8s9d/prfsgp0V72faK8332zZuelUIXnH7tOViMYKITuUCP4g8FJ+B/cbczac80iK70j7OADabPzQW6cf6K4wHjVu/6uX+6lW6emEOsXfqJ4WJftRH3z0C1Se12b5RCF6xQzO1DEJ3IHXo5ta0Y2WVumnfzL6Y8VavFyBG6XY5nj5ohBS7SzRPT3V51c6rLZlT+sqkwy00MwJ1vvPT/TOrqkTREJ3Jp/4L9wCsjvGl+8865zEX7wcmLsBMgZMBo/51sqo3L/pfPyg8OolwzVozMRCcy90HsNVSMAuIn3Nkz2fe/YeFxNz7jBE9hYYQ9cJwYLngsXqsXrukq/agYmYluIR/xW6iWC3T7XAhHt5aOtb80/axJa7yDD8xFh37F1H4ZsjxZB7z0mHHXbzm2m89WOCs4/WDeyx3hgrbJZYViJPzmKqevd8OJjknLgCs+IQUeuCrlwRucvjuIkIv33EQrMnlhobPCsSGuMIzINVtMSjPc5Jgm0s0FLt7nzettjuFls4luH/tC+tUhYeh6NTBtpRORp+P333J2nAuSZNAdJrh7IrUPDyD6FOrGrzotKYuLygkuvu9rvEauMFLtfq0YLpjCMPhpiMCcKRph7kOQwIQzY4xl0sHBD6ZsWd7L6EXmBZU/BAybbN5HeDqeh8txSk3umy2MH8qNx/EbWKCbPuYzWhUWXhcr+aA7pSAAzoJxwTy9ihdWFEbtIcaqvUQvMmEeyV8RfNG4mSgjbqYUE5b4T/6ng61j0tPpK0fLdrlfMyv1YJOPcyg0bOvrd4uJnE3X4IXdyOAviZEd+RGZ8J/kdF2FCTD4a4iuJjoMMeGdNUxfZprU44Z7gseW+Rkj2m++Dlw2UAp94HVTJFaGsFBcuv+ppg/m8Gc2C/l4PrrkHq7RLHZF5QuyO46L6AOvIHjqD1ZZZph7bVri5JHZ/pPpjl9iPAtFC5pD9sKonbNDZzIsCsj1Wr3UXzvPm+21eiisyEpeyJ+7VgqGimwBKrIFqMgWoCJbgIpsASqyBajIFqAiW4CKbAEqsgWoyBagIluAimwBKnLiAf4HTJocGAROEB4AAAAASUVORK5CYII=;" parent="1" vertex="1">
-          <mxGeometry x="469" y="1037.5" width="43.56" height="45" as="geometry" />
+          <mxGeometry x="690" y="1517" width="43.56" height="45" as="geometry" />
         </mxCell>
         <mxCell id="rja0MypOhP6GQQQRE0J5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rja0MypOhP6GQQQRE0J5-1" target="rja0MypOhP6GQQQRE0J5-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rja0MypOhP6GQQQRE0J5-1" value="Usuario/Comprador" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="-21" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rja0MypOhP6GQQQRE0J5-2" value="Usuario/Comprador" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="1500" width="120" height="60" as="geometry" />
+          <mxGeometry x="-21" y="1846" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rja0MypOhP6GQQQRE0J5-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rja0MypOhP6GQQQRE0J5-3" target="rja0MypOhP6GQQQRE0J5-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rja0MypOhP6GQQQRE0J5-3" value="Portal Proveedores" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="rja0MypOhP6GQQQRE0J5-3" value="ITBID" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="260" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rja0MypOhP6GQQQRE0J5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rja0MypOhP6GQQQRE0J5-4" target="rja0MypOhP6GQQQRE0J5-9" edge="1">
@@ -6814,7 +6814,7 @@
         <mxCell id="rja0MypOhP6GQQQRE0J5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rja0MypOhP6GQQQRE0J5-5" target="rja0MypOhP6GQQQRE0J5-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rja0MypOhP6GQQQRE0J5-5" value="SAP ERP" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="rja0MypOhP6GQQQRE0J5-5" value="SAP ERP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="707" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rja0MypOhP6GQQQRE0J5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rja0MypOhP6GQQQRE0J5-6" target="rja0MypOhP6GQQQRE0J5-11" edge="1">
@@ -6823,17 +6823,17 @@
         <mxCell id="rja0MypOhP6GQQQRE0J5-6" value="Proveedor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="980" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rja0MypOhP6GQQQRE0J5-7" value="ITBID" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="1500" width="120" height="60" as="geometry" />
+        <mxCell id="rja0MypOhP6GQQQRE0J5-7" value="ITBID" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="260" y="1846" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rja0MypOhP6GQQQRE0J5-9" value="API Gateway/Interop" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="1490" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="1836" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rja0MypOhP6GQQQRE0J5-10" value="SAP ERP" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="707" y="1490" width="120" height="60" as="geometry" />
+        <mxCell id="rja0MypOhP6GQQQRE0J5-10" value="SAP ERP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="707" y="1836" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rja0MypOhP6GQQQRE0J5-11" value="Proveedor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="980" y="1490" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="1836" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rja0MypOhP6GQQQRE0J5-19" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -6892,30 +6892,30 @@
           <mxGeometry x="287" y="150" width="593" height="34" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-16" value="Proceso Negociaciones" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="52" y="647" width="1030" height="34" as="geometry" />
+          <mxGeometry x="52" y="867" width="1030" height="34" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-18" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="720" as="sourcePoint" />
-            <mxPoint x="320" y="720" as="targetPoint" />
+            <mxPoint x="80" y="940" as="sourcePoint" />
+            <mxPoint x="320" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-19" value="Creación Eventos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="135" y="688" width="120" height="30" as="geometry" />
+          <mxGeometry x="135" y="908" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-20" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="800" as="sourcePoint" />
-            <mxPoint x="1040" y="800" as="targetPoint" />
+            <mxPoint x="320" y="1020" as="sourcePoint" />
+            <mxPoint x="1040" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-21" value="Invitación proveedoers (potenciales + Contratados)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="550" y="760" width="300" height="30" as="geometry" />
+          <mxGeometry x="550" y="980" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-22" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1040" y="840" as="sourcePoint" />
-            <mxPoint x="320" y="840" as="targetPoint" />
+            <mxPoint x="1040" y="1060" as="sourcePoint" />
+            <mxPoint x="320" y="1060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-23" value="Envio Cotizaciones" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFKUDrLAvWVa6kMiMYM9-22" vertex="1" connectable="0">
@@ -6925,8 +6925,8 @@
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-24" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="920" as="sourcePoint" />
-            <mxPoint x="320" y="920" as="targetPoint" />
+            <mxPoint x="80" y="1140" as="sourcePoint" />
+            <mxPoint x="320" y="1140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-25" value="Evaluaciones y adjudicaciones" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFKUDrLAvWVa6kMiMYM9-24" vertex="1" connectable="0">
@@ -6936,21 +6936,21 @@
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-26" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.118;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.461;exitY=1.152;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="970" as="sourcePoint" />
-            <mxPoint x="337" y="999" as="targetPoint" />
+            <mxPoint x="330" y="1190" as="sourcePoint" />
+            <mxPoint x="337" y="1219" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="369" y="970" />
-              <mxPoint x="369" y="995" />
+              <mxPoint x="369" y="1190" />
+              <mxPoint x="369" y="1215" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-27" value="Creacióni Registro Info" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="275" y="940" width="150" height="30" as="geometry" />
+          <mxGeometry x="275" y="1160" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-28" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="1040" as="sourcePoint" />
-            <mxPoint x="540" y="1040" as="targetPoint" />
+            <mxPoint x="320" y="1260" as="sourcePoint" />
+            <mxPoint x="540" y="1260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-29" value="Datos Registro Info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFKUDrLAvWVa6kMiMYM9-28" vertex="1" connectable="0">
@@ -6960,41 +6960,38 @@
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-30" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="1089" as="sourcePoint" />
-            <mxPoint x="770" y="1089" as="targetPoint" />
+            <mxPoint x="540" y="1309" as="sourcePoint" />
+            <mxPoint x="770" y="1309" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFKUDrLAvWVa6kMiMYM9-31" value="2. API Crear Registro Info (Proveedor + Precio + Condiciones + Material)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="697" y="1031" width="405" height="26" as="geometry" />
+        <mxCell id="GFKUDrLAvWVa6kMiMYM9-31" value="6. API Crear Registro Info (Proveedor + Precio + Condiciones + Material)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="776" y="1250.5" width="405" height="26" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-32" value="Actualización Catálogo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="507" y="1135" width="313" height="34" as="geometry" />
+          <mxGeometry x="507" y="1355" width="313" height="34" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-33" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="1239" as="sourcePoint" />
-            <mxPoint x="540" y="1239" as="targetPoint" />
+            <mxPoint x="760" y="1585" as="sourcePoint" />
+            <mxPoint x="540" y="1585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-34" value="Modificación Productos/Precios" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="555" y="1205" width="190" height="30" as="geometry" />
+          <mxGeometry x="566" y="1495" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-35" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="1280" as="sourcePoint" />
-            <mxPoint x="320" y="1280" as="targetPoint" />
+            <mxPoint x="540" y="1626" as="sourcePoint" />
+            <mxPoint x="320" y="1626" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="GFKUDrLAvWVa6kMiMYM9-36" value="5. API Crear o Actualizar catálogo SAP -&amp;gt; ItBit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="321" y="1250" width="263" height="26" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-37" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.118;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.461;exitY=1.152;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320.5" y="1330" as="sourcePoint" />
-            <mxPoint x="327.5" y="1359" as="targetPoint" />
+            <mxPoint x="320.5" y="1676" as="sourcePoint" />
+            <mxPoint x="327.5" y="1705" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="359.5" y="1330" />
-              <mxPoint x="359.5" y="1355" />
+              <mxPoint x="359.5" y="1676" />
+              <mxPoint x="359.5" y="1701" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -7007,51 +7004,51 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-40" value="Usuario/Comprador" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="1800" width="120" height="60" as="geometry" />
+          <mxGeometry x="36" y="2891" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-41" value="Usuario/Comprador" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="3250" width="120" height="60" as="geometry" />
+          <mxGeometry x="36" y="4341" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GFKUDrLAvWVa6kMiMYM9-43" target="GFKUDrLAvWVa6kMiMYM9-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-43" value="Portal Proveedores" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="1800" width="120" height="60" as="geometry" />
+          <mxGeometry x="276" y="2891" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GFKUDrLAvWVa6kMiMYM9-45" target="GFKUDrLAvWVa6kMiMYM9-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-45" value="API Gateway/Interop" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="1800" width="120" height="60" as="geometry" />
+          <mxGeometry x="496" y="2891" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GFKUDrLAvWVa6kMiMYM9-47" target="GFKUDrLAvWVa6kMiMYM9-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-47" value="SAP ERP" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="747" y="1800" width="120" height="60" as="geometry" />
+          <mxGeometry x="723" y="2891" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GFKUDrLAvWVa6kMiMYM9-49" target="GFKUDrLAvWVa6kMiMYM9-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-49" value="Proveedor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="1800" width="120" height="60" as="geometry" />
+          <mxGeometry x="996" y="2891" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-50" value="Portal Proveedores" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="3250" width="120" height="60" as="geometry" />
+          <mxGeometry x="276" y="4341" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-51" value="API Gateway/Interop" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="3240" width="120" height="60" as="geometry" />
+          <mxGeometry x="496" y="4331" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-52" value="SAP ERP" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="747" y="3240" width="120" height="60" as="geometry" />
+          <mxGeometry x="723" y="4331" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-53" value="Proveedor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="3240" width="120" height="60" as="geometry" />
+          <mxGeometry x="996" y="4331" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-54" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1080" y="2013" as="sourcePoint" />
-            <mxPoint x="360" y="2013" as="targetPoint" />
+            <mxPoint x="1056" y="3104" as="sourcePoint" />
+            <mxPoint x="336" y="3104" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-55" value="Registro Proveedor Potencial" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFKUDrLAvWVa6kMiMYM9-54" vertex="1" connectable="0">
@@ -7061,21 +7058,21 @@
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-56" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.118;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.461;exitY=1.152;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="2083" as="sourcePoint" />
-            <mxPoint x="367" y="2112" as="targetPoint" />
+            <mxPoint x="336" y="3174" as="sourcePoint" />
+            <mxPoint x="343" y="3203" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="399" y="2083" />
-              <mxPoint x="399" y="2108" />
+              <mxPoint x="375" y="3174" />
+              <mxPoint x="375" y="3199" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-57" value="Validación y pre-calificación" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="295" y="2051" width="170" height="30" as="geometry" />
+          <mxGeometry x="271" y="3142" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-58" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="2163" as="sourcePoint" />
-            <mxPoint x="360" y="2163" as="targetPoint" />
+            <mxPoint x="96" y="3254" as="sourcePoint" />
+            <mxPoint x="336" y="3254" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-59" value="Adjudicación de proveedor" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFKUDrLAvWVa6kMiMYM9-58" vertex="1" connectable="0">
@@ -7084,51 +7081,51 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-60" value="Envio datos proveedor adjudicatario" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="370" y="2183" width="210" height="30" as="geometry" />
+          <mxGeometry x="346" y="3274" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-61" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="2233" as="sourcePoint" />
-            <mxPoint x="570" y="2233" as="targetPoint" />
+            <mxPoint x="336" y="3324" as="sourcePoint" />
+            <mxPoint x="546" y="3324" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-62" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="2333" as="sourcePoint" />
-            <mxPoint x="810" y="2333" as="targetPoint" />
+            <mxPoint x="556" y="3424" as="sourcePoint" />
+            <mxPoint x="786" y="3424" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-63" value="API Maestro Proveedores" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="610" y="2291" width="160" height="30" as="geometry" />
+          <mxGeometry x="586" y="3382" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-64" value="Gestión de Proveedores" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="327" y="1900" width="593" height="34" as="geometry" />
+          <mxGeometry x="303" y="2991" width="593" height="34" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-65" value="Proceso Negociaciones" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="90" y="2350" width="1030" height="34" as="geometry" />
+          <mxGeometry x="66" y="3441" width="1030" height="34" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-66" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="2470" as="sourcePoint" />
-            <mxPoint x="360" y="2470" as="targetPoint" />
+            <mxPoint x="96" y="3561" as="sourcePoint" />
+            <mxPoint x="336" y="3561" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-67" value="Creación Eventos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="175" y="2438" width="120" height="30" as="geometry" />
+          <mxGeometry x="151" y="3529" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-68" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="2550" as="sourcePoint" />
-            <mxPoint x="1080" y="2550" as="targetPoint" />
+            <mxPoint x="336" y="3641" as="sourcePoint" />
+            <mxPoint x="1056" y="3641" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-69" value="Invitación proveedoers (potenciales + Contratados)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="590" y="2510" width="300" height="30" as="geometry" />
+          <mxGeometry x="566" y="3601" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-70" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1080" y="2590" as="sourcePoint" />
-            <mxPoint x="360" y="2590" as="targetPoint" />
+            <mxPoint x="1056" y="3681" as="sourcePoint" />
+            <mxPoint x="336" y="3681" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-71" value="Envio Cotizaciones" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFKUDrLAvWVa6kMiMYM9-70" vertex="1" connectable="0">
@@ -7138,8 +7135,8 @@
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-72" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="2670" as="sourcePoint" />
-            <mxPoint x="360" y="2670" as="targetPoint" />
+            <mxPoint x="96" y="3761" as="sourcePoint" />
+            <mxPoint x="336" y="3761" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-73" value="Evaluaciones y adjudicaciones" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFKUDrLAvWVa6kMiMYM9-72" vertex="1" connectable="0">
@@ -7149,21 +7146,21 @@
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-74" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.118;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.461;exitY=1.152;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="2720" as="sourcePoint" />
-            <mxPoint x="377" y="2749" as="targetPoint" />
+            <mxPoint x="346" y="3811" as="sourcePoint" />
+            <mxPoint x="353" y="3840" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="409" y="2720" />
-              <mxPoint x="409" y="2745" />
+              <mxPoint x="385" y="3811" />
+              <mxPoint x="385" y="3836" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-75" value="Creacióni Registro Info" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="315" y="2690" width="150" height="30" as="geometry" />
+          <mxGeometry x="291" y="3781" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-76" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="2790" as="sourcePoint" />
-            <mxPoint x="580" y="2790" as="targetPoint" />
+            <mxPoint x="336" y="3881" as="sourcePoint" />
+            <mxPoint x="556" y="3881" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-77" value="Datos Registro Info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFKUDrLAvWVa6kMiMYM9-76" vertex="1" connectable="0">
@@ -7173,29 +7170,29 @@
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-78" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="2860" as="sourcePoint" />
-            <mxPoint x="810" y="2860" as="targetPoint" />
+            <mxPoint x="556" y="3951" as="sourcePoint" />
+            <mxPoint x="786" y="3951" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-79" value="API Registro Info (Proveedor + Precio + Condiciones + Producto)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="580" y="2820" width="370" height="30" as="geometry" />
+          <mxGeometry x="556" y="3911" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-80" value="Actualización Catálgo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="547" y="2885" width="313" height="34" as="geometry" />
+          <mxGeometry x="523" y="3976" width="313" height="34" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-84" value="Solicitar Catalogo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="420" y="3000" width="120" height="30" as="geometry" />
+          <mxGeometry x="396" y="4091" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-87" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="3040" as="sourcePoint" />
-            <mxPoint x="570" y="3040" as="targetPoint" />
+            <mxPoint x="336" y="4131" as="sourcePoint" />
+            <mxPoint x="546" y="4131" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-88" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="585" y="3080" as="sourcePoint" />
-            <mxPoint x="795" y="3080" as="targetPoint" />
+            <mxPoint x="561" y="4171" as="sourcePoint" />
+            <mxPoint x="771" y="4171" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-89" value="Solicitar Catalogo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFKUDrLAvWVa6kMiMYM9-88" vertex="1" connectable="0">
@@ -7205,17 +7202,17 @@
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-90" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="800" y="3130" as="sourcePoint" />
-            <mxPoint x="580" y="3130" as="targetPoint" />
+            <mxPoint x="776" y="4221" as="sourcePoint" />
+            <mxPoint x="556" y="4221" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-91" value="CatalogoData" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="660" y="3100" width="100" height="30" as="geometry" />
+          <mxGeometry x="636" y="4191" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-92" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="3190" as="sourcePoint" />
-            <mxPoint x="360" y="3190" as="targetPoint" />
+            <mxPoint x="556" y="4281" as="sourcePoint" />
+            <mxPoint x="336" y="4281" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-93" value="CatalogoData" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFKUDrLAvWVa6kMiMYM9-92" vertex="1" connectable="0">
@@ -7226,16 +7223,16 @@
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GFKUDrLAvWVa6kMiMYM9-94" target="GFKUDrLAvWVa6kMiMYM9-95" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GFKUDrLAvWVa6kMiMYM9-94" value="Otro app/usuario" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="GFKUDrLAvWVa6kMiMYM9-94" value="Otras aplicaciones" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1218" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GFKUDrLAvWVa6kMiMYM9-95" value="Otro app/usuario" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1218" y="1485" width="120" height="60" as="geometry" />
+        <mxCell id="GFKUDrLAvWVa6kMiMYM9-95" value="Otras aplicaciones" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1218" y="1831" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-97" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1271" y="1203" as="sourcePoint" />
-            <mxPoint x="770" y="1198" as="targetPoint" />
+            <mxPoint x="1268" y="1477" as="sourcePoint" />
+            <mxPoint x="767" y="1472" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-98" value="Registro Info/ actualización" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GFKUDrLAvWVa6kMiMYM9-97" vertex="1" connectable="0">
@@ -7244,15 +7241,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F0vWi8bOxOTwmbpHwrzz-1" value="Creación o" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="604" y="1185" width="76" height="26" as="geometry" />
+          <mxGeometry x="612" y="1475" width="76" height="26" as="geometry" />
         </mxCell>
         <mxCell id="F0vWi8bOxOTwmbpHwrzz-2" value="CondPrecio&lt;div&gt;RegistroInfo&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="337" y="1175" width="83" height="41" as="geometry" />
+          <mxGeometry x="337" y="1395" width="83" height="41" as="geometry" />
         </mxCell>
         <mxCell id="F0vWi8bOxOTwmbpHwrzz-4" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="1111" as="sourcePoint" />
-            <mxPoint x="540" y="1111" as="targetPoint" />
+            <mxPoint x="760" y="1331" as="sourcePoint" />
+            <mxPoint x="540" y="1331" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F0vWi8bOxOTwmbpHwrzz-5" value="Id Producto" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="F0vWi8bOxOTwmbpHwrzz-4" vertex="1" connectable="0">
@@ -7262,8 +7259,8 @@
         </mxCell>
         <mxCell id="F0vWi8bOxOTwmbpHwrzz-6" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="542" y="1125" as="sourcePoint" />
-            <mxPoint x="322" y="1125" as="targetPoint" />
+            <mxPoint x="542" y="1345" as="sourcePoint" />
+            <mxPoint x="322" y="1345" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F0vWi8bOxOTwmbpHwrzz-7" value="Id Producto" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="F0vWi8bOxOTwmbpHwrzz-6" vertex="1" connectable="0">
@@ -7271,26 +7268,26 @@
             <mxPoint x="11" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F0vWi8bOxOTwmbpHwrzz-9" value="3. API Actualizar Registro Info (Precio + condiciones de Precio)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="697" y="1057" width="353" height="26" as="geometry" />
+        <mxCell id="F0vWi8bOxOTwmbpHwrzz-9" value="7. API Actualizar Registro Info (Precio + condiciones de Precio)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="776" y="1276.5" width="353" height="26" as="geometry" />
         </mxCell>
         <mxCell id="F0vWi8bOxOTwmbpHwrzz-10" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Material + Registro Info" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="269" y="1289" width="35" height="55" as="geometry" />
+          <mxGeometry x="269" y="1635" width="35" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="F0vWi8bOxOTwmbpHwrzz-11" value="1. API Crear Servicios (Descripción + Proveedor + Condiciones)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="697" y="1008" width="358" height="26" as="geometry" />
+        <mxCell id="F0vWi8bOxOTwmbpHwrzz-11" value="5. API Crear Servicios (Descripción + Proveedor + Condiciones)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="776" y="1227.5" width="358" height="26" as="geometry" />
         </mxCell>
         <mxCell id="dX8-9qSETQUTHKHkiFUv-1" value="Orquestación" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="542" y="1047.5" width="83" height="25" as="geometry" />
+          <mxGeometry x="542" y="1267.5" width="83" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="dX8-9qSETQUTHKHkiFUv-5" value="1. API Interlocutor - Tercero" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="776" y="493" width="164" height="26" as="geometry" />
+        <mxCell id="dX8-9qSETQUTHKHkiFUv-5" value="1. API Interlocutor - Tercero(Crear, Consultar, actualizar)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="776" y="493" width="317" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="dX8-9qSETQUTHKHkiFUv-6" value="2. API Proveedor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="776" y="526" width="109" height="26" as="geometry" />
+        <mxCell id="dX8-9qSETQUTHKHkiFUv-6" value="2. API Proveedor(Crear, Consultar, actualizar)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="777" y="523" width="261" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="dX8-9qSETQUTHKHkiFUv-7" value="3. API Acreedor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="778" y="558" width="101" height="26" as="geometry" />
+        <mxCell id="dX8-9qSETQUTHKHkiFUv-7" value="3. API Acreedor(Crear, Consultar, actualizar)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="776" y="555" width="254" height="26" as="geometry" />
         </mxCell>
         <mxCell id="PoYzqm-kH-43nkvsFnDp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dX8-9qSETQUTHKHkiFUv-1" target="dX8-9qSETQUTHKHkiFUv-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -7303,28 +7300,28 @@
         </mxCell>
         <mxCell id="DuPoAYnKb_iLEMNJa2RT-6" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="761" y="616" as="sourcePoint" />
-            <mxPoint x="545" y="614" as="targetPoint" />
+            <mxPoint x="761" y="836" as="sourcePoint" />
+            <mxPoint x="545" y="834" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DuPoAYnKb_iLEMNJa2RT-8" value="Notifica Inactivación" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DuPoAYnKb_iLEMNJa2RT-6" vertex="1" connectable="0">
+        <mxCell id="DuPoAYnKb_iLEMNJa2RT-8" value="Notifica Inactivación Proveedor" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DuPoAYnKb_iLEMNJa2RT-6" vertex="1" connectable="0">
           <mxGeometry x="0.2781" y="-4" relative="1" as="geometry">
             <mxPoint x="12" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DuPoAYnKb_iLEMNJa2RT-7" value="Actualizar" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="767" y="600" width="60" height="30" as="geometry" />
+          <mxGeometry x="767" y="820" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DuPoAYnKb_iLEMNJa2RT-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="538" y="630" as="sourcePoint" />
-            <mxPoint x="325" y="632" as="targetPoint" />
+            <mxPoint x="538" y="850" as="sourcePoint" />
+            <mxPoint x="325" y="852" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DuPoAYnKb_iLEMNJa2RT-10" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1278" y="603" as="sourcePoint" />
-            <mxPoint x="770" y="600" as="targetPoint" />
+            <mxPoint x="1278" y="823" as="sourcePoint" />
+            <mxPoint x="770" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DuPoAYnKb_iLEMNJa2RT-11" value="Inactiva" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DuPoAYnKb_iLEMNJa2RT-10" vertex="1" connectable="0">
@@ -7332,11 +7329,35 @@
             <mxPoint x="6" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DuPoAYnKb_iLEMNJa2RT-12" value="Notifica Inactivación" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="409" y="620" as="geometry" />
+        <mxCell id="DuPoAYnKb_iLEMNJa2RT-12" value="Notifica Inactivación Proveedor" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="409" y="840" as="geometry" />
         </mxCell>
         <mxCell id="DuPoAYnKb_iLEMNJa2RT-13" value="Material DIEN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="1107" y="1031" width="79" height="24" as="geometry" />
+          <mxGeometry x="1186" y="1250.5" width="79" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="5zGS9Tw05pNO6PynPj-_-1" value="Orquestación" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="542" y="1537" width="83" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="5zGS9Tw05pNO6PynPj-_-3" value="1. API recepción notificación Proveedor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="89" y="836" width="227" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5zGS9Tw05pNO6PynPj-_-4" value="Cargue Inicial" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="1">
+          <mxGeometry x="707" y="571" width="43.56" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="5zGS9Tw05pNO6PynPj-_-5" value="2. API recepción notificación Registro Info" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="78" y="1596" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5zGS9Tw05pNO6PynPj-_-6" value="8. API Notificar Cambios Registro Info (Precio + condiciones de Precio)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="774" y="1553" width="396" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5zGS9Tw05pNO6PynPj-_-7" value="4. API Notificar cambios proveedor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="777" y="747" width="203" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5zGS9Tw05pNO6PynPj-_-15" value="Expone ITBID" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-218" y="984" width="93" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5zGS9Tw05pNO6PynPj-_-16" value="Expone SAP&amp;nbsp;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-218" y="1023" width="93" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

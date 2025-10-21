@@ -6783,7 +6783,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YC5mr36T1rf00PrPBtZC" name="Page-20">
-    <mxGraphModel dx="2065" dy="757" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1826" dy="757" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6925,7 +6925,7 @@
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-24" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="1140" as="sourcePoint" />
+            <mxPoint x="41" y="1140" as="sourcePoint" />
             <mxPoint x="320" y="1140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -6964,16 +6964,19 @@
             <mxPoint x="770" y="1309" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GFKUDrLAvWVa6kMiMYM9-31" value="6. API Crear Registro Info (Proveedor + Precio + Condiciones + Material)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="776" y="1250.5" width="405" height="26" as="geometry" />
+        <mxCell id="GFKUDrLAvWVa6kMiMYM9-31" value="&amp;nbsp; &amp;nbsp; 6. API Crear Registro Info (Proveedor + Precio + Condiciones + Material)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="769" y="1250.5" width="419" height="26" as="geometry" />
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-32" value="Actualización Catálogo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="507" y="1355" width="313" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="GFKUDrLAvWVa6kMiMYM9-33" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="GFKUDrLAvWVa6kMiMYM9-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1" target="5zGS9Tw05pNO6PynPj-_-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="1585" as="sourcePoint" />
             <mxPoint x="540" y="1585" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="581" y="1585" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GFKUDrLAvWVa6kMiMYM9-34" value="Modificación Productos/Precios" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -7268,14 +7271,14 @@
             <mxPoint x="11" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F0vWi8bOxOTwmbpHwrzz-9" value="7. API Actualizar Registro Info (Precio + condiciones de Precio)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="776" y="1276.5" width="353" height="26" as="geometry" />
+        <mxCell id="F0vWi8bOxOTwmbpHwrzz-9" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;7. API Actualizar Registro Info (Precio + condiciones de Precio)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="768" y="1276.5" width="370" height="26" as="geometry" />
         </mxCell>
         <mxCell id="F0vWi8bOxOTwmbpHwrzz-10" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Material + Registro Info" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="269" y="1635" width="35" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="F0vWi8bOxOTwmbpHwrzz-11" value="5. API Crear Servicios (Descripción + Proveedor + Condiciones)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="776" y="1227.5" width="358" height="26" as="geometry" />
+        <mxCell id="F0vWi8bOxOTwmbpHwrzz-11" value="&amp;nbsp; &amp;nbsp; 5. API Crear Servicios (Descripción + Proveedor + Condiciones)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="769" y="1221" width="371" height="26" as="geometry" />
         </mxCell>
         <mxCell id="dX8-9qSETQUTHKHkiFUv-1" value="Orquestación" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="542" y="1267.5" width="83" height="25" as="geometry" />
@@ -7327,7 +7330,18 @@
           <mxGeometry x="409" y="840" as="geometry" />
         </mxCell>
         <mxCell id="DuPoAYnKb_iLEMNJa2RT-13" value="Material DIEN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="1186" y="1250.5" width="79" height="24" as="geometry" />
+          <mxGeometry x="1197" y="1251.5" width="79" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="twX6ffXmCi8bkh2kQTjW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5zGS9Tw05pNO6PynPj-_-1" target="twX6ffXmCi8bkh2kQTjW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="twX6ffXmCi8bkh2kQTjW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5zGS9Tw05pNO6PynPj-_-1" target="twX6ffXmCi8bkh2kQTjW-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="508" y="1550" />
+              <mxPoint x="508" y="1570" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="5zGS9Tw05pNO6PynPj-_-1" value="Orquestación" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="542" y="1537" width="83" height="25" as="geometry" />
@@ -7341,8 +7355,8 @@
         <mxCell id="5zGS9Tw05pNO6PynPj-_-5" value="2. API recepción notificación Registro Info" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="78" y="1596" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="5zGS9Tw05pNO6PynPj-_-6" value="8. API Notificar Cambios Registro Info (Precio + condiciones de Precio)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="774" y="1553" width="396" height="26" as="geometry" />
+        <mxCell id="5zGS9Tw05pNO6PynPj-_-6" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;9. API Notificar Cambios Registro Info (Precio + condiciones de Precio)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="766" y="1553" width="413" height="26" as="geometry" />
         </mxCell>
         <mxCell id="5zGS9Tw05pNO6PynPj-_-7" value="4. API Notificar cambios proveedor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="777" y="747" width="203" height="26" as="geometry" />
@@ -7352,6 +7366,18 @@
         </mxCell>
         <mxCell id="5zGS9Tw05pNO6PynPj-_-16" value="Expone SAP&amp;nbsp;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-218" y="1023" width="93" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="twX6ffXmCi8bkh2kQTjW-1" value="Hercules" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="387" y="1486" width="84" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="twX6ffXmCi8bkh2kQTjW-2" value="PCC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1549" width="84" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="twX6ffXmCi8bkh2kQTjW-5" value="10. API Notificar Cambios Servicios" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="771" y="1588" width="207" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="twX6ffXmCi8bkh2kQTjW-6" value="8. API Actualizar Servicio&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="774" y="1310" width="155" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

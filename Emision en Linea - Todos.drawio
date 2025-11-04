@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7" pages="22">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9" pages="22">
   <diagram id="oQg5v4_-Qz-4qN8YKQsb" name="Modelos Emision">
     <mxGraphModel dx="2276" dy="1857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3629,7 +3629,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sTYJvzZdeHplwq9bK0XT" name="TO-BE">
-    <mxGraphModel dx="3043" dy="3269" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2592" dy="3016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3906,7 +3906,7 @@
           <mxGeometry x="580" y="120" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-155" value="Gestor de Inconsistencias de Facturación" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontStyle=1;strokeColor=#d79b00;strokeWidth=2;fillColor=#ffe6cc;" parent="1" vertex="1">
-          <mxGeometry x="-275.24" y="399" width="350" height="261" as="geometry" />
+          <mxGeometry x="-275.24" y="399" width="350" height="321" as="geometry" />
         </mxCell>
         <mxCell id="7ZPwo6PWe-y4IKth8wyl-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#F1870E;strokeWidth=3;" parent="1" source="bgNHvy8tnrGRwKrJ1NFl-156" target="bgNHvy8tnrGRwKrJ1NFl-111" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -4249,6 +4249,9 @@
         <mxCell id="5JprAMhP8Et8o37paWxF-2" value="00:00 am" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.gauge;" parent="1" vertex="1">
           <mxGeometry x="94" y="498.5" width="32.4" height="31.5" as="geometry" />
         </mxCell>
+        <mxCell id="IqwMfL88mwBpsSm3MaDU-1" value="Administrar Circuit&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180.24" y="660" width="160" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -4366,7 +4369,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nNycDKPEbf4QWE9mGbE2" name="Gestor Inconsistencias">
-    <mxGraphModel dx="4285" dy="2304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3797" dy="1992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4651,7 +4654,7 @@
         <mxCell id="8xvS891SYXIpoKLKwEZW-2" value="EmitirFactura" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-694" y="615" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5lsYeAjeYMxDvbTyqmZL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8xvS891SYXIpoKLKwEZW-3" target="mLrzAzNKOY-rO-UeVt-c-37">
+        <mxCell id="5lsYeAjeYMxDvbTyqmZL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8xvS891SYXIpoKLKwEZW-3" target="mLrzAzNKOY-rO-UeVt-c-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-740" y="698" />

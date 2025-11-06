@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.8" pages="10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9" pages="10">
   <diagram name="Sonda" id="Page-1">
     <mxGraphModel dx="2868" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2533,7 +2533,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_Pbz3opAeL98rkqDhesX" name="Page-9">
-    <mxGraphModel dx="2839" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2711" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2541,7 +2541,7 @@
           <mxGeometry x="-300" y="110" width="200" height="740" as="geometry" />
         </mxCell>
         <mxCell id="L-mECALUXmyiDYx1fgkN-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="gkK9LxVnlCRM97IHQnco-1" vertex="1">
-          <mxGeometry x="20" y="30" width="160" height="560" as="geometry" />
+          <mxGeometry x="20" y="30" width="160" height="650" as="geometry" />
         </mxCell>
         <mxCell id="yjpOktXvU2WcRjsjR9_u-1" value="Salud" style="rounded=1;whiteSpace=wrap;html=1;" parent="gkK9LxVnlCRM97IHQnco-1" vertex="1">
           <mxGeometry x="40" y="50" width="120" height="50" as="geometry" />
@@ -2560,6 +2560,9 @@
         </mxCell>
         <mxCell id="PlZ61AKsokAvLnoMWE2j-45" value="Turismo" style="rounded=1;whiteSpace=wrap;html=1;" parent="gkK9LxVnlCRM97IHQnco-1" vertex="1">
           <mxGeometry x="40" y="520" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_Eg81BO572FfrQm6kFNj-2" value="Tienda compensar&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;banco o la TC&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gkK9LxVnlCRM97IHQnco-1">
+          <mxGeometry x="40" y="590" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yjpOktXvU2WcRjsjR9_u-5" value="Interoperabilidad" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-100" y="110" width="200" height="740" as="geometry" />

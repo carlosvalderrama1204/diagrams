@@ -8084,6 +8084,15 @@
         <mxCell id="YYIgrZ-Gzgn6YBrdZku4-7" value="&lt;b&gt;Capturar:&amp;nbsp;&lt;/b&gt;&lt;div&gt;Ciclo de Negocio&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-261.5" y="124" width="265" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YYIgrZ-Gzgn6YBrdZku4-8" value="&lt;b&gt;Familia Documental:&amp;nbsp;&lt;/b&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box; color: rgb(26, 28, 30); font-family: Inter, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;Creación de Proveedores (PNA)&lt;/span&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-246" y="204" width="234" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YYIgrZ-Gzgn6YBrdZku4-9" value="&lt;b&gt;Familia documental:&amp;nbsp;&lt;/b&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box; color: rgb(26, 28, 30); font-family: Inter, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;Contratos (PCJ)&lt;/span&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="107" y="198" width="308" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="YYIgrZ-Gzgn6YBrdZku4-10" value="&lt;b&gt;Familia documental:&amp;nbsp;&lt;/b&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box; color: rgb(26, 28, 30); font-family: Inter, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;Contratos (PCJ)&lt;/span&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="495" y="192" width="308" height="42" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

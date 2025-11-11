@@ -3689,7 +3689,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sTYJvzZdeHplwq9bK0XT" name="TO-BE">
-    <mxGraphModel dx="4901" dy="4501" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3204" dy="3600" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3787,9 +3787,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lDJRkIJQ8jNWzezRmH98-1" value="Traslado de imágenes para emisión XML de las facturas salud" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="SMwxNIYGxUk6GroNs0wT-5" vertex="1" connectable="0">
+        <mxCell id="lDJRkIJQ8jNWzezRmH98-1" value="Traslado de imágenes para emisión XML de las facturas salud" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="SMwxNIYGxUk6GroNs0wT-5" vertex="1" connectable="0">
           <mxGeometry x="0.3591" y="4" relative="1" as="geometry">
-            <mxPoint x="1" y="11" as="offset" />
+            <mxPoint x="25" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bgNHvy8tnrGRwKrJ1NFl-88" value="PLCOLAB" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">

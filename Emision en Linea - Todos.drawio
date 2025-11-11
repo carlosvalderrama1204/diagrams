@@ -3689,7 +3689,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sTYJvzZdeHplwq9bK0XT" name="TO-BE">
-    <mxGraphModel dx="3204" dy="3600" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1619" dy="2759" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3717,7 +3717,7 @@
         <mxCell id="pap60Vu3qCpS5bL2XZiQ-6" value="Cola de Fallos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Oo2ZV1HpocUwEor2WS9L-1">
           <mxGeometry x="225" y="434" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="bgNHvy8tnrGRwKrJ1NFl-89" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;DIAN&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;strokeWidth=2;gradientColor=#04AF6D;fillColor=#D2F4E7;strokeColor=#04AF6D;" parent="1" vertex="1">
+        <mxCell id="bgNHvy8tnrGRwKrJ1NFl-89" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;DIAN&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;strokeWidth=2;gradientColor=none;fillColor=#EAFAF1;strokeColor=#27AE60;" parent="1" vertex="1">
           <mxGeometry x="1550" y="280" width="210" height="160" as="geometry" />
         </mxCell>
         <mxCell id="f4LLNtYex6HE9IBSAwMh-1" value="Bancor" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;align=center;strokeWidth=2;" parent="1" vertex="1">
@@ -4070,9 +4070,6 @@
         <mxCell id="38nu_I94bOsOS68Equ3a-4" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://corporativo.compensar.com/PublishingImages/favicon.ico?rev=23;" parent="1" vertex="1">
           <mxGeometry x="-591" y="-1334" width="48" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="fAVxpczhJO_bgD88xe9z-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.dian.gov.co/wp-content/uploads/2025/02/Cab-landing-2025.png;clipPath=inset(29.31% 0.67% 0% 81.67%);" parent="1" vertex="1">
-          <mxGeometry x="1560.36" y="273.5" width="129.27" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="2mfNp2o7tdm-TwQPbjln-4" value="Token" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1120" y="-123" width="220" height="67" as="geometry" />
         </mxCell>
@@ -4276,8 +4273,10 @@
             <mxPoint x="81" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pap60Vu3qCpS5bL2XZiQ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fAVxpczhJO_bgD88xe9z-2" target="fAVxpczhJO_bgD88xe9z-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="pap60Vu3qCpS5bL2XZiQ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;entryX=0.354;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fAVxpczhJO_bgD88xe9z-2" target="bgNHvy8tnrGRwKrJ1NFl-89">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1624.995" y="273.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

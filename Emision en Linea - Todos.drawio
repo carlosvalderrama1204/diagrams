@@ -3689,12 +3689,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sTYJvzZdeHplwq9bK0XT" name="TO-BE">
-    <mxGraphModel dx="2505" dy="3229" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4901" dy="4501" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Bc1a42AfPo7aUE2n1Zk9-1" value="Compensar" style="rounded=1;whiteSpace=wrap;html=1;gradientDirection=south;strokeWidth=4;verticalAlign=top;fontSize=29;fontStyle=1;strokeColor=#FF8000;fillColor=#FFF1E7;fontColor=light-dark(#000000,#EDEDED);" parent="1" vertex="1">
-          <mxGeometry x="-770" y="-1260" width="1640" height="2315" as="geometry" />
+          <mxGeometry x="-770" y="-1346" width="1640" height="2401" as="geometry" />
         </mxCell>
         <mxCell id="Oo2ZV1HpocUwEor2WS9L-1" value="" style="group;align=center;verticalAlign=top;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="385" y="-264" width="410" height="690" as="geometry" />
@@ -4068,7 +4068,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="38nu_I94bOsOS68Equ3a-4" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://corporativo.compensar.com/PublishingImages/favicon.ico?rev=23;" parent="1" vertex="1">
-          <mxGeometry x="-265.24" y="-1280" width="48" height="48" as="geometry" />
+          <mxGeometry x="-591" y="-1334" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="fAVxpczhJO_bgD88xe9z-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.dian.gov.co/wp-content/uploads/2025/02/Cab-landing-2025.png;clipPath=inset(29.31% 0.67% 0% 81.67%);" parent="1" vertex="1">
           <mxGeometry x="1560.36" y="273.5" width="129.27" height="50" as="geometry" />

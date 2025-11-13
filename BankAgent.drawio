@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="Page-1" id="sqAQPlWcpq5T3Crrjcin">
-    <mxGraphModel dx="2614" dy="2130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2492" dy="1926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,20 +24,6 @@
         </mxCell>
         <mxCell id="3F5eK62oKUuV28n4bGqt-6" value="ERP getRecordsForPayment" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-135" y="260" width="140" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="3F5eK62oKUuV28n4bGqt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.999;entryY=0.388;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="3F5eK62oKUuV28n4bGqt-2" target="3F5eK62oKUuV28n4bGqt-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="8" y="160" />
-              <mxPoint x="100" y="160" />
-              <mxPoint x="100" y="326" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3F5eK62oKUuV28n4bGqt-27" value="41601" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3F5eK62oKUuV28n4bGqt-7" vertex="1" connectable="0">
-          <mxGeometry x="-0.6752" y="3" relative="1" as="geometry">
-            <mxPoint x="37" y="-7" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="3F5eK62oKUuV28n4bGqt-9" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="489" y="105" width="50" height="60" as="geometry" />
@@ -112,7 +98,7 @@
         <mxCell id="3F5eK62oKUuV28n4bGqt-30" value="Banco" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="-240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f8g0Qp49FTSZDEzWzNfA-1" value="Notificacion -&amp;nbsp;RecaudoVirtual" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="f8g0Qp49FTSZDEzWzNfA-1" value="Notificacion -&amp;nbsp;RecaudoVirtual" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-201.25" y="740" width="232.5" height="30" as="geometry" />
         </mxCell>
       </root>

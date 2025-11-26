@@ -183,7 +183,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MPXSXOAH9OnCoG_6MXCc" name="Page-3">
-    <mxGraphModel dx="2253" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2711" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -219,6 +219,12 @@
         </mxCell>
         <mxCell id="ojq07kByLDiBeJ-c6ard-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#ec0909, #ededed);" value="&lt;b&gt;Nuevo Cluster&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="140" x="160" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="ojq07kByLDiBeJ-c6ard-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#ec0909, #ededed);" value="&lt;b&gt;Confirmar nombre&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="70" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="ojq07kByLDiBeJ-c6ard-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#ec0909, #ededed);" value="&lt;b&gt;Confirmar nombre&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="274" y="990" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

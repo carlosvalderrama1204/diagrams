@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1" pages="4">
   <diagram name="Page-1" id="n0hfhET1ci13XwUxuyb5">
     <mxGraphModel dx="1585" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -204,6 +204,55 @@
         </mxCell>
         <mxCell id="Pswa91HVE5AoyIxKKHHo-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ACDI Driver" vertex="1">
           <mxGeometry height="30" width="120" x="1010" y="1700" as="geometry" />
+        </mxCell>
+        <mxCell id="Pswa91HVE5AoyIxKKHHo-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="16" width="20" x="450" y="1380" as="geometry" />
+        </mxCell>
+        <mxCell id="Pswa91HVE5AoyIxKKHHo-23" edge="1" parent="1" source="Pswa91HVE5AoyIxKKHHo-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.656;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;strokeWidth=2;" target="Pswa91HVE5AoyIxKKHHo-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="525" y="1388" />
+              <mxPoint x="525" y="1578" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="pID5hNm9I1l_6t9gkU8C" name="Page-4">
+    <mxGraphModel dx="1042" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MJCs7rUF_KUe8KYaRAvb-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;strong class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box; font-family: Inter, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;ACDI (Audit, Compliance &amp;amp; Data Intelligence)&lt;/font&gt;&lt;/span&gt;&lt;/strong&gt;" vertex="1">
+          <mxGeometry height="300" width="550" x="50" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H5uHXBWDhjAmeko_iBHp-9" edge="1" parent="1" source="H5uHXBWDhjAmeko_iBHp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="H5uHXBWDhjAmeko_iBHp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H5uHXBWDhjAmeko_iBHp-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="Snapshot Service" vertex="1">
+          <mxGeometry height="30" width="120" x="265" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="H5uHXBWDhjAmeko_iBHp-10" edge="1" parent="1" source="H5uHXBWDhjAmeko_iBHp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="H5uHXBWDhjAmeko_iBHp-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H5uHXBWDhjAmeko_iBHp-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="ACDI Proxy" vertex="1">
+          <mxGeometry height="30" width="120" x="80" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="H5uHXBWDhjAmeko_iBHp-12" edge="1" parent="1" source="H5uHXBWDhjAmeko_iBHp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="H5uHXBWDhjAmeko_iBHp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H5uHXBWDhjAmeko_iBHp-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="ACDI Server" vertex="1">
+          <mxGeometry height="30" width="120" x="80" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="H5uHXBWDhjAmeko_iBHp-13" edge="1" parent="1" source="H5uHXBWDhjAmeko_iBHp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="H5uHXBWDhjAmeko_iBHp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H5uHXBWDhjAmeko_iBHp-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="OpenSearch&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" x="265" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="H5uHXBWDhjAmeko_iBHp-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="ACDI Dashboards" vertex="1">
+          <mxGeometry height="40" width="120" x="440" y="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

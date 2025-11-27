@@ -12,6 +12,9 @@
         <mxCell id="FI9zDnPJhKs7iXnYgLYQ-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;" value="&lt;b&gt;Server 2022&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="80" x="270" y="670" as="geometry" />
         </mxCell>
+        <mxCell id="FI9zDnPJhKs7iXnYgLYQ-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;" value="&lt;b&gt;2022 R2&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="850" y="1000" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

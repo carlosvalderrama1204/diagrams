@@ -356,7 +356,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yHZ4woFlck6Ob5kkJFGo" name="Consolidador">
-    <mxGraphModel dx="3967" dy="2487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3679" dy="2683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -780,8 +780,11 @@
         <mxCell id="GM2WE1WzoIuy64erFS2W-144" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Opción 3&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="230" x="200" y="2990" as="geometry" />
         </mxCell>
-        <mxCell id="GM2WE1WzoIuy64erFS2W-146" edge="1" parent="1" source="GM2WE1WzoIuy64erFS2W-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.787;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" target="GM2WE1WzoIuy64erFS2W-115">
+        <mxCell id="GM2WE1WzoIuy64erFS2W-146" edge="1" parent="1" source="GM2WE1WzoIuy64erFS2W-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.783;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" target="GM2WE1WzoIuy64erFS2W-115">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2WE1WzoIuy64erFS2W-147" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="Consultar grupos seguridad salud" vertex="1">
+          <mxGeometry height="30" width="110" x="884.5" y="3780" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

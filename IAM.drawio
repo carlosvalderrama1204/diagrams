@@ -523,7 +523,7 @@
             <mxPoint x="1" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GM2WE1WzoIuy64erFS2W-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Grupos Seguridad" vertex="1">
+        <mxCell id="GM2WE1WzoIuy64erFS2W-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Grupos Seguridad&lt;div&gt;Usuarios_App_PAMC&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="740" y="1295" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-54" edge="1" parent="1" source="GM2WE1WzoIuy64erFS2W-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.625;entryY=0.875;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" target="GM2WE1WzoIuy64erFS2W-22">

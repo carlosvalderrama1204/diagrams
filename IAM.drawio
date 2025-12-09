@@ -647,6 +647,12 @@
         <mxCell id="GM2WE1WzoIuy64erFS2W-101" edge="1" parent="1" source="GM2WE1WzoIuy64erFS2W-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GM2WE1WzoIuy64erFS2W-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="GM2WE1WzoIuy64erFS2W-103" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Opción 1&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="230" x="140" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2WE1WzoIuy64erFS2W-104" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Opción 2&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="230" x="194" y="1890" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -356,7 +356,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yHZ4woFlck6Ob5kkJFGo" name="Consolidador">
-    <mxGraphModel dx="2185" dy="1890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1778" dy="1674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -459,13 +459,16 @@
             <mxPoint x="93" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="GM2WE1WzoIuy64erFS2W-53" edge="1" parent="1" source="GM2WE1WzoIuy64erFS2W-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GM2WE1WzoIuy64erFS2W-52" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Microsoft Entra ID" vertex="1">
           <mxGeometry height="60" width="120" x="540" y="1295" as="geometry" />
         </mxCell>
-        <mxCell id="GM2WE1WzoIuy64erFS2W-34" edge="1" parent="1" source="GM2WE1WzoIuy64erFS2W-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GM2WE1WzoIuy64erFS2W-33">
+        <mxCell id="GM2WE1WzoIuy64erFS2W-34" edge="1" parent="1" source="GM2WE1WzoIuy64erFS2W-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="GM2WE1WzoIuy64erFS2W-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="200" y="1325" />
+              <mxPoint x="200" y="1340" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -514,6 +517,15 @@
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-51" edge="1" parent="1" source="GM2WE1WzoIuy64erFS2W-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="GM2WE1WzoIuy64erFS2W-50">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2WE1WzoIuy64erFS2W-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Grupos Seguridad" vertex="1">
+          <mxGeometry height="60" width="120" x="740" y="1295" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2WE1WzoIuy64erFS2W-54" edge="1" parent="1" source="GM2WE1WzoIuy64erFS2W-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.625;entryY=0.875;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" target="GM2WE1WzoIuy64erFS2W-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2WE1WzoIuy64erFS2W-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ID Token (Claims del grupo)" vertex="1">
+          <mxGeometry height="30" width="150" x="230" y="1280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

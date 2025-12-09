@@ -671,14 +671,8 @@
         <mxCell id="GM2WE1WzoIuy64erFS2W-108" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;b&gt;Azure Tenant PAMC&lt;/b&gt;" vertex="1">
           <mxGeometry height="170" width="430" x="-80" y="3560" as="geometry" />
         </mxCell>
-        <mxCell id="GM2WE1WzoIuy64erFS2W-109" edge="1" parent="1" source="GM2WE1WzoIuy64erFS2W-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GM2WE1WzoIuy64erFS2W-111">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-110" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Web APP - Consolidador" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="3620" as="geometry" />
-        </mxCell>
-        <mxCell id="GM2WE1WzoIuy64erFS2W-111" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Caja o&amp;nbsp;&lt;div&gt;Salud&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="80" x="220" y="3610" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-112" edge="1" parent="1" source="GM2WE1WzoIuy64erFS2W-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GM2WE1WzoIuy64erFS2W-110">
           <mxGeometry relative="1" as="geometry" />
@@ -690,22 +684,24 @@
           <mxGeometry height="30" width="90" x="-220" y="3600" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-115" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;b&gt;Azure Tenant Salud&lt;/b&gt;" vertex="1">
-          <mxGeometry height="170" width="510" x="460" y="3730" as="geometry" />
+          <mxGeometry height="170" width="510" x="470" y="3840" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-116" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;b&gt;IAM&amp;nbsp; - CAJA&lt;/b&gt;" vertex="1">
-          <mxGeometry height="170" width="510" x="460" y="3400" as="geometry" />
+          <mxGeometry height="170" width="510" x="470" y="3566" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-117" edge="1" parent="1" source="GM2WE1WzoIuy64erFS2W-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GM2WE1WzoIuy64erFS2W-124" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-118" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="NAM" vertex="1">
-          <mxGeometry height="60" width="120" x="600" y="3455" as="geometry" />
+          <mxGeometry height="60" width="120" x="610" y="3621" as="geometry" />
         </mxCell>
-        <mxCell id="GM2WE1WzoIuy64erFS2W-119" edge="1" parent="1" source="GM2WE1WzoIuy64erFS2W-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="GM2WE1WzoIuy64erFS2W-118">
+        <mxCell id="GM2WE1WzoIuy64erFS2W-119" edge="1" parent="1" source="GM2WE1WzoIuy64erFS2W-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" target="GM2WE1WzoIuy64erFS2W-118">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="260" y="3470" />
+              <mxPoint x="260" y="3635" />
+              <mxPoint x="610" y="3636" />
             </Array>
+            <mxPoint x="260" y="3610" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-120" connectable="0" parent="GM2WE1WzoIuy64erFS2W-119" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" value="SAML" vertex="1">
@@ -717,57 +713,52 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-122" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Microsoft Entra ID" vertex="1">
-          <mxGeometry height="60" width="120" x="600" y="3785" as="geometry" />
-        </mxCell>
-        <mxCell id="GM2WE1WzoIuy64erFS2W-123" edge="1" parent="1" source="GM2WE1WzoIuy64erFS2W-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="GM2WE1WzoIuy64erFS2W-122">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="260" y="3830" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry height="60" width="120" x="610" y="3895" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-124" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="IDM - Metadirectorio" vertex="1">
-          <mxGeometry height="60" width="120" x="800" y="3455" as="geometry" />
+          <mxGeometry height="60" width="120" x="810" y="3621" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-125" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;b&gt;Sistema RRHH&lt;/b&gt;" vertex="1">
-          <mxGeometry height="170" width="340" x="1120" y="3400" as="geometry" />
+          <mxGeometry height="170" width="340" x="1130" y="3566" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-126" edge="1" parent="1" source="GM2WE1WzoIuy64erFS2W-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="GM2WE1WzoIuy64erFS2W-124">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-127" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" value="Kactus" vertex="1">
-          <mxGeometry height="60" width="120" x="1230" y="3455" as="geometry" />
+          <mxGeometry height="60" width="120" x="1240" y="3621" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-128" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Cargo" vertex="1">
-          <mxGeometry height="30" width="60" x="1020" y="3455" as="geometry" />
+          <mxGeometry height="30" width="60" x="1030" y="3621" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-129" parent="1" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" value="Matriz Roles y perfiles" vertex="1">
-          <mxGeometry height="55" width="45" x="907" y="3400" as="geometry" />
+          <mxGeometry height="55" width="45" x="917" y="3566" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-130" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;b&gt;Microsoft On-premise&lt;/b&gt;" vertex="1">
-          <mxGeometry height="115" width="340" x="1120" y="3260" as="geometry" />
+          <mxGeometry height="115" width="340" x="1130" y="3426" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-131" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Directorio Activo" vertex="1">
-          <mxGeometry height="50" width="120" x="1230" y="3300" as="geometry" />
+          <mxGeometry height="50" width="120" x="1240" y="3466" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-132" edge="1" parent="1" source="GM2WE1WzoIuy64erFS2W-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GM2WE1WzoIuy64erFS2W-131">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="860" y="3325" />
+              <mxPoint x="870" y="3491" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GM2WE1WzoIuy64erFS2W-133" edge="1" parent="1" source="GM2WE1WzoIuy64erFS2W-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.625;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" target="GM2WE1WzoIuy64erFS2W-111">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="GM2WE1WzoIuy64erFS2W-133" edge="1" parent="1" source="GM2WE1WzoIuy64erFS2W-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;dashed=1;" target="GM2WE1WzoIuy64erFS2W-110">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="3622" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-134" parent="1" style="text;whiteSpace=wrap;align=center;" value="SAML Assertion &#xa;(Atributo de Rol)" vertex="1">
-          <mxGeometry height="40" width="150" x="334" y="3500" as="geometry" />
+          <mxGeometry height="40" width="150" x="339" y="3566" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-135" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;b&gt;Azure Tenant Caja&lt;/b&gt;" vertex="1">
-          <mxGeometry height="170" width="510" x="460" y="3060" as="geometry" />
+          <mxGeometry height="170" width="510" x="470" y="3226" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-136" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Entra ID" vertex="1">
-          <mxGeometry height="50" width="120" x="642" y="3120" as="geometry" />
+          <mxGeometry height="50" width="120" x="652" y="3286" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-137" edge="1" parent="1" source="GM2WE1WzoIuy64erFS2W-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="GM2WE1WzoIuy64erFS2W-143">
           <mxGeometry relative="1" as="geometry" />
@@ -778,22 +769,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-139" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Grupos Seguridad" vertex="1">
-          <mxGeometry height="60" width="120" x="800" y="3785" as="geometry" />
-        </mxCell>
-        <mxCell id="GM2WE1WzoIuy64erFS2W-140" edge="1" parent="1" source="GM2WE1WzoIuy64erFS2W-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.625;entryY=0.875;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" target="GM2WE1WzoIuy64erFS2W-111">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GM2WE1WzoIuy64erFS2W-141" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ID Token (Claims del grupo)" vertex="1">
-          <mxGeometry height="30" width="150" x="290" y="3770" as="geometry" />
+          <mxGeometry height="60" width="120" x="810" y="3895" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-142" edge="1" parent="1" source="GM2WE1WzoIuy64erFS2W-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="GM2WE1WzoIuy64erFS2W-136">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-143" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Usuarios caja" vertex="1">
-          <mxGeometry height="50" width="120" x="812" y="3120" as="geometry" />
+          <mxGeometry height="50" width="120" x="822" y="3286" as="geometry" />
         </mxCell>
-        <mxCell id="GM2WE1WzoIuy64erFS2W-144" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Opción 1&lt;/font&gt;&lt;/b&gt;" vertex="1">
+        <mxCell id="GM2WE1WzoIuy64erFS2W-144" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Opción 3&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="230" x="200" y="2990" as="geometry" />
+        </mxCell>
+        <mxCell id="GM2WE1WzoIuy64erFS2W-146" edge="1" parent="1" source="GM2WE1WzoIuy64erFS2W-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.787;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" target="GM2WE1WzoIuy64erFS2W-115">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

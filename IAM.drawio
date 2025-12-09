@@ -356,63 +356,63 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yHZ4woFlck6Ob5kkJFGo" name="Consolidador">
-    <mxGraphModel dx="2505" dy="2060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3043" dy="2100" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GM2WE1WzoIuy64erFS2W-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;b&gt;Azure Tenant PAMC&lt;/b&gt;" vertex="1">
-          <mxGeometry height="170" width="290" x="-150" y="130" as="geometry" />
+          <mxGeometry height="170" width="290" x="195" y="120" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Web APP - Consolidador" vertex="1">
-          <mxGeometry height="60" width="120" x="-60" y="185" as="geometry" />
+          <mxGeometry height="60" width="120" x="285" y="175" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;b&gt;Azure Tenant Caja&lt;/b&gt;" vertex="1">
-          <mxGeometry height="170" width="400" x="320" y="130" as="geometry" />
+          <mxGeometry height="170" width="400" x="665" y="120" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-16" edge="1" parent="1" source="GM2WE1WzoIuy64erFS2W-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;dashed=1;" target="GM2WE1WzoIuy64erFS2W-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Microsoft Entra ID" vertex="1">
-          <mxGeometry height="60" width="120" x="404" y="185" as="geometry" />
+          <mxGeometry height="60" width="120" x="749" y="175" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-7" edge="1" parent="1" source="GM2WE1WzoIuy64erFS2W-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="GM2WE1WzoIuy64erFS2W-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="Usuarios Caja" vertex="1">
-          <mxGeometry height="60" width="120" x="570" y="185" as="geometry" />
+          <mxGeometry height="60" width="120" x="915" y="175" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-9" edge="1" parent="1" source="GM2WE1WzoIuy64erFS2W-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GM2WE1WzoIuy64erFS2W-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-8" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Usuario" vertex="1">
-          <mxGeometry height="60" width="30" x="-330" y="185" as="geometry" />
+          <mxGeometry height="60" width="30" x="15" y="175" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ingresa Usuario (&lt;b&gt;@compensar.com&lt;/b&gt;)&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="90" x="-260" y="180" as="geometry" />
+          <mxGeometry height="30" width="90" x="85" y="170" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="IdP" vertex="1">
-          <mxGeometry height="30" width="60" x="500" y="320" as="geometry" />
+          <mxGeometry height="30" width="60" x="845" y="310" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Service Provider (SP)" vertex="1">
-          <mxGeometry height="30" width="130" x="-40" y="320" as="geometry" />
+          <mxGeometry height="30" width="130" x="265" y="310" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-14" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="200" as="sourcePoint" />
-            <mxPoint x="404" y="200" as="targetPoint" />
+            <mxPoint x="405" y="190" as="sourcePoint" />
+            <mxPoint x="749" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Solicitud Autenticación" vertex="1">
-          <mxGeometry height="30" width="140" x="150" y="170" as="geometry" />
+          <mxGeometry height="30" width="140" x="495" y="160" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Id Token/ Acces token" vertex="1">
-          <mxGeometry height="30" width="60" x="190" y="245" as="geometry" />
+          <mxGeometry height="30" width="60" x="535" y="235" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Solo autenticación.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Sin Autorización(No roles)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="170" y="40" as="geometry" />
+          <mxGeometry height="60" width="120" x="515" y="30" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Arquitectura AS-IS&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="230" x="90" y="-90" as="geometry" />
+          <mxGeometry height="30" width="230" x="435" y="-100" as="geometry" />
         </mxCell>
         <mxCell id="GM2WE1WzoIuy64erFS2W-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;b&gt;Azure Tenant PAMC&lt;/b&gt;" vertex="1">
           <mxGeometry height="170" width="430" x="-140" y="1070" as="geometry" />

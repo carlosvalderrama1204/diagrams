@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7" pages="2">
   <diagram name="To-Be" id="uBQEXhK85_sFpyV3Rzyq">
-    <mxGraphModel dx="2711" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,6 +69,36 @@
         </mxCell>
         <mxCell id="x9N_X7ZHtqhzVOnIZNbu-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Plano comforce Historico&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="120" x="-490" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;" value="Fuente de Datos" vertex="1">
+          <mxGeometry height="190" width="580" x="-190" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-2" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;b&gt;SAP&lt;/b&gt;:&amp;nbsp;Pagos y Ejecución Real" vertex="1">
+          <mxGeometry height="100" width="110" x="-140" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-3" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;b&gt;PCC&lt;/b&gt;:&amp;nbsp;SRM + no conformidades" vertex="1">
+          <mxGeometry height="100" width="115" x="42.5" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-4" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;b&gt;Comforce&lt;/b&gt;:&amp;nbsp;Gestión Contractual: Fechas, Hitos, Supervisores&amp;nbsp;" vertex="1">
+          <mxGeometry height="100" width="110" x="240" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;" value="Capa de Inteligencia" vertex="1">
+          <mxGeometry height="720" width="590" x="-190" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Azure Data Factory" vertex="1">
+          <mxGeometry height="31" width="120" x="40" y="1109" as="geometry" />
+        </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-7" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;b&gt;Zona Bronze&lt;/b&gt;:&lt;div&gt;Datos Crudos&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="60" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-8" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;b&gt;Zona Silver:&lt;/b&gt;&lt;div&gt;Cruce de IDs:NIT + ID Contrato Comforce&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="90" x="55" y="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Azure DataBricks:&lt;/b&gt;&lt;div&gt;1. Calcula Segmentación&lt;/div&gt;&lt;div&gt;2. Consolida Incidencias PCC&lt;/div&gt;&lt;div&gt;3. Extrae Ejecución SAP&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="15" y="1520" as="geometry" />
+        </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-10" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;b&gt;Zona Gold:&lt;/b&gt;&lt;div&gt;Data Estructurada para PNA0075&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="90" x="55" y="1653.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

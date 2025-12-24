@@ -4,6 +4,15 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ofeMEUULNupF0MGtestP-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="370" width="260" x="-210" y="2800" as="geometry" />
+        </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;" value="Capa de Automatización - IA" vertex="1">
+          <mxGeometry height="880" width="260" x="-210" y="1870" as="geometry" />
+        </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;" value="Capa de Inteligencia" vertex="1">
+          <mxGeometry height="720" width="590" x="-190" y="1060" as="geometry" />
+        </mxCell>
         <mxCell id="x9N_X7ZHtqhzVOnIZNbu-10" edge="1" parent="1" source="x9N_X7ZHtqhzVOnIZNbu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="x9N_X7ZHtqhzVOnIZNbu-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -73,47 +82,130 @@
         <mxCell id="ofeMEUULNupF0MGtestP-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;" value="Fuente de Datos" vertex="1">
           <mxGeometry height="190" width="580" x="-190" y="710" as="geometry" />
         </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-23" edge="1" parent="1" source="ofeMEUULNupF0MGtestP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ofeMEUULNupF0MGtestP-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-85" y="1125" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ofeMEUULNupF0MGtestP-2" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;b&gt;SAP&lt;/b&gt;:&amp;nbsp;Pagos y Ejecución Real" vertex="1">
           <mxGeometry height="100" width="110" x="-140" y="760" as="geometry" />
         </mxCell>
-        <mxCell id="ofeMEUULNupF0MGtestP-3" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;b&gt;PCC&lt;/b&gt;:&amp;nbsp;SRM + no conformidades" vertex="1">
+        <mxCell id="ofeMEUULNupF0MGtestP-24" edge="1" parent="1" source="ofeMEUULNupF0MGtestP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ofeMEUULNupF0MGtestP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-3" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;b&gt;PCC&lt;/b&gt;:&amp;nbsp;data proveedor + no conformidades" vertex="1">
           <mxGeometry height="100" width="115" x="42.5" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-25" edge="1" parent="1" source="ofeMEUULNupF0MGtestP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ofeMEUULNupF0MGtestP-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="295" y="1125" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ofeMEUULNupF0MGtestP-4" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;b&gt;Comforce&lt;/b&gt;:&amp;nbsp;Gestión Contractual: Fechas, Hitos, Supervisores&amp;nbsp;" vertex="1">
           <mxGeometry height="100" width="110" x="240" y="760" as="geometry" />
         </mxCell>
-        <mxCell id="ofeMEUULNupF0MGtestP-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;" value="Capa de Inteligencia" vertex="1">
-          <mxGeometry height="720" width="590" x="-190" y="1060" as="geometry" />
+        <mxCell id="ofeMEUULNupF0MGtestP-26" edge="1" parent="1" source="ofeMEUULNupF0MGtestP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ofeMEUULNupF0MGtestP-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ofeMEUULNupF0MGtestP-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Azure Data Factory" vertex="1">
           <mxGeometry height="31" width="120" x="40" y="1109" as="geometry" />
         </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-27" edge="1" parent="1" source="ofeMEUULNupF0MGtestP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ofeMEUULNupF0MGtestP-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ofeMEUULNupF0MGtestP-7" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;b&gt;Zona Bronze&lt;/b&gt;:&lt;div&gt;Datos Crudos&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="60" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-28" edge="1" parent="1" source="ofeMEUULNupF0MGtestP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ofeMEUULNupF0MGtestP-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ofeMEUULNupF0MGtestP-8" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;b&gt;Zona Silver:&lt;/b&gt;&lt;div&gt;Cruce de IDs:NIT + ID Contrato Comforce&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="90" x="55" y="1340" as="geometry" />
         </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-29" edge="1" parent="1" source="ofeMEUULNupF0MGtestP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ofeMEUULNupF0MGtestP-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ofeMEUULNupF0MGtestP-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Azure DataBricks:&lt;/b&gt;&lt;div&gt;1. Calcula Segmentación&lt;/div&gt;&lt;div&gt;2. Consolida Incidencias PCC&lt;/div&gt;&lt;div&gt;3. Extrae Ejecución SAP&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="170" x="15" y="1520" as="geometry" />
+        </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-30" edge="1" parent="1" source="ofeMEUULNupF0MGtestP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ofeMEUULNupF0MGtestP-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ofeMEUULNupF0MGtestP-10" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;b&gt;Zona Gold:&lt;/b&gt;&lt;div&gt;Data Estructurada para PNA0075&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="90" x="55" y="1653.5" as="geometry" />
         </mxCell>
-        <mxCell id="ofeMEUULNupF0MGtestP-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="490" width="190" x="-160" y="1870" as="geometry" />
+        <mxCell id="ofeMEUULNupF0MGtestP-31" edge="1" parent="1" source="ofeMEUULNupF0MGtestP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ofeMEUULNupF0MGtestP-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-32" connectable="0" parent="ofeMEUULNupF0MGtestP-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="si" vertex="1">
+          <mxGeometry relative="1" x="-0.2" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ofeMEUULNupF0MGtestP-12" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="¿Hito Cumplido 6 o 12 meses?" vertex="1">
           <mxGeometry height="90" width="85" x="-107.5" y="1930" as="geometry" />
         </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-33" edge="1" parent="1" source="ofeMEUULNupF0MGtestP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ofeMEUULNupF0MGtestP-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ofeMEUULNupF0MGtestP-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Azure AI Doc Intelligence&lt;/b&gt;:&lt;div&gt;Diligencia Plantilla PNA0075&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-125" y="2085" as="geometry" />
+        </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-34" edge="1" parent="1" source="ofeMEUULNupF0MGtestP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ofeMEUULNupF0MGtestP-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ofeMEUULNupF0MGtestP-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Borrador del Informe" vertex="1">
           <mxGeometry height="40" width="120" x="-125" y="2210" as="geometry" />
         </mxCell>
-        <mxCell id="ofeMEUULNupF0MGtestP-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="250" y="2145" as="geometry" />
+        <mxCell id="ofeMEUULNupF0MGtestP-36" edge="1" parent="1" source="ofeMEUULNupF0MGtestP-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="ofeMEUULNupF0MGtestP-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-39" edge="1" parent="1" source="ofeMEUULNupF0MGtestP-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="ofeMEUULNupF0MGtestP-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="2398" />
+              <mxPoint x="10" y="2660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-40" connectable="0" parent="ofeMEUULNupF0MGtestP-39" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="OK" vertex="1">
+          <mxGeometry relative="1" x="0.2" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Validación del Negociador ¿Datos SAP/Incidencias OK?" vertex="1">
+          <mxGeometry height="135" width="110" x="-120" y="2330" as="geometry" />
+        </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Edición Manual" vertex="1">
+          <mxGeometry height="30" width="120" x="-200" y="2510" as="geometry" />
+        </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-41" edge="1" parent="1" source="ofeMEUULNupF0MGtestP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ofeMEUULNupF0MGtestP-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Adobe Sign:&lt;/b&gt;&lt;div&gt;Flujo de Firmas Supervisores&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="-176" y="2630" as="geometry" />
+        </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-42" edge="1" parent="1" source="ofeMEUULNupF0MGtestP-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ofeMEUULNupF0MGtestP-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Documento Firmado" vertex="1">
+          <mxGeometry height="60" width="120" x="-136" y="2830" as="geometry" />
+        </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-43" edge="1" parent="1" source="ofeMEUULNupF0MGtestP-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ofeMEUULNupF0MGtestP-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Azure Function:&lt;/b&gt;&lt;div&gt;Mapeo Metada para Onbase&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-136" y="2950" as="geometry" />
+        </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-22" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="OnBase" vertex="1">
+          <mxGeometry height="80" width="60" x="-106" y="3050" as="geometry" />
+        </mxCell>
+        <mxCell id="ofeMEUULNupF0MGtestP-37" edge="1" parent="1" source="ofeMEUULNupF0MGtestP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.182;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" target="ofeMEUULNupF0MGtestP-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

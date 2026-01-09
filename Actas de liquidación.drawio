@@ -152,8 +152,8 @@
         <mxCell id="ofeMEUULNupF0MGtestP-33" edge="1" parent="1" source="ofeMEUULNupF0MGtestP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ofeMEUULNupF0MGtestP-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ofeMEUULNupF0MGtestP-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Azure AI Doc Intelligence&lt;/b&gt;:&lt;div&gt;Diligencia Plantilla PNA0075&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="-125" y="2085" as="geometry" />
+        <mxCell id="ofeMEUULNupF0MGtestP-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Azure AI Doc Intelligence - Script Python&lt;/b&gt;:&lt;div&gt;Diligencia Plantilla PNA0075&lt;/div&gt;" vertex="1">
+          <mxGeometry height="75" width="135" x="-132.5" y="2090" as="geometry" />
         </mxCell>
         <mxCell id="ofeMEUULNupF0MGtestP-34" edge="1" parent="1" source="ofeMEUULNupF0MGtestP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ofeMEUULNupF0MGtestP-15">
           <mxGeometry relative="1" as="geometry" />
@@ -398,8 +398,8 @@
         <mxCell id="IW5f70mOTX-stGd43z3q-46" edge="1" parent="1" source="IW5f70mOTX-stGd43z3q-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IW5f70mOTX-stGd43z3q-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IW5f70mOTX-stGd43z3q-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Azure AI Doc Intelligence&lt;/b&gt;:&lt;div&gt;Diligencia Plantilla&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;PNA0099&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="495" y="2335" as="geometry" />
+        <mxCell id="IW5f70mOTX-stGd43z3q-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Azure AI Doc Intelligence - Python&amp;nbsp;&lt;/b&gt;:&lt;div&gt;Diligencia Plantilla&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;PNA0099&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="65" width="125" x="495" y="2330" as="geometry" />
         </mxCell>
         <mxCell id="IW5f70mOTX-stGd43z3q-48" edge="1" parent="1" source="IW5f70mOTX-stGd43z3q-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IW5f70mOTX-stGd43z3q-53">
           <mxGeometry relative="1" as="geometry" />

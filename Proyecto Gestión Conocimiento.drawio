@@ -486,6 +486,24 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-32" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/16227/16227234.png?semt=ais_white_label;" value="" vertex="1">
+          <mxGeometry height="33" width="33" x="70" y="1227" as="geometry" />
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-33" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/15465/15465638.png?semt=ais_white_label;" value="" vertex="1">
+          <mxGeometry height="33" width="33" x="120" y="1227" as="geometry" />
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-34" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/14180/14180779.png?semt=ais_white_label;" value="" vertex="1">
+          <mxGeometry height="33" width="33" x="172" y="1228" as="geometry" />
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ds&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="640" y="1450" as="geometry" />
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-36" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/837/837799.png?semt=ais_white_label;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="454.5" y="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-37" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/8422/8422137.png?semt=ais_white_label;" value="" vertex="1">
+          <mxGeometry height="50.75" width="50.75" x="838.62" y="1214.6200000000001" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

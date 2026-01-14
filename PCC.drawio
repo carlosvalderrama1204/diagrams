@@ -6783,7 +6783,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YC5mr36T1rf00PrPBtZC" name="Page-20">
-    <mxGraphModel dx="1826" dy="757" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="970" dy="303" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7288,14 +7288,14 @@
         <mxCell id="dX8-9qSETQUTHKHkiFUv-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Orquestación" vertex="1">
           <mxGeometry height="25" width="83" x="542" y="1267.5" as="geometry" />
         </mxCell>
-        <mxCell id="dX8-9qSETQUTHKHkiFUv-5" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" value="1. API Interlocutor - Tercero(Crear, Consultar, actualizar)" vertex="1">
-          <mxGeometry height="26" width="317" x="767" y="489" as="geometry" />
+        <mxCell id="dX8-9qSETQUTHKHkiFUv-5" parent="1" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1;html=1;" value="1. API Interlocutor - Tercero(Crear, Consultar, actualizar)" vertex="1">
+          <mxGeometry height="26" width="317" x="771" y="491" as="geometry" />
         </mxCell>
-        <mxCell id="dX8-9qSETQUTHKHkiFUv-6" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" value="2. API Proveedor MM(Crear, Consultar, actualizar)" vertex="1">
-          <mxGeometry height="26" width="285" x="765" y="523" as="geometry" />
+        <mxCell id="dX8-9qSETQUTHKHkiFUv-6" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" value="3. API Proveedor MM(Crear, Consultar, actualizar)" vertex="1">
+          <mxGeometry height="26" width="285" x="771" y="560" as="geometry" />
         </mxCell>
-        <mxCell id="dX8-9qSETQUTHKHkiFUv-7" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" value="3. API Acreedor FI(Crear, Consultar, actualizar)" vertex="1">
-          <mxGeometry height="26" width="268" x="769" y="555" as="geometry" />
+        <mxCell id="dX8-9qSETQUTHKHkiFUv-7" parent="1" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1;rotation=0;" value="2. API Acreedor FI(Crear, Consultar, actualizar)" vertex="1">
+          <mxGeometry height="26" width="268" x="771" y="526" as="geometry" />
         </mxCell>
         <mxCell id="PoYzqm-kH-43nkvsFnDp-2" edge="1" parent="1" source="dX8-9qSETQUTHKHkiFUv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="dX8-9qSETQUTHKHkiFUv-1">
           <mxGeometry relative="1" as="geometry" />
@@ -7403,7 +7403,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2IwLa0XtwuYH8fi0v3bC-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;fontStyle=1" value="Consulta Rol" vertex="1">
-          <mxGeometry height="26" width="87" x="1096" y="489" as="geometry" />
+          <mxGeometry height="26" width="87" x="1140" y="489" as="geometry" />
         </mxCell>
         <mxCell id="2IwLa0XtwuYH8fi0v3bC-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="No hay desarrollos en el ERP: del 23 de febrero al 25 de abril" vertex="1">
           <mxGeometry height="60" width="175" x="815.5" y="413" as="geometry" />

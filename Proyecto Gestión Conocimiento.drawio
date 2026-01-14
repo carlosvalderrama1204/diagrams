@@ -346,8 +346,8 @@
         <mxCell id="LxZ3gILCswlAHgUFl0Be-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Monitoreo y Gobierno" vertex="1">
           <mxGeometry height="200" width="330" x="699" y="1398" as="geometry" />
         </mxCell>
-        <mxCell id="LxZ3gILCswlAHgUFl0Be-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Fuentes de Conocimiento - Repositorios" vertex="1">
-          <mxGeometry height="200" width="1039" x="20" y="1124" as="geometry" />
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" value="Fuentes de Conocimiento - Repositorios" vertex="1">
+          <mxGeometry height="256" width="1039" x="20" y="1124" as="geometry" />
         </mxCell>
         <mxCell id="LxZ3gILCswlAHgUFl0Be-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" value="IA Services - AI Builder / Azure OpenAI" vertex="1">
           <mxGeometry height="152" width="820" x="85" y="898" as="geometry" />
@@ -385,14 +385,14 @@
         <mxCell id="LxZ3gILCswlAHgUFl0Be-14" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Validation Model&#xa;Detección de Sesgos /&#xa;Filtro de Seguridad" vertex="1">
           <mxGeometry height="102" width="218" x="652" y="923" as="geometry" />
         </mxCell>
-        <mxCell id="LxZ3gILCswlAHgUFl0Be-15" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="SharePoint Online&#xa;(Docs Proyectos/Consultorías)" vertex="1">
-          <mxGeometry height="102" width="260" x="55" y="1173" as="geometry" />
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-15" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="SharePoint Online&#xa;(Docs Proyectos/Consultorías)" vertex="1">
+          <mxGeometry height="167" width="260" x="55" y="1173" as="geometry" />
         </mxCell>
-        <mxCell id="LxZ3gILCswlAHgUFl0Be-16" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Azure DevOps / ADS&#xa;(Wiki/Repos Técnicos)" vertex="1">
-          <mxGeometry height="78" width="219" x="365" y="1185" as="geometry" />
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-16" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="Azure DevOps / ADS&#xa;(Wiki/Repos Técnicos)" vertex="1">
+          <mxGeometry height="170" width="219" x="365" y="1170" as="geometry" />
         </mxCell>
-        <mxCell id="LxZ3gILCswlAHgUFl0Be-17" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Dataverse&#xa;(State Machine / Fuente de Verdad:&#xa;Logs y Historial de Conversación)" vertex="1">
-          <mxGeometry height="150" width="260" x="734" y="1149" as="geometry" />
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-17" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="Dataverse&#xa;(State Machine / Fuente de Verdad:&#xa;Logs y Historial de Conversación)" vertex="1">
+          <mxGeometry height="191" width="260" x="734" y="1149" as="geometry" />
         </mxCell>
         <mxCell id="LxZ3gILCswlAHgUFl0Be-18" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Consola Admin (Power Apps)&#xa;Monitoreo de Costos Transaccionales&#xa;y Telemetría" vertex="1">
           <mxGeometry height="150" width="260" x="734" y="1423" as="geometry" />

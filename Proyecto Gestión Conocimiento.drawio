@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.1" pages="2">
   <diagram name="Page-1" id="IC_4wayHIkYUXnKGSXEM">
-    <mxGraphModel dx="4163" dy="1893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1665" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -331,6 +331,157 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5TqsF3QU8BIzF23r42gx-74" edge="1" parent="1" source="5TqsF3QU8BIzF23r42gx-38" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;" target="5TqsF3QU8BIzF23r42gx-8" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KGq79vuXr8FFLxtl5KY8" name="Page-2">
+    <mxGraphModel dx="1426" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Monitoreo y Gobierno" vertex="1">
+          <mxGeometry height="200" width="330" x="699" y="1398" as="geometry" />
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Fuentes de Conocimiento - Repositorios" vertex="1">
+          <mxGeometry height="200" width="1039" x="20" y="1124" as="geometry" />
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" value="IA Services - AI Builder / Azure OpenAI" vertex="1">
+          <mxGeometry height="152" width="820" x="85" y="898" as="geometry" />
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" value="Capa de Lógica y Acciones - Power Platform" vertex="1">
+          <mxGeometry height="152" width="1174" x="165" y="672" as="geometry" />
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-5" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" value="Orquestador de Agentes - Copilot Studio" vertex="1">
+          <mxGeometry height="200" width="669" x="215" y="398" as="geometry" />
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-6" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Canal de Interacción - M365 Tenant Compensar" vertex="1">
+          <mxGeometry height="304" width="330" x="222" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-7" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Piloto: 5 Usuarios de Tecnología&#xa;(Cuenta: Entra ID / M365)" vertex="1">
+          <mxGeometry height="102" width="260" x="257" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Microsoft Teams App&#xa;(Canal Desplegado)" vertex="1">
+          <mxGeometry height="78" width="206" x="284" y="221" as="geometry" />
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-9" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Agente Maestro: &#xa;Licencia: GESTIONCONOCIMIENTO&#xa;(Manejo de Intenciones y RAG)" vertex="1">
+          <mxGeometry height="150" width="260" x="257" y="423" as="geometry" />
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-10" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Agent Flow 1: Búsqueda IT&#xa;(Power Automate)" vertex="1">
+          <mxGeometry height="78" width="259" x="200" y="709" as="geometry" />
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-11" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Agent Flow 2: Validación/Sync&#xa;(Power Automate)" vertex="1">
+          <mxGeometry height="102" width="260" x="734" y="697" as="geometry" />
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-12" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Agent Flow 3: Consultas Externas&#xa;(Futuro: APIs)" vertex="1">
+          <mxGeometry height="102" width="260" x="1044" y="697" as="geometry" />
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-13" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="AI Prompt (GPT-4o)&#xa;Extracción de Documentos&#xa;y Resumen Contextual" vertex="1">
+          <mxGeometry height="102" width="250" x="205" y="923" as="geometry" />
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-14" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Validation Model&#xa;Detección de Sesgos /&#xa;Filtro de Seguridad" vertex="1">
+          <mxGeometry height="102" width="218" x="652" y="923" as="geometry" />
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-15" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="SharePoint Online&#xa;(Docs Proyectos/Consultorías)" vertex="1">
+          <mxGeometry height="102" width="260" x="55" y="1173" as="geometry" />
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-16" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Azure DevOps / ADS&#xa;(Wiki/Repos Técnicos)" vertex="1">
+          <mxGeometry height="78" width="219" x="365" y="1185" as="geometry" />
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-17" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Dataverse&#xa;(State Machine / Fuente de Verdad:&#xa;Logs y Historial de Conversación)" vertex="1">
+          <mxGeometry height="150" width="260" x="734" y="1149" as="geometry" />
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-18" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Consola Admin (Power Apps)&#xa;Monitoreo de Costos Transaccionales&#xa;y Telemetría" vertex="1">
+          <mxGeometry height="150" width="260" x="734" y="1423" as="geometry" />
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-19" edge="1" parent="1" source="LxZ3gILCswlAHgUFl0Be-7" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="LxZ3gILCswlAHgUFl0Be-8" value="Consulta Natural">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-20" edge="1" parent="1" source="LxZ3gILCswlAHgUFl0Be-8" style="curved=1;startArrow=none;endArrow=block;exitX=0.37;exitY=1;entryX=0.37;entryY=0;rounded=0;" target="LxZ3gILCswlAHgUFl0Be-9" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="342" y="324" />
+              <mxPoint x="342" y="398" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-21" edge="1" parent="1" source="LxZ3gILCswlAHgUFl0Be-9" style="curved=1;startArrow=none;endArrow=block;exitX=0.17;exitY=1;entryX=0.39;entryY=0;rounded=0;" target="LxZ3gILCswlAHgUFl0Be-10" value="1. Action: Search">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="273" y="598" />
+              <mxPoint x="273" y="672" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-22" edge="1" parent="1" source="LxZ3gILCswlAHgUFl0Be-10" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="LxZ3gILCswlAHgUFl0Be-13" value="Extracción">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-23" edge="1" parent="1" source="LxZ3gILCswlAHgUFl0Be-13" style="curved=1;startArrow=none;endArrow=block;exitX=0.11;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="LxZ3gILCswlAHgUFl0Be-15" value="Grounding">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="185" y="1050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-24" edge="1" parent="1" source="LxZ3gILCswlAHgUFl0Be-13" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="LxZ3gILCswlAHgUFl0Be-16" value="Grounding">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="474" y="1050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-25" edge="1" parent="1" source="LxZ3gILCswlAHgUFl0Be-9" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.68;entryX=0.5;entryY=0;rounded=0;" target="LxZ3gILCswlAHgUFl0Be-11" value="2. Action: Validate">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="864" y="598" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-26" edge="1" parent="1" source="LxZ3gILCswlAHgUFl0Be-11" style="curved=1;startArrow=none;endArrow=block;exitX=0.23;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="LxZ3gILCswlAHgUFl0Be-14" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="761" y="824" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-27" edge="1" parent="1" source="LxZ3gILCswlAHgUFl0Be-14" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.2;entryY=0;rounded=0;" target="LxZ3gILCswlAHgUFl0Be-17" value="Store State">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="761" y="1124" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-28" edge="1" parent="1" source="LxZ3gILCswlAHgUFl0Be-10" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=0;entryX=0.5;entryY=1;rounded=0;" target="LxZ3gILCswlAHgUFl0Be-9" value="Response">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="387" y="672" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-29" edge="1" parent="1" source="LxZ3gILCswlAHgUFl0Be-9" style="curved=1;startArrow=none;endArrow=block;exitX=0.79;exitY=0;entryX=0.79;entryY=1;rounded=0;" target="LxZ3gILCswlAHgUFl0Be-8" value="Response Analítica">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="487" y="398" />
+              <mxPoint x="487" y="324" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-30" edge="1" parent="1" source="LxZ3gILCswlAHgUFl0Be-11" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=1;entryX=0.8;entryY=0;rounded=0;" target="LxZ3gILCswlAHgUFl0Be-17" value="Import Logs">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="967" y="824" />
+              <mxPoint x="967" y="1124" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-31" edge="1" parent="1" source="LxZ3gILCswlAHgUFl0Be-17" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="LxZ3gILCswlAHgUFl0Be-18" value="Data Feed">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>

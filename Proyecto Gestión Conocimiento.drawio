@@ -364,7 +364,7 @@
         <mxCell id="LxZ3gILCswlAHgUFl0Be-7" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Piloto: 5 Usuarios de Tecnología&#xa;(Cuenta: Entra ID / M365)" vertex="1">
           <mxGeometry height="102" width="260" x="257" y="45" as="geometry" />
         </mxCell>
-        <mxCell id="LxZ3gILCswlAHgUFl0Be-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Microsoft Teams App&#xa;(Canal Desplegado)" vertex="1">
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Microsoft Teams App&#xa;" vertex="1">
           <mxGeometry height="78" width="206" x="284" y="221" as="geometry" />
         </mxCell>
         <mxCell id="LxZ3gILCswlAHgUFl0Be-9" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Agente Maestro: &#xa;Licencia: GESTIONCONOCIMIENTO&#xa;(Manejo de Intenciones y RAG)" vertex="1">
@@ -503,6 +503,9 @@
         </mxCell>
         <mxCell id="LxZ3gILCswlAHgUFl0Be-37" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/8422/8422137.png?semt=ais_white_label;" value="" vertex="1">
           <mxGeometry height="50.75" width="50.75" x="838.62" y="1214.6200000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="LxZ3gILCswlAHgUFl0Be-38" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/906/906349.png?semt=ais_white_label;" value="" vertex="1">
+          <mxGeometry height="29" width="29" x="290" y="226" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

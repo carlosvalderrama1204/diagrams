@@ -6783,7 +6783,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YC5mr36T1rf00PrPBtZC" name="Page-20">
-    <mxGraphModel dx="2284" dy="791" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2284" dy="825" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6826,7 +6826,7 @@
         <mxCell id="rja0MypOhP6GQQQRE0J5-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="ITBID" vertex="1">
           <mxGeometry height="60" width="120" x="260" y="1849" as="geometry" />
         </mxCell>
-        <mxCell id="rja0MypOhP6GQQQRE0J5-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="API Gateway/Interop" vertex="1">
+        <mxCell id="rja0MypOhP6GQQQRE0J5-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="API Gateway/Interop&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;AWS&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="480" y="1849" as="geometry" />
         </mxCell>
         <mxCell id="rja0MypOhP6GQQQRE0J5-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="SAP ERP" vertex="1">
@@ -7362,8 +7362,8 @@
         <mxCell id="5zGS9Tw05pNO6PynPj-_-5" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=1" value="2. API recepción notificación Registro Info" vertex="1">
           <mxGeometry height="26" width="240" x="78" y="1596" as="geometry" />
         </mxCell>
-        <mxCell id="5zGS9Tw05pNO6PynPj-_-6" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" value="&amp;nbsp; 9. API Notificar Cambios Registro Info (Precio + condiciones de Precio)" vertex="1">
-          <mxGeometry height="26" width="403" x="771" y="1549" as="geometry" />
+        <mxCell id="5zGS9Tw05pNO6PynPj-_-6" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" value="&amp;nbsp; 9. API Crear material o servicio Cambios Registro Info (Precio + condiciones de Precio)" vertex="1">
+          <mxGeometry height="26" width="489" x="771" y="1549" as="geometry" />
         </mxCell>
         <mxCell id="5zGS9Tw05pNO6PynPj-_-7" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" value="4. API Notificar cambios proveedor" vertex="1">
           <mxGeometry height="26" width="203" x="777" y="747" as="geometry" />
@@ -7380,8 +7380,8 @@
         <mxCell id="twX6ffXmCi8bkh2kQTjW-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="PCC" vertex="1">
           <mxGeometry height="41" width="84" x="390" y="1549" as="geometry" />
         </mxCell>
-        <mxCell id="twX6ffXmCi8bkh2kQTjW-5" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" value="10. API Notificar Cambios Servicios" vertex="1">
-          <mxGeometry height="26" width="207" x="771" y="1588" as="geometry" />
+        <mxCell id="twX6ffXmCi8bkh2kQTjW-5" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" value="10. API Actualizar material o servicio&amp;nbsp;" vertex="1">
+          <mxGeometry height="26" width="215" x="773" y="1588" as="geometry" />
         </mxCell>
         <mxCell id="twX6ffXmCi8bkh2kQTjW-6" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" value="&amp;nbsp; &amp;nbsp; 8. API Actualizar Servicio&amp;nbsp;&amp;nbsp;(Descripción + Proveedor + Condiciones)" vertex="1">
           <mxGeometry height="26" width="391" x="768" y="1310" as="geometry" />
@@ -7429,6 +7429,11 @@
         <mxCell id="2IwLa0XtwuYH8fi0v3bC-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;Prod:&amp;nbsp;&lt;/b&gt;Febrero 19&lt;div&gt;&lt;b&gt;QA: &lt;/b&gt;Febrero 9&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Inicio Dev: &lt;/b&gt;Enero 26&lt;/div&gt;" vertex="1">
           <mxGeometry height="55" width="131" x="1499" y="1174" as="geometry" />
         </mxCell>
+        <UserObject label="&lt;span data-teams=&quot;true&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a aria-label=&quot;Vínculo https://apired.interop.pruaws.compensar.co/crearTarifas&quot; id=&quot;menur1nlu&quot; href=&quot;https://apired.interop.pruaws.compensar.co/crearTarifas&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot; class=&quot;fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn&quot; title=&quot;https://apired.interop.pruaws.compensar.co/creartarifas&quot;&gt;&lt;span style=&quot;color: rgb(30, 83, 163);&quot;&gt;&lt;u&gt;https://apired.interop.pruaws.compensar.co/&lt;br&gt;crearTarifas&lt;/u&gt;&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/span&gt;" link="&lt;span data-teams=&quot;true&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;a aria-label=&quot;Vínculo https://apired.interop.pruaws.compensar.co/crearTarifas&quot; id=&quot;menur1nlu&quot; href=&quot;https://apired.interop.pruaws.compensar.co/crearTarifas&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot; class=&quot;fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn&quot; title=&quot;https://apired.interop.pruaws.compensar.co/creartarifas&quot;&gt;&lt;span style=&quot;color: rgb(30, 83, 163);&quot;&gt;&lt;u&gt;https://apired.interop.pruaws.compensar.co/crearTarifas&lt;/u&gt;&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/span&gt;" id="2IwLa0XtwuYH8fi0v3bC-13">
+          <mxCell parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="42" width="329" x="540" y="1604" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>

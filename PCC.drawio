@@ -6783,7 +6783,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YC5mr36T1rf00PrPBtZC" name="Page-20">
-    <mxGraphModel dx="2284" dy="825" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2284" dy="791" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8089,6 +8089,9 @@
         </mxCell>
         <mxCell id="6_VKlpZzW-my3vk7skYr-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=1" value="1. Creación SOLPED" vertex="1">
           <mxGeometry height="30" width="140" x="-235" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="6_VKlpZzW-my3vk7skYr-2" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontStyle=1" value="1. API Crear SOLPED" vertex="1">
+          <mxGeometry height="30" width="140" x="360" y="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -7434,6 +7434,12 @@
             <mxGeometry height="42" width="329" x="540" y="1604" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="uzVUj0OQ93se6eg-LIud-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Crear" vertex="1">
+          <mxGeometry height="25" width="120" x="188" y="1517" as="geometry" />
+        </mxCell>
+        <mxCell id="uzVUj0OQ93se6eg-LIud-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Modificar" vertex="1">
+          <mxGeometry height="25" width="120" x="188" y="1555" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

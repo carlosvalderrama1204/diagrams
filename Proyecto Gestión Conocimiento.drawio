@@ -527,11 +527,451 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="rPtMF-jN4cZd2-QAWvAK" name="Page-4">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="2iOQqcu-tDorUt-Q2nGJ" name="Page-5">
+    <mxGraphModel dx="1489" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oigafqF9CkKBBCuChF_p-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½íº€ CAPA 11: INTEGRACIONES FUTURAS (FASE 2+)" vertex="1">
+          <mxGeometry height="810" width="563" x="790" y="639" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í³ˆ CAPA 10: MONITOREO Y OPERACIONES" vertex="1">
+          <mxGeometry height="680" width="3868" x="20" y="4526" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í±¨â€í ½í²¼ CAPA 9: CONSOLA ADMINISTRATIVA" vertex="1">
+          <mxGeometry height="1264" width="1188" x="3314" y="5280" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="âš–ï¸ CAPA 8: GOBERNANZA Y SEGURIDAD" vertex="1">
+          <mxGeometry height="1138" width="994" x="3186" y="3314" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-5" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í³ CAPA 7: FUENTES DE DATOS SEGREGADAS" vertex="1">
+          <mxGeometry height="2560" width="1946" x="243" y="1892" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-6" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í³‹ AZURE DEVOPS - DOMINIO SALUD" vertex="1">
+          <mxGeometry height="368" width="612" x="887" y="1917" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-7" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ¼í¿¥ SHAREPOINT - DOMINIO SALUD" vertex="1">
+          <mxGeometry height="1088" width="632" x="263" y="3339" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="í ½í³‹ AZURE DEVOPS - DOMINIO CAJA" vertex="1">
+          <mxGeometry height="1088" width="594" x="916" y="3339" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-9" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="í ¼í¿¦ SHAREPOINT - DOMINIO CAJA" vertex="1">
+          <mxGeometry height="1088" width="640" x="1529" y="3339" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-10" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í´— CAPA 6: LAYER DE CONECTORES" vertex="1">
+          <mxGeometry height="512" width="916" x="2743" y="2728" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-11" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ¾í´– CAPA 5: NÃšCLEO IA Y ORQUESTACIÃ“N" vertex="1">
+          <mxGeometry height="1131" width="1816" x="2232" y="1523" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-12" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="í ½í²¬ CAPA 4: CANAL DE ACCESO" vertex="1">
+          <mxGeometry height="272" width="2747" x="903" y="293" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-13" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="í ½í´ CAPA 3: AUTENTICACIÃ“N Y ACCESS CONTROL" vertex="1">
+          <mxGeometry height="344" width="1057" x="2632" y="1105" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-14" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" value="CAPA 2: AZURE ENTRA IDÂ " vertex="1">
+          <mxGeometry height="392" width="954" x="2624" y="639" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-15" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" value="CAPA 1: USUARIOS - SegregaciÃ³n por Dominio" vertex="1">
+          <mxGeometry height="1011" width="659" x="3912" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-16" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Grupo: CAJA&#xa;Arquitectos Caja&#xa;Lideres de desarrollo" vertex="1">
+          <mxGeometry height="174" width="250" x="4107" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-17" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Grupo: SALUD&#xa;Arquitectos Salud&#xa;Lideres de desarrollo" vertex="1">
+          <mxGeometry height="174" width="260" x="3981" y="748" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-18" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Grupo: Administradores" vertex="1">
+          <mxGeometry height="150" width="245" x="4291" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-19" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í³‹ Entra ID Dominio CAJA&#xa;---&#xa;Tenant: compensar.com&#xa;Grupo: CAJA-TechUsers&#xa;" vertex="1">
+          <mxGeometry height="270" width="262" x="3281" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-20" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í³‹ Entra ID Dominio SALUD&#xa;---&#xa;Tenant: compensarsalud.com&#xa;Grupo: SALUD-TechUsers&#xa;" vertex="1">
+          <mxGeometry height="270" width="262" x="2659" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-22" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í´„ OBO Flow - CAJA&#xa;(On-Behalf-Of)&#xa;---&#xa;Token preserva:&#xa;- user@caja.compensar&#xa;- Grupo: CAJA-TechUsers&#xa;- Domain: CAJA" vertex="1">
+          <mxGeometry height="198" width="238" x="3138" y="1178" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-23" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í´„ OBO Flow - SALUD&#xa;(On-Behalf-Of)&#xa;---&#xa;Token preserva:&#xa;- user@salud.compensar&#xa;- Grupo: SALUD-TechUsers&#xa;- Domain: SALUD" vertex="1">
+          <mxGeometry height="198" width="247" x="2667" y="1178" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-24" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í´‘ PAT Manager&#xa;(Personal Access Token)&#xa;---&#xa;Almacena:&#xa;- ADO-CAJA-PAT&#xa;- ADO-SALUD-PAT&#xa;- SP-CAJA-PAT&#xa;RenovaciÃ³n: 90 dÃ­as" vertex="1">
+          <mxGeometry height="222" width="229" x="3425" y="1166" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-25" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Microsoft Teams&#xa;---&#xa;Canales:&#xa;caja&#xa;-salud&#xa;---&#xa;Bot instalado:&#xa;Copilot Studio App" vertex="1">
+          <mxGeometry height="222" width="192" x="2798" y="318" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-26" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Copilot Extensions&#xa;---&#xa;- Action Plugin&#xa;- Message Extension&#xa;- Adaptive Card Handler" vertex="1">
+          <mxGeometry height="150" width="232" x="3383" y="354" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-27" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Microsoft Copilot Studio&#xa;(GESTIONCONOCIMIENTO)&#xa;---&#xa;Licencia: Power Virtual Agents&#xa;Componentes:&#xa;- Topic Dispatcher&#xa;- RAG Orchestrator&#xa;- Context Manager&#xa;- Response Formatter" vertex="1">
+          <mxGeometry height="270" width="260" x="2660" y="1548" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-28" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ¼í¾¯ Grounding RAG Engine&#xa;---&#xa;Proceso:&#xa;1. Parse query + Extract domain&#xa;2. Security trimming check&#xa;3. Select sources (SP/ADO)&#xa;4. Retrieve docs + Wikis&#xa;5. LLM synthesis&#xa;6. Format response" vertex="1">
+          <mxGeometry height="270" width="260" x="2778" y="2359" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-29" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í³š Topics Definidos&#xa;(5 especialidades)&#xa;---&#xa;1. ConsultorÃ­as&#xa;2. Ciclo de Vida Soluciones&#xa;3. Control Actualizaciones&#xa;4. Knowledge Transfer&#xa;5. Onboarding CapacitaciÃ³n&#xa;---&#xa;Each topic: 5-10 sub-topics" vertex="1">
+          <mxGeometry height="318" width="260" x="3080" y="1942" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-30" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="âš™ï¸ Topics Config Store&#xa;(Dataverse)&#xa;---&#xa;- Topic metadata&#xa;- Keyword triggers&#xa;- Source mappings&#xa;- Output templates" vertex="1">
+          <mxGeometry height="198" width="223" x="2307" y="2002" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-31" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í³„ Conector SharePoint&#xa;(NATIVO)&#xa;---&#xa;MÃ©todo: OBO Flow&#xa;Endpoints:&#xa;- /sites/caja&#xa;- /sites/salud&#xa;---&#xa;Documentos:&#xa;- Word (.docx)&#xa;- PDF (.pdf)&#xa;- Excel (.xlsx)&#xa;- PowerPoint (.pptx)&#xa;---&#xa;Latencia: 1-2s&#xa;Max docs/query: 50" vertex="1">
+          <mxGeometry height="414" width="229" x="3088" y="2777" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-32" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í´€ Conector ADO (HTTP REST)&#xa;---&#xa;MÃ©todo: PAT + API Calls&#xa;Endpoints:&#xa;- /dev.azure.com/compensar&#xa;- /_apis/git&#xa;- /_apis/wiki&#xa;---&#xa;Recursos:&#xa;- Wiki pages (.md)&#xa;- Release notes&#xa;- Repo docs&#xa;---&#xa;Latencia: 2-5s&#xa;Rate limit: 1800 req/min&#xa;API v7.1" vertex="1">
+          <mxGeometry height="462" width="260" x="2778" y="2753" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-33" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="âš™ï¸ Fallback Logic&#xa;---&#xa;Trigger: Si RAG &amp;gt; 2 intentos&#xa;Actions:&#xa;1. Simple keyword search&#xa;2. Elasticsearch fallback&#xa;3. Return top 5 docs&#xa;4. Suggest refinement" vertex="1">
+          <mxGeometry height="222" width="256" x="3367" y="2873" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-34" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í³„ Documentos CAJA&#xa;---&#xa;UbicaciÃ³n:&#xa;compensar.sharepoint.com&#xa;/sites/TecnologiaCaja&#xa;---&#xa;Carpetas:&#xa;- Arquitectura/&#xa;  - Diagramas (descritos en texto)&#xa;  - EstÃ¡ndares&#xa;- Ciclo_Vida/&#xa;  - Fases&#xa;  - Check_lists&#xa;- Lecciones_Aprendidas/&#xa;  - Proyectos&#xa;  - Retrospectivas&#xa;- Procesos/" vertex="1">
+          <mxGeometry height="462" width="260" x="1564" y="3652" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-35" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ¼í¿·ï¸ Metadata CAJA&#xa;---&#xa;Campos indexados:&#xa;- Department: CAJA&#xa;- Last_Updated: [date]&#xa;- Author: [user@caja]&#xa;- Classification: Public/Internal&#xa;- VersiÃ³n: [v1.0]&#xa;- Tags: [keyword1, keyword2]" vertex="1">
+          <mxGeometry height="294" width="260" x="1874" y="3736" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-36" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í³– ADO Wikis CAJA&#xa;---&#xa;Proyecto: Caja-Tech&#xa;Repositorio: git/caja&#xa;---&#xa;Contenido:&#xa;- Project wikis (.md)&#xa;- Technical docs&#xa;- API documentation&#xa;- Release notes&#xa;- Sprint retrospectives" vertex="1">
+          <mxGeometry height="294" width="220" x="951" y="3736" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-37" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="âš™ï¸ ADO Config CAJA&#xa;---&#xa;Repo Access:&#xa;- Branch: main&#xa;- Protected: âœ…&#xa;- CI/CD: GitHub Actions&#xa;---&#xa;Webhooks:&#xa;- On commit: Index update" vertex="1">
+          <mxGeometry height="246" width="253" x="1221" y="3760" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-38" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í³„ Documentos SALUD&#xa;---&#xa;UbicaciÃ³n:&#xa;compensar.sharepoint.com&#xa;/sites/TecnologiaSalud&#xa;---&#xa;Carpetas:&#xa;- Protocolos_Clinicos/&#xa;  - Procedimientos&#xa;  - Integraciones&#xa;- Procesos_Tecnicos/&#xa;  - Workflows&#xa;  - DocumentaciÃ³n&#xa;- Regulaciones/&#xa;  - HIPAA compliance&#xa;  - ISO 27001&#xa;- Cambios_Aprobados/" vertex="1">
+          <mxGeometry height="438" width="252" x="298" y="3664" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-39" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ¼í¿·ï¸ Metadata SALUD&#xa;---&#xa;Campos indexados:&#xa;- Department: SALUD&#xa;- Last_Updated: [date]&#xa;- Author: [user@salud]&#xa;- Classification: Confidential&#xa;- VersiÃ³n: [v1.0]&#xa;- Compliance: [HIPAA/ISO]" vertex="1">
+          <mxGeometry height="270" width="260" x="601" y="3748" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-40" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í³– ADO Wikis SALUD&#xa;---&#xa;Proyecto: Salud-Tech&#xa;Repositorio: git/salud&#xa;---&#xa;Contenido:&#xa;- Clinical workflows&#xa;- Integration docs&#xa;- Compliance procedures&#xa;- Security audits&#xa;- Change logs" vertex="1">
+          <mxGeometry height="294" width="238" x="922" y="1954" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-41" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="âš™ï¸ ADO Config SALUD&#xa;---&#xa;Repo Access:&#xa;- Branch: main&#xa;- Protected: âœ…&#xa;- CI/CD: GitHub Actions&#xa;---&#xa;Webhooks:&#xa;- On commit: Index update" vertex="1">
+          <mxGeometry height="246" width="253" x="1211" y="1978" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-42" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í´‘ Azure Key Vault&#xa;(Secrets Management)&#xa;---&#xa;Secretos:&#xa;- ado-caja-pat&#xa;- ado-salud-pat&#xa;- sp-caja-token&#xa;- sp-salud-token&#xa;- encryption-key&#xa;---&#xa;Access:&#xa;- MSI (Copilot Studio)&#xa;- RotaciÃ³n: 90 dÃ­as" vertex="1">
+          <mxGeometry height="342" width="219" x="3244" y="3712" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-43" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í·„ï¸ Dataverse&#xa;(AuditorÃ­a + Reportes)&#xa;---&#xa;Tablas Principales:&#xa;&#xa;1. Query_Logs&#xa;  - QueryID (UUID)&#xa;  - UserID (email)&#xa;  - Domain (CAJA/SALUD)&#xa;  - Timestamp (UTC)&#xa;  - QueryHash (SHA256)&#xa;  - TokensConsumed (int)&#xa;  - ExecutionTime (ms)&#xa;  - SourcesQueried (list)&#xa;  - ResponseQuality (1-5)&#xa;  - Cost (COP)&#xa;  - Status (Success/Error)&#xa;&#xa;2. User_Access&#xa;  - UserID&#xa;  - Domain&#xa;  - LastLogin&#xa;  - AccessLevel&#xa;  - MFAEnabled&#xa;  - LocationIP&#xa;&#xa;3. Budget_Tracking&#xa;  - Month (YYYY-MM)&#xa;  - DomainCaja (COP)&#xa;  - DomainSalud (COP)&#xa;  - TotalSpend (COP)&#xa;  - BudgetLimit (30M)&#xa;  - PercentageUsed (%)&#xa;  - AlertThreshold (70%)&#xa;&#xa;4. Error_Log&#xa;  - ErrorID&#xa;  - ErrorCode&#xa;  - ErrorMessage&#xa;  - StackTrace&#xa;  - Timestamp&#xa;  - Resolution" vertex="1">
+          <mxGeometry height="1038" width="231" x="3563" y="3364" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-44" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í´’ Security Trimming Layer&#xa;(Dataverse)&#xa;---&#xa;Tabla: User_Permissions&#xa;- UserID&#xa;- AssignedDomain (CAJA/SALUD)&#xa;- CanAccessDocuments (bool)&#xa;- CanAccessWikis (bool)&#xa;- CanDownloadReports (bool)&#xa;- CreatedDate&#xa;- LastModified&#xa;- ModifiedBy&#xa;---&#xa;ValidaciÃ³n:&#xa;Cada query chequea:&#xa;UserDomain == ResourceDomain" vertex="1">
+          <mxGeometry height="510" width="260" x="3843" y="3628" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-45" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="âš™ï¸ Power Apps Admin Portal&#xa;(SOLO Grupo MATIAS-Admins)&#xa;---&#xa;Acceso: luis.valderrama@&#xa;           john.moreno@&#xa;           lady.sastre@&#xa;---&#xa;Funciones:&#xa;1. Dashboard Real-time&#xa;   - Budget consumption (30M)&#xa;   - Active users&#xa;   - Error rate&#xa;   - Latency metrics&#xa;&#xa;2. User Management&#xa;   - Add/Remove users&#xa;   - Assign domains&#xa;   - View access logs&#xa;&#xa;3. Reports&#xa;   - Monthly cost report&#xa;   - Usage by user&#xa;   - Top queries&#xa;   - Error analysis" vertex="1">
+          <mxGeometry height="678" width="260" x="3788" y="5305" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-46" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í³Š Reportes y ExportaciÃ³n&#xa;---&#xa;Formatos soportados:&#xa;- Excel (.xlsx)&#xa;- PDF (.pdf)&#xa;- Power BI embed&#xa;---&#xa;MÃ©todo descarga:&#xa;1. Power Apps â†’ Export&#xa;2. Power Automate â†’ Email&#xa;3. Dataverse â†’ REST API&#xa;4. Power BI â†’ Dashboard&#xa;---&#xa;Frequency:&#xa;- Daily: Budget alert&#xa;- Weekly: Usage report&#xa;- Monthly: Full audit" vertex="1">
+          <mxGeometry height="462" width="260" x="3788" y="6057" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-47" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í»¡ï¸ DLP &amp;amp; Data Protection&#xa;(SharePoint)&#xa;---&#xa;Rules:&#xa;1. No secrets/passwords&#xa;2. No credit cards&#xa;3. No PII data&#xa;4. No API keys&#xa;---&#xa;Action:&#xa;- Scan on upload&#xa;- Block if detected&#xa;- Alert admin" vertex="1">
+          <mxGeometry height="342" width="242" x="4225" y="6117" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-48" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ¼í¿¥ BMC/CMDB&#xa;(CI: GESTIONCONOCIMIENTO)&#xa;---&#xa;Configuration Item:&#xa;- CI Code: GESTIONCONOCIMIENTO&#xa;- Type: Intelligent Agent&#xa;- Status: Active&#xa;- Owner: Arqui (Luis Carlos)&#xa;- Support Team: TI&#xa;---&#xa;Relations:&#xa;- Depends on: Copilot Studio&#xa;- Depends on: SharePoint&#xa;- Depends on: ADO&#xa;- Depends on: Entra ID&#xa;- Provides: Knowledge access&#xa;---&#xa;Attributes:&#xa;- SLA: 99.5% uptime&#xa;- RTD: 24h&#xa;- Cost: 30M COP/year" vertex="1">
+          <mxGeometry height="630" width="260" x="55" y="4551" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-49" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í´” Alert &amp;amp; Monitoring&#xa;(Power Automate)&#xa;---&#xa;Triggers:&#xa;1. Budget &amp;gt; 70%&#xa;   â†’ Email: John + Lady&#xa;   â†’ Slack: #alerts&#xa;   â†’ Severity: HIGH&#xa;&#xa;2. Latency &amp;gt; 5s (P95)&#xa;   â†’ Email: John (Tech Lead)&#xa;   â†’ Severity: MEDIUM&#xa;&#xa;3. Error Rate &amp;gt; 5%&#xa;   â†’ Escalate: Readymind&#xa;   â†’ Severity: MEDIUM&#xa;&#xa;4. Access Denied&#xa;   â†’ Log: Dataverse&#xa;   â†’ Alert: Security team&#xa;   â†’ Severity: LOW&#xa;&#xa;5. Capacity Alert&#xa;   â†’ Check token usage&#xa;   â†’ Notify Gerencia Tech" vertex="1">
+          <mxGeometry height="630" width="253" x="3290" y="4551" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-50" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í³‹ DAS Gate &amp;amp; Change Mgmt&#xa;(Change Advisory Board)&#xa;---&#xa;Documento: DAS v1.0&#xa;Status: âœ… APROBADO&#xa;Review Cycle: Quarterly&#xa;---&#xa;Changes require:&#xa;- DAS update&#xa;- CAB approval&#xa;- Security review&#xa;- Testing phase" vertex="1">
+          <mxGeometry height="342" width="260" x="3593" y="4695" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-51" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ¾í´– Orchestrator Bot&#xa;(Sistema Multiagente)&#xa;---&#xa;Bots:&#xa;- Bot Tech (actual)&#xa;- Bot HR (roadmap)&#xa;- Bot Finance (roadmap)&#xa;- Bot Legal (roadmap)&#xa;---&#xa;Routing:&#xa;- Intent detection&#xa;- Domain routing&#xa;- Fallback handling" vertex="1">
+          <mxGeometry height="342" width="234" x="825" y="664" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-52" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í´€ Otras Integraciones&#xa;---&#xa;Potenciales:&#xa;- Hopex (API )&#xa;- Daruma (API)&#xa;- Portal Web&#xa;- Intranet&#xa;- CRM sistemas" vertex="1">
+          <mxGeometry height="222" width="226" x="829" y="1166" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-53" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í³ˆ MasificaciÃ³n&#xa;---&#xa;Fases:&#xa;- Fase 1: 5 users&#xa;- Fase 2: 50 users&#xa;- Fase 3: 200+ users&#xa;---&#xa;Requiere:&#xa;- New Business Case&#xa;- Incremento Budget&#xa;- RevisiÃ³n Arquitectura" vertex="1">
+          <mxGeometry height="294" width="213" x="1106" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-54" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-16" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=1;entryX=1;entryY=0.46;rounded=0;" target="oigafqF9CkKBBCuChF_p-25" value="Request (Teams)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4310" y="256" />
+              <mxPoint x="4310" y="293" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-55" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-17" style="curved=1;startArrow=none;endArrow=block;exitX=0.37;exitY=0;entryX=1;entryY=0.61;rounded=0;" target="oigafqF9CkKBBCuChF_p-25" value="Request (Teams)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4034" y="639" />
+              <mxPoint x="4034" y="602" />
+              <mxPoint x="3432" y="565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-56" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-18" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.36;rounded=0;" target="oigafqF9CkKBBCuChF_p-45" value="Admin Console">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4413" y="5280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-57" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-25" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.61;entryX=0.5;entryY=0;rounded=0;" target="oigafqF9CkKBBCuChF_p-19" value="Identity Token">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3412" y="565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-58" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-25" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="oigafqF9CkKBBCuChF_p-20" value="Identity Token">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2790" y="565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-59" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-19" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.87;entryY=0;rounded=0;" target="oigafqF9CkKBBCuChF_p-22" value="Validates + OBO">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3412" y="1105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-60" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-20" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="oigafqF9CkKBBCuChF_p-23" value="Validates + OBO">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-62" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-22" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.33;rounded=0;" target="oigafqF9CkKBBCuChF_p-27" value="Domain Token">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3256" y="1523" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-63" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-23" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="oigafqF9CkKBBCuChF_p-27" value="Domain Token">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-64" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-27" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0.5;entryY=0;rounded=0;" target="oigafqF9CkKBBCuChF_p-29" value="Parse + Classify">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3210" y="1855" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-65" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-29" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.23;rounded=0;" target="oigafqF9CkKBBCuChF_p-28" value="Query intent">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3210" y="2322" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-66" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-28" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.57;entryX=0.6;entryY=0;rounded=0;" target="oigafqF9CkKBBCuChF_p-44" value="Security check">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4028" y="2654" />
+              <mxPoint x="4028" y="3339" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-67" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-44" style="curved=1;startArrow=none;endArrow=block;exitX=0.29;exitY=0;entryX=1;entryY=0.58;rounded=0;" target="oigafqF9CkKBBCuChF_p-28" value="Trim filter">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3854" y="3339" />
+              <mxPoint x="3854" y="2654" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-68" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-28" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.76;entryX=0.5;entryY=0;rounded=0;" target="oigafqF9CkKBBCuChF_p-31" value="Search SharePoint">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3202" y="2654" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-69" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-28" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="oigafqF9CkKBBCuChF_p-32" value="Search ADO">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-70" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-31" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.86;entryY=0;rounded=0;" target="oigafqF9CkKBBCuChF_p-34" value="OBO: Caja?">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3202" y="3240" />
+              <mxPoint x="1912" y="3277" />
+              <mxPoint x="1912" y="3339" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-71" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-31" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.69;entryX=0.86;entryY=0;rounded=0;" target="oigafqF9CkKBBCuChF_p-38" value="OBO: Salud?">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2825" y="3240" />
+              <mxPoint x="650" y="3277" />
+              <mxPoint x="650" y="3339" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-72" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-32" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.82;entryY=0;rounded=0;" target="oigafqF9CkKBBCuChF_p-36" value="PAT: Caja?">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2908" y="3240" />
+              <mxPoint x="1322" y="3277" />
+              <mxPoint x="1322" y="3339" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-73" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-32" style="curved=1;startArrow=none;endArrow=block;exitX=0.28;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="oigafqF9CkKBBCuChF_p-36" value="PAT: Salud?">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2845" y="3240" />
+              <mxPoint x="1061" y="3277" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-74" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-34" style="curved=1;startArrow=none;endArrow=block;exitX=0.4;exitY=0;entryX=0;entryY=0.67;rounded=0;" target="oigafqF9CkKBBCuChF_p-28" value="Docs + Metadata">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1632" y="3339" />
+              <mxPoint x="1632" y="2691" />
+              <mxPoint x="2462" y="2654" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-75" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-38" style="curved=1;startArrow=none;endArrow=block;exitX=0.42;exitY=0;entryX=0;entryY=0.66;rounded=0;" target="oigafqF9CkKBBCuChF_p-28" value="Docs + Metadata">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="373" y="3339" />
+              <mxPoint x="373" y="2691" />
+              <mxPoint x="2422" y="2654" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-76" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-36" style="curved=1;startArrow=none;endArrow=block;exitX=0.4;exitY=0;entryX=0;entryY=0.67;rounded=0;" target="oigafqF9CkKBBCuChF_p-28" value="Wikis + Content">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="979" y="3339" />
+              <mxPoint x="979" y="2691" />
+              <mxPoint x="2442" y="2654" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-77" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-40" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.46;rounded=0;" target="oigafqF9CkKBBCuChF_p-28" value="Wikis + Content">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1042" y="2322" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-78" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-28" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=0;entryX=0.53;entryY=1;rounded=0;" target="oigafqF9CkKBBCuChF_p-27" value="LLM synthesis">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2801" y="2322" />
+              <mxPoint x="2801" y="1855" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-79" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-27" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.09;entryX=0;entryY=0.7;rounded=0;" target="oigafqF9CkKBBCuChF_p-25" value="Format response">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2604" y="1523" />
+              <mxPoint x="2604" y="565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-80" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-25" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.45;entryX=0.29;entryY=1;rounded=0;" target="oigafqF9CkKBBCuChF_p-16" value="User receives answer">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4156" y="293" />
+              <mxPoint x="4156" y="256" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-81" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-25" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.61;entryX=0.81;entryY=0;rounded=0;" target="oigafqF9CkKBBCuChF_p-17" value="User receives answer">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3452" y="565" />
+              <mxPoint x="4293" y="602" />
+              <mxPoint x="4293" y="639" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-82" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-31" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.77;entryX=0.66;entryY=0;rounded=0;" target="oigafqF9CkKBBCuChF_p-42" value="Get token">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3464" y="3240" />
+              <mxPoint x="3464" y="3339" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-83" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-32" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.68;entryX=0.44;entryY=0;rounded=0;" target="oigafqF9CkKBBCuChF_p-42" value="Get PAT">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3313" y="3240" />
+              <mxPoint x="3313" y="3339" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-84" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-27" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0;exitY=0.72;entryX=0.5;entryY=0;rounded=0;" target="oigafqF9CkKBBCuChF_p-30" value="Get config">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2418" y="1855" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-85" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-27" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.59;entryX=0.5;entryY=0;rounded=0;" target="oigafqF9CkKBBCuChF_p-43" value="Log query">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3678" y="1855" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-86" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-43" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.58;entryY=0;rounded=0;" target="oigafqF9CkKBBCuChF_p-45" value="Cost calc">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3940" y="4427" />
+              <mxPoint x="3940" y="5280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-87" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-43" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=0;rounded=0;" target="oigafqF9CkKBBCuChF_p-49" value="Alert if &gt;70%">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3416" y="4427" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-88" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-45" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="oigafqF9CkKBBCuChF_p-46" value="View reports">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-89" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-27" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.5;entryY=0;rounded=0;" target="oigafqF9CkKBBCuChF_p-48" value="Register CI">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2272" y="1855" />
+              <mxPoint x="2272" y="2654" />
+              <mxPoint x="185" y="2691" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-90" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-49" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.36;rounded=0;" target="oigafqF9CkKBBCuChF_p-45" value="Trigger alerts">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3416" y="5280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-91" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-25" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0;exitY=0.53;entryX=0.5;entryY=0;rounded=0;" target="oigafqF9CkKBBCuChF_p-51" value="Fase 2: Multiagent">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="943" y="565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oigafqF9CkKBBCuChF_p-92" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-51" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="oigafqF9CkKBBCuChF_p-52" value="Route to bots">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

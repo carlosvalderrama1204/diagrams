@@ -6783,7 +6783,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YC5mr36T1rf00PrPBtZC" name="Page-20">
-    <mxGraphModel dx="2284" dy="791" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1826" dy="757" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8145,7 +8145,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="y-7IGFgVcUQ4Qq1zm-Uw-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;verticalAlign=top;" value="CAPA DE INTEROPERABILIDAD (AWS CLOUD)" vertex="1">
+        <mxCell id="y-7IGFgVcUQ4Qq1zm-Uw-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" value="CAPA DE INTEROPERABILIDAD (AWS CLOUD)" vertex="1">
           <mxGeometry height="470" width="1659" x="491" y="380" as="geometry" />
         </mxCell>
         <mxCell id="y-7IGFgVcUQ4Qq1zm-Uw-24" edge="1" parent="1" source="y-7IGFgVcUQ4Qq1zm-Uw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="y-7IGFgVcUQ4Qq1zm-Uw-13">

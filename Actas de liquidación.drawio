@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.7" pages="3">
   <diagram name="To-Be - Informes de Supervisión" id="uBQEXhK85_sFpyV3Rzyq">
-    <mxGraphModel dx="2226" dy="757" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2370" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,7 +80,7 @@
           <mxGeometry height="60" width="120" x="-490" y="130" as="geometry" />
         </mxCell>
         <mxCell id="ofeMEUULNupF0MGtestP-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Fuente de Datos" vertex="1">
-          <mxGeometry height="253" width="580" x="-190" y="647" as="geometry" />
+          <mxGeometry height="253" width="706" x="-190" y="647" as="geometry" />
         </mxCell>
         <mxCell id="ofeMEUULNupF0MGtestP-23" edge="1" parent="1" source="ofeMEUULNupF0MGtestP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ofeMEUULNupF0MGtestP-6">
           <mxGeometry relative="1" as="geometry">
@@ -152,6 +152,11 @@
         <mxCell id="ofeMEUULNupF0MGtestP-33" edge="1" parent="1" source="ofeMEUULNupF0MGtestP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ofeMEUULNupF0MGtestP-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9oCN0XS1OmV5vz756Ld_-3" edge="1" parent="1" source="ofeMEUULNupF0MGtestP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="106.66666666666697" y="2127.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ofeMEUULNupF0MGtestP-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Azure AI Doc Intelligence - Script Python&lt;/b&gt;:&lt;div&gt;Diligencia Plantilla PNA0075&lt;/div&gt;" vertex="1">
           <mxGeometry height="75" width="135" x="-132.5" y="2090" as="geometry" />
         </mxCell>
@@ -217,13 +222,19 @@
           <mxGeometry height="30" width="120" x="250" y="720" as="geometry" />
         </mxCell>
         <mxCell id="wsQ2eJy2WHscidemRzBL-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Segmentación: Se contemplo, pero se retiro" vertex="1">
-          <mxGeometry height="50" width="120" x="-370" y="740" as="geometry" />
+          <mxGeometry height="50" width="120" x="-136" y="657" as="geometry" />
         </mxCell>
         <mxCell id="wsQ2eJy2WHscidemRzBL-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="si se adopta modulo PCC reemplaza Comforce" vertex="1">
           <mxGeometry height="50" width="140" x="250" y="563" as="geometry" />
         </mxCell>
         <mxCell id="88qzPEaoxsV266SIKP4P-1" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Document_icons-2697/647702-excel-1195.svg" value="No Conformidades" vertex="1">
           <mxGeometry height="30" width="30" x="79" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="9oCN0XS1OmV5vz756Ld_-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Supervisores" vertex="1">
+          <mxGeometry height="60" width="120" x="377" y="783" as="geometry" />
+        </mxCell>
+        <mxCell id="9oCN0XS1OmV5vz756Ld_-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Instructivo: Informe de Supervisión.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Conocimiento&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="109" y="2100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -318,10 +329,24 @@
     </mxGraphModel>
   </diagram>
   <diagram id="itKGPZbmdEiiBFCyKRGL" name="to -be Acta liquidación">
-    <mxGraphModel dx="1665" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1884" dy="146" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="flrX5aAkfKHo4x9-31fV-3" edge="1" parent="1" source="IW5f70mOTX-stGd43z3q-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" target="flrX5aAkfKHo4x9-31fV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flrX5aAkfKHo4x9-31fV-7" edge="1" parent="1" source="IW5f70mOTX-stGd43z3q-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="flrX5aAkfKHo4x9-31fV-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flrX5aAkfKHo4x9-31fV-8" edge="1" parent="1" source="IW5f70mOTX-stGd43z3q-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="flrX5aAkfKHo4x9-31fV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flrX5aAkfKHo4x9-31fV-9" edge="1" parent="1" source="IW5f70mOTX-stGd43z3q-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="flrX5aAkfKHo4x9-31fV-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="281" y="3390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IW5f70mOTX-stGd43z3q-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="370" width="260" x="410" y="3050" as="geometry" />
         </mxCell>
@@ -460,7 +485,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IW5f70mOTX-stGd43z3q-63" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;table style=&quot;box-sizing: border-box; border-radius: 8px; overflow-x: scroll; color: rgb(26, 28, 30); font-family: Inter, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;tbody&gt;&lt;tr class=&quot;table-header ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;&lt;td class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box; font-family: Inter, sans-serif; font-optical-sizing: auto; font-size: 14px; font-weight: 700; line-height: 20px; padding: 6px 12px; overflow-wrap: normal; border-top: none; border-right: none;&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;Criterio&amp;nbsp;&lt;/span&gt;&lt;/td&gt;&lt;td class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box; font-family: Inter, sans-serif; font-optical-sizing: auto; font-size: 14px; font-weight: 700; line-height: 20px; padding: 6px 12px; overflow-wrap: normal; border-top: none; border-right: none;&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;Origen del Dato (Automático)&lt;/span&gt;&lt;/td&gt;&lt;td class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box; font-family: Inter, sans-serif; font-optical-sizing: auto; font-size: 14px; font-weight: 700; line-height: 20px; padding: 6px 12px; overflow-wrap: normal; border-top: none; border-right: none;&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;Método de Automatización&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;&lt;td class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box; font-family: Inter, sans-serif; font-optical-sizing: auto; font-size: 14px; font-weight: 400; line-height: 20px; padding: 6px 12px; overflow-wrap: normal; border-right: none;&quot;&gt;&lt;strong class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;Volumen de compra&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;&lt;td class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box; font-family: Inter, sans-serif; font-optical-sizing: auto; font-size: 14px; font-weight: 400; line-height: 20px; padding: 6px 12px; overflow-wrap: normal; border-right: none;&quot;&gt;&lt;strong class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;SAP&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;&lt;td class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box; font-family: Inter, sans-serif; font-optical-sizing: auto; font-size: 14px; font-weight: 400; line-height: 20px; padding: 6px 12px; overflow-wrap: normal; border-right: none;&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;Sumatoria de facturas pagadas/órdenes de compra en el último año.&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;&lt;td class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box; font-family: Inter, sans-serif; font-optical-sizing: auto; font-size: 14px; font-weight: 400; line-height: 20px; padding: 6px 12px; overflow-wrap: normal; border-right: none;&quot;&gt;&lt;strong class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;Desempeño como proveedor&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;&lt;td class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box; font-family: Inter, sans-serif; font-optical-sizing: auto; font-size: 14px; font-weight: 400; line-height: 20px; padding: 6px 12px; overflow-wrap: normal; border-right: none;&quot;&gt;&lt;strong class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;PCC (Salidas no conformes)&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;&lt;td class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box; font-family: Inter, sans-serif; font-optical-sizing: auto; font-size: 14px; font-weight: 400; line-height: 20px; padding: 6px 12px; overflow-wrap: normal; border-right: none;&quot;&gt;&lt;span class=&quot;inline-code ng-star-inserted&quot; style=&quot;box-sizing: border-box; background: none 0% 0% / auto repeat scroll padding-box border-box rgb(228, 228, 226); border: none; border-radius: 4px; font-size: calc(1em - 1px); padding: 0px 2px 1px; color: rgb(50, 48, 44); display: inline-block; font-family: &amp;quot;DM Mono&amp;quot;, monospace;&quot;&gt;(1 - [Incidencias Abiertas / Total Pedidos]) * 100&lt;/span&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;.&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;&lt;td class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box; font-family: Inter, sans-serif; font-optical-sizing: auto; font-size: 14px; font-weight: 400; line-height: 20px; padding: 6px 12px; overflow-wrap: normal; border-right: none;&quot;&gt;&lt;strong class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;Dependencia / Sustitución&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;&lt;td class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box; font-family: Inter, sans-serif; font-optical-sizing: auto; font-size: 14px; font-weight: 400; line-height: 20px; padding: 6px 12px; overflow-wrap: normal; border-right: none;&quot;&gt;&lt;strong class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;PCC ( Perfil)&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;&lt;td class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box; font-family: Inter, sans-serif; font-optical-sizing: auto; font-size: 14px; font-weight: 400; line-height: 20px; padding: 6px 12px; overflow-wrap: normal; border-right: none;&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;Es un atributo fijo en la ficha del proveedor en PCC (se califica una vez al año, no cada vez).&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;&lt;td class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box; font-family: Inter, sans-serif; font-optical-sizing: auto; font-size: 14px; font-weight: 400; line-height: 20px; padding: 6px 12px; overflow-wrap: normal; border-right: none;&quot;&gt;&lt;strong class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;Relación con cliente&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;&lt;td class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box; font-family: Inter, sans-serif; font-optical-sizing: auto; font-size: 14px; font-weight: 400; line-height: 20px; padding: 6px 12px; overflow-wrap: normal; border-right: none;&quot;&gt;&lt;strong class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;Comforce/PCC (Módulo Contratos)&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;&lt;td class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box; font-family: Inter, sans-serif; font-optical-sizing: auto; font-size: 14px; font-weight: 400; line-height: 20px; padding: 6px 12px; overflow-wrap: normal; border-right: none;&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;Atributo en el contrato: ¿Tiene contacto directo con cliente final? SÍ/NO&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;&lt;td class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box; font-family: Inter, sans-serif; font-optical-sizing: auto; font-size: 14px; font-weight: 400; line-height: 20px; padding: 6px 12px; overflow-wrap: normal; border-right: none;&quot;&gt;&lt;strong class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;Estrategia Corporativa&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;&lt;td class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box; font-family: Inter, sans-serif; font-optical-sizing: auto; font-size: 14px; font-weight: 400; line-height: 20px; padding: 6px 12px; overflow-wrap: normal; border-right: none;&quot;&gt;&lt;strong class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;PCC (Evaluación)&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;&lt;td class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box; font-family: Inter, sans-serif; font-optical-sizing: auto; font-size: 14px; font-weight: 400; line-height: 20px; padding: 6px 12px; overflow-wrap: normal; border-right: none;&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box;&quot;&gt;Una única pregunta de &quot;check&quot; en el módulo de proveedor que el negociador marca.&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" vertex="1">
-          <mxGeometry height="450" width="670" x="100" y="3620" as="geometry" />
+          <mxGeometry height="450" width="670" x="21" y="3992" as="geometry" />
         </mxCell>
         <mxCell id="IW5f70mOTX-stGd43z3q-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Ya se ha avanzado" vertex="1">
           <mxGeometry height="30" width="120" x="480" y="970" as="geometry" />
@@ -504,6 +529,24 @@
         </mxCell>
         <mxCell id="IW5f70mOTX-stGd43z3q-80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Adelantado" vertex="1">
           <mxGeometry height="40" width="120" x="685" y="3000" as="geometry" />
+        </mxCell>
+        <mxCell id="flrX5aAkfKHo4x9-31fV-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Acciones y plan de mejora, notificación supervisores" vertex="1">
+          <mxGeometry height="60" width="120" x="765" y="3476" as="geometry" />
+        </mxCell>
+        <mxCell id="flrX5aAkfKHo4x9-31fV-5" edge="1" parent="1" source="flrX5aAkfKHo4x9-31fV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="flrX5aAkfKHo4x9-31fV-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flrX5aAkfKHo4x9-31fV-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Plan y seguimiento Sugerido, acciones de mejora" vertex="1">
+          <mxGeometry height="60" width="120" x="765" y="3297" as="geometry" />
+        </mxCell>
+        <mxCell id="flrX5aAkfKHo4x9-31fV-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="PCC" vertex="1">
+          <mxGeometry height="60" width="120" x="965" y="3297" as="geometry" />
+        </mxCell>
+        <mxCell id="flrX5aAkfKHo4x9-31fV-6" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="PostContractual&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Comforce - PCC&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="3508" as="geometry" />
+        </mxCell>
+        <mxCell id="flrX5aAkfKHo4x9-31fV-10" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Certificación Comercial" vertex="1">
+          <mxGeometry height="60" width="120" x="193" y="3430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

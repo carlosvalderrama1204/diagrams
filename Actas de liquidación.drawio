@@ -8,9 +8,9 @@
           <mxGeometry height="370" width="260" x="-210" y="2800" as="geometry" />
         </mxCell>
         <mxCell id="ofeMEUULNupF0MGtestP-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;" value="Capa de Automatización - IA" vertex="1">
-          <mxGeometry height="880" width="260" x="-210" y="1870" as="geometry" />
+          <mxGeometry height="880" width="260" x="-215" y="1871" as="geometry" />
         </mxCell>
-        <mxCell id="ofeMEUULNupF0MGtestP-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;" value="Capa de Inteligencia" vertex="1">
+        <mxCell id="ofeMEUULNupF0MGtestP-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" value="Capa de Inteligencia" vertex="1">
           <mxGeometry height="720" width="590" x="-190" y="1060" as="geometry" />
         </mxCell>
         <mxCell id="x9N_X7ZHtqhzVOnIZNbu-10" edge="1" parent="1" source="x9N_X7ZHtqhzVOnIZNbu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="x9N_X7ZHtqhzVOnIZNbu-9">
@@ -79,7 +79,7 @@
         <mxCell id="x9N_X7ZHtqhzVOnIZNbu-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Plano comforce Historico&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="120" x="-490" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="ofeMEUULNupF0MGtestP-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;" value="Fuente de Datos" vertex="1">
+        <mxCell id="ofeMEUULNupF0MGtestP-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Fuente de Datos" vertex="1">
           <mxGeometry height="253" width="580" x="-190" y="647" as="geometry" />
         </mxCell>
         <mxCell id="ofeMEUULNupF0MGtestP-23" edge="1" parent="1" source="ofeMEUULNupF0MGtestP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ofeMEUULNupF0MGtestP-6">
@@ -222,14 +222,14 @@
         <mxCell id="wsQ2eJy2WHscidemRzBL-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="si se adopta modulo PCC reemplaza Comforce" vertex="1">
           <mxGeometry height="50" width="140" x="250" y="563" as="geometry" />
         </mxCell>
-        <mxCell id="88qzPEaoxsV266SIKP4P-1" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Document_icons-2697/647702-excel-1195.svg" value="No Conformidades" vertex="1">
+        <mxCell id="88qzPEaoxsV266SIKP4P-1" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Document_icons-2697/647702-excel-1195.svg" value="No Conformidades" vertex="1">
           <mxGeometry height="30" width="30" x="79" y="680" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="NiZ0z8IoRXEGjXAEPMKg" name="AS-IS">
-    <mxGraphModel dx="1826" dy="757" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2284" dy="825" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />

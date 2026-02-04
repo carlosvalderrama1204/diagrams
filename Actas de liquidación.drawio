@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.10" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.7" pages="3">
   <diagram name="To-Be - Informes de Supervisión" id="uBQEXhK85_sFpyV3Rzyq">
     <mxGraphModel dx="2492" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -226,7 +226,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NiZ0z8IoRXEGjXAEPMKg" name="AS-IS">
-    <mxGraphModel dx="2711" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1826" dy="757" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -242,25 +242,25 @@
         <mxCell id="gkqxv7svto6EYnHc4Xud-14" edge="1" parent="1" source="gkqxv7svto6EYnHc4Xud-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;dashed=1;" target="gkqxv7svto6EYnHc4Xud-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gkqxv7svto6EYnHc4Xud-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SAP: Valor ejecutado" vertex="1">
+        <mxCell id="gkqxv7svto6EYnHc4Xud-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Excel: No Conformidades" vertex="1">
           <mxGeometry height="60" width="160" x="-50" y="190" as="geometry" />
         </mxCell>
         <mxCell id="gkqxv7svto6EYnHc4Xud-15" edge="1" parent="1" source="gkqxv7svto6EYnHc4Xud-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;dashed=1;" target="gkqxv7svto6EYnHc4Xud-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gkqxv7svto6EYnHc4Xud-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Comforce: Datos contrato, NIT, Nombres" vertex="1">
+        <mxCell id="gkqxv7svto6EYnHc4Xud-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Excel: Clasificación/Segmentación" vertex="1">
           <mxGeometry height="60" width="160" x="-50" y="100" as="geometry" />
         </mxCell>
         <mxCell id="gkqxv7svto6EYnHc4Xud-13" edge="1" parent="1" source="gkqxv7svto6EYnHc4Xud-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;dashed=1;" target="gkqxv7svto6EYnHc4Xud-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gkqxv7svto6EYnHc4Xud-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Excel: Clasificación/Segmentación" vertex="1">
+        <mxCell id="gkqxv7svto6EYnHc4Xud-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Comforce: Datos contrato, NIT, Nombres" vertex="1">
           <mxGeometry height="60" width="160" x="-50" y="350" as="geometry" />
         </mxCell>
         <mxCell id="gkqxv7svto6EYnHc4Xud-12" edge="1" parent="1" source="gkqxv7svto6EYnHc4Xud-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;" target="gkqxv7svto6EYnHc4Xud-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gkqxv7svto6EYnHc4Xud-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Excel: No Conformidades" vertex="1">
+        <mxCell id="gkqxv7svto6EYnHc4Xud-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SAP: Valor ejecutado" vertex="1">
           <mxGeometry height="60" width="160" x="-50" y="440" as="geometry" />
         </mxCell>
         <mxCell id="gkqxv7svto6EYnHc4Xud-10" edge="1" parent="1" source="gkqxv7svto6EYnHc4Xud-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gkqxv7svto6EYnHc4Xud-9">
@@ -307,6 +307,9 @@
         </mxCell>
         <mxCell id="gkqxv7svto6EYnHc4Xud-29" edge="1" parent="1" source="gkqxv7svto6EYnHc4Xud-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" target="gkqxv7svto6EYnHc4Xud-25">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TjYIE0Y_JArDkCswGugD-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;fillColor=#fad9d5;strokeColor=#ae4132;" value="Prov. Estándar -&amp;gt; Semestral&lt;div&gt;Prov. Clave -&amp;gt; Semestral&lt;/div&gt;&lt;div&gt;Prov. Operativo -&amp;gt; Anual&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="165" y="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

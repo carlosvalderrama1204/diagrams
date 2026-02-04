@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.7" pages="3">
   <diagram name="To-Be - Informes de Supervisión" id="uBQEXhK85_sFpyV3Rzyq">
-    <mxGraphModel dx="2492" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2226" dy="757" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,7 +80,7 @@
           <mxGeometry height="60" width="120" x="-490" y="130" as="geometry" />
         </mxCell>
         <mxCell id="ofeMEUULNupF0MGtestP-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;" value="Fuente de Datos" vertex="1">
-          <mxGeometry height="190" width="580" x="-190" y="710" as="geometry" />
+          <mxGeometry height="253" width="580" x="-190" y="647" as="geometry" />
         </mxCell>
         <mxCell id="ofeMEUULNupF0MGtestP-23" edge="1" parent="1" source="ofeMEUULNupF0MGtestP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ofeMEUULNupF0MGtestP-6">
           <mxGeometry relative="1" as="geometry">
@@ -220,7 +220,10 @@
           <mxGeometry height="50" width="120" x="-370" y="740" as="geometry" />
         </mxCell>
         <mxCell id="wsQ2eJy2WHscidemRzBL-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="si se adopta modulo PCC reemplaza Comforce" vertex="1">
-          <mxGeometry height="50" width="140" x="250" y="630" as="geometry" />
+          <mxGeometry height="50" width="140" x="250" y="563" as="geometry" />
+        </mxCell>
+        <mxCell id="88qzPEaoxsV266SIKP4P-1" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Document_icons-2697/647702-excel-1195.svg" value="No Conformidades" vertex="1">
+          <mxGeometry height="30" width="30" x="79" y="680" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

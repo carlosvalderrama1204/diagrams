@@ -995,6 +995,12 @@
         <mxCell id="B6ZnGuT5vuXvvibTqRoz-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Administradores" vertex="1">
           <mxGeometry height="60" width="120" x="860" y="150" as="geometry" />
         </mxCell>
+        <mxCell id="6FJJMQfbw9mJysPUFgc2-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;verticalAlign=top;fontStyle=1" value="Azure Entra ID" vertex="1">
+          <mxGeometry height="80" width="550" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ADDfBkqzvxlzzcv0nhqH-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Entra ID Caja" vertex="1">
+          <mxGeometry height="40" width="120" x="215" y="310" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

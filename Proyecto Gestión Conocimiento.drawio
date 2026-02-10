@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.4" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8" pages="5">
   <diagram name="Page-1" id="IC_4wayHIkYUXnKGSXEM">
     <mxGraphModel dx="1665" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -528,47 +528,47 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2iOQqcu-tDorUt-Q2nGJ" name="Page-5">
-    <mxGraphModel dx="1489" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2562" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oigafqF9CkKBBCuChF_p-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½íº€ CAPA 11: INTEGRACIONES FUTURAS (FASE 2+)" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ CAPA 11: INTEGRACIONES FUTURAS (FASE 2+)" vertex="1">
           <mxGeometry height="810" width="563" x="790" y="639" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í³ˆ CAPA 10: MONITOREO Y OPERACIONES" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ CAPA 10: MONITOREO Y OPERACIONES" vertex="1">
           <mxGeometry height="680" width="3868" x="20" y="4526" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í±¨â€í ½í²¼ CAPA 9: CONSOLA ADMINISTRATIVA" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½â€ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ CAPA 9: CONSOLA ADMINISTRATIVA" vertex="1">
           <mxGeometry height="1264" width="1188" x="3314" y="5280" as="geometry" />
         </mxCell>
         <mxCell id="oigafqF9CkKBBCuChF_p-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="âš–ï¸ CAPA 8: GOBERNANZA Y SEGURIDAD" vertex="1">
           <mxGeometry height="1138" width="994" x="3186" y="3314" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-5" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í³ CAPA 7: FUENTES DE DATOS SEGREGADAS" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-5" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ CAPA 7: FUENTES DE DATOS SEGREGADAS" vertex="1">
           <mxGeometry height="2560" width="1946" x="243" y="1892" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-6" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í³‹ AZURE DEVOPS - DOMINIO SALUD" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-6" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ AZURE DEVOPS - DOMINIO SALUD" vertex="1">
           <mxGeometry height="368" width="612" x="887" y="1917" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-7" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ¼í¿¥ SHAREPOINT - DOMINIO SALUD" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-7" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ SHAREPOINT - DOMINIO SALUD" vertex="1">
           <mxGeometry height="1088" width="632" x="263" y="3339" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="í ½í³‹ AZURE DEVOPS - DOMINIO CAJA" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ AZURE DEVOPS - DOMINIO CAJA" vertex="1">
           <mxGeometry height="1088" width="594" x="916" y="3339" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-9" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="í ¼í¿¦ SHAREPOINT - DOMINIO CAJA" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-9" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ SHAREPOINT - DOMINIO CAJA" vertex="1">
           <mxGeometry height="1088" width="640" x="1529" y="3339" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-10" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í´— CAPA 6: LAYER DE CONECTORES" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-10" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ CAPA 6: LAYER DE CONECTORES" vertex="1">
           <mxGeometry height="512" width="916" x="2743" y="2728" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-11" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ¾í´– CAPA 5: NÃšCLEO IA Y ORQUESTACIÃ“N" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-11" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ CAPA 5: NÃšCLEO IA Y ORQUESTACIÃ“N" vertex="1">
           <mxGeometry height="1131" width="1816" x="2232" y="1523" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-12" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="í ½í²¬ CAPA 4: CANAL DE ACCESO" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-12" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ CAPA 4: CANAL DE ACCESO" vertex="1">
           <mxGeometry height="272" width="2747" x="903" y="293" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-13" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="í ½í´ CAPA 3: AUTENTICACIÃ“N Y ACCESS CONTROL" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-13" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ CAPA 3: AUTENTICACIÃ“N Y ACCESS CONTROL" vertex="1">
           <mxGeometry height="344" width="1057" x="2632" y="1105" as="geometry" />
         </mxCell>
         <mxCell id="oigafqF9CkKBBCuChF_p-14" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" value="CAPA 2: AZURE ENTRA IDÂ " vertex="1">
@@ -586,19 +586,19 @@
         <mxCell id="oigafqF9CkKBBCuChF_p-18" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Grupo: Administradores" vertex="1">
           <mxGeometry height="150" width="245" x="4291" y="760" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-19" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í³‹ Entra ID Dominio CAJA&#xa;---&#xa;Tenant: compensar.com&#xa;Grupo: CAJA-TechUsers&#xa;" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-19" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Entra ID Dominio CAJA&#xa;---&#xa;Tenant: compensar.com&#xa;Grupo: CAJA-TechUsers&#xa;" vertex="1">
           <mxGeometry height="270" width="262" x="3281" y="700" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-20" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í³‹ Entra ID Dominio SALUD&#xa;---&#xa;Tenant: compensarsalud.com&#xa;Grupo: SALUD-TechUsers&#xa;" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-20" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Entra ID Dominio SALUD&#xa;---&#xa;Tenant: compensarsalud.com&#xa;Grupo: SALUD-TechUsers&#xa;" vertex="1">
           <mxGeometry height="270" width="262" x="2659" y="700" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-22" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í´„ OBO Flow - CAJA&#xa;(On-Behalf-Of)&#xa;---&#xa;Token preserva:&#xa;- user@caja.compensar&#xa;- Grupo: CAJA-TechUsers&#xa;- Domain: CAJA" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-22" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ OBO Flow - CAJA&#xa;(On-Behalf-Of)&#xa;---&#xa;Token preserva:&#xa;- user@caja.compensar&#xa;- Grupo: CAJA-TechUsers&#xa;- Domain: CAJA" vertex="1">
           <mxGeometry height="198" width="238" x="3138" y="1178" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-23" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í´„ OBO Flow - SALUD&#xa;(On-Behalf-Of)&#xa;---&#xa;Token preserva:&#xa;- user@salud.compensar&#xa;- Grupo: SALUD-TechUsers&#xa;- Domain: SALUD" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-23" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ OBO Flow - SALUD&#xa;(On-Behalf-Of)&#xa;---&#xa;Token preserva:&#xa;- user@salud.compensar&#xa;- Grupo: SALUD-TechUsers&#xa;- Domain: SALUD" vertex="1">
           <mxGeometry height="198" width="247" x="2667" y="1178" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-24" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í´‘ PAT Manager&#xa;(Personal Access Token)&#xa;---&#xa;Almacena:&#xa;- ADO-CAJA-PAT&#xa;- ADO-SALUD-PAT&#xa;- SP-CAJA-PAT&#xa;RenovaciÃ³n: 90 dÃ­as" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-24" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ PAT Manager&#xa;(Personal Access Token)&#xa;---&#xa;Almacena:&#xa;- ADO-CAJA-PAT&#xa;- ADO-SALUD-PAT&#xa;- SP-CAJA-PAT&#xa;RenovaciÃ³n: 90 dÃ­as" vertex="1">
           <mxGeometry height="222" width="229" x="3425" y="1166" as="geometry" />
         </mxCell>
         <mxCell id="oigafqF9CkKBBCuChF_p-25" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Microsoft Teams&#xa;---&#xa;Canales:&#xa;caja&#xa;-salud&#xa;---&#xa;Bot instalado:&#xa;Copilot Studio App" vertex="1">
@@ -610,82 +610,82 @@
         <mxCell id="oigafqF9CkKBBCuChF_p-27" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Microsoft Copilot Studio&#xa;(GESTIONCONOCIMIENTO)&#xa;---&#xa;Licencia: Power Virtual Agents&#xa;Componentes:&#xa;- Topic Dispatcher&#xa;- RAG Orchestrator&#xa;- Context Manager&#xa;- Response Formatter" vertex="1">
           <mxGeometry height="270" width="260" x="2660" y="1548" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-28" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ¼í¾¯ Grounding RAG Engine&#xa;---&#xa;Proceso:&#xa;1. Parse query + Extract domain&#xa;2. Security trimming check&#xa;3. Select sources (SP/ADO)&#xa;4. Retrieve docs + Wikis&#xa;5. LLM synthesis&#xa;6. Format response" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-28" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Grounding RAG Engine&#xa;---&#xa;Proceso:&#xa;1. Parse query + Extract domain&#xa;2. Security trimming check&#xa;3. Select sources (SP/ADO)&#xa;4. Retrieve docs + Wikis&#xa;5. LLM synthesis&#xa;6. Format response" vertex="1">
           <mxGeometry height="270" width="260" x="2778" y="2359" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-29" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í³š Topics Definidos&#xa;(5 especialidades)&#xa;---&#xa;1. ConsultorÃ­as&#xa;2. Ciclo de Vida Soluciones&#xa;3. Control Actualizaciones&#xa;4. Knowledge Transfer&#xa;5. Onboarding CapacitaciÃ³n&#xa;---&#xa;Each topic: 5-10 sub-topics" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-29" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Topics Definidos&#xa;(5 especialidades)&#xa;---&#xa;1. ConsultorÃ­as&#xa;2. Ciclo de Vida Soluciones&#xa;3. Control Actualizaciones&#xa;4. Knowledge Transfer&#xa;5. Onboarding CapacitaciÃ³n&#xa;---&#xa;Each topic: 5-10 sub-topics" vertex="1">
           <mxGeometry height="318" width="260" x="3080" y="1942" as="geometry" />
         </mxCell>
         <mxCell id="oigafqF9CkKBBCuChF_p-30" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="âš™ï¸ Topics Config Store&#xa;(Dataverse)&#xa;---&#xa;- Topic metadata&#xa;- Keyword triggers&#xa;- Source mappings&#xa;- Output templates" vertex="1">
           <mxGeometry height="198" width="223" x="2307" y="2002" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-31" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í³„ Conector SharePoint&#xa;(NATIVO)&#xa;---&#xa;MÃ©todo: OBO Flow&#xa;Endpoints:&#xa;- /sites/caja&#xa;- /sites/salud&#xa;---&#xa;Documentos:&#xa;- Word (.docx)&#xa;- PDF (.pdf)&#xa;- Excel (.xlsx)&#xa;- PowerPoint (.pptx)&#xa;---&#xa;Latencia: 1-2s&#xa;Max docs/query: 50" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-31" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Conector SharePoint&#xa;(NATIVO)&#xa;---&#xa;MÃ©todo: OBO Flow&#xa;Endpoints:&#xa;- /sites/caja&#xa;- /sites/salud&#xa;---&#xa;Documentos:&#xa;- Word (.docx)&#xa;- PDF (.pdf)&#xa;- Excel (.xlsx)&#xa;- PowerPoint (.pptx)&#xa;---&#xa;Latencia: 1-2s&#xa;Max docs/query: 50" vertex="1">
           <mxGeometry height="414" width="229" x="3088" y="2777" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-32" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í´€ Conector ADO (HTTP REST)&#xa;---&#xa;MÃ©todo: PAT + API Calls&#xa;Endpoints:&#xa;- /dev.azure.com/compensar&#xa;- /_apis/git&#xa;- /_apis/wiki&#xa;---&#xa;Recursos:&#xa;- Wiki pages (.md)&#xa;- Release notes&#xa;- Repo docs&#xa;---&#xa;Latencia: 2-5s&#xa;Rate limit: 1800 req/min&#xa;API v7.1" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-32" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Conector ADO (HTTP REST)&#xa;---&#xa;MÃ©todo: PAT + API Calls&#xa;Endpoints:&#xa;- /dev.azure.com/compensar&#xa;- /_apis/git&#xa;- /_apis/wiki&#xa;---&#xa;Recursos:&#xa;- Wiki pages (.md)&#xa;- Release notes&#xa;- Repo docs&#xa;---&#xa;Latencia: 2-5s&#xa;Rate limit: 1800 req/min&#xa;API v7.1" vertex="1">
           <mxGeometry height="462" width="260" x="2778" y="2753" as="geometry" />
         </mxCell>
         <mxCell id="oigafqF9CkKBBCuChF_p-33" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="âš™ï¸ Fallback Logic&#xa;---&#xa;Trigger: Si RAG &amp;gt; 2 intentos&#xa;Actions:&#xa;1. Simple keyword search&#xa;2. Elasticsearch fallback&#xa;3. Return top 5 docs&#xa;4. Suggest refinement" vertex="1">
           <mxGeometry height="222" width="256" x="3367" y="2873" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-34" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í³„ Documentos CAJA&#xa;---&#xa;UbicaciÃ³n:&#xa;compensar.sharepoint.com&#xa;/sites/TecnologiaCaja&#xa;---&#xa;Carpetas:&#xa;- Arquitectura/&#xa;  - Diagramas (descritos en texto)&#xa;  - EstÃ¡ndares&#xa;- Ciclo_Vida/&#xa;  - Fases&#xa;  - Check_lists&#xa;- Lecciones_Aprendidas/&#xa;  - Proyectos&#xa;  - Retrospectivas&#xa;- Procesos/" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-34" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Documentos CAJA&#xa;---&#xa;UbicaciÃ³n:&#xa;compensar.sharepoint.com&#xa;/sites/TecnologiaCaja&#xa;---&#xa;Carpetas:&#xa;- Arquitectura/&#xa;  - Diagramas (descritos en texto)&#xa;  - EstÃ¡ndares&#xa;- Ciclo_Vida/&#xa;  - Fases&#xa;  - Check_lists&#xa;- Lecciones_Aprendidas/&#xa;  - Proyectos&#xa;  - Retrospectivas&#xa;- Procesos/" vertex="1">
           <mxGeometry height="462" width="260" x="1564" y="3652" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-35" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ¼í¿·ï¸ Metadata CAJA&#xa;---&#xa;Campos indexados:&#xa;- Department: CAJA&#xa;- Last_Updated: [date]&#xa;- Author: [user@caja]&#xa;- Classification: Public/Internal&#xa;- VersiÃ³n: [v1.0]&#xa;- Tags: [keyword1, keyword2]" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-35" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¸ Metadata CAJA&#xa;---&#xa;Campos indexados:&#xa;- Department: CAJA&#xa;- Last_Updated: [date]&#xa;- Author: [user@caja]&#xa;- Classification: Public/Internal&#xa;- VersiÃ³n: [v1.0]&#xa;- Tags: [keyword1, keyword2]" vertex="1">
           <mxGeometry height="294" width="260" x="1874" y="3736" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-36" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í³– ADO Wikis CAJA&#xa;---&#xa;Proyecto: Caja-Tech&#xa;Repositorio: git/caja&#xa;---&#xa;Contenido:&#xa;- Project wikis (.md)&#xa;- Technical docs&#xa;- API documentation&#xa;- Release notes&#xa;- Sprint retrospectives" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-36" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ADO Wikis CAJA&#xa;---&#xa;Proyecto: Caja-Tech&#xa;Repositorio: git/caja&#xa;---&#xa;Contenido:&#xa;- Project wikis (.md)&#xa;- Technical docs&#xa;- API documentation&#xa;- Release notes&#xa;- Sprint retrospectives" vertex="1">
           <mxGeometry height="294" width="220" x="951" y="3736" as="geometry" />
         </mxCell>
         <mxCell id="oigafqF9CkKBBCuChF_p-37" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="âš™ï¸ ADO Config CAJA&#xa;---&#xa;Repo Access:&#xa;- Branch: main&#xa;- Protected: âœ…&#xa;- CI/CD: GitHub Actions&#xa;---&#xa;Webhooks:&#xa;- On commit: Index update" vertex="1">
           <mxGeometry height="246" width="253" x="1221" y="3760" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-38" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í³„ Documentos SALUD&#xa;---&#xa;UbicaciÃ³n:&#xa;compensar.sharepoint.com&#xa;/sites/TecnologiaSalud&#xa;---&#xa;Carpetas:&#xa;- Protocolos_Clinicos/&#xa;  - Procedimientos&#xa;  - Integraciones&#xa;- Procesos_Tecnicos/&#xa;  - Workflows&#xa;  - DocumentaciÃ³n&#xa;- Regulaciones/&#xa;  - HIPAA compliance&#xa;  - ISO 27001&#xa;- Cambios_Aprobados/" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-38" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Documentos SALUD&#xa;---&#xa;UbicaciÃ³n:&#xa;compensar.sharepoint.com&#xa;/sites/TecnologiaSalud&#xa;---&#xa;Carpetas:&#xa;- Protocolos_Clinicos/&#xa;  - Procedimientos&#xa;  - Integraciones&#xa;- Procesos_Tecnicos/&#xa;  - Workflows&#xa;  - DocumentaciÃ³n&#xa;- Regulaciones/&#xa;  - HIPAA compliance&#xa;  - ISO 27001&#xa;- Cambios_Aprobados/" vertex="1">
           <mxGeometry height="438" width="252" x="298" y="3664" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-39" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ¼í¿·ï¸ Metadata SALUD&#xa;---&#xa;Campos indexados:&#xa;- Department: SALUD&#xa;- Last_Updated: [date]&#xa;- Author: [user@salud]&#xa;- Classification: Confidential&#xa;- VersiÃ³n: [v1.0]&#xa;- Compliance: [HIPAA/ISO]" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-39" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¸ Metadata SALUD&#xa;---&#xa;Campos indexados:&#xa;- Department: SALUD&#xa;- Last_Updated: [date]&#xa;- Author: [user@salud]&#xa;- Classification: Confidential&#xa;- VersiÃ³n: [v1.0]&#xa;- Compliance: [HIPAA/ISO]" vertex="1">
           <mxGeometry height="270" width="260" x="601" y="3748" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-40" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í³– ADO Wikis SALUD&#xa;---&#xa;Proyecto: Salud-Tech&#xa;Repositorio: git/salud&#xa;---&#xa;Contenido:&#xa;- Clinical workflows&#xa;- Integration docs&#xa;- Compliance procedures&#xa;- Security audits&#xa;- Change logs" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-40" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ADO Wikis SALUD&#xa;---&#xa;Proyecto: Salud-Tech&#xa;Repositorio: git/salud&#xa;---&#xa;Contenido:&#xa;- Clinical workflows&#xa;- Integration docs&#xa;- Compliance procedures&#xa;- Security audits&#xa;- Change logs" vertex="1">
           <mxGeometry height="294" width="238" x="922" y="1954" as="geometry" />
         </mxCell>
         <mxCell id="oigafqF9CkKBBCuChF_p-41" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="âš™ï¸ ADO Config SALUD&#xa;---&#xa;Repo Access:&#xa;- Branch: main&#xa;- Protected: âœ…&#xa;- CI/CD: GitHub Actions&#xa;---&#xa;Webhooks:&#xa;- On commit: Index update" vertex="1">
           <mxGeometry height="246" width="253" x="1211" y="1978" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-42" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í´‘ Azure Key Vault&#xa;(Secrets Management)&#xa;---&#xa;Secretos:&#xa;- ado-caja-pat&#xa;- ado-salud-pat&#xa;- sp-caja-token&#xa;- sp-salud-token&#xa;- encryption-key&#xa;---&#xa;Access:&#xa;- MSI (Copilot Studio)&#xa;- RotaciÃ³n: 90 dÃ­as" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-42" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Azure Key Vault&#xa;(Secrets Management)&#xa;---&#xa;Secretos:&#xa;- ado-caja-pat&#xa;- ado-salud-pat&#xa;- sp-caja-token&#xa;- sp-salud-token&#xa;- encryption-key&#xa;---&#xa;Access:&#xa;- MSI (Copilot Studio)&#xa;- RotaciÃ³n: 90 dÃ­as" vertex="1">
           <mxGeometry height="342" width="219" x="3244" y="3712" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-43" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í·„ï¸ Dataverse&#xa;(AuditorÃ­a + Reportes)&#xa;---&#xa;Tablas Principales:&#xa;&#xa;1. Query_Logs&#xa;  - QueryID (UUID)&#xa;  - UserID (email)&#xa;  - Domain (CAJA/SALUD)&#xa;  - Timestamp (UTC)&#xa;  - QueryHash (SHA256)&#xa;  - TokensConsumed (int)&#xa;  - ExecutionTime (ms)&#xa;  - SourcesQueried (list)&#xa;  - ResponseQuality (1-5)&#xa;  - Cost (COP)&#xa;  - Status (Success/Error)&#xa;&#xa;2. User_Access&#xa;  - UserID&#xa;  - Domain&#xa;  - LastLogin&#xa;  - AccessLevel&#xa;  - MFAEnabled&#xa;  - LocationIP&#xa;&#xa;3. Budget_Tracking&#xa;  - Month (YYYY-MM)&#xa;  - DomainCaja (COP)&#xa;  - DomainSalud (COP)&#xa;  - TotalSpend (COP)&#xa;  - BudgetLimit (30M)&#xa;  - PercentageUsed (%)&#xa;  - AlertThreshold (70%)&#xa;&#xa;4. Error_Log&#xa;  - ErrorID&#xa;  - ErrorCode&#xa;  - ErrorMessage&#xa;  - StackTrace&#xa;  - Timestamp&#xa;  - Resolution" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-43" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¸ Dataverse&#xa;(AuditorÃ­a + Reportes)&#xa;---&#xa;Tablas Principales:&#xa;&#xa;1. Query_Logs&#xa;  - QueryID (UUID)&#xa;  - UserID (email)&#xa;  - Domain (CAJA/SALUD)&#xa;  - Timestamp (UTC)&#xa;  - QueryHash (SHA256)&#xa;  - TokensConsumed (int)&#xa;  - ExecutionTime (ms)&#xa;  - SourcesQueried (list)&#xa;  - ResponseQuality (1-5)&#xa;  - Cost (COP)&#xa;  - Status (Success/Error)&#xa;&#xa;2. User_Access&#xa;  - UserID&#xa;  - Domain&#xa;  - LastLogin&#xa;  - AccessLevel&#xa;  - MFAEnabled&#xa;  - LocationIP&#xa;&#xa;3. Budget_Tracking&#xa;  - Month (YYYY-MM)&#xa;  - DomainCaja (COP)&#xa;  - DomainSalud (COP)&#xa;  - TotalSpend (COP)&#xa;  - BudgetLimit (30M)&#xa;  - PercentageUsed (%)&#xa;  - AlertThreshold (70%)&#xa;&#xa;4. Error_Log&#xa;  - ErrorID&#xa;  - ErrorCode&#xa;  - ErrorMessage&#xa;  - StackTrace&#xa;  - Timestamp&#xa;  - Resolution" vertex="1">
           <mxGeometry height="1038" width="231" x="3563" y="3364" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-44" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í´’ Security Trimming Layer&#xa;(Dataverse)&#xa;---&#xa;Tabla: User_Permissions&#xa;- UserID&#xa;- AssignedDomain (CAJA/SALUD)&#xa;- CanAccessDocuments (bool)&#xa;- CanAccessWikis (bool)&#xa;- CanDownloadReports (bool)&#xa;- CreatedDate&#xa;- LastModified&#xa;- ModifiedBy&#xa;---&#xa;ValidaciÃ³n:&#xa;Cada query chequea:&#xa;UserDomain == ResourceDomain" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-44" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Security Trimming Layer&#xa;(Dataverse)&#xa;---&#xa;Tabla: User_Permissions&#xa;- UserID&#xa;- AssignedDomain (CAJA/SALUD)&#xa;- CanAccessDocuments (bool)&#xa;- CanAccessWikis (bool)&#xa;- CanDownloadReports (bool)&#xa;- CreatedDate&#xa;- LastModified&#xa;- ModifiedBy&#xa;---&#xa;ValidaciÃ³n:&#xa;Cada query chequea:&#xa;UserDomain == ResourceDomain" vertex="1">
           <mxGeometry height="510" width="260" x="3843" y="3628" as="geometry" />
         </mxCell>
         <mxCell id="oigafqF9CkKBBCuChF_p-45" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="âš™ï¸ Power Apps Admin Portal&#xa;(SOLO Grupo MATIAS-Admins)&#xa;---&#xa;Acceso: luis.valderrama@&#xa;           john.moreno@&#xa;           lady.sastre@&#xa;---&#xa;Funciones:&#xa;1. Dashboard Real-time&#xa;   - Budget consumption (30M)&#xa;   - Active users&#xa;   - Error rate&#xa;   - Latency metrics&#xa;&#xa;2. User Management&#xa;   - Add/Remove users&#xa;   - Assign domains&#xa;   - View access logs&#xa;&#xa;3. Reports&#xa;   - Monthly cost report&#xa;   - Usage by user&#xa;   - Top queries&#xa;   - Error analysis" vertex="1">
           <mxGeometry height="678" width="260" x="3788" y="5305" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-46" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í³Š Reportes y ExportaciÃ³n&#xa;---&#xa;Formatos soportados:&#xa;- Excel (.xlsx)&#xa;- PDF (.pdf)&#xa;- Power BI embed&#xa;---&#xa;MÃ©todo descarga:&#xa;1. Power Apps â†’ Export&#xa;2. Power Automate â†’ Email&#xa;3. Dataverse â†’ REST API&#xa;4. Power BI â†’ Dashboard&#xa;---&#xa;Frequency:&#xa;- Daily: Budget alert&#xa;- Weekly: Usage report&#xa;- Monthly: Full audit" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-46" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Reportes y ExportaciÃ³n&#xa;---&#xa;Formatos soportados:&#xa;- Excel (.xlsx)&#xa;- PDF (.pdf)&#xa;- Power BI embed&#xa;---&#xa;MÃ©todo descarga:&#xa;1. Power Apps â†’ Export&#xa;2. Power Automate â†’ Email&#xa;3. Dataverse â†’ REST API&#xa;4. Power BI â†’ Dashboard&#xa;---&#xa;Frequency:&#xa;- Daily: Budget alert&#xa;- Weekly: Usage report&#xa;- Monthly: Full audit" vertex="1">
           <mxGeometry height="462" width="260" x="3788" y="6057" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-47" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í»¡ï¸ DLP &amp;amp; Data Protection&#xa;(SharePoint)&#xa;---&#xa;Rules:&#xa;1. No secrets/passwords&#xa;2. No credit cards&#xa;3. No PII data&#xa;4. No API keys&#xa;---&#xa;Action:&#xa;- Scan on upload&#xa;- Block if detected&#xa;- Alert admin" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-47" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¸ DLP &amp;amp; Data Protection&#xa;(SharePoint)&#xa;---&#xa;Rules:&#xa;1. No secrets/passwords&#xa;2. No credit cards&#xa;3. No PII data&#xa;4. No API keys&#xa;---&#xa;Action:&#xa;- Scan on upload&#xa;- Block if detected&#xa;- Alert admin" vertex="1">
           <mxGeometry height="342" width="242" x="4225" y="6117" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-48" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ¼í¿¥ BMC/CMDB&#xa;(CI: GESTIONCONOCIMIENTO)&#xa;---&#xa;Configuration Item:&#xa;- CI Code: GESTIONCONOCIMIENTO&#xa;- Type: Intelligent Agent&#xa;- Status: Active&#xa;- Owner: Arqui (Luis Carlos)&#xa;- Support Team: TI&#xa;---&#xa;Relations:&#xa;- Depends on: Copilot Studio&#xa;- Depends on: SharePoint&#xa;- Depends on: ADO&#xa;- Depends on: Entra ID&#xa;- Provides: Knowledge access&#xa;---&#xa;Attributes:&#xa;- SLA: 99.5% uptime&#xa;- RTD: 24h&#xa;- Cost: 30M COP/year" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-48" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ BMC/CMDB&#xa;(CI: GESTIONCONOCIMIENTO)&#xa;---&#xa;Configuration Item:&#xa;- CI Code: GESTIONCONOCIMIENTO&#xa;- Type: Intelligent Agent&#xa;- Status: Active&#xa;- Owner: Arqui (Luis Carlos)&#xa;- Support Team: TI&#xa;---&#xa;Relations:&#xa;- Depends on: Copilot Studio&#xa;- Depends on: SharePoint&#xa;- Depends on: ADO&#xa;- Depends on: Entra ID&#xa;- Provides: Knowledge access&#xa;---&#xa;Attributes:&#xa;- SLA: 99.5% uptime&#xa;- RTD: 24h&#xa;- Cost: 30M COP/year" vertex="1">
           <mxGeometry height="630" width="260" x="55" y="4551" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-49" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í´” Alert &amp;amp; Monitoring&#xa;(Power Automate)&#xa;---&#xa;Triggers:&#xa;1. Budget &amp;gt; 70%&#xa;   â†’ Email: John + Lady&#xa;   â†’ Slack: #alerts&#xa;   â†’ Severity: HIGH&#xa;&#xa;2. Latency &amp;gt; 5s (P95)&#xa;   â†’ Email: John (Tech Lead)&#xa;   â†’ Severity: MEDIUM&#xa;&#xa;3. Error Rate &amp;gt; 5%&#xa;   â†’ Escalate: Readymind&#xa;   â†’ Severity: MEDIUM&#xa;&#xa;4. Access Denied&#xa;   â†’ Log: Dataverse&#xa;   â†’ Alert: Security team&#xa;   â†’ Severity: LOW&#xa;&#xa;5. Capacity Alert&#xa;   â†’ Check token usage&#xa;   â†’ Notify Gerencia Tech" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-49" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Alert &amp;amp; Monitoring&#xa;(Power Automate)&#xa;---&#xa;Triggers:&#xa;1. Budget &amp;gt; 70%&#xa;   â†’ Email: John + Lady&#xa;   â†’ Slack: #alerts&#xa;   â†’ Severity: HIGH&#xa;&#xa;2. Latency &amp;gt; 5s (P95)&#xa;   â†’ Email: John (Tech Lead)&#xa;   â†’ Severity: MEDIUM&#xa;&#xa;3. Error Rate &amp;gt; 5%&#xa;   â†’ Escalate: Readymind&#xa;   â†’ Severity: MEDIUM&#xa;&#xa;4. Access Denied&#xa;   â†’ Log: Dataverse&#xa;   â†’ Alert: Security team&#xa;   â†’ Severity: LOW&#xa;&#xa;5. Capacity Alert&#xa;   â†’ Check token usage&#xa;   â†’ Notify Gerencia Tech" vertex="1">
           <mxGeometry height="630" width="253" x="3290" y="4551" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-50" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í³‹ DAS Gate &amp;amp; Change Mgmt&#xa;(Change Advisory Board)&#xa;---&#xa;Documento: DAS v1.0&#xa;Status: âœ… APROBADO&#xa;Review Cycle: Quarterly&#xa;---&#xa;Changes require:&#xa;- DAS update&#xa;- CAB approval&#xa;- Security review&#xa;- Testing phase" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-50" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ DAS Gate &amp;amp; Change Mgmt&#xa;(Change Advisory Board)&#xa;---&#xa;Documento: DAS v1.0&#xa;Status: âœ… APROBADO&#xa;Review Cycle: Quarterly&#xa;---&#xa;Changes require:&#xa;- DAS update&#xa;- CAB approval&#xa;- Security review&#xa;- Testing phase" vertex="1">
           <mxGeometry height="342" width="260" x="3593" y="4695" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-51" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ¾í´– Orchestrator Bot&#xa;(Sistema Multiagente)&#xa;---&#xa;Bots:&#xa;- Bot Tech (actual)&#xa;- Bot HR (roadmap)&#xa;- Bot Finance (roadmap)&#xa;- Bot Legal (roadmap)&#xa;---&#xa;Routing:&#xa;- Intent detection&#xa;- Domain routing&#xa;- Fallback handling" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-51" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Orchestrator Bot&#xa;(Sistema Multiagente)&#xa;---&#xa;Bots:&#xa;- Bot Tech (actual)&#xa;- Bot HR (roadmap)&#xa;- Bot Finance (roadmap)&#xa;- Bot Legal (roadmap)&#xa;---&#xa;Routing:&#xa;- Intent detection&#xa;- Domain routing&#xa;- Fallback handling" vertex="1">
           <mxGeometry height="342" width="234" x="825" y="664" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-52" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í´€ Otras Integraciones&#xa;---&#xa;Potenciales:&#xa;- Hopex (API )&#xa;- Daruma (API)&#xa;- Portal Web&#xa;- Intranet&#xa;- CRM sistemas" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-52" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Otras Integraciones&#xa;---&#xa;Potenciales:&#xa;- Hopex (API )&#xa;- Daruma (API)&#xa;- Portal Web&#xa;- Intranet&#xa;- CRM sistemas" vertex="1">
           <mxGeometry height="222" width="226" x="829" y="1166" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-53" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="í ½í³ˆ MasificaciÃ³n&#xa;---&#xa;Fases:&#xa;- Fase 1: 5 users&#xa;- Fase 2: 50 users&#xa;- Fase 3: 200+ users&#xa;---&#xa;Requiere:&#xa;- New Business Case&#xa;- Incremento Budget&#xa;- RevisiÃ³n Arquitectura" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-53" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ MasificaciÃ³n&#xa;---&#xa;Fases:&#xa;- Fase 1: 5 users&#xa;- Fase 2: 50 users&#xa;- Fase 3: 200+ users&#xa;---&#xa;Requiere:&#xa;- New Business Case&#xa;- Incremento Budget&#xa;- RevisiÃ³n Arquitectura" vertex="1">
           <mxGeometry height="294" width="213" x="1106" y="1130" as="geometry" />
         </mxCell>
         <mxCell id="oigafqF9CkKBBCuChF_p-54" edge="1" parent="1" source="oigafqF9CkKBBCuChF_p-16" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=1;entryX=1;entryY=0.46;rounded=0;" target="oigafqF9CkKBBCuChF_p-25" value="Request (Teams)">
@@ -971,6 +971,29 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="dquDM509BNwjq53XzlVr" name="Page-6">
+    <mxGraphModel dx="1869" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CUkznZ10E5ZJTsI3CaZo-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;fontSize=14;strokeWidth=2;" value="Canal de Acceso" vertex="1">
+          <mxGeometry height="160" width="550" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nCvTAVwdCGLmx_q-4wNH-1" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" value="Microsof Teams" vertex="1">
+          <mxGeometry height="70" width="70" x="414" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="bl2COGzU3jitVg-c4fuS-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;verticalAlign=top;fontStyle=1" value="Usuarios" vertex="1">
+          <mxGeometry height="160" width="440" x="640" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bl2COGzU3jitVg-c4fuS-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Grupo de Seguridad" vertex="1">
+          <mxGeometry height="60" width="120" x="690" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="B6ZnGuT5vuXvvibTqRoz-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Administradores" vertex="1">
+          <mxGeometry height="60" width="120" x="860" y="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

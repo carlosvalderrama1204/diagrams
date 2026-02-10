@@ -528,7 +528,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2iOQqcu-tDorUt-Q2nGJ" name="Page-5">
-    <mxGraphModel dx="2562" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1737" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -562,7 +562,7 @@
         <mxCell id="oigafqF9CkKBBCuChF_p-10" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="������ CAPA 6: LAYER DE CONECTORES" vertex="1">
           <mxGeometry height="512" width="916" x="2743" y="2728" as="geometry" />
         </mxCell>
-        <mxCell id="oigafqF9CkKBBCuChF_p-11" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="������ CAPA 5: NÚCLEO IA Y ORQUESTACIÓN" vertex="1">
+        <mxCell id="oigafqF9CkKBBCuChF_p-11" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" value="������ CAPA 5: NÚCLEO IA Y ORQUESTACIÓN" vertex="1">
           <mxGeometry height="1131" width="1816" x="2232" y="1523" as="geometry" />
         </mxCell>
         <mxCell id="oigafqF9CkKBBCuChF_p-12" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="������ CAPA 4: CANAL DE ACCESO" vertex="1">
@@ -1000,6 +1000,48 @@
         </mxCell>
         <mxCell id="ADDfBkqzvxlzzcv0nhqH-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Entra ID Caja" vertex="1">
           <mxGeometry height="40" width="120" x="215" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="j9AXhVwk8qmp2BXZMKlD-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;verticalAlign=top;fontStyle=1" value="Copilot Studio" vertex="1">
+          <mxGeometry height="210" width="550" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="j9AXhVwk8qmp2BXZMKlD-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Agent Copilot&amp;nbsp;" vertex="1">
+          <mxGeometry height="40" width="120" x="215" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="0vItvI44Pw2Me9_0BU1r-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Tópicos Definidos" vertex="1">
+          <mxGeometry height="40" width="120" x="364" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="CERuG_M-VwZBpo7B9iKo-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="System Prompts" vertex="1">
+          <mxGeometry height="40" width="120" x="70" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="CERuG_M-VwZBpo7B9iKo-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" value="Conectores" vertex="1">
+          <mxGeometry height="100" width="550" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="CERuG_M-VwZBpo7B9iKo-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Conector Sharepoint" vertex="1">
+          <mxGeometry height="40" width="120" x="60" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="GTAejGKhIoMeyL7-3iw9-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Conector Azure Devops" vertex="1">
+          <mxGeometry height="40" width="120" x="354" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="Crc6Od1nSGJvyTCkVijT-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;b&gt;Extensiones Actuales Indexadas&lt;/b&gt;" vertex="1">
+          <mxGeometry height="150" width="290" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="Crc6Od1nSGJvyTCkVijT-2" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size:12.0pt;font-family:&amp;quot;Aptos&amp;quot;,sans-serif;&#xa;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Aptos;&#xa;color:black;mso-ansi-language:ES-CO;mso-fareast-language:ES-CO;mso-bidi-language:&#xa;AR-SA&quot;&gt;&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp;&lt;/span&gt;.docx, .doc, .pdf, .pptx, .ppt,&#xa;.xlsx, .xls, .html, .txt, .md, .aspx&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="20" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="Crc6Od1nSGJvyTCkVijT-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;b&gt;Azure DevOps&lt;/b&gt;" vertex="1">
+          <mxGeometry height="150" width="230" x="310" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="FneI-Uu30DJsify54Dac-1" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/16227/16227234.png?semt=ais_white_label;" value="" vertex="1">
+          <mxGeometry height="33" width="33" x="70" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="FneI-Uu30DJsify54Dac-2" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/15465/15465638.png?semt=ais_white_label;" value="" vertex="1">
+          <mxGeometry height="33" width="33" x="120" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="FneI-Uu30DJsify54Dac-3" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/14180/14180779.png?semt=ais_white_label;" value="" vertex="1">
+          <mxGeometry height="33" width="33" x="172" y="811" as="geometry" />
+        </mxCell>
+        <mxCell id="xavBNyYWtHl7goSksP0e-1" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/837/837799.png?semt=ais_white_label;" value="Wikis" vertex="1">
+          <mxGeometry height="40" width="40" x="405" y="811" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

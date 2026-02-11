@@ -992,7 +992,7 @@
         <mxCell id="bl2COGzU3jitVg-c4fuS-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;verticalAlign=top;fontStyle=1" value="Usuarios" vertex="1">
           <mxGeometry height="160" width="510" x="580" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="bl2COGzU3jitVg-c4fuS-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Grupo de Seguridad" vertex="1">
+        <mxCell id="bl2COGzU3jitVg-c4fuS-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Permisos COTI - Grupo de Seguridad" vertex="1">
           <mxGeometry height="60" width="120" x="610" y="145" as="geometry" />
         </mxCell>
         <mxCell id="B6ZnGuT5vuXvvibTqRoz-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Administradores" vertex="1">

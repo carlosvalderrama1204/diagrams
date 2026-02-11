@@ -976,7 +976,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dquDM509BNwjq53XzlVr" name="Page-6">
-    <mxGraphModel dx="2078" dy="1291" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2616" dy="1331" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1004,16 +1004,13 @@
         <mxCell id="rCaWgCGLL963h5BAABS3-16" edge="1" parent="1" source="ADDfBkqzvxlzzcv0nhqH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" target="bl2COGzU3jitVg-c4fuS-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rCaWgCGLL963h5BAABS3-17" edge="1" parent="1" source="ADDfBkqzvxlzzcv0nhqH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" target="j9AXhVwk8qmp2BXZMKlD-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ADDfBkqzvxlzzcv0nhqH-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Entra ID Caja" vertex="1">
           <mxGeometry height="40" width="120" x="485" y="310" as="geometry" />
         </mxCell>
         <mxCell id="j9AXhVwk8qmp2BXZMKlD-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;verticalAlign=top;fontStyle=1" value="Copilot Studio" vertex="1">
           <mxGeometry height="210" width="1090" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="j9AXhVwk8qmp2BXZMKlD-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;" value="&amp;nbsp;Agent Copilot&amp;nbsp;" vertex="1">
+        <mxCell id="j9AXhVwk8qmp2BXZMKlD-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;" value="&amp;nbsp;Agent Copilot COTI" vertex="1">
           <mxGeometry height="155" width="467" x="97" y="427.5" as="geometry" />
         </mxCell>
         <mxCell id="0vItvI44Pw2Me9_0BU1r-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Tópicos Definidos" vertex="1">
@@ -1163,6 +1160,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rCaWgCGLL963h5BAABS3-19" edge="1" parent="1" source="GTAejGKhIoMeyL7-3iw9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.439;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" target="Crc6Od1nSGJvyTCkVijT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rCaWgCGLL963h5BAABS3-17" edge="1" parent="1" source="ADDfBkqzvxlzzcv0nhqH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" target="j9AXhVwk8qmp2BXZMKlD-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>

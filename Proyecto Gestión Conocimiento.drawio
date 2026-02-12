@@ -976,7 +976,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dquDM509BNwjq53XzlVr" name="Diagrama Arq">
-    <mxGraphModel dx="2284" dy="1191" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1826" dy="1157" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1150,7 +1150,7 @@
         <mxCell id="VNXpnAnSX8KkBiTXVSp6-11" edge="1" parent="1" source="lFgbfVJIVV_z5T7SG9rm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="VNXpnAnSX8KkBiTXVSp6-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lFgbfVJIVV_z5T7SG9rm-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;fontSize=14;strokeWidth=2;strokeColor=#111BA7;fillColor=#A1A6E2;" value="Users TI - Office 365 E3 + M365 Copilot" vertex="1">
+        <mxCell id="lFgbfVJIVV_z5T7SG9rm-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;fontSize=14;strokeWidth=2;strokeColor=#FF8000;fillColor=#FFE6CC;" value="Users TI - Office 365 E3 + M365 Copilot" vertex="1">
           <mxGeometry height="154" width="462" x="241" y="-146" as="geometry" />
         </mxCell>
         <mxCell id="lFgbfVJIVV_z5T7SG9rm-5" edge="1" parent="1" source="lFgbfVJIVV_z5T7SG9rm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" target="nCvTAVwdCGLmx_q-4wNH-1">
@@ -1271,9 +1271,6 @@
         <mxCell id="VNXpnAnSX8KkBiTXVSp6-8" edge="1" parent="1" source="nCvTAVwdCGLmx_q-4wNH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.64;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="nCvTAVwdCGLmx_q-4wNH-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VNXpnAnSX8KkBiTXVSp6-9" edge="1" parent="1" source="nCvTAVwdCGLmx_q-4wNH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;sketch=1;curveFitting=1;jiggle=2;" target="ADDfBkqzvxlzzcv0nhqH-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="VNXpnAnSX8KkBiTXVSp6-10" edge="1" parent="1" source="ADDfBkqzvxlzzcv0nhqH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.383;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" target="j9AXhVwk8qmp2BXZMKlD-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1290,6 +1287,9 @@
         </mxCell>
         <mxCell id="VNXpnAnSX8KkBiTXVSp6-13" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/15465/15465638.png?semt=ais_white_label;" value="Inventario Activos" vertex="1">
           <mxGeometry height="33" width="33" x="-119" y="814" as="geometry" />
+        </mxCell>
+        <mxCell id="3AzaRPZrnFv8eDX9-y-b-1" edge="1" parent="1" source="nCvTAVwdCGLmx_q-4wNH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="ADDfBkqzvxlzzcv0nhqH-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

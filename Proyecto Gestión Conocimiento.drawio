@@ -1040,13 +1040,13 @@
           <mxGeometry height="40" width="120" x="375" y="670" as="geometry" />
         </mxCell>
         <mxCell id="Crc6Od1nSGJvyTCkVijT-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=2;" value="&lt;b&gt;SharePoint Online&lt;/b&gt;" vertex="1">
-          <mxGeometry height="157" width="464" x="290" y="783" as="geometry" />
+          <mxGeometry height="157" width="524" x="230" y="783" as="geometry" />
         </mxCell>
         <mxCell id="Crc6Od1nSGJvyTCkVijT-2" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size:12.0pt;font-family:&amp;quot;Aptos&amp;quot;,sans-serif;&#xa;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Aptos;&#xa;color:black;mso-ansi-language:ES-CO;mso-fareast-language:ES-CO;mso-bidi-language:&#xa;AR-SA&quot;&gt;&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp;&lt;/span&gt;.docx, .doc, .pdf, .pptx, .ppt,&#xa;.xlsx, .xls, .html, .txt, .md, .aspx&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="250" x="306" y="870" as="geometry" />
         </mxCell>
         <mxCell id="Crc6Od1nSGJvyTCkVijT-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=2;" value="&lt;b&gt;Azure DevOps&lt;/b&gt;" vertex="1">
-          <mxGeometry height="150" width="230" x="24" y="790" as="geometry" />
+          <mxGeometry height="150" width="174" x="33" y="790" as="geometry" />
         </mxCell>
         <mxCell id="FneI-Uu30DJsify54Dac-1" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/16227/16227234.png?semt=ais_white_label;" value="" vertex="1">
           <mxGeometry height="33" width="33" x="356" y="830" as="geometry" />
@@ -1058,7 +1058,7 @@
           <mxGeometry height="33" width="33" x="458" y="831" as="geometry" />
         </mxCell>
         <mxCell id="xavBNyYWtHl7goSksP0e-1" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/837/837799.png?semt=ais_white_label;" value="Wikis Procesos TI" vertex="1">
-          <mxGeometry height="40" width="40" x="119" y="831" as="geometry" />
+          <mxGeometry height="40" width="40" x="70" y="831" as="geometry" />
         </mxCell>
         <mxCell id="bDSuv5MZXVrRvrGM8LBX-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="CoE Arquitectura" vertex="1">
           <mxGeometry height="30" width="120" x="70" y="1023.5" as="geometry" />
@@ -1235,7 +1235,7 @@
         <mxCell id="lFgbfVJIVV_z5T7SG9rm-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Admin Copilot:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Config y monitoreo&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="930" y="165" as="geometry" />
         </mxCell>
-        <mxCell id="lFgbfVJIVV_z5T7SG9rm-23" edge="1" parent="1" source="CERuG_M-VwZBpo7B9iKo-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" target="Crc6Od1nSGJvyTCkVijT-3">
+        <mxCell id="lFgbfVJIVV_z5T7SG9rm-23" edge="1" parent="1" source="CERuG_M-VwZBpo7B9iKo-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Crc6Od1nSGJvyTCkVijT-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lFgbfVJIVV_z5T7SG9rm-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Key Vault" vertex="1">
@@ -1274,11 +1274,11 @@
         <mxCell id="VNXpnAnSX8KkBiTXVSp6-10" edge="1" parent="1" source="ADDfBkqzvxlzzcv0nhqH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.383;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" target="j9AXhVwk8qmp2BXZMKlD-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VNXpnAnSX8KkBiTXVSp6-14" edge="1" parent="1" source="VNXpnAnSX8KkBiTXVSp6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="VNXpnAnSX8KkBiTXVSp6-13">
+        <mxCell id="VNXpnAnSX8KkBiTXVSp6-14" edge="1" parent="1" source="VNXpnAnSX8KkBiTXVSp6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="VNXpnAnSX8KkBiTXVSp6-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="289" y="773" />
-              <mxPoint x="-102" y="773" />
+              <mxPoint x="289" y="781" />
+              <mxPoint x="289" y="781" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1286,7 +1286,7 @@
           <mxGeometry height="40" width="120" x="229" y="672" as="geometry" />
         </mxCell>
         <mxCell id="VNXpnAnSX8KkBiTXVSp6-13" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/15465/15465638.png?semt=ais_white_label;" value="Inventario Activos" vertex="1">
-          <mxGeometry height="33" width="33" x="-119" y="814" as="geometry" />
+          <mxGeometry height="33" width="33" x="267" y="813" as="geometry" />
         </mxCell>
         <mxCell id="3AzaRPZrnFv8eDX9-y-b-1" edge="1" parent="1" source="nCvTAVwdCGLmx_q-4wNH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="ADDfBkqzvxlzzcv0nhqH-1">
           <mxGeometry relative="1" as="geometry" />

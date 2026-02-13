@@ -700,7 +700,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iFAyd3e-lHZqaRFtBS5t-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Aporta: Desempeño,&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;NC e Incidencias&lt;/span&gt;" vertex="1">
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;No conformidades&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;e Incidencias&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="377" y="-425" as="geometry" />
         </mxCell>
         <mxCell id="iFAyd3e-lHZqaRFtBS5t-35" edge="1" parent="1" source="iFAyd3e-lHZqaRFtBS5t-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="iFAyd3e-lHZqaRFtBS5t-5">
@@ -714,7 +714,7 @@
         <mxCell id="iFAyd3e-lHZqaRFtBS5t-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Retroalimenta:&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Estatus de Liquidación&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="693" y="225" as="geometry" />
         </mxCell>
-        <mxCell id="iFAyd3e-lHZqaRFtBS5t-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Planes de Mejora&lt;/span&gt;" vertex="1">
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Planes de Mejora,&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;estatus y Evidencias&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="246" y="-425" as="geometry" />
         </mxCell>
         <mxCell id="iFAyd3e-lHZqaRFtBS5t-40" edge="1" parent="1" source="iFAyd3e-lHZqaRFtBS5t-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.682;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" target="iFAyd3e-lHZqaRFtBS5t-3">

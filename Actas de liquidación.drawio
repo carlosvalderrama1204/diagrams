@@ -552,7 +552,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-uofsirDr-h0p2pFPu3_" name="Page-4">
-    <mxGraphModel dx="2543" dy="1623" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1900" dy="1409" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -592,7 +592,7 @@
         <mxCell id="iFAyd3e-lHZqaRFtBS5t-7" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" value="Comforce: &#xa;Legal/Contratos" vertex="1">
           <mxGeometry height="101" width="131" x="246" y="-227" as="geometry" />
         </mxCell>
-        <mxCell id="iFAyd3e-lHZqaRFtBS5t-8" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" value="Zeus / Ungerboek: &#xa;Históricos" vertex="1">
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-8" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" value="Zeus / (Eventos: Ungerboek- Hércules): &#xa;Históricos" vertex="1">
           <mxGeometry height="105" width="155" x="427" y="-228" as="geometry" />
         </mxCell>
         <mxCell id="iFAyd3e-lHZqaRFtBS5t-9" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Azure Data Factory" vertex="1">
@@ -741,6 +741,12 @@
         </mxCell>
         <mxCell id="iFAyd3e-lHZqaRFtBS5t-52" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Document_icons-2697/647702-excel-1195.svg" value="" vertex="1">
           <mxGeometry height="30" width="30" x="-96" y="-334" as="geometry" />
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;Calificación de Proveedores&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="97" width="120" x="-110" y="-447" as="geometry" />
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-54" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Document_icons-2697/647702-excel-1195.svg" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="-100" y="-447" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

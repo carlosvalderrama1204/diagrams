@@ -3099,7 +3099,7 @@
           <mxGeometry height="40" width="120" x="42" y="465" as="geometry" />
         </mxCell>
         <mxCell id="GG1rkpo5CvdNu1M-JjwC-1" parent="pHxchOOOTBEwn8XqguTh-117" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;SMAX&lt;/b&gt;" vertex="1">
-          <mxGeometry height="40" width="120" x="45" y="1273" as="geometry" />
+          <mxGeometry height="40" width="120" x="35" y="1273" as="geometry" />
         </mxCell>
         <mxCell id="pHxchOOOTBEwn8XqguTh-128" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.017;entryY=0.441;entryDx=0;entryDy=0;entryPerimeter=0;" target="pHxchOOOTBEwn8XqguTh-119">
           <mxGeometry relative="1" as="geometry">

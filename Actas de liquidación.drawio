@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.7" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8" pages="4">
   <diagram name="To-Be - Informes de Supervisión" id="uBQEXhK85_sFpyV3Rzyq">
     <mxGraphModel dx="2370" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -547,6 +547,178 @@
         </mxCell>
         <mxCell id="flrX5aAkfKHo4x9-31fV-10" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Certificación Comercial" vertex="1">
           <mxGeometry height="60" width="120" x="193" y="3430" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-uofsirDr-h0p2pFPu3_" name="Page-4">
+    <mxGraphModel dx="1489" dy="1874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="4. FORMALIZACIÓN Y ARCHIVO" vertex="1">
+          <mxGeometry height="398" width="949" x="87" y="1137" as="geometry" />
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" value="3. LÓGICA DE IA (Orquestador)" vertex="1">
+          <mxGeometry height="232" width="1172" x="20" y="855" as="geometry" />
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" value="2. INGESTA (Data Lake - Capa Gold)" vertex="1">
+          <mxGeometry height="761" width="403" x="91" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" value="1. FUENTES (Sistemas de Origen)" vertex="1">
+          <mxGeometry height="351" width="653" x="40" y="-450" as="geometry" />
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-37" edge="1" parent="1" source="iFAyd3e-lHZqaRFtBS5t-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iFAyd3e-lHZqaRFtBS5t-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="944" y="-400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-38" connectable="0" parent="iFAyd3e-lHZqaRFtBS5t-37" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Autoservicio" vertex="1">
+          <mxGeometry relative="1" x="-0.8297" y="2" as="geometry">
+            <mxPoint x="21" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-5" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" value="itbid / PCC" vertex="1">
+          <mxGeometry height="99" width="114" x="508" y="-425" as="geometry" />
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-6" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" value="SAP: &#xa;ERP Financiero" vertex="1">
+          <mxGeometry height="100" width="121" x="75" y="-226" as="geometry" />
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-7" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" value="Comforce: &#xa;Legal/Contratos" vertex="1">
+          <mxGeometry height="101" width="131" x="246" y="-227" as="geometry" />
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-8" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" value="Zeus / Ungerboek: &#xa;Históricos" vertex="1">
+          <mxGeometry height="105" width="155" x="427" y="-228" as="geometry" />
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-9" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Azure Data Factory" vertex="1">
+          <mxGeometry height="54" width="197" x="134" y="67" as="geometry" />
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-10" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Zona Bronze: &#xa;Datos Crudos" vertex="1">
+          <mxGeometry height="78" width="154" x="155" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-11" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Zona Silver: &#xa;Match IDs y Limpieza" vertex="1">
+          <mxGeometry height="78" width="210" x="127" y="469" as="geometry" />
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-12" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" value="CAPA GOLD: &#xa;Fuente de Verdad Conciliada" vertex="1">
+          <mxGeometry height="134" width="215" x="195" y="621" as="geometry" />
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-13" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Azure AI Doc Intelligence" vertex="1">
+          <mxGeometry height="54" width="239" x="183" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-14" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Informe de Supervisión" vertex="1">
+          <mxGeometry height="54" width="224" x="55" y="1008" as="geometry" />
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-15" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Acta de Liquidación" vertex="1">
+          <mxGeometry height="54" width="201" x="329" y="1008" as="geometry" />
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-16" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Certificado Comercial" vertex="1">
+          <mxGeometry height="54" width="217" x="835" y="1008" as="geometry" />
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-17" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;" value="Adobe Sign: &#xa;Firma Digital" vertex="1">
+          <mxGeometry height="170" width="170" x="213" y="1162" as="geometry" />
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-18" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" value="OnBase: &#xa;Gestor Documental" vertex="1">
+          <mxGeometry height="104" width="152" x="300" y="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-19" edge="1" parent="1" source="iFAyd3e-lHZqaRFtBS5t-9" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" target="iFAyd3e-lHZqaRFtBS5t-10" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-20" edge="1" parent="1" source="iFAyd3e-lHZqaRFtBS5t-10" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="iFAyd3e-lHZqaRFtBS5t-11" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-21" edge="1" parent="1" source="iFAyd3e-lHZqaRFtBS5t-11" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.29;entryY=0;rounded=0;" target="iFAyd3e-lHZqaRFtBS5t-12" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="232" y="584" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-22" edge="1" parent="1" source="iFAyd3e-lHZqaRFtBS5t-12" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" target="iFAyd3e-lHZqaRFtBS5t-13" value="Datos Estructurados">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-23" edge="1" parent="1" source="iFAyd3e-lHZqaRFtBS5t-13" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" target="iFAyd3e-lHZqaRFtBS5t-14" value="Redacción Narrativa">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="167" y="971" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-24" edge="1" parent="1" source="iFAyd3e-lHZqaRFtBS5t-13" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" target="iFAyd3e-lHZqaRFtBS5t-15" value="Cierre de Saldos">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="971" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-25" edge="1" parent="1" source="iFAyd3e-lHZqaRFtBS5t-13" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.92;entryX=0;entryY=0.08;rounded=0;" target="iFAyd3e-lHZqaRFtBS5t-16" value="Datos Comerciales">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="631" y="971" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-26" edge="1" parent="1" source="iFAyd3e-lHZqaRFtBS5t-14" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.08;rounded=0;" target="iFAyd3e-lHZqaRFtBS5t-17" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="167" y="1137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-27" edge="1" parent="1" source="iFAyd3e-lHZqaRFtBS5t-15" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.08;rounded=0;" target="iFAyd3e-lHZqaRFtBS5t-17" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="1137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-28" edge="1" parent="1" source="iFAyd3e-lHZqaRFtBS5t-17" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.33;rounded=0;" target="iFAyd3e-lHZqaRFtBS5t-18" value="Documento Firmado">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="299" y="1369" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-29" edge="1" parent="1" source="iFAyd3e-lHZqaRFtBS5t-16" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" target="iFAyd3e-lHZqaRFtBS5t-17" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="943" y="1369" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-32" edge="1" parent="1" source="iFAyd3e-lHZqaRFtBS5t-5" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0;exitY=0.72;entryX=0.5;entryY=0;rounded=0;" target="iFAyd3e-lHZqaRFtBS5t-7" value="Aporta: Datos de &#xa;Proveedores y Usuarios">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="311" y="-277" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Aporta: Desempeño,&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;NC e Incidencias&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="377" y="-425" as="geometry" />
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-35" edge="1" parent="1" source="iFAyd3e-lHZqaRFtBS5t-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="iFAyd3e-lHZqaRFtBS5t-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="688" />
+              <mxPoint x="770" y="-375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Retroalimenta:&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Estatus de Liquidación&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="693" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Planes de Mejora&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="246" y="-425" as="geometry" />
+        </mxCell>
+        <mxCell id="iFAyd3e-lHZqaRFtBS5t-40" edge="1" parent="1" source="iFAyd3e-lHZqaRFtBS5t-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.682;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" target="iFAyd3e-lHZqaRFtBS5t-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

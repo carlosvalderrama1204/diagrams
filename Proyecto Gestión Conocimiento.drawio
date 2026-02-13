@@ -976,7 +976,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dquDM509BNwjq53XzlVr" name="Diagrama Arq">
-    <mxGraphModel dx="1442" dy="942" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1442" dy="975" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1288,6 +1288,9 @@
           <mxGeometry height="33" width="33" x="267" y="813" as="geometry" />
         </mxCell>
         <mxCell id="3AzaRPZrnFv8eDX9-y-b-1" edge="1" parent="1" source="nCvTAVwdCGLmx_q-4wNH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="ADDfBkqzvxlzzcv0nhqH-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3urDD0KPsV8xcsyLIQYg-5" edge="1" parent="1" source="j9AXhVwk8qmp2BXZMKlD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" target="VNXpnAnSX8KkBiTXVSp6-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>

@@ -976,11 +976,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dquDM509BNwjq53XzlVr" name="Diagrama Arq">
-    <mxGraphModel dx="1900" dy="976" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1442" dy="942" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3urDD0KPsV8xcsyLIQYg-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;verticalAlign=top;fontStyle=1;strokeColor=#006633;fillColor=#CCFFE6;" value="Cuenta de Servicio" vertex="1">
+        <mxCell id="3urDD0KPsV8xcsyLIQYg-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;verticalAlign=top;fontStyle=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" value="Cuenta de Servicio" vertex="1">
           <mxGeometry height="160" width="187" x="569" y="100" as="geometry" />
         </mxCell>
         <mxCell id="bDSuv5MZXVrRvrGM8LBX-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" value="Fuentes de Información" vertex="1">
@@ -1063,13 +1063,13 @@
         <mxCell id="xavBNyYWtHl7goSksP0e-1" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/256/837/837799.png?semt=ais_white_label;" value="Wikis Procesos TI" vertex="1">
           <mxGeometry height="40" width="40" x="70" y="831" as="geometry" />
         </mxCell>
-        <mxCell id="bDSuv5MZXVrRvrGM8LBX-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="CoE Arquitectura" vertex="1">
+        <mxCell id="bDSuv5MZXVrRvrGM8LBX-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CoE Arquitectura" vertex="1">
           <mxGeometry height="30" width="120" x="70" y="1023.5" as="geometry" />
         </mxCell>
         <mxCell id="bDSuv5MZXVrRvrGM8LBX-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Capítulo Agilismo (VMO)" vertex="1">
           <mxGeometry height="30" width="146" x="447" y="997" as="geometry" />
         </mxCell>
-        <mxCell id="bDSuv5MZXVrRvrGM8LBX-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="COE Analítica" vertex="1">
+        <mxCell id="bDSuv5MZXVrRvrGM8LBX-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="COE Analítica" vertex="1">
           <mxGeometry height="30" width="120" x="73" y="1111.5" as="geometry" />
         </mxCell>
         <mxCell id="bDSuv5MZXVrRvrGM8LBX-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CoE Automatización" vertex="1">
@@ -1099,12 +1099,11 @@
         <mxCell id="bDSuv5MZXVrRvrGM8LBX-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Otras" vertex="1">
           <mxGeometry height="30" width="120" x="924.5" y="950" as="geometry" />
         </mxCell>
-        <mxCell id="lFgbfVJIVV_z5T7SG9rm-14" edge="1" parent="1" source="paALb5C69iVF4ZeBPPVA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" target="CERuG_M-VwZBpo7B9iKo-3">
+        <mxCell id="3urDD0KPsV8xcsyLIQYg-3" edge="1" parent="1" source="paALb5C69iVF4ZeBPPVA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="lFgbfVJIVV_z5T7SG9rm-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="660" y="267" />
-              <mxPoint x="-76" y="267" />
-              <mxPoint x="-76" y="690" />
+              <mxPoint x="665" y="265" />
+              <mxPoint x="-146" y="265" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1211,7 +1210,7 @@
           <mxGeometry height="40" width="120" x="830" y="300" as="geometry" />
         </mxCell>
         <mxCell id="lFgbfVJIVV_z5T7SG9rm-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="API HTTP / PAT" vertex="1">
-          <mxGeometry height="30" width="122" x="-75" y="662" as="geometry" />
+          <mxGeometry height="30" width="122" x="-79" y="652" as="geometry" />
         </mxCell>
         <mxCell id="lFgbfVJIVV_z5T7SG9rm-21" edge="1" parent="1" source="lFgbfVJIVV_z5T7SG9rm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" target="paALb5C69iVF4ZeBPPVA-3">
           <mxGeometry relative="1" as="geometry">
@@ -1238,8 +1237,11 @@
         <mxCell id="lFgbfVJIVV_z5T7SG9rm-23" edge="1" parent="1" source="CERuG_M-VwZBpo7B9iKo-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Crc6Od1nSGJvyTCkVijT-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3urDD0KPsV8xcsyLIQYg-4" edge="1" parent="1" source="lFgbfVJIVV_z5T7SG9rm-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" target="CERuG_M-VwZBpo7B9iKo-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lFgbfVJIVV_z5T7SG9rm-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Key Vault" vertex="1">
-          <mxGeometry height="60" width="120" x="-177" y="692" as="geometry" />
+          <mxGeometry height="60" width="120" x="-202" y="660" as="geometry" />
         </mxCell>
         <mxCell id="lFgbfVJIVV_z5T7SG9rm-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=2;" value="&lt;b&gt;Extensiones Futuras&lt;/b&gt;" vertex="1">
           <mxGeometry height="126" width="185" x="564" y="804" as="geometry" />

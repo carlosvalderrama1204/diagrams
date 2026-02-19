@@ -7456,7 +7456,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YC5mr36T1rf00PrPBtZC" name="Page-20">
-    <mxGraphModel dx="2038" dy="2288" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2284" dy="2391" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8131,8 +8131,8 @@
         <mxCell id="q4Jg7LqE-7to5TS65Io--40" edge="1" parent="1" source="q4Jg7LqE-7to5TS65Io--41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="q4Jg7LqE-7to5TS65Io--53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q4Jg7LqE-7to5TS65Io--41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Catalogo: RegistroInfo/Condición Servicio" vertex="1">
-          <mxGeometry height="60" width="120" x="715" y="-1265" as="geometry" />
+        <mxCell id="q4Jg7LqE-7to5TS65Io--41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CatalogoBienesServicios" vertex="1">
+          <mxGeometry height="60" width="139" x="711" y="-1265" as="geometry" />
         </mxCell>
         <mxCell id="q4Jg7LqE-7to5TS65Io--42" edge="1" parent="1" source="q4Jg7LqE-7to5TS65Io--46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="q4Jg7LqE-7to5TS65Io--47">
           <mxGeometry relative="1" as="geometry">
@@ -8209,7 +8209,7 @@
         <mxCell id="q4Jg7LqE-7to5TS65Io--62" edge="1" parent="1" source="q4Jg7LqE-7to5TS65Io--63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="q4Jg7LqE-7to5TS65Io--41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q4Jg7LqE-7to5TS65Io--63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Catalogo&lt;div&gt;43 Campos&lt;/div&gt;" vertex="1">
+        <mxCell id="q4Jg7LqE-7to5TS65Io--63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CatalogoCompras" vertex="1">
           <mxGeometry height="40" width="120" x="482.5" y="-1255" as="geometry" />
         </mxCell>
         <mxCell id="q4Jg7LqE-7to5TS65Io--64" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Proveedor" vertex="1">
@@ -8255,10 +8255,10 @@
           <mxGeometry height="36" width="104" y="-860" as="geometry" />
         </mxCell>
         <mxCell id="1Amxh52abzU-IcMrb3rC-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" value="Negociación" vertex="1">
-          <mxGeometry height="122" width="126" x="-16" y="-1137" as="geometry" />
+          <mxGeometry height="122" width="126" x="-251" y="-971" as="geometry" />
         </mxCell>
         <mxCell id="1Amxh52abzU-IcMrb3rC-5" parent="1" style="text;whiteSpace=wrap;" value="Reg. Sanitario" vertex="1">
-          <mxGeometry height="36" width="104" y="-1103" as="geometry" />
+          <mxGeometry height="36" width="104" x="-235" y="-937" as="geometry" />
         </mxCell>
         <mxCell id="RwRTB4wTGb0C_iSgjAfT-3" edge="1" parent="1" source="RwRTB4wTGb0C_iSgjAfT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="1Amxh52abzU-IcMrb3rC-3">
           <mxGeometry relative="1" as="geometry" />
@@ -8270,7 +8270,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XQ6paxc_Rr85LMWMb05p" name="Page-21">
-    <mxGraphModel dx="2044" dy="428" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2684" dy="791" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />

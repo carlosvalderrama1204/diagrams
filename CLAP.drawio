@@ -336,12 +336,12 @@
           <mxGeometry height="54" width="222" x="769" y="-80" as="geometry" />
         </mxCell>
         <mxCell id="AH2Q5FW9bcZYQ5PPeYuH-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" value="CLA Website" vertex="1">
-          <mxGeometry height="156" width="958" x="1200" y="-141" as="geometry" />
+          <mxGeometry height="255" width="958" x="1200" y="-240" as="geometry" />
         </mxCell>
         <mxCell id="AH2Q5FW9bcZYQ5PPeYuH-6" edge="1" parent="1" source="AH2Q5FW9bcZYQ5PPeYuH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="AH2Q5FW9bcZYQ5PPeYuH-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jnsGNnoyOS67avX9Czhx-2" edge="1" parent="1" source="AH2Q5FW9bcZYQ5PPeYuH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="jnsGNnoyOS67avX9Czhx-1">
+        <mxCell id="jnsGNnoyOS67avX9Czhx-2" edge="1" parent="1" source="AH2Q5FW9bcZYQ5PPeYuH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" target="jnsGNnoyOS67avX9Czhx-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1330" y="145" />
@@ -391,14 +391,47 @@
         <mxCell id="6WKUqpWUUkapSkOKGe2Y-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="App de Teams (M365)" vertex="1">
           <mxGeometry height="54" width="212" x="557" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="J1XCgjGikfZyETJd9OXJ-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="6. Request" vertex="1">
-          <mxGeometry height="30" width="90" x="1060" y="-80" as="geometry" />
+        <mxCell id="J1XCgjGikfZyETJd9OXJ-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="6. Request Token" vertex="1">
+          <mxGeometry height="30" width="90" x="1060" y="-100" as="geometry" />
         </mxCell>
-        <mxCell id="jnsGNnoyOS67avX9Czhx-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Directorio Activo" vertex="1">
+        <mxCell id="jnsGNnoyOS67avX9Czhx-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Directorio Activo" vertex="1">
           <mxGeometry height="60" width="120" x="1490" y="100" as="geometry" />
         </mxCell>
         <mxCell id="jnsGNnoyOS67avX9Czhx-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="LDAP" vertex="1">
           <mxGeometry height="30" width="60" x="1340" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jnsGNnoyOS67avX9Czhx-6" edge="1" parent="1" source="AH2Q5FW9bcZYQ5PPeYuH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1270" y="442" />
+            </Array>
+            <mxPoint x="1270" y="442" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jnsGNnoyOS67avX9Czhx-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Autenticación Interna" vertex="1">
+          <mxGeometry height="60" width="120" x="1280" y="-220" as="geometry" />
+        </mxCell>
+        <mxCell id="jnsGNnoyOS67avX9Czhx-8" edge="1" parent="1" source="AH2Q5FW9bcZYQ5PPeYuH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.662;entryY=0.954;entryDx=0;entryDy=0;entryPerimeter=0;" target="jnsGNnoyOS67avX9Czhx-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jnsGNnoyOS67avX9Czhx-12" edge="1" parent="1" source="jnsGNnoyOS67avX9Czhx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="jnsGNnoyOS67avX9Czhx-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jnsGNnoyOS67avX9Czhx-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Kactus" vertex="1">
+          <mxGeometry height="60" width="120" x="1155" y="-370" as="geometry" />
+        </mxCell>
+        <mxCell id="jnsGNnoyOS67avX9Czhx-13" edge="1" parent="1" source="jnsGNnoyOS67avX9Czhx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="jnsGNnoyOS67avX9Czhx-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1510" y="-340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jnsGNnoyOS67avX9Czhx-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="GoAnyWhere" vertex="1">
+          <mxGeometry height="60" width="120" x="1346" y="-370" as="geometry" />
+        </mxCell>
+        <mxCell id="jnsGNnoyOS67avX9Czhx-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Roles" vertex="1">
+          <mxGeometry height="60" width="120" x="1450" y="-220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

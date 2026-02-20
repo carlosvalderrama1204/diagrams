@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.4.0" pages="2">
   <diagram name="Page-1" id="JbuDif6EniHpo0eCtiuL">
-    <mxGraphModel dx="1901" dy="1009" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="1081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="qDdbzuu8EYEQlRDKjqtc-5" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Tenant(s) externos" vertex="1">
           <mxGeometry height="148" width="821" x="1187" y="1753" as="geometry" />
         </mxCell>
-        <mxCell id="qDdbzuu8EYEQlRDKjqtc-6" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Tenant Entra ID de la organización" vertex="1">
+        <mxCell id="qDdbzuu8EYEQlRDKjqtc-6" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="Tenant Entra ID de la organización" vertex="1">
           <mxGeometry height="1438" width="2436" x="20" y="294" as="geometry" />
         </mxCell>
         <mxCell id="qDdbzuu8EYEQlRDKjqtc-7" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Seguridad y cumplimiento" vertex="1">
@@ -22,7 +22,7 @@
         <mxCell id="qDdbzuu8EYEQlRDKjqtc-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Aplicaciones registradas" vertex="1">
           <mxGeometry height="332" width="305" x="749" y="314" as="geometry" />
         </mxCell>
-        <mxCell id="qDdbzuu8EYEQlRDKjqtc-9" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Microsoft Entra ID (Directory)" vertex="1">
+        <mxCell id="qDdbzuu8EYEQlRDKjqtc-9" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="Microsoft Entra ID (Directory)" vertex="1">
           <mxGeometry height="694" width="2386" x="45" y="666" as="geometry" />
         </mxCell>
         <mxCell id="qDdbzuu8EYEQlRDKjqtc-10" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Grupos y roles" vertex="1">
@@ -241,36 +241,52 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PI4m6yj1TT6OFETIhyRc" name="Page-2">
-    <mxGraphModel dx="2734" dy="1891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3205" dy="2089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BcDvi04fCnLNkExowTcy-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;fontSize=16;" value="Entra ID" vertex="1">
-          <mxGeometry height="670" width="1692" x="-22" y="170" as="geometry" />
+        <mxCell id="-9ru3lGb3TJMYjPqhvsb-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" value="Tenant" vertex="1">
+          <mxGeometry height="1010" width="1870" x="-110" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="WCefNIYxxfHDg8Z2grDo-1" edge="1" parent="1" source="BcDvi04fCnLNkExowTcy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="6WKUqpWUUkapSkOKGe2Y-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="716" y="410" />
+              <mxPoint x="716" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WCefNIYxxfHDg8Z2grDo-2" connectable="0" parent="WCefNIYxxfHDg8Z2grDo-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="4. Token" vertex="1">
+          <mxGeometry relative="1" x="0.1038" y="-4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BcDvi04fCnLNkExowTcy-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;verticalAlign=top;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Entra ID" vertex="1">
+          <mxGeometry height="740" width="1692" x="-21" y="440" as="geometry" />
         </mxCell>
         <mxCell id="BcDvi04fCnLNkExowTcy-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" value="Usuarios invitados (B2B)" vertex="1">
-          <mxGeometry height="252" width="310" x="60" y="546" as="geometry" />
+          <mxGeometry height="252" width="310" x="34" y="836" as="geometry" />
         </mxCell>
         <mxCell id="BcDvi04fCnLNkExowTcy-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" value="Usuarios internos" vertex="1">
-          <mxGeometry height="276" width="310" x="60" y="250" as="geometry" />
+          <mxGeometry height="276" width="310" x="34" y="540" as="geometry" />
         </mxCell>
         <mxCell id="BcDvi04fCnLNkExowTcy-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="colaborador 1 (user1@compensar.com)" vertex="1">
-          <mxGeometry height="78" width="260" x="85" y="285" as="geometry" />
+          <mxGeometry height="78" width="260" x="59" y="575" as="geometry" />
         </mxCell>
         <mxCell id="BcDvi04fCnLNkExowTcy-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="colaborador 2 (user2@compensar.com)" vertex="1">
-          <mxGeometry height="78" width="260" x="85" y="413" as="geometry" />
+          <mxGeometry height="78" width="260" x="59" y="703" as="geometry" />
         </mxCell>
         <mxCell id="BcDvi04fCnLNkExowTcy-5" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Invitado 1 (empresa1.com)" vertex="1">
-          <mxGeometry height="54" width="235" x="98" y="581" as="geometry" />
+          <mxGeometry height="54" width="235" x="72" y="871" as="geometry" />
         </mxCell>
         <mxCell id="BcDvi04fCnLNkExowTcy-6" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Invitado 2 (otraempresa.com)" vertex="1">
-          <mxGeometry height="78" width="260" x="85" y="685" as="geometry" />
+          <mxGeometry height="78" width="260" x="59" y="975" as="geometry" />
         </mxCell>
-        <mxCell id="BcDvi04fCnLNkExowTcy-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" value="Grupos y Roles" vertex="1">
-          <mxGeometry height="530" width="800" x="480" y="250" as="geometry" />
+        <mxCell id="BcDvi04fCnLNkExowTcy-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Grupos y Roles" vertex="1">
+          <mxGeometry height="530" width="800" x="454" y="540" as="geometry" />
         </mxCell>
         <mxCell id="WqVtT9W3ec7V4ShLq6YY-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Grupo: APP-ACCESO-SITIO" vertex="1">
-          <mxGeometry height="54" width="244" x="580" y="460" as="geometry" />
+          <mxGeometry height="54" width="244" x="554" y="750" as="geometry" />
         </mxCell>
         <mxCell id="WqVtT9W3ec7V4ShLq6YY-3" edge="1" parent="1" source="BcDvi04fCnLNkExowTcy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.148;entryDx=0;entryDy=0;entryPerimeter=0;" target="WqVtT9W3ec7V4ShLq6YY-1">
           <mxGeometry relative="1" as="geometry" />
@@ -287,13 +303,39 @@
         <mxCell id="y7AsyZm2zjW7kvEO6pTK-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" value="Capa de Cliente" vertex="1">
           <mxGeometry height="228" width="310" x="725" y="-120" as="geometry" />
         </mxCell>
+        <mxCell id="6WKUqpWUUkapSkOKGe2Y-2" edge="1" parent="1" source="0f0vyhd3uMIC0BSSMP0J-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6WKUqpWUUkapSkOKGe2Y-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="177" />
+              <mxPoint x="663" y="177" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1zg6Uz28OCcqFkjOhIUt-1" connectable="0" parent="6WKUqpWUUkapSkOKGe2Y-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1. Abre APP" vertex="1">
+          <mxGeometry relative="1" x="0.0449" y="-1" as="geometry">
+            <mxPoint x="-12" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7lRXegf4QNCrTgBFWgQB-1" edge="1" parent="1" source="0f0vyhd3uMIC0BSSMP0J-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" target="BcDvi04fCnLNkExowTcy-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="936" y="360" />
+              <mxPoint x="936" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7lRXegf4QNCrTgBFWgQB-2" connectable="0" parent="7lRXegf4QNCrTgBFWgQB-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="3. Auth" vertex="1">
+          <mxGeometry relative="1" x="0.0792" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0f0vyhd3uMIC0BSSMP0J-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Microsoft Teams Client" vertex="1">
           <mxGeometry height="54" width="222" x="769" y="20" as="geometry" />
         </mxCell>
         <mxCell id="0f0vyhd3uMIC0BSSMP0J-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Navegador web" vertex="1">
           <mxGeometry height="54" width="222" x="769" y="-80" as="geometry" />
         </mxCell>
-        <mxCell id="AH2Q5FW9bcZYQ5PPeYuH-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" value="Sitio Externo / Backend" vertex="1">
+        <mxCell id="AH2Q5FW9bcZYQ5PPeYuH-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" value="CLA Website" vertex="1">
           <mxGeometry height="156" width="958" x="1200" y="-141" as="geometry" />
         </mxCell>
         <mxCell id="AH2Q5FW9bcZYQ5PPeYuH-6" edge="1" parent="1" source="AH2Q5FW9bcZYQ5PPeYuH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="AH2Q5FW9bcZYQ5PPeYuH-3">
@@ -313,6 +355,32 @@
         </mxCell>
         <mxCell id="AH2Q5FW9bcZYQ5PPeYuH-5" edge="1" parent="1" source="0f0vyhd3uMIC0BSSMP0J-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="AH2Q5FW9bcZYQ5PPeYuH-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9qCmzROXTXuPlkmRinUT-1" edge="1" parent="1" source="6WKUqpWUUkapSkOKGe2Y-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0f0vyhd3uMIC0BSSMP0J-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="307" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HMpsOewVxokM4qPunw55-1" connectable="0" parent="9qCmzROXTXuPlkmRinUT-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="2. Pide SSO" vertex="1">
+          <mxGeometry relative="1" x="0.4549" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sLJRCGeL7P9u-wuJFAY0-1" edge="1" parent="1" source="6WKUqpWUUkapSkOKGe2Y-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="0f0vyhd3uMIC0BSSMP0J-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sLJRCGeL7P9u-wuJFAY0-2" connectable="0" parent="sLJRCGeL7P9u-wuJFAY0-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="5. Redirect" vertex="1">
+          <mxGeometry relative="1" x="0.4634" y="3" as="geometry">
+            <mxPoint x="23" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6WKUqpWUUkapSkOKGe2Y-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="App de Teams (M365)" vertex="1">
+          <mxGeometry height="54" width="212" x="557" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="J1XCgjGikfZyETJd9OXJ-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="6. Request" vertex="1">
+          <mxGeometry height="30" width="90" x="1060" y="-80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

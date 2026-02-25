@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.4.0" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.5.3" pages="2">
   <diagram name="Page-1" id="JbuDif6EniHpo0eCtiuL">
     <mxGraphModel dx="2037" dy="1081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -241,7 +241,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PI4m6yj1TT6OFETIhyRc" name="Page-2">
-    <mxGraphModel dx="2833" dy="1968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2809" dy="1991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -332,7 +332,7 @@
         <mxCell id="0f0vyhd3uMIC0BSSMP0J-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Microsoft Teams Client" vertex="1">
           <mxGeometry height="54" width="222" x="769" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="0f0vyhd3uMIC0BSSMP0J-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Usuario Interno Web -&gt; IAM" vertex="1">
+        <mxCell id="0f0vyhd3uMIC0BSSMP0J-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Usuario Teams -&gt; IAM" vertex="1">
           <mxGeometry height="54" width="222" x="769" y="-80" as="geometry" />
         </mxCell>
         <mxCell id="AH2Q5FW9bcZYQ5PPeYuH-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" value="Universidad Corporativa Website" vertex="1">
@@ -392,7 +392,7 @@
           <mxGeometry height="54" width="212" x="557" y="280" as="geometry" />
         </mxCell>
         <mxCell id="J1XCgjGikfZyETJd9OXJ-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="6. Request Token" vertex="1">
-          <mxGeometry height="30" width="90" x="1060" y="-100" as="geometry" />
+          <mxGeometry height="30" width="90" x="1050" y="-45.5" as="geometry" />
         </mxCell>
         <mxCell id="jnsGNnoyOS67avX9Czhx-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="IAM" vertex="1">
           <mxGeometry height="60" width="120" x="1490" y="100" as="geometry" />
@@ -440,6 +440,12 @@
         </mxCell>
         <mxCell id="jnsGNnoyOS67avX9Czhx-15" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Usuario Invitado Web" vertex="1">
           <mxGeometry height="54" width="222" x="769" y="-240" as="geometry" />
+        </mxCell>
+        <mxCell id="AVnlHVg5XeeqQUb8DDXu-2" edge="1" parent="1" source="AVnlHVg5XeeqQUb8DDXu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="AH2Q5FW9bcZYQ5PPeYuH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVnlHVg5XeeqQUb8DDXu-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Usuario Interno Web -&gt; IAM" vertex="1">
+          <mxGeometry height="54" width="222" x="769" y="-170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

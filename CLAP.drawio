@@ -448,7 +448,7 @@
         </mxCell>
         <mxCell id="AVnlHVg5XeeqQUb8DDXu-4" connectable="0" parent="AVnlHVg5XeeqQUb8DDXu-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Autenticación Interna" vertex="1">
           <mxGeometry relative="1" x="-0.4946" y="5" as="geometry">
-            <mxPoint x="19" y="-12" as="offset" />
+            <mxPoint x="9" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jnsGNnoyOS67avX9Czhx-15" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Usuario Invitado Web" vertex="1">

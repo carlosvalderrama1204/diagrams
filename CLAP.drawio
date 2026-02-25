@@ -368,6 +368,11 @@
         <mxCell id="AH2Q5FW9bcZYQ5PPeYuH-5" edge="1" parent="1" source="0f0vyhd3uMIC0BSSMP0J-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="AH2Q5FW9bcZYQ5PPeYuH-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="AVnlHVg5XeeqQUb8DDXu-6" connectable="0" parent="AH2Q5FW9bcZYQ5PPeYuH-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Autenticación EntraId" vertex="1">
+          <mxGeometry relative="1" x="-0.3009" y="-4" as="geometry">
+            <mxPoint x="17" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9qCmzROXTXuPlkmRinUT-1" edge="1" parent="1" source="6WKUqpWUUkapSkOKGe2Y-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0f0vyhd3uMIC0BSSMP0J-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -392,7 +397,7 @@
           <mxGeometry height="54" width="212" x="557" y="280" as="geometry" />
         </mxCell>
         <mxCell id="J1XCgjGikfZyETJd9OXJ-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="6. Request Token" vertex="1">
-          <mxGeometry height="30" width="90" x="1050" y="-45.5" as="geometry" />
+          <mxGeometry height="30" width="90" x="1055" y="-26" as="geometry" />
         </mxCell>
         <mxCell id="jnsGNnoyOS67avX9Czhx-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="IAM" vertex="1">
           <mxGeometry height="60" width="120" x="1490" y="100" as="geometry" />
@@ -441,6 +446,11 @@
         <mxCell id="AVnlHVg5XeeqQUb8DDXu-3" edge="1" parent="1" source="jnsGNnoyOS67avX9Czhx-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" target="AH2Q5FW9bcZYQ5PPeYuH-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="AVnlHVg5XeeqQUb8DDXu-4" connectable="0" parent="AVnlHVg5XeeqQUb8DDXu-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Autenticación Interna" vertex="1">
+          <mxGeometry relative="1" x="-0.4946" y="5" as="geometry">
+            <mxPoint x="19" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jnsGNnoyOS67avX9Czhx-15" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Usuario Invitado Web" vertex="1">
           <mxGeometry height="54" width="222" x="769" y="-240" as="geometry" />
         </mxCell>
@@ -449,6 +459,9 @@
         </mxCell>
         <mxCell id="AVnlHVg5XeeqQUb8DDXu-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Usuario Interno Web -&gt; IAM" vertex="1">
           <mxGeometry height="54" width="222" x="769" y="-170" as="geometry" />
+        </mxCell>
+        <mxCell id="AVnlHVg5XeeqQUb8DDXu-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Autenticación IAM" vertex="1">
+          <mxGeometry height="30" width="120" x="1040" y="-170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

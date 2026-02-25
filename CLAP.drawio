@@ -241,7 +241,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PI4m6yj1TT6OFETIhyRc" name="Page-2">
-    <mxGraphModel dx="2809" dy="1991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2528" dy="1991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -438,10 +438,13 @@
         <mxCell id="jnsGNnoyOS67avX9Czhx-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Roles" vertex="1">
           <mxGeometry height="60" width="120" x="1450" y="-220" as="geometry" />
         </mxCell>
+        <mxCell id="AVnlHVg5XeeqQUb8DDXu-3" edge="1" parent="1" source="jnsGNnoyOS67avX9Czhx-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" target="AH2Q5FW9bcZYQ5PPeYuH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jnsGNnoyOS67avX9Czhx-15" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Usuario Invitado Web" vertex="1">
           <mxGeometry height="54" width="222" x="769" y="-240" as="geometry" />
         </mxCell>
-        <mxCell id="AVnlHVg5XeeqQUb8DDXu-2" edge="1" parent="1" source="AVnlHVg5XeeqQUb8DDXu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="AH2Q5FW9bcZYQ5PPeYuH-2">
+        <mxCell id="AVnlHVg5XeeqQUb8DDXu-2" edge="1" parent="1" source="AVnlHVg5XeeqQUb8DDXu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;" target="AH2Q5FW9bcZYQ5PPeYuH-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AVnlHVg5XeeqQUb8DDXu-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Usuario Interno Web -&gt; IAM" vertex="1">

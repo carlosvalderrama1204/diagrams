@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.4.0" pages="23">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.5.3" pages="24">
   <diagram name="Page-1" id="_VkZlfbcH69sGK29IT94">
     <mxGraphModel dx="2062" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9154,6 +9154,355 @@
         </mxCell>
         <mxCell id="0VjiDuBkakVzWSqM5rHn-28" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;color: #000000;background-color: #ffffff;font-family: IBMPlexMono, &#39;Courier New&#39;, monospace, Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 12px;line-height: 18px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;{&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;producto&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;: {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;artcodigo&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #0451a5;&quot;&gt;&quot;100124&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;sapCode&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #0451a5;&quot;&gt;&quot;100124&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;artconcepto&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #0451a5;&quot;&gt;&quot;Zapatos/Zapatos blancos&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;artobs&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #0451a5;&quot;&gt;&quot;Observaciones del producto visibles para todos los usuarios.&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;notasInternas&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #0451a5;&quot;&gt;&quot;Observaciones del producto NO visibles por los proveedores&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;subcategoria&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #0451a5;&quot;&gt;&quot;BAFA02&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;subcategoriasAdicionales&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;: {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;sapCode&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;: [&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #0451a5;&quot;&gt;&quot;BAFA02&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #0451a5;&quot;&gt;&quot;BAFA03&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; },&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;unidad&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #0451a5;&quot;&gt;&quot;2&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;unidadMedidaDefault&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #0451a5;&quot;&gt;&quot;UN&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;precioReferencia&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #0451a5;&quot;&gt;&quot;1600.56&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;stock&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #0451a5;&quot;&gt;&quot;100&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;stockMinimoProveedor&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #0451a5;&quot;&gt;&quot;50&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;pais&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #0451a5;&quot;&gt;&quot;ES&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;fechaValidez&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #0451a5;&quot;&gt;&quot;30-03-2022&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;precio&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #0451a5;&quot;&gt;&quot;2000&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;proveedor&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #0451a5;&quot;&gt;&quot;4000032752&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;fechaValidezPrecio&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #0451a5;&quot;&gt;&quot;02-03-2026&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp; &amp;nbsp; }&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="490" width="560" x="-460" y="-30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="UATUlohlDopLJBiYX1d6" name="Orden Compra">
+    <mxGraphModel dx="1389" dy="2923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="Posibles extensiones futuras del API&#xa;(si el negocio lo requiere)" vertex="1">
+          <mxGeometry height="345" width="1260" x="20" y="2817" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-2" parent="NjrvNf7BgiSgbMYdMWuv-1" style="whiteSpace=wrap;strokeWidth=2;" value="Ampliar JSON con:&#xa;- Campos Z específicos (textos Z, flags de negocio)&#xa;- Más objetos de imputación (orden interna, WBS, etc.)&#xa;- Atributos adicionales de contratos marco / valor previsto" vertex="1">
+          <mxGeometry height="246" width="260" x="43" y="58" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-3" parent="NjrvNf7BgiSgbMYdMWuv-1" style="whiteSpace=wrap;strokeWidth=2;" value="Servicios adicionales de estado/liberación:&#xa;- Consultar estado de liberación de OC&#xa;- Disparar liberaciones técnicas bajo reglas controladas&#xa;- Notificar cambios de estado a PCC" vertex="1">
+          <mxGeometry height="246" width="260" x="353" y="58" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-4" parent="NjrvNf7BgiSgbMYdMWuv-1" style="whiteSpace=wrap;strokeWidth=2;" value="Pre-validaciones en PCC/ESB antes de SAP:&#xa;- Reglas de negocio de alto nivel (montos máximos, combinaciones prohibidas)&#xa;- Simulación de mensajes SAP más críticos&#xa;- Catálogos sincronizados para minimizar errores técnicos" vertex="1">
+          <mxGeometry height="270" width="260" x="663" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-5" parent="NjrvNf7BgiSgbMYdMWuv-1" style="whiteSpace=wrap;strokeWidth=2;" value="Mejor integración con entradaMercanciaIn:&#xa;- Encadenar creación OC → Entrada de mercancía&#xa;- Notificar a PCC sobre recepciones / anulaciones" vertex="1">
+          <mxGeometry height="174" width="260" x="973" y="94" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-6" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Negocios que quedan DIRECTO en SAP" vertex="1">
+          <mxGeometry height="548" width="1310" x="4325" y="1127" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-7" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="Negocios que SÍ usan PCC + API" vertex="1">
+          <mxGeometry height="548" width="708" x="2449" y="2034" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Aprobación / Liberación de OC (hoy)" vertex="1">
+          <mxGeometry height="540" width="310" x="6100" y="2859" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-9" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="JSON OrdenCompraCrearResponse&#xa;(lo que responde el API a PCC)" vertex="1">
+          <mxGeometry height="369" width="658" x="2474" y="2617" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-10" parent="NjrvNf7BgiSgbMYdMWuv-9" style="whiteSpace=wrap;strokeWidth=2;" value="Casos éxito / warning:&#xa;- MessagesResponse.Messages[*]&#xa;- Mensaje de creación/modificación OC&#xa;(p.ej. &#39;Pedido Hercules PCC CL creado...&#39;)&#xa;- Advertencias de fechas, anticipo, precio&#xa;- Info de valor previsto, condiciones adoptadas" vertex="1">
+          <mxGeometry height="294" width="278" x="43" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-11" parent="NjrvNf7BgiSgbMYdMWuv-9" style="whiteSpace=wrap;strokeWidth=2;" value="Casos error:&#xa;- Nodo Standard.faultText&#xa;- Descripción técnica/funcional del error&#xa;- Posible código de mensaje SAP asociado" vertex="1">
+          <mxGeometry height="174" width="260" x="371" y="106" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-12" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Validaciones y lógica en SAP MM&#xa;(cuando se consume ordenCompraIn)" vertex="1">
+          <mxGeometry height="2078" width="620" x="1779" y="876" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-13" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="Aspectos NO cubiertos explícitamente por el JSON&#xa;(quedan en SAP o fuera del alcance actual)" vertex="1">
+          <mxGeometry height="345" width="1260" x="4350" y="2099" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-14" parent="NjrvNf7BgiSgbMYdMWuv-13" style="whiteSpace=wrap;strokeWidth=2;" value="Lógicas de liberación:&#xa;- Estrategias de liberación&#xa;- Secuencias de aprobadores&#xa;- Reglas por monto, centro, CECO, grupo compras" vertex="1">
+          <mxGeometry height="198" width="260" x="43" y="82" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-15" parent="NjrvNf7BgiSgbMYdMWuv-13" style="whiteSpace=wrap;strokeWidth=2;" value="Escenarios MM complejos:&#xa;- Pedidos abiertos / contratos marco completos&#xa;- Gestión detallada de valor previsto y límites&#xa;- Reglas especiales de anticipo&#xa;- Cambios masivos de condiciones y esquemas de precios avanzados" vertex="1">
+          <mxGeometry height="270" width="260" x="353" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-16" parent="NjrvNf7BgiSgbMYdMWuv-13" style="whiteSpace=wrap;strokeWidth=2;" value="Campos Z o específicos de dynpro ME21N/ME22N&#xa;no expuestos en el modelo JSON" vertex="1">
+          <mxGeometry height="126" width="260" x="663" y="118" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-17" parent="NjrvNf7BgiSgbMYdMWuv-13" style="whiteSpace=wrap;strokeWidth=2;" value="Interacción online tipo GUI:&#xa;- Diálogo usuario con avisos SAP en tiempo real&#xa;- Corrección inmediata de errores sobre pantalla SAP" vertex="1">
+          <mxGeometry height="150" width="260" x="973" y="106" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-18" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="JSON de entrada OrdenCompraCrearRequest&#xa;(lo que SÍ recibe el API)" vertex="1">
+          <mxGeometry height="801" width="647" x="3542" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-19" parent="NjrvNf7BgiSgbMYdMWuv-18" style="whiteSpace=wrap;strokeWidth=2;" value="PurchaseOrder (Cabecera):&#xa;- CompanyCode (Sociedad)&#xa;- DocType (Clase documento ZUNG/ZUNC)&#xa;- PurchaseOrder (N° OC/blank en creación)&#xa;- Partner: Vendor, TypeId, NumId&#xa;- PaymentTerms (Condiciones pago)&#xa;- PurchaseOrganization, PurchaseGroup&#xa;- Currency (Moneda)&#xa;- ReferenceId, ExternalReferenceId&#xa;- DownPaymentType, % / Amount / Date" vertex="1">
+          <mxGeometry height="438" width="260" x="43" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-20" parent="NjrvNf7BgiSgbMYdMWuv-18" style="whiteSpace=wrap;strokeWidth=2;" value="Items (Posiciones):&#xa;- ItemNumber&#xa;- DeleteIndicator&#xa;- MaterialCode / ExternalMaterialCode / ShortText&#xa;- Plant (Centro), Location (Almacén)&#xa;- MaterialGroup&#xa;- RegInfo (Registro info compras)&#xa;- Quantity, Unit, Price, Currency&#xa;- ValorationType (Tipo valoración)&#xa;- ItemCategory (Tipo posición)&#xa;- AccountAssessmentCategory (Tipo imputación, p.ej. K)&#xa;- Distribution (Imput. múltiple flag)&#xa;- Agreement / AgreementItem (Contrato)&#xa;- AccountGL (Cuenta contable)&#xa;- CostCenter&#xa;- TaxCode (IVA)&#xa;- PackageNumber" vertex="1">
+          <mxGeometry height="726" width="267" x="353" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-21" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Capa de Interoperabilidad / ESB" vertex="1">
+          <mxGeometry height="2958" width="310" x="1419" y="381" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-22" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="SAP ECC - Módulo MM" vertex="1">
+          <mxGeometry height="1771" width="645" x="5765" y="787" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-23" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Plataforma Colaborativa de Compras (PCC)" vertex="1">
+          <mxGeometry height="1071" width="1007" x="3207" y="2057" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-24" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Usuarios negocio PCC&#xa;(Compras estándar, eventos, alimentación, servicios administrativos, etc.)" vertex="1">
+          <mxGeometry height="150" width="260" x="3735" y="2640" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-25" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Pantallas / Flujos PCC&#xa;(Solicitud → Aprobación interna PCC → Envío a API)" vertex="1">
+          <mxGeometry height="102" width="260" x="3232" y="2344" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-26" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="SAP MM&#xa;(Creación/Modificación OC,&#xa;estrategias liberación, validaciones MM)" vertex="1">
+          <mxGeometry height="126" width="260" x="5790" y="1371" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-27" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Aprobadores SAP&#xa;(ME28 / WF de liberación)" vertex="1">
+          <mxGeometry height="78" width="247" x="6132" y="824" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-28" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Servicio REST OrdenCompraCrearOut&#xa;(ordenCompraIn en SAP)" vertex="1">
+          <mxGeometry height="102" width="260" x="1444" y="2170" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-29" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Servicio REST ordenCompraAnularIn" vertex="1">
+          <mxGeometry height="78" width="260" x="1444" y="3073" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-30" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Servicio REST entradaMercanciaIn / entradaMercanciaAnularIn" vertex="1">
+          <mxGeometry height="102" width="260" x="1444" y="3201" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-31" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Validación de maestros:&#xa;- Sociedad, Centro, Almacén (T001/T001W)&#xa;- Grupo compras (T024)&#xa;- Material/Servicio (MARA)&#xa;- Grupo artículos (T023)&#xa;- Proveedor (LFA1)&#xa;- Moneda (TCUR), UoM (T006)" vertex="1">
+          <mxGeometry height="246" width="260" x="1804" y="2136" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-32" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Reglas de negocio de compras:&#xa;- Clase de documento compatible con escenario&#xa;- Tipo imputación (K, etc.) y combinación con cuenta GL y CECO&#xa;- Condiciones de pago (T052)&#xa;- Categoría de valoración (T025)" vertex="1">
+          <mxGeometry height="294" width="260" x="2114" y="911" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-33" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Control contratos/pedidos abiertos:&#xa;- Organización de compras divergente&#xa;- Periodo validez no vigente / vencido&#xa;- Valor previsto excedido&#xa;- Cantidades repartidas vs previstas" vertex="1">
+          <mxGeometry height="246" width="260" x="2114" y="1255" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-34" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Fechas:&#xa;- Formato de fecha (mensajes VD351)&#xa;- Factibilidad de fechas de entrega (ME040, 06245)&#xa;- Fechas de liberación válidas (msg 145, 149)" vertex="1">
+          <mxGeometry height="198" width="260" x="2114" y="1551" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-35" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Validaciones contables:&#xa;- Determinación de cuenta de consumo (msg 138)&#xa;- Restricciones sobre cuenta contable (KI281, etc.)" vertex="1">
+          <mxGeometry height="174" width="260" x="2114" y="1799" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-36" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Generación MensajesResponse:&#xa;- Code (p.ej. 06017, ME040, KI281, VD351...)&#xa;- TypeMessage (S, W, E, I)&#xa;- Message (texto SAP)&#xa;- var1..var4 (valores contexto)" vertex="1">
+          <mxGeometry height="222" width="260" x="2114" y="2691" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-37" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Aprobación interna PCC (si aplica):&#xa;- Workflows propios de PCC antes de enviar a SAP&#xa;- Foco en validaciones de negocio &#39;front&#39;" vertex="1">
+          <mxGeometry height="174" width="260" x="6125" y="2894" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-38" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Estrategias de liberación SAP:&#xa;- Liberación por monto, org. compras, centro, CECO, cuenta&#xa;- Uso de clases/estrategias configuradas&#xa;- Transacciones ME28 / Workflow de liberación" vertex="1">
+          <mxGeometry height="246" width="260" x="6125" y="3118" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-39" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Eventos y servicios logísticos&#xa;(ejemplo Hércules / Ungerboeck)" vertex="1">
+          <mxGeometry height="126" width="260" x="2673" y="2069" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-40" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Alimentación y servicios estándar&#xa;(material/service con imputación K)" vertex="1">
+          <mxGeometry height="126" width="260" x="2673" y="2245" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-41" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Servicios administrativos simples&#xa;(un centro de costo, sin reglas complejas)" vertex="1">
+          <mxGeometry height="126" width="260" x="2673" y="2421" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-42" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Contratos marco y pedidos abiertos complejos&#xa;con fuerte control de valor previsto/límites" vertex="1">
+          <mxGeometry height="126" width="260" x="4850" y="1162" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-43" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Escenarios contables avanzados&#xa;con multiples objetos CO y reglas Z" vertex="1">
+          <mxGeometry height="126" width="260" x="4850" y="1338" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-44" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Procesos que usan campos Z de OC&#xa;no disponibles en el modelo JSON" vertex="1">
+          <mxGeometry height="126" width="260" x="4850" y="1514" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-45" edge="1" parent="1" source="NjrvNf7BgiSgbMYdMWuv-24" style="curved=1;startArrow=none;endArrow=block;exitX=0.22;exitY=1;entryX=0.54;entryY=1;rounded=0;" target="NjrvNf7BgiSgbMYdMWuv-25" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3517" y="3073" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-46" edge="1" parent="1" source="NjrvNf7BgiSgbMYdMWuv-25" style="curved=1;startArrow=none;endArrow=block;exitX=0.45;exitY=1;entryX=0.54;entryY=1;rounded=0;" target="NjrvNf7BgiSgbMYdMWuv-28" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3207" y="3021" />
+              <mxPoint x="1729" y="3021" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-47" edge="1" parent="1" source="NjrvNf7BgiSgbMYdMWuv-28" style="curved=1;startArrow=none;endArrow=block;exitX=0.52;exitY=0;entryX=0.44;entryY=0;rounded=0;" target="NjrvNf7BgiSgbMYdMWuv-26" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1729" y="856" />
+              <mxPoint x="5765" y="856" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-48" edge="1" parent="1" source="NjrvNf7BgiSgbMYdMWuv-26" style="curved=1;startArrow=none;endArrow=block;exitX=0.57;exitY=0;entryX=0;entryY=0.5;rounded=0;" target="NjrvNf7BgiSgbMYdMWuv-27" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="6075" y="863" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-49" edge="1" parent="1" source="NjrvNf7BgiSgbMYdMWuv-25" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.19;entryY=0;rounded=0;" target="NjrvNf7BgiSgbMYdMWuv-24" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3517" y="2395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-50" edge="1" parent="1" source="NjrvNf7BgiSgbMYdMWuv-24" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0;entryY=0.3;rounded=0;" target="NjrvNf7BgiSgbMYdMWuv-37" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4214" y="2900" />
+              <mxPoint x="4270" y="2940" />
+              <mxPoint x="6100" y="2940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-51" edge="1" parent="1" source="NjrvNf7BgiSgbMYdMWuv-37" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=1;entryX=0.53;entryY=1;rounded=0;" target="NjrvNf7BgiSgbMYdMWuv-28" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="6100" y="3180" />
+              <mxPoint x="1754" y="3180" />
+              <mxPoint x="1729" y="3145" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-52" edge="1" parent="1" source="NjrvNf7BgiSgbMYdMWuv-26" style="curved=1;startArrow=none;endArrow=block;exitX=0.58;exitY=1;entryX=0.45;entryY=0;rounded=0;" target="NjrvNf7BgiSgbMYdMWuv-38" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="6075" y="1913" />
+              <mxPoint x="6100" y="1913" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-53" edge="1" parent="1" source="NjrvNf7BgiSgbMYdMWuv-38" style="curved=1;startArrow=none;endArrow=block;exitX=0.4;exitY=0;entryX=0.54;entryY=1;rounded=0;" target="NjrvNf7BgiSgbMYdMWuv-26" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="6100" y="2509" />
+              <mxPoint x="6075" y="2509" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-54" edge="1" parent="1" source="NjrvNf7BgiSgbMYdMWuv-39" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.38;entryY=0;rounded=0;" target="NjrvNf7BgiSgbMYdMWuv-25" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3207" y="2132" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-55" edge="1" parent="1" source="NjrvNf7BgiSgbMYdMWuv-40" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.15;entryY=0;rounded=0;" target="NjrvNf7BgiSgbMYdMWuv-25" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3207" y="2308" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-56" edge="1" parent="1" source="NjrvNf7BgiSgbMYdMWuv-41" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.16;entryY=1;rounded=0;" target="NjrvNf7BgiSgbMYdMWuv-25" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3207" y="2484" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-57" edge="1" parent="1" source="NjrvNf7BgiSgbMYdMWuv-42" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.32;entryY=0;rounded=0;" target="NjrvNf7BgiSgbMYdMWuv-26" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5765" y="1225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-58" edge="1" parent="1" source="NjrvNf7BgiSgbMYdMWuv-43" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.28;rounded=0;" target="NjrvNf7BgiSgbMYdMWuv-26" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5765" y="1401" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-59" edge="1" parent="1" source="NjrvNf7BgiSgbMYdMWuv-44" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.24;entryY=1;rounded=0;" target="NjrvNf7BgiSgbMYdMWuv-26" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5765" y="1577" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-60" edge="1" parent="1" source="NjrvNf7BgiSgbMYdMWuv-25" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=0;entryX=0.37;entryY=1;rounded=0;" target="NjrvNf7BgiSgbMYdMWuv-18" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3517" y="2112" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-61" edge="1" parent="1" source="NjrvNf7BgiSgbMYdMWuv-18" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.52;entryY=0;rounded=0;" target="NjrvNf7BgiSgbMYdMWuv-28" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1729" y="421" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-62" edge="1" parent="1" source="NjrvNf7BgiSgbMYdMWuv-24" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.87;exitY=0;entryX=0;entryY=0.5;rounded=0;" target="NjrvNf7BgiSgbMYdMWuv-13" value="requiere">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4214" y="2440" />
+              <mxPoint x="4270" y="2271" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-63" edge="1" parent="1" source="NjrvNf7BgiSgbMYdMWuv-13" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.46;entryY=1;rounded=0;" target="NjrvNf7BgiSgbMYdMWuv-26" value="se resuelve">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5765" y="2271" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-64" edge="1" parent="1" source="NjrvNf7BgiSgbMYdMWuv-28" style="curved=1;startArrow=none;endArrow=block;rounded=0;" target="NjrvNf7BgiSgbMYdMWuv-12" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-65" edge="1" parent="1" source="NjrvNf7BgiSgbMYdMWuv-12" style="curved=1;startArrow=none;endArrow=block;rounded=0;" target="NjrvNf7BgiSgbMYdMWuv-26" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-66" edge="1" parent="1" source="NjrvNf7BgiSgbMYdMWuv-12" style="curved=1;startArrow=none;endArrow=block;rounded=0;" target="NjrvNf7BgiSgbMYdMWuv-36" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-67" edge="1" parent="1" source="NjrvNf7BgiSgbMYdMWuv-36" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" target="NjrvNf7BgiSgbMYdMWuv-9" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-68" edge="1" parent="1" source="NjrvNf7BgiSgbMYdMWuv-9" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.42;entryY=1;rounded=0;" target="NjrvNf7BgiSgbMYdMWuv-25" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3207" y="2802" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-69" edge="1" parent="1" source="NjrvNf7BgiSgbMYdMWuv-1" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;" target="NjrvNf7BgiSgbMYdMWuv-21" value="hoja de ruta">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-70" edge="1" parent="1" source="NjrvNf7BgiSgbMYdMWuv-1" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;" target="NjrvNf7BgiSgbMYdMWuv-23" value="roadmap funcional">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-71" edge="1" parent="1" source="NjrvNf7BgiSgbMYdMWuv-1" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.73;exitY=1;entryX=0.47;entryY=1;rounded=0;" target="NjrvNf7BgiSgbMYdMWuv-26" value="requeriría cambios">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1349" y="3413" />
+              <mxPoint x="1729" y="3413" />
+              <mxPoint x="1754" y="3148" />
+              <mxPoint x="4214" y="3148" />
+              <mxPoint x="4270" y="2499" />
+              <mxPoint x="5765" y="2499" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-73" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="JSON de entrada OrdenCompraCrearRequest&#xa;(lo que SÍ recibe el API)" vertex="1">
+          <mxGeometry height="801" width="647" x="3520" y="-1510" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-74" parent="NjrvNf7BgiSgbMYdMWuv-73" style="whiteSpace=wrap;strokeWidth=2;" value="PurchaseOrder (Cabecera):&#xa;- CompanyCode (Sociedad)&#xa;- DocType (Clase documento ZUNG/ZUNC)&#xa;- PurchaseOrder (N° OC/blank en creación)&#xa;- Partner: Vendor, TypeId, NumId&#xa;- PaymentTerms (Condiciones pago)&#xa;- PurchaseOrganization, PurchaseGroup&#xa;- Currency (Moneda)&#xa;- ReferenceId, ExternalReferenceId&#xa;- DownPaymentType, % / Amount / Date" vertex="1">
+          <mxGeometry height="438" width="260" x="43" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-75" parent="NjrvNf7BgiSgbMYdMWuv-73" style="whiteSpace=wrap;strokeWidth=2;" value="Items (Posiciones):&#xa;- ItemNumber&#xa;- DeleteIndicator&#xa;- MaterialCode / ExternalMaterialCode / ShortText&#xa;- Plant (Centro), Location (Almacén)&#xa;- MaterialGroup&#xa;- RegInfo (Registro info compras)&#xa;- Quantity, Unit, Price, Currency&#xa;- ValorationType (Tipo valoración)&#xa;- ItemCategory (Tipo posición)&#xa;- AccountAssessmentCategory (Tipo imputación, p.ej. K)&#xa;- Distribution (Imput. múltiple flag)&#xa;- Agreement / AgreementItem (Contrato)&#xa;- AccountGL (Cuenta contable)&#xa;- CostCenter&#xa;- TaxCode (IVA)&#xa;- PackageNumber" vertex="1">
+          <mxGeometry height="726" width="267" x="353" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-79" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="&lt;b&gt;Negocios&lt;/b&gt;" vertex="1">
+          <mxGeometry height="440" width="435" x="2750" y="-1410" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-82" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Alimentación y servicios estándar&#xa;(material/service con imputación K)" vertex="1">
+          <mxGeometry height="126" width="260" x="2470" y="-1200" as="geometry" />
+        </mxCell>
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-83" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Servicios administrativos simples&#xa;(un centro de costo, sin reglas complejas)" vertex="1">
+          <mxGeometry height="126" width="260" x="2470" y="-1024" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.4.0" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0" pages="8">
   <diagram name="Page-1" id="IC_4wayHIkYUXnKGSXEM">
     <mxGraphModel dx="1665" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -976,7 +976,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dquDM509BNwjq53XzlVr" name="Diagrama Arq">
-    <mxGraphModel dx="1442" dy="942" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1900" dy="976" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1303,14 +1303,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NxCdKV830loLXrZSRHIS" name="Vista logica">
-    <mxGraphModel dx="2216" dy="931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1884" dy="791" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ujMn0gqicRyiQq9PC4w1-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Knowledge Base" vertex="1">
+        <mxCell id="ujMn0gqicRyiQq9PC4w1-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="Knowledge Base" vertex="1">
           <mxGeometry height="407" width="205" x="1351" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="ujMn0gqicRyiQq9PC4w1-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Copilot Studio Core" vertex="1">
+        <mxCell id="ujMn0gqicRyiQq9PC4w1-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="Copilot Studio Core" vertex="1">
           <mxGeometry height="402" width="1135" x="166" y="27" as="geometry" />
         </mxCell>
         <mxCell id="ujMn0gqicRyiQq9PC4w1-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Lógica Interna" vertex="1">

@@ -8270,7 +8270,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XQ6paxc_Rr85LMWMb05p" name="Page-21">
-    <mxGraphModel dx="3312" dy="1055" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2467" dy="640" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8514,7 +8514,7 @@
         <mxCell id="loyx6t9--z9faUdgIJ5e-36" edge="1" parent="1" source="loyx6t9--z9faUdgIJ5e-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="loyx6t9--z9faUdgIJ5e-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="loyx6t9--z9faUdgIJ5e-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Otros Sistemas" vertex="1">
+        <mxCell id="loyx6t9--z9faUdgIJ5e-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Hércules" vertex="1">
           <mxGeometry height="60" width="120" x="1160" as="geometry" />
         </mxCell>
         <mxCell id="loyx6t9--z9faUdgIJ5e-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Otros Sistemas" vertex="1">
@@ -8958,12 +8958,12 @@
           <mxGeometry height="26" width="177" x="364.97" y="1206" as="geometry" />
         </mxCell>
         <mxCell id="CQGDIKs5C9iY18vNc9ub-4" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;" value="alt" vertex="1">
-          <mxGeometry height="157" width="990" x="-166.03" y="1089" as="geometry" />
+          <mxGeometry height="181" width="990" x="-166.03" y="1089" as="geometry" />
         </mxCell>
-        <mxCell id="CQGDIKs5C9iY18vNc9ub-6" edge="1" parent="1" source="CQGDIKs5C9iY18vNc9ub-4" style="endArrow=none;html=1;rounded=0;exitX=-0.003;exitY=0.529;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.998;entryY=0.53;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" target="CQGDIKs5C9iY18vNc9ub-4" value="">
+        <mxCell id="CQGDIKs5C9iY18vNc9ub-6" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=-0.003;exitY=0.529;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.998;entryY=0.53;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="353.97" y="1220" as="sourcePoint" />
-            <mxPoint x="403.97" y="1170" as="targetPoint" />
+            <mxPoint x="-172" y="1167.9989999999998" as="sourcePoint" />
+            <mxPoint x="818.9899999999993" y="1168.1799999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CQGDIKs5C9iY18vNc9ub-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="[Aprobación Proveedor]" vertex="1">
@@ -9028,6 +9028,9 @@
         </mxCell>
         <mxCell id="A3vNNXwKWW4MBxFTKNDF-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="La ficha Tecnica esta en Onbase?" vertex="1">
           <mxGeometry height="30" width="60" x="1333" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="A3vNNXwKWW4MBxFTKNDF-2" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" value="Grupo Asociado a Categoría" vertex="1">
+          <mxGeometry height="16.5" width="30" x="-20" y="1187" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

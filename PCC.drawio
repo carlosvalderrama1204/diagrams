@@ -8270,7 +8270,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XQ6paxc_Rr85LMWMb05p" name="Page-21">
-    <mxGraphModel dx="3312" dy="1261" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3312" dy="1055" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8514,7 +8514,7 @@
         <mxCell id="loyx6t9--z9faUdgIJ5e-36" edge="1" parent="1" source="loyx6t9--z9faUdgIJ5e-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="loyx6t9--z9faUdgIJ5e-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="loyx6t9--z9faUdgIJ5e-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Eventos" vertex="1">
+        <mxCell id="loyx6t9--z9faUdgIJ5e-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Otros Sistemas" vertex="1">
           <mxGeometry height="60" width="120" x="1160" as="geometry" />
         </mxCell>
         <mxCell id="loyx6t9--z9faUdgIJ5e-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Otros Sistemas" vertex="1">
@@ -9018,7 +9018,16 @@
           <mxGeometry height="30" width="30" x="-20" y="684" as="geometry" />
         </mxCell>
         <mxCell id="CQGDIKs5C9iY18vNc9ub-19" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Document_icons-2697/647704-pdf-1197.svg;direction=south;" value="Ficha Técnica" vertex="1">
-          <mxGeometry height="30" width="30" x="1147" y="863.25" as="geometry" />
+          <mxGeometry height="30" width="30" x="1146" y="872" as="geometry" />
+        </mxCell>
+        <mxCell id="CQGDIKs5C9iY18vNc9ub-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Hercules no envia OC al proveedor ni adjuntos?" vertex="1">
+          <mxGeometry height="30" width="60" x="1247" y="875" as="geometry" />
+        </mxCell>
+        <mxCell id="CQGDIKs5C9iY18vNc9ub-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Para Juan C. Se pueden corregir las OC manualmente" vertex="1">
+          <mxGeometry height="30" width="60" x="1639" y="1168" as="geometry" />
+        </mxCell>
+        <mxCell id="A3vNNXwKWW4MBxFTKNDF-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="La ficha Tecnica esta en Onbase?" vertex="1">
+          <mxGeometry height="30" width="60" x="1333" y="640" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -9233,7 +9242,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UATUlohlDopLJBiYX1d6" name="Orden Compra">
-    <mxGraphModel dx="5704" dy="5848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="3273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9342,7 +9351,7 @@
         <mxCell id="NjrvNf7BgiSgbMYdMWuv-35" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Validaciones contables:&#xa;- Determinación de cuenta de consumo (msg 138)&#xa;- Restricciones sobre cuenta contable (KI281, etc.)" vertex="1">
           <mxGeometry height="174" width="260" x="2114" y="1799" as="geometry" />
         </mxCell>
-        <mxCell id="NjrvNf7BgiSgbMYdMWuv-36" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Generación MensajesResponse:&#xa;- Code (p.ej. 06017, ME040, KI281, VD351...)&#xa;- TypeMessage (S, W, E, I)&#xa;- Message (texto SAP)&#xa;- var1..var4 (valores contexto)" vertex="1">
+        <mxCell id="NjrvNf7BgiSgbMYdMWuv-36" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" value="Generación MensajesResponse:&#xa;- Code (p.ej. 06017, ME040, KI281, VD351...)&#xa;- TypeMessage (S, W, E, I)&#xa;- Message (texto SAP)&#xa;- var1..var4 (valores contexto)" vertex="1">
           <mxGeometry height="222" width="260" x="2114" y="2691" as="geometry" />
         </mxCell>
         <mxCell id="NjrvNf7BgiSgbMYdMWuv-37" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Aprobación interna PCC (si aplica):&#xa;- Workflows propios de PCC antes de enviar a SAP&#xa;- Foco en validaciones de negocio &#39;front&#39;" vertex="1">

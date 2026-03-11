@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1" pages="24">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1" pages="25">
   <diagram name="Page-1" id="_VkZlfbcH69sGK29IT94">
     <mxGraphModel dx="2062" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9598,6 +9598,280 @@
         </mxCell>
         <mxCell id="97jnbPZF8Q-_WDTgJTJm-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Zeus" vertex="1">
           <mxGeometry height="30" width="60" x="2670" y="-1570" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9SQ-Dd15XhLV9_gG69F2" name="Rol Proveedor">
+    <mxGraphModel dx="2616" dy="931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9Zm1tNd0r7BuSAV70oXq-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="🏢 SAP ERP" vertex="1">
+          <mxGeometry height="860" width="150" x="20" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1tNd0r7BuSAV70oXq-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="🔄 CDC / Event Bus" vertex="1">
+          <mxGeometry height="860" width="161" x="319" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1tNd0r7BuSAV70oXq-3" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="🗄️ Consolidador MDM" vertex="1">
+          <mxGeometry height="860" width="179" x="558" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1tNd0r7BuSAV70oXq-4" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="👤 Empresa" vertex="1">
+          <mxGeometry height="860" width="150" x="787" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1tNd0r7BuSAV70oXq-5" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="📦 Plataforma Colaborativa" vertex="1">
+          <mxGeometry height="860" width="150" x="1099" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1tNd0r7BuSAV70oXq-6" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="🔐 VUCIAM(IdP)" vertex="1">
+          <mxGeometry height="860" width="150" x="1507" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1tNd0r7BuSAV70oXq-7" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="📱 Otras Apps" vertex="1">
+          <mxGeometry height="860" width="150" x="1775" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1tNd0r7BuSAV70oXq-8" edge="1" parent="1" source="9Zm1tNd0r7BuSAV70oXq-1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="9Zm1tNd0r7BuSAV70oXq-2" value="Cambio en datos maestros (CDC)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="256" y="186" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zm1tNd0r7BuSAV70oXq-9" edge="1" parent="1" source="9Zm1tNd0r7BuSAV70oXq-2" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="9Zm1tNd0r7BuSAV70oXq-3" value="Replica y consolida datos">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="532" y="238" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zm1tNd0r7BuSAV70oXq-10" edge="1" parent="1" source="9Zm1tNd0r7BuSAV70oXq-4" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="9Zm1tNd0r7BuSAV70oXq-5" value="1. Solicita acceso">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1026" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zm1tNd0r7BuSAV70oXq-11" edge="1" parent="1" source="9Zm1tNd0r7BuSAV70oXq-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="9Zm1tNd0r7BuSAV70oXq-6" value="2. Redirige (SAML AuthnRequest)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1386" y="342" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zm1tNd0r7BuSAV70oXq-12" edge="1" parent="1" source="9Zm1tNd0r7BuSAV70oXq-4" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="9Zm1tNd0r7BuSAV70oXq-6" value="3. Ingresa credenciales">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1230" y="394" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zm1tNd0r7BuSAV70oXq-13" edge="1" parent="1" source="9Zm1tNd0r7BuSAV70oXq-6" style="curved=1;endArrow=block;rounded=0;" target="9Zm1tNd0r7BuSAV70oXq-6" value="4. Autentica usuario">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1633" y="446" />
+              <mxPoint x="1633" y="476" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zm1tNd0r7BuSAV70oXq-14" edge="1" parent="1" source="9Zm1tNd0r7BuSAV70oXq-6" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="9Zm1tNd0r7BuSAV70oXq-3" value="5. Token Enrichment: consulta rol">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1126" y="528" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zm1tNd0r7BuSAV70oXq-15" edge="1" parent="1" source="9Zm1tNd0r7BuSAV70oXq-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="9Zm1tNd0r7BuSAV70oXq-6" value="6. Retorna: rol = &quot;proveedor&quot;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1123" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zm1tNd0r7BuSAV70oXq-16" edge="1" parent="1" source="9Zm1tNd0r7BuSAV70oXq-6" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="9Zm1tNd0r7BuSAV70oXq-5" value="7. Token SAML/OIDC con claim &quot;rol=proveedor&quot;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1389" y="632" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zm1tNd0r7BuSAV70oXq-17" edge="1" parent="1" source="9Zm1tNd0r7BuSAV70oXq-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="9Zm1tNd0r7BuSAV70oXq-4" value="8. Muestra opciones de proveedor">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1029" y="684" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zm1tNd0r7BuSAV70oXq-18" edge="1" parent="1" source="9Zm1tNd0r7BuSAV70oXq-6" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="9Zm1tNd0r7BuSAV70oXq-7" value="Token enriquecido con roles">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1724" y="785" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Zm1tNd0r7BuSAV70oXq-19" parent="1" style="fillColor=#ffff88;strokeColor=#9E916F;" value="Sincronización continua (background)" vertex="1">
+          <mxGeometry height="49" width="602" x="70" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="9Zm1tNd0r7BuSAV70oXq-20" parent="1" style="fillColor=#ffff88;strokeColor=#9E916F;" value="Mismo token enriquecido disponible para todas las apps" vertex="1">
+          <mxGeometry height="49" width="318" x="1557" y="704" as="geometry" />
+        </mxCell>
+        <mxCell id="p0u7s-jCoff3Jn7QA9eZ-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="👤 Usuario" vertex="1">
+          <mxGeometry height="606" width="150" x="18" y="1024" as="geometry" />
+        </mxCell>
+        <mxCell id="p0u7s-jCoff3Jn7QA9eZ-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="📦 Plataforma Colaborativa" vertex="1">
+          <mxGeometry height="606" width="150" x="330" y="1024" as="geometry" />
+        </mxCell>
+        <mxCell id="p0u7s-jCoff3Jn7QA9eZ-3" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="🔐 VUCIAM (IdP)" vertex="1">
+          <mxGeometry height="606" width="150" x="695" y="1024" as="geometry" />
+        </mxCell>
+        <mxCell id="p0u7s-jCoff3Jn7QA9eZ-4" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="🏢 SAP ERP" vertex="1">
+          <mxGeometry height="606" width="150" x="1019" y="1024" as="geometry" />
+        </mxCell>
+        <mxCell id="p0u7s-jCoff3Jn7QA9eZ-5" edge="1" parent="1" source="p0u7s-jCoff3Jn7QA9eZ-1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="p0u7s-jCoff3Jn7QA9eZ-2" value="1. Solicita acceso">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="258" y="1131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0u7s-jCoff3Jn7QA9eZ-6" edge="1" parent="1" source="p0u7s-jCoff3Jn7QA9eZ-2" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="p0u7s-jCoff3Jn7QA9eZ-3" value="2. Redirige (SAML AuthnRequest)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="596" y="1183" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0u7s-jCoff3Jn7QA9eZ-7" edge="1" parent="1" source="p0u7s-jCoff3Jn7QA9eZ-1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="p0u7s-jCoff3Jn7QA9eZ-3" value="3. Ingresa credenciales">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="1235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0u7s-jCoff3Jn7QA9eZ-8" edge="1" parent="1" source="p0u7s-jCoff3Jn7QA9eZ-3" style="curved=1;endArrow=block;rounded=0;" target="p0u7s-jCoff3Jn7QA9eZ-3" value="4. Autentica usuario">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="821" y="1287" />
+              <mxPoint x="821" y="1317" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0u7s-jCoff3Jn7QA9eZ-9" edge="1" parent="1" source="p0u7s-jCoff3Jn7QA9eZ-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="p0u7s-jCoff3Jn7QA9eZ-4" value="5. Consulta: ¿proveedor o acreedor?">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="941" y="1369" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0u7s-jCoff3Jn7QA9eZ-10" edge="1" parent="1" source="p0u7s-jCoff3Jn7QA9eZ-4" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="p0u7s-jCoff3Jn7QA9eZ-3" value="6. Responde: rol = &quot;proveedor&quot;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="944" y="1421" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0u7s-jCoff3Jn7QA9eZ-11" edge="1" parent="1" source="p0u7s-jCoff3Jn7QA9eZ-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="p0u7s-jCoff3Jn7QA9eZ-2" value="7. Token SAML con claim &quot;rol=proveedor&quot;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="599" y="1473" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0u7s-jCoff3Jn7QA9eZ-12" edge="1" parent="1" source="p0u7s-jCoff3Jn7QA9eZ-2" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="p0u7s-jCoff3Jn7QA9eZ-1" value="8. Muestra opciones de proveedor">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="261" y="1525" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p0u7s-jCoff3Jn7QA9eZ-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Opción 2" vertex="1">
+          <mxGeometry height="30" width="60" x="-34" y="953" as="geometry" />
+        </mxCell>
+        <mxCell id="p0u7s-jCoff3Jn7QA9eZ-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Opción 3" vertex="1">
+          <mxGeometry height="30" width="60" x="-68" y="1688" as="geometry" />
+        </mxCell>
+        <mxCell id="28s6r5b8N2lORuTi3JUW-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="👤 Empresa" vertex="1">
+          <mxGeometry height="710" width="150" x="-39" y="1836" as="geometry" />
+        </mxCell>
+        <mxCell id="28s6r5b8N2lORuTi3JUW-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="📦 Plataforma Colaborativa" vertex="1">
+          <mxGeometry height="710" width="150" x="282" y="1836" as="geometry" />
+        </mxCell>
+        <mxCell id="28s6r5b8N2lORuTi3JUW-3" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="🔐 VUCIAM (IdP)" vertex="1">
+          <mxGeometry height="710" width="150" x="676" y="1836" as="geometry" />
+        </mxCell>
+        <mxCell id="28s6r5b8N2lORuTi3JUW-4" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="🔗 API REST" vertex="1">
+          <mxGeometry height="710" width="150" x="876" y="1836" as="geometry" />
+        </mxCell>
+        <mxCell id="28s6r5b8N2lORuTi3JUW-5" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="🏢 SAP ERP" vertex="1">
+          <mxGeometry height="710" width="150" x="1181" y="1836" as="geometry" />
+        </mxCell>
+        <mxCell id="28s6r5b8N2lORuTi3JUW-6" edge="1" parent="1" source="28s6r5b8N2lORuTi3JUW-1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="28s6r5b8N2lORuTi3JUW-2" value="1. Solicita acceso">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="205" y="1943" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28s6r5b8N2lORuTi3JUW-7" edge="1" parent="1" source="28s6r5b8N2lORuTi3JUW-2" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="28s6r5b8N2lORuTi3JUW-3" value="2. Redirige (SAML AuthnRequest)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="563" y="1995" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28s6r5b8N2lORuTi3JUW-8" edge="1" parent="1" source="28s6r5b8N2lORuTi3JUW-1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="28s6r5b8N2lORuTi3JUW-3" value="3. Ingresa credenciales">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="402" y="2047" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28s6r5b8N2lORuTi3JUW-9" edge="1" parent="1" source="28s6r5b8N2lORuTi3JUW-3" style="curved=1;endArrow=block;rounded=0;" target="28s6r5b8N2lORuTi3JUW-3" value="4. Autentica usuario">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="802" y="2099" />
+              <mxPoint x="802" y="2129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28s6r5b8N2lORuTi3JUW-10" edge="1" parent="1" source="28s6r5b8N2lORuTi3JUW-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="28s6r5b8N2lORuTi3JUW-2" value="5. Token SAML (identidad, SIN rol de negocio)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="566" y="2181" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28s6r5b8N2lORuTi3JUW-11" edge="1" parent="1" source="28s6r5b8N2lORuTi3JUW-2" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="28s6r5b8N2lORuTi3JUW-4" value="6. GET /api/Interlocutor">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="663" y="2233" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28s6r5b8N2lORuTi3JUW-12" edge="1" parent="1" source="28s6r5b8N2lORuTi3JUW-4" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="28s6r5b8N2lORuTi3JUW-5" value="7. Query: ¿proveedor o acreedor?">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1112" y="2285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28s6r5b8N2lORuTi3JUW-13" edge="1" parent="1" source="28s6r5b8N2lORuTi3JUW-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="28s6r5b8N2lORuTi3JUW-4" value="8. Responde: rol = &quot;proveedor&quot;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1115" y="2337" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28s6r5b8N2lORuTi3JUW-14" edge="1" parent="1" source="28s6r5b8N2lORuTi3JUW-4" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="28s6r5b8N2lORuTi3JUW-2" value="9. Retorna rol">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="666" y="2389" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28s6r5b8N2lORuTi3JUW-15" edge="1" parent="1" source="28s6r5b8N2lORuTi3JUW-2" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="28s6r5b8N2lORuTi3JUW-1" value="10. Muestra opciones de proveedor">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="208" y="2441" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

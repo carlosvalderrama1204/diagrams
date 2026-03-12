@@ -8270,7 +8270,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XQ6paxc_Rr85LMWMb05p" name="Page-21">
-    <mxGraphModel dx="3108" dy="937" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3016" dy="931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8514,7 +8514,7 @@
         <mxCell id="loyx6t9--z9faUdgIJ5e-36" edge="1" parent="1" source="loyx6t9--z9faUdgIJ5e-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="loyx6t9--z9faUdgIJ5e-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="loyx6t9--z9faUdgIJ5e-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Hércules" vertex="1">
+        <mxCell id="loyx6t9--z9faUdgIJ5e-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SAP PM" vertex="1">
           <mxGeometry height="60" width="120" x="1160" as="geometry" />
         </mxCell>
         <mxCell id="loyx6t9--z9faUdgIJ5e-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Otros Sistemas" vertex="1">
@@ -9017,7 +9017,7 @@
         <mxCell id="CQGDIKs5C9iY18vNc9ub-18" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Document_icons-2697/647704-pdf-1197.svg;direction=south;" value="Ficha Técnica" vertex="1">
           <mxGeometry height="30" width="30" x="-20" y="684" as="geometry" />
         </mxCell>
-        <mxCell id="CQGDIKs5C9iY18vNc9ub-19" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Document_icons-2697/647704-pdf-1197.svg;direction=south;" value="Ficha Técnica" vertex="1">
+        <mxCell id="CQGDIKs5C9iY18vNc9ub-19" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Document_icons-2697/647704-pdf-1197.svg;direction=south;" value="&lt;span style=&quot;font-size:11.0pt;font-family:&amp;quot;Aptos&amp;quot;,sans-serif;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Aptos;&lt;br/&gt;color:#0C64C0;mso-ansi-language:ES-CO;mso-fareast-language:ES-CO;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;Instructivo&amp;nbsp;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="30" x="1146" y="872" as="geometry" />
         </mxCell>
         <mxCell id="CQGDIKs5C9iY18vNc9ub-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Hercules no envia OC al proveedor ni adjuntos?" vertex="1">

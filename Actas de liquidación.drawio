@@ -552,7 +552,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-uofsirDr-h0p2pFPu3_" name="Page-4">
-    <mxGraphModel dx="1986" dy="1521" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1826" dy="1557" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -566,7 +566,7 @@
           <mxGeometry height="398" width="1190" x="10" y="1550" as="geometry" />
         </mxCell>
         <mxCell id="iFAyd3e-lHZqaRFtBS5t-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="3. LÓGICA DE IA (Orquestador)" vertex="1">
-          <mxGeometry height="565" width="1172" x="20" y="855" as="geometry" />
+          <mxGeometry height="588" width="1270" x="-78" y="832" as="geometry" />
         </mxCell>
         <mxCell id="iFAyd3e-lHZqaRFtBS5t-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="2. INGESTA (Data Lake - Capa Gold)" vertex="1">
           <mxGeometry height="761" width="403" x="91" y="20" as="geometry" />
@@ -606,6 +606,9 @@
         </mxCell>
         <mxCell id="iFAyd3e-lHZqaRFtBS5t-12" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" value="CAPA GOLD: &#xa;Fuente de Verdad Conciliada" vertex="1">
           <mxGeometry height="134" width="215" x="195" y="621" as="geometry" />
+        </mxCell>
+        <mxCell id="DPoIHoJqfv4PkEioJ_5i-2" edge="1" parent="1" source="iFAyd3e-lHZqaRFtBS5t-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DPoIHoJqfv4PkEioJ_5i-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iFAyd3e-lHZqaRFtBS5t-13" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Azure AI Doc Intelligence" vertex="1">
           <mxGeometry height="54" width="239" x="183" y="880" as="geometry" />
@@ -747,6 +750,9 @@
         </mxCell>
         <mxCell id="iFAyd3e-lHZqaRFtBS5t-54" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Document_icons-2697/647702-excel-1195.svg" value="" vertex="1">
           <mxGeometry height="30" width="30" x="-100" y="-447" as="geometry" />
+        </mxCell>
+        <mxCell id="DPoIHoJqfv4PkEioJ_5i-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Reglas" vertex="1">
+          <mxGeometry height="60" width="120" x="641" y="877" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

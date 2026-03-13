@@ -8503,18 +8503,13 @@
             <mxPoint x="57" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UmLkQXYnNr6DzSCnm-XY-2" edge="1" parent="1" source="loyx6t9--z9faUdgIJ5e-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1130" y="886.2000000000003" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="loyx6t9--z9faUdgIJ5e-31" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Document_icons-2697/647704-pdf-1197.svg;direction=south;" value="OC" vertex="1">
           <mxGeometry height="30" width="30" x="1070" y="872" as="geometry" />
         </mxCell>
         <mxCell id="loyx6t9--z9faUdgIJ5e-36" edge="1" parent="1" source="loyx6t9--z9faUdgIJ5e-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="loyx6t9--z9faUdgIJ5e-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="loyx6t9--z9faUdgIJ5e-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SAP PM" vertex="1">
+        <mxCell id="loyx6t9--z9faUdgIJ5e-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Hércules Eventos" vertex="1">
           <mxGeometry height="60" width="120" x="1160" as="geometry" />
         </mxCell>
         <mxCell id="loyx6t9--z9faUdgIJ5e-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Otros Sistemas" vertex="1">
@@ -8951,9 +8946,6 @@
             <mxPoint x="202" y="708.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CQGDIKs5C9iY18vNc9ub-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Alcance Choco, Palermo?&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="60" x="1232" y="595" as="geometry" />
-        </mxCell>
         <mxCell id="CQGDIKs5C9iY18vNc9ub-3" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontStyle=1" value=". API Rechaza Orden Compra" vertex="1">
           <mxGeometry height="26" width="177" x="364.97" y="1206" as="geometry" />
         </mxCell>
@@ -9017,23 +9009,23 @@
         <mxCell id="CQGDIKs5C9iY18vNc9ub-18" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Document_icons-2697/647704-pdf-1197.svg;direction=south;" value="Ficha Técnica" vertex="1">
           <mxGeometry height="30" width="30" x="-20" y="684" as="geometry" />
         </mxCell>
-        <mxCell id="CQGDIKs5C9iY18vNc9ub-19" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Document_icons-2697/647704-pdf-1197.svg;direction=south;" value="&lt;span style=&quot;font-size:11.0pt;font-family:&amp;quot;Aptos&amp;quot;,sans-serif;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:Aptos;&lt;br/&gt;color:#0C64C0;mso-ansi-language:ES-CO;mso-fareast-language:ES-CO;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;Instructivo&amp;nbsp;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="30" x="1146" y="872" as="geometry" />
-        </mxCell>
-        <mxCell id="CQGDIKs5C9iY18vNc9ub-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Hercules no envia OC al proveedor ni adjuntos?" vertex="1">
-          <mxGeometry height="30" width="60" x="1247" y="875" as="geometry" />
-        </mxCell>
         <mxCell id="CQGDIKs5C9iY18vNc9ub-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Para Juan C. Se pueden corregir las OC manualmente" vertex="1">
           <mxGeometry height="30" width="60" x="1639" y="1168" as="geometry" />
-        </mxCell>
-        <mxCell id="A3vNNXwKWW4MBxFTKNDF-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="La ficha Tecnica esta en Onbase?" vertex="1">
-          <mxGeometry height="30" width="60" x="1333" y="640" as="geometry" />
         </mxCell>
         <mxCell id="A3vNNXwKWW4MBxFTKNDF-2" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" value="Grupo Asociado a Categoría" vertex="1">
           <mxGeometry height="16.5" width="30" x="-20" y="1187" as="geometry" />
         </mxCell>
-        <mxCell id="A3vNNXwKWW4MBxFTKNDF-4" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Document_icons-2697/647704-pdf-1197.svg;direction=south;" value="Polizas" vertex="1">
-          <mxGeometry height="30" width="30" x="1083" y="985" as="geometry" />
+        <mxCell id="NHdP0AhZYTJB_pCvwh-Q-3" edge="1" parent="1" source="NHdP0AhZYTJB_pCvwh-Q-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="CQGDIKs5C9iY18vNc9ub-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NHdP0AhZYTJB_pCvwh-Q-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="URL ? Token &amp;amp; OC=123" vertex="1">
+          <mxGeometry height="30" width="90.53" x="423.47" y="727" as="geometry" />
+        </mxCell>
+        <mxCell id="NHdP0AhZYTJB_pCvwh-Q-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="URL ? Key Private" vertex="1">
+          <mxGeometry height="30" width="60" x="143" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="NHdP0AhZYTJB_pCvwh-Q-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#3333FF;" value="&lt;b&gt;&lt;u&gt;URL Ficha Téc.&lt;/u&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="1120" y="880" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

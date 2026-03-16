@@ -563,7 +563,7 @@
           <mxGeometry height="97" width="120" x="-110" y="-214" as="geometry" />
         </mxCell>
         <mxCell id="iFAyd3e-lHZqaRFtBS5t-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;" value="4. FORMALIZACIÓN Y ARCHIVO" vertex="1">
-          <mxGeometry height="398" width="1190" x="10" y="1550" as="geometry" />
+          <mxGeometry height="398" width="1280" x="-80" y="1550" as="geometry" />
         </mxCell>
         <mxCell id="iFAyd3e-lHZqaRFtBS5t-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="3. LÓGICA DE IA (Orquestador)" vertex="1">
           <mxGeometry height="588" width="1270" x="-78" y="832" as="geometry" />

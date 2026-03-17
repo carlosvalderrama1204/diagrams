@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1" pages="25">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.3" pages="25">
   <diagram name="Page-1" id="_VkZlfbcH69sGK29IT94">
     <mxGraphModel dx="2062" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9595,10 +9595,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9SQ-Dd15XhLV9_gG69F2" name="Rol Proveedor">
-    <mxGraphModel dx="2616" dy="931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3183" dy="833" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LR9NJ5URFRMmZek1VtfO-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" value="Replicador" vertex="1">
+          <mxGeometry height="411" width="289" x="-961" y="2694" as="geometry" />
+        </mxCell>
         <mxCell id="9Zm1tNd0r7BuSAV70oXq-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="🏢 SAP ERP" vertex="1">
           <mxGeometry height="860" width="150" x="20" y="30" as="geometry" />
         </mxCell>
@@ -9864,6 +9867,33 @@
               <mxPoint x="208" y="2441" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LR9NJ5URFRMmZek1VtfO-5" edge="1" parent="1" source="LR9NJ5URFRMmZek1VtfO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LR9NJ5URFRMmZek1VtfO-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LR9NJ5URFRMmZek1VtfO-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Tabla Homologación" vertex="1">
+          <mxGeometry height="60" width="120" x="-873" y="2745" as="geometry" />
+        </mxCell>
+        <mxCell id="LR9NJ5URFRMmZek1VtfO-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Roles" vertex="1">
+          <mxGeometry height="60" width="120" x="-873" y="2885" as="geometry" />
+        </mxCell>
+        <mxCell id="LR9NJ5URFRMmZek1VtfO-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" value="VUCIAM" vertex="1">
+          <mxGeometry height="406" width="304" x="-620" y="2694" as="geometry" />
+        </mxCell>
+        <mxCell id="LR9NJ5URFRMmZek1VtfO-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Roles Delegados" vertex="1">
+          <mxGeometry height="60" width="120" x="-522" y="2739" as="geometry" />
+        </mxCell>
+        <mxCell id="LR9NJ5URFRMmZek1VtfO-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Roche" vertex="1">
+          <mxGeometry height="33" width="120" x="-1185" y="2538" as="geometry" />
+        </mxCell>
+        <mxCell id="LR9NJ5URFRMmZek1VtfO-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Proponente" vertex="1">
+          <mxGeometry height="27" width="120" x="-1011" y="2523" as="geometry" />
+        </mxCell>
+        <mxCell id="LR9NJ5URFRMmZek1VtfO-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Empresa Afiliada caja" vertex="1">
+          <mxGeometry height="27" width="120" x="-1011" y="2455" as="geometry" />
+        </mxCell>
+        <mxCell id="LR9NJ5URFRMmZek1VtfO-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Proveedor" vertex="1">
+          <mxGeometry height="27" width="120" x="-1011" y="2564" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

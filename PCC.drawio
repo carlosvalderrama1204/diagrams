@@ -9783,88 +9783,88 @@
           <mxGeometry height="30" width="60" x="-68" y="1688" as="geometry" />
         </mxCell>
         <mxCell id="28s6r5b8N2lORuTi3JUW-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="👤 Empresa" vertex="1">
-          <mxGeometry height="710" width="150" x="-39" y="1836" as="geometry" />
+          <mxGeometry height="710" width="150" x="-37.5" y="1757" as="geometry" />
         </mxCell>
         <mxCell id="28s6r5b8N2lORuTi3JUW-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="📦 Plataforma Colaborativa" vertex="1">
-          <mxGeometry height="710" width="150" x="282" y="1836" as="geometry" />
+          <mxGeometry height="710" width="150" x="283.5" y="1757" as="geometry" />
         </mxCell>
         <mxCell id="28s6r5b8N2lORuTi3JUW-3" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="🔐 VUCIAM (IdP)" vertex="1">
-          <mxGeometry height="710" width="150" x="676" y="1836" as="geometry" />
+          <mxGeometry height="710" width="150" x="677.5" y="1757" as="geometry" />
         </mxCell>
         <mxCell id="28s6r5b8N2lORuTi3JUW-4" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="🔗 API REST" vertex="1">
-          <mxGeometry height="710" width="150" x="876" y="1836" as="geometry" />
+          <mxGeometry height="710" width="150" x="877.5" y="1757" as="geometry" />
         </mxCell>
         <mxCell id="28s6r5b8N2lORuTi3JUW-5" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="🏢 SAP ERP" vertex="1">
-          <mxGeometry height="710" width="150" x="1181" y="1836" as="geometry" />
+          <mxGeometry height="710" width="150" x="1182.5" y="1757" as="geometry" />
         </mxCell>
         <mxCell id="28s6r5b8N2lORuTi3JUW-6" edge="1" parent="1" source="28s6r5b8N2lORuTi3JUW-1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="28s6r5b8N2lORuTi3JUW-2" value="1. Solicita acceso">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="205" y="1943" />
+              <mxPoint x="206.5" y="1864" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="28s6r5b8N2lORuTi3JUW-7" edge="1" parent="1" source="28s6r5b8N2lORuTi3JUW-2" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="28s6r5b8N2lORuTi3JUW-3" value="2. Redirige (SAML AuthnRequest)">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="563" y="1995" />
+              <mxPoint x="564.5" y="1916" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="28s6r5b8N2lORuTi3JUW-8" edge="1" parent="1" source="28s6r5b8N2lORuTi3JUW-1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="28s6r5b8N2lORuTi3JUW-3" value="3. Ingresa credenciales">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="402" y="2047" />
+              <mxPoint x="403.5" y="1968" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="28s6r5b8N2lORuTi3JUW-9" edge="1" parent="1" source="28s6r5b8N2lORuTi3JUW-3" style="curved=1;endArrow=block;rounded=0;" target="28s6r5b8N2lORuTi3JUW-3" value="4. Autentica usuario">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="802" y="2099" />
-              <mxPoint x="802" y="2129" />
+              <mxPoint x="803.5" y="2020" />
+              <mxPoint x="803.5" y="2050" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="28s6r5b8N2lORuTi3JUW-10" edge="1" parent="1" source="28s6r5b8N2lORuTi3JUW-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="28s6r5b8N2lORuTi3JUW-2" value="5. Token SAML (identidad, SIN rol de negocio)">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="566" y="2181" />
+              <mxPoint x="567.5" y="2102" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="28s6r5b8N2lORuTi3JUW-11" edge="1" parent="1" source="28s6r5b8N2lORuTi3JUW-2" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="28s6r5b8N2lORuTi3JUW-4" value="6. GET /api/Interlocutor">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="663" y="2233" />
+              <mxPoint x="664.5" y="2154" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="28s6r5b8N2lORuTi3JUW-12" edge="1" parent="1" source="28s6r5b8N2lORuTi3JUW-4" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="28s6r5b8N2lORuTi3JUW-5" value="7. Query: ¿proveedor o acreedor?">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1112" y="2285" />
+              <mxPoint x="1113.5" y="2206" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="28s6r5b8N2lORuTi3JUW-13" edge="1" parent="1" source="28s6r5b8N2lORuTi3JUW-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="28s6r5b8N2lORuTi3JUW-4" value="8. Responde: rol = &quot;proveedor&quot;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1115" y="2337" />
+              <mxPoint x="1116.5" y="2258" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="28s6r5b8N2lORuTi3JUW-14" edge="1" parent="1" source="28s6r5b8N2lORuTi3JUW-4" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="28s6r5b8N2lORuTi3JUW-2" value="9. Retorna rol">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="666" y="2389" />
+              <mxPoint x="667.5" y="2310" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="28s6r5b8N2lORuTi3JUW-15" edge="1" parent="1" source="28s6r5b8N2lORuTi3JUW-2" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="28s6r5b8N2lORuTi3JUW-1" value="10. Muestra opciones de proveedor">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="208" y="2441" />
+              <mxPoint x="209.5" y="2362" />
             </Array>
           </mxGeometry>
         </mxCell>

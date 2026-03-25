@@ -8270,7 +8270,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XQ6paxc_Rr85LMWMb05p" name="Page-21">
-    <mxGraphModel dx="2158" dy="753" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2013" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9033,7 +9033,7 @@
             <mxPoint x="229" y="317" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_NM8bMR9oWbWenA5qiex-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="OC Bloqueada/Liberada" vertex="1">
+        <mxCell id="_NM8bMR9oWbWenA5qiex-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Número:OC Estado:Bloqueada/Liberada" vertex="1">
           <mxGeometry height="30" width="60" x="224" y="330" as="geometry" />
         </mxCell>
         <mxCell id="LMa9h__Qo3xB8eNiRSpD-1" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Document_icons-2697/647704-pdf-1197.svg;direction=south;" value="Anexo" vertex="1">
@@ -9045,7 +9045,7 @@
         <mxCell id="LMa9h__Qo3xB8eNiRSpD-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="producto con Contrato" vertex="1">
           <mxGeometry height="29" width="109" x="140" y="172" as="geometry" />
         </mxCell>
-        <mxCell id="LMa9h__Qo3xB8eNiRSpD-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Centralizada" vertex="1">
+        <mxCell id="LMa9h__Qo3xB8eNiRSpD-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="Centralizada" vertex="1">
           <mxGeometry height="18" width="93" x="257" y="164" as="geometry" />
         </mxCell>
         <mxCell id="LMa9h__Qo3xB8eNiRSpD-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DesCentralizada" vertex="1">

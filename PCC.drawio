@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.4" pages="25">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6" pages="25">
   <diagram name="Page-1" id="_VkZlfbcH69sGK29IT94">
     <mxGraphModel dx="2062" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8270,7 +8270,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XQ6paxc_Rr85LMWMb05p" name="Page-21">
-    <mxGraphModel dx="1751" dy="505" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2594" dy="786" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9035,6 +9035,12 @@
         </mxCell>
         <mxCell id="_NM8bMR9oWbWenA5qiex-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="OC Bloqueada/Liberada" vertex="1">
           <mxGeometry height="30" width="60" x="224" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="LMa9h__Qo3xB8eNiRSpD-1" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Document_icons-2697/647704-pdf-1197.svg;direction=south;" value="Anexo" vertex="1">
+          <mxGeometry height="30" width="30" x="-145" y="164" as="geometry" />
+        </mxCell>
+        <mxCell id="LMa9h__Qo3xB8eNiRSpD-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="Flag= Liberada?" vertex="1">
+          <mxGeometry height="30" width="101" x="210" y="238" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

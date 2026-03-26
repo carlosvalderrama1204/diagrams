@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6" pages="8">
   <diagram name="Page-1" id="IC_4wayHIkYUXnKGSXEM">
     <mxGraphModel dx="1665" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -976,7 +976,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dquDM509BNwjq53XzlVr" name="Diagrama Arq">
-    <mxGraphModel dx="1900" dy="976" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2383" dy="1233" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1064,16 +1064,16 @@
           <mxGeometry height="40" width="40" x="70" y="831" as="geometry" />
         </mxCell>
         <mxCell id="bDSuv5MZXVrRvrGM8LBX-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CoE Arquitectura" vertex="1">
-          <mxGeometry height="30" width="120" x="70" y="1023.5" as="geometry" />
+          <mxGeometry height="30" width="172" x="70" y="1023.5" as="geometry" />
         </mxCell>
         <mxCell id="bDSuv5MZXVrRvrGM8LBX-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Capítulo Agilismo (VMO)" vertex="1">
           <mxGeometry height="30" width="146" x="447" y="997" as="geometry" />
         </mxCell>
         <mxCell id="bDSuv5MZXVrRvrGM8LBX-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="COE Analítica" vertex="1">
-          <mxGeometry height="30" width="120" x="73" y="1111.5" as="geometry" />
+          <mxGeometry height="30" width="169" x="73" y="1111.5" as="geometry" />
         </mxCell>
         <mxCell id="bDSuv5MZXVrRvrGM8LBX-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CoE Automatización" vertex="1">
-          <mxGeometry height="30" width="120" x="73" y="985" as="geometry" />
+          <mxGeometry height="30" width="171" x="73" y="985" as="geometry" />
         </mxCell>
         <mxCell id="bDSuv5MZXVrRvrGM8LBX-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CoE APIS e Integraciones" vertex="1">
           <mxGeometry height="30" width="170" x="70" y="1067.5" as="geometry" />

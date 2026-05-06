@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="laEkiWIsqQ8j5Rmt9v5u">
-    <mxGraphModel dx="2175" dy="1165" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3535" dy="1893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="I16NHe8A1YJZiABzMoSs-9" parent="1" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;" value="Proveedor" vertex="1">
           <mxGeometry height="150" width="7120" x="50" y="290" as="geometry" />
         </mxCell>
-        <mxCell id="I16NHe8A1YJZiABzMoSs-2" parent="I16NHe8A1YJZiABzMoSs-9" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" value="" vertex="1">
+        <mxCell id="I16NHe8A1YJZiABzMoSs-2" parent="I16NHe8A1YJZiABzMoSs-9" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
           <mxGeometry height="50" width="50" x="50" y="25" as="geometry" />
         </mxCell>
         <mxCell id="I16NHe8A1YJZiABzMoSs-3" parent="I16NHe8A1YJZiABzMoSs-9" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="Ingresar al Portal Corporativo" vertex="1">
@@ -19,7 +19,7 @@
         <mxCell id="I16NHe8A1YJZiABzMoSs-77" parent="I16NHe8A1YJZiABzMoSs-9" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="&lt;font face=&quot;Segoe UI&quot;&gt;&lt;span style=&quot;font-size: 12.3252px; background-color: rgb(255, 255, 255);&quot;&gt;Recibe solicitud de&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Segoe UI&quot;&gt;&lt;span style=&quot;font-size: 12.3252px; background-color: rgb(255, 255, 255);&quot;&gt;subsanar información&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="3150" y="35" as="geometry" />
         </mxCell>
-        <mxCell id="F0DyxAzL0n2ncGSLvr3S-85" parent="I16NHe8A1YJZiABzMoSs-9" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;" value="" vertex="1">
+        <mxCell id="F0DyxAzL0n2ncGSLvr3S-85" parent="I16NHe8A1YJZiABzMoSs-9" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
           <mxGeometry height="50" width="50" x="6755" y="50" as="geometry" />
         </mxCell>
         <mxCell id="I16NHe8A1YJZiABzMoSs-10" parent="1" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;whiteSpace=wrap;" value="Portal Corporativo" vertex="1">
@@ -168,7 +168,7 @@
         <mxCell id="I16NHe8A1YJZiABzMoSs-63" parent="I16NHe8A1YJZiABzMoSs-53" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;" value="Es candidato a&amp;nbsp;&lt;div&gt;ser proveedor&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="50" x="2610" y="115" as="geometry" />
         </mxCell>
-        <mxCell id="I16NHe8A1YJZiABzMoSs-65" parent="I16NHe8A1YJZiABzMoSs-53" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;" value="Fin no es candidato" vertex="1">
+        <mxCell id="I16NHe8A1YJZiABzMoSs-65" parent="I16NHe8A1YJZiABzMoSs-53" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;fillColor=#f8cecc;strokeColor=#b85450;" value="Fin no es candidato" vertex="1">
           <mxGeometry height="30" width="30" x="2780" y="20" as="geometry" />
         </mxCell>
         <mxCell id="I16NHe8A1YJZiABzMoSs-66" edge="1" parent="I16NHe8A1YJZiABzMoSs-53" source="I16NHe8A1YJZiABzMoSs-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="I16NHe8A1YJZiABzMoSs-65">
@@ -338,7 +338,7 @@
         <mxCell id="F0DyxAzL0n2ncGSLvr3S-59" parent="F0DyxAzL0n2ncGSLvr3S-35" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="Notificar rechazo al proveedor" vertex="1">
           <mxGeometry height="50" width="120" x="4720" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="F0DyxAzL0n2ncGSLvr3S-61" parent="F0DyxAzL0n2ncGSLvr3S-35" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;" value="Fin" vertex="1">
+        <mxCell id="F0DyxAzL0n2ncGSLvr3S-61" parent="F0DyxAzL0n2ncGSLvr3S-35" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;fillColor=#f8cecc;strokeColor=#b85450;" value="Fin" vertex="1">
           <mxGeometry height="50" width="50" x="4910" y="240" as="geometry" />
         </mxCell>
         <mxCell id="F0DyxAzL0n2ncGSLvr3S-62" edge="1" parent="F0DyxAzL0n2ncGSLvr3S-35" source="F0DyxAzL0n2ncGSLvr3S-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="F0DyxAzL0n2ncGSLvr3S-61">
@@ -398,6 +398,9 @@
         <mxCell id="F0DyxAzL0n2ncGSLvr3S-75" parent="F0DyxAzL0n2ncGSLvr3S-72" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="Extender Rol Proveedor si aplica" vertex="1">
           <mxGeometry height="60" width="120" x="6040" y="50" as="geometry" />
         </mxCell>
+        <mxCell id="F0DyxAzL0n2ncGSLvr3S-91" parent="F0DyxAzL0n2ncGSLvr3S-72" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" value="Crear Tercero/Interlocutor en SAP&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="120" x="1100" y="70" as="geometry" />
+        </mxCell>
         <mxCell id="F0DyxAzL0n2ncGSLvr3S-74" edge="1" parent="1" source="F0DyxAzL0n2ncGSLvr3S-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="F0DyxAzL0n2ncGSLvr3S-73" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -417,6 +420,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F0DyxAzL0n2ncGSLvr3S-86" edge="1" parent="1" source="F0DyxAzL0n2ncGSLvr3S-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="F0DyxAzL0n2ncGSLvr3S-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F0DyxAzL0n2ncGSLvr3S-92" edge="1" parent="1" source="I16NHe8A1YJZiABzMoSs-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="F0DyxAzL0n2ncGSLvr3S-91" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>

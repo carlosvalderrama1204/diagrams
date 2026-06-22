@@ -234,7 +234,7 @@
           <mxGeometry height="30" width="60" x="302" y="345" as="geometry" />
         </mxCell>
         <mxCell id="tUZNEgah8EPFakAkArj7-83" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;" value="El Código temporal digitado coincide con otro producto existente" vertex="1">
-          <mxGeometry height="93" width="183" x="299" y="376" as="geometry" />
+          <mxGeometry height="93" width="183" x="292" y="376" as="geometry" />
         </mxCell>
         <mxCell id="tUZNEgah8EPFakAkArj7-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#D30705;fontStyle=1;fontSize=17;" value="Escenario actual con el error" vertex="1">
           <mxGeometry height="30" width="340" x="-298" y="50" as="geometry" />

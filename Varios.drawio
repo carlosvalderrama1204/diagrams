@@ -146,11 +146,11 @@
         <mxCell id="tUZNEgah8EPFakAkArj7-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=19;" value="456 | Churrasco | Unidad" vertex="1">
           <mxGeometry height="30" width="320" x="785" y="1045" as="geometry" />
         </mxCell>
-        <mxCell id="tUZNEgah8EPFakAkArj7-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Crear Catalogo" vertex="1">
-          <mxGeometry height="35" width="120" x="975" y="785" as="geometry" />
+        <mxCell id="tUZNEgah8EPFakAkArj7-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="Crear Catalogo" vertex="1">
+          <mxGeometry height="35" width="163" x="975" y="785" as="geometry" />
         </mxCell>
-        <mxCell id="tUZNEgah8EPFakAkArj7-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Actualizar Catalogo" vertex="1">
-          <mxGeometry height="35" width="120" x="980" y="840" as="geometry" />
+        <mxCell id="tUZNEgah8EPFakAkArj7-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" value="Actualizar Catalogo" vertex="1">
+          <mxGeometry height="35" width="159" x="980" y="840" as="geometry" />
         </mxCell>
         <mxCell id="tUZNEgah8EPFakAkArj7-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="Id Temp" vertex="1">
           <mxGeometry height="18" width="120" x="-360" y="390" as="geometry" />

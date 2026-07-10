@@ -249,7 +249,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="f9vnlLtxmsqqSrUvm7av" name="Daruma">
-    <mxGraphModel dx="2734" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2744" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -306,6 +306,82 @@
         </mxCell>
         <mxCell id="rASGJtNePt2mBeMXCZUU-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Nube AWS" vertex="1">
           <mxGeometry height="30" width="110" x="-570" y="226.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4aG-8jCGLXztdYfz-Mu-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Colaborador Caja" vertex="1">
+          <mxGeometry height="60" width="30" x="-120" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4aG-8jCGLXztdYfz-Mu-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Colaborador Salud" vertex="1">
+          <mxGeometry height="60" width="30" x="-120" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4aG-8jCGLXztdYfz-Mu-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Administrador Funcional" vertex="1">
+          <mxGeometry height="60" width="30" x="-120" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4aG-8jCGLXztdYfz-Mu-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="490" width="330" x="50" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4aG-8jCGLXztdYfz-Mu-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Daruma" vertex="1">
+          <mxGeometry height="30" width="60" x="180" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4aG-8jCGLXztdYfz-Mu-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="140" width="190" x="115" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4aG-8jCGLXztdYfz-Mu-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Formulario" vertex="1">
+          <mxGeometry height="30" width="60" x="185" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4aG-8jCGLXztdYfz-Mu-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4aG-8jCGLXztdYfz-Mu-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Módulos" vertex="1">
+          <mxGeometry height="30" width="60" x="180" y="1115" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4aG-8jCGLXztdYfz-Mu-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="450" width="270" x="600" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4aG-8jCGLXztdYfz-Mu-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Compensar" vertex="1">
+          <mxGeometry height="30" width="60" x="700" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4aG-8jCGLXztdYfz-Mu-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Directorio Activo Caja" vertex="1">
+          <mxGeometry height="60" width="120" x="660" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4aG-8jCGLXztdYfz-Mu-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Directorio Activo Salud" vertex="1">
+          <mxGeometry height="60" width="120" x="660" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4aG-8jCGLXztdYfz-Mu-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="165" width="220" x="625" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4aG-8jCGLXztdYfz-Mu-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="File Server" vertex="1">
+          <mxGeometry height="30" width="60" x="690" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4aG-8jCGLXztdYfz-Mu-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Archivo Mensual" vertex="1">
+          <mxGeometry height="60" width="120" x="670" y="1185" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4aG-8jCGLXztdYfz-Mu-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="VPN" vertex="1">
+          <mxGeometry height="35" width="120" x="440" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4aG-8jCGLXztdYfz-Mu-20" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Y4aG-8jCGLXztdYfz-Mu-18" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="1080" as="sourcePoint" />
+            <mxPoint x="430" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y4aG-8jCGLXztdYfz-Mu-21" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=-0.008;entryY=0.464;entryDx=0;entryDy=0;entryPerimeter=0;" target="Y4aG-8jCGLXztdYfz-Mu-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="560" y="1080" as="sourcePoint" />
+            <mxPoint x="610" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y4aG-8jCGLXztdYfz-Mu-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Perfilamiento" vertex="1">
+          <mxGeometry height="60" width="120" x="155" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4aG-8jCGLXztdYfz-Mu-23" edge="1" parent="1" source="Y4aG-8jCGLXztdYfz-Mu-17" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="Y4aG-8jCGLXztdYfz-Mu-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="1490" />
+              <mxPoint x="30" y="1440" />
+            </Array>
+            <mxPoint x="550" y="1390" as="sourcePoint" />
+            <mxPoint x="600" y="1340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

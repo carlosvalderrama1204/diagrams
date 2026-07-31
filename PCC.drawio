@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" pages="36">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" pages="35">
   <diagram name="Page-1" id="_VkZlfbcH69sGK29IT94">
     <mxGraphModel dx="2062" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13182,8 +13182,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="NV9IKCqyeDZEGwy_edGR" name="Page-32">
-    <mxGraphModel dx="2147" dy="1085" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+  <diagram id="NV9IKCqyeDZEGwy_edGR" name="Flujo Id Comprador">
+    <mxGraphModel dx="2371" dy="1199" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13685,7 +13685,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="wGWB7qZo_XYcPTYLp_MY" name="Page-35">
+  <diagram id="wGWB7qZo_XYcPTYLp_MY" name="Diagrama Proveedor">
     <mxGraphModel dx="7080" dy="3310" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -14134,64 +14134,6 @@
         </mxCell>
         <mxCell id="Qp_st_JZZBhD1Bqo7IzP-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" value="Consulta Receptores&amp;nbsp;&lt;div&gt;alternativos&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="341" x="2108" y="410" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="OB60CHfXZRywc7nCq_uu" name="Page-36">
-    <mxGraphModel dx="2694" dy="1388" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="qUCP3-3hJwYJ3vN0h4IV-13" edge="1" parent="1" source="qUCP3-3hJwYJ3vN0h4IV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" target="qUCP3-3hJwYJ3vN0h4IV-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qUCP3-3hJwYJ3vN0h4IV-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="327" width="274" x="411" y="-167" as="geometry" />
-        </mxCell>
-        <mxCell id="qUCP3-3hJwYJ3vN0h4IV-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="SAP" vertex="1">
-          <mxGeometry height="30" width="60" x="506" y="-144" as="geometry" />
-        </mxCell>
-        <mxCell id="qUCP3-3hJwYJ3vN0h4IV-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" value="Texto Largo" vertex="1">
-          <mxGeometry height="37" width="120" x="488" y="-53" as="geometry" />
-        </mxCell>
-        <mxCell id="qUCP3-3hJwYJ3vN0h4IV-12" edge="1" parent="1" source="qUCP3-3hJwYJ3vN0h4IV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="409.8924865722656" y="-129" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qUCP3-3hJwYJ3vN0h4IV-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Catalogo Compras" vertex="1">
-          <mxGeometry height="60" width="229" x="-49" y="-159" as="geometry" />
-        </mxCell>
-        <mxCell id="qUCP3-3hJwYJ3vN0h4IV-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CrearTarifa" vertex="1">
-          <mxGeometry height="60" width="229" x="-32" y="49" as="geometry" />
-        </mxCell>
-        <mxCell id="qUCP3-3hJwYJ3vN0h4IV-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="362" width="120" x="-396" y="-202" as="geometry" />
-        </mxCell>
-        <mxCell id="qUCP3-3hJwYJ3vN0h4IV-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PCC" vertex="1">
-          <mxGeometry height="30" width="60" x="-361" y="-189" as="geometry" />
-        </mxCell>
-        <mxCell id="qUCP3-3hJwYJ3vN0h4IV-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" value="Texto Largo" vertex="1">
-          <mxGeometry height="37" width="120" x="2" y="-99" as="geometry" />
-        </mxCell>
-        <mxCell id="qUCP3-3hJwYJ3vN0h4IV-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="qUCP3-3hJwYJ3vN0h4IV-6" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-272" y="-143" as="sourcePoint" />
-            <mxPoint x="-207" y="-177" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qUCP3-3hJwYJ3vN0h4IV-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" value="&lt;b&gt;Obligatorio:&lt;/b&gt; Texto Largo" vertex="1">
-          <mxGeometry height="37" width="120" x="-534" y="-136" as="geometry" />
-        </mxCell>
-        <mxCell id="qUCP3-3hJwYJ3vN0h4IV-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" value="Texto Largo : vacio" vertex="1">
-          <mxGeometry height="37" width="119.5" x="23" y="119" as="geometry" />
-        </mxCell>
-        <mxCell id="qUCP3-3hJwYJ3vN0h4IV-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" value="Texto Largo : vacio" vertex="1">
-          <mxGeometry height="37" width="119.5" x="-540" y="119" as="geometry" />
-        </mxCell>
-        <mxCell id="qUCP3-3hJwYJ3vN0h4IV-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Actualizar" vertex="1">
-          <mxGeometry height="60" width="97" x="-384.5" y="76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

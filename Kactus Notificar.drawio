@@ -269,11 +269,20 @@
         <mxCell id="_7iAXqaq_tmXtoN521PA-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="249" width="407" x="456" y="184" as="geometry" />
         </mxCell>
-        <mxCell id="_7iAXqaq_tmXtoN521PA-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="vmpkiribati" vertex="1">
-          <mxGeometry height="30" width="60" x="618" y="213" as="geometry" />
+        <mxCell id="_7iAXqaq_tmXtoN521PA-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="webkactus" vertex="1">
+          <mxGeometry height="30" width="60" x="619" y="190" as="geometry" />
         </mxCell>
         <mxCell id="_7iAXqaq_tmXtoN521PA-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="KWsInfog" vertex="1">
           <mxGeometry height="60" width="120" x="592" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="_7iAXqaq_tmXtoN521PA-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="192.168.4.85" vertex="1">
+          <mxGeometry height="30" width="60" x="117" y="317" as="geometry" />
+        </mxCell>
+        <mxCell id="_7iAXqaq_tmXtoN521PA-19" parent="1" style="text;whiteSpace=wrap;" value="192.168.10.90" vertex="1">
+          <mxGeometry height="36" width="105" x="599.5" y="236" as="geometry" />
+        </mxCell>
+        <mxCell id="_7iAXqaq_tmXtoN521PA-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="webkactus.compensar.ccf" vertex="1">
+          <mxGeometry height="30" width="60" x="619" y="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

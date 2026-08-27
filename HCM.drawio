@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="IO-tznYFpE7vNVZz4Usu">
-    <mxGraphModel dx="4357" dy="2118" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#F1F5F8,#121212)" math="0" shadow="0">
+    <mxGraphModel dx="5140" dy="2175" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#F1F5F8,#121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,7 +79,11 @@
           <mxGeometry height="30" width="170" x="395" y="1005" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-67" edge="1" parent="1" source="iPPC8-j_-edVFofwLlKc-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;fontSize=27;strokeWidth=3;" target="iPPC8-j_-edVFofwLlKc-16">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2363.5" y="578.33" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;strokeWidth=3;" value="" vertex="1">
           <mxGeometry height="110" width="2162.5" x="-205" y="701" as="geometry" />
@@ -354,7 +358,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-142" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;strokeWidth=3;" value="Pandapé - Computrabajo" vertex="1">
-          <mxGeometry height="60" width="120" x="2237" y="388" as="geometry" />
+          <mxGeometry height="60" width="218" x="2237" y="388" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-143" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;strokeWidth=3;" value="Teams" vertex="1">
           <mxGeometry height="45" width="141" x="-444.5" y="1045" as="geometry" />

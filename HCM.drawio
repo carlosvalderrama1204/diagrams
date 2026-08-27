@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="IO-tznYFpE7vNVZz4Usu">
-    <mxGraphModel dx="2770" dy="1288" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#F1F5F8,#121212)" math="0" shadow="0">
+    <mxGraphModel dx="6133" dy="2870" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#F1F5F8,#121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry height="580" width="3202" x="-791" y="940" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="410" width="315" x="-680" y="160" as="geometry" />
+          <mxGeometry height="410" width="315" x="-683" y="84" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-66" edge="1" parent="1" source="iPPC8-j_-edVFofwLlKc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iPPC8-j_-edVFofwLlKc-27">
           <mxGeometry relative="1" as="geometry" />
@@ -32,25 +32,25 @@
           <mxGeometry height="30" width="280" x="-205" y="-44" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="120" width="200" x="-625" y="220" as="geometry" />
+          <mxGeometry height="120" width="200" x="-628" y="144" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="VUCIAM" vertex="1">
-          <mxGeometry height="30" width="60" x="-560" y="220" as="geometry" />
+          <mxGeometry height="30" width="60" x="-563" y="144" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Candidatos y externos" vertex="1">
-          <mxGeometry height="30" width="60" x="-560" y="265" as="geometry" />
+          <mxGeometry height="30" width="60" x="-563" y="189" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="120" width="200" x="-625" y="400" as="geometry" />
+          <mxGeometry height="120" width="200" x="-628" y="324" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="IAM" vertex="1">
-          <mxGeometry height="30" width="60" x="-560" y="400" as="geometry" />
+          <mxGeometry height="30" width="60" x="-563" y="324" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Usuarios Internos" vertex="1">
-          <mxGeometry height="30" width="60" x="-560" y="445" as="geometry" />
+          <mxGeometry height="30" width="60" x="-563" y="369" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=15;" value="Acceso e Identidad" vertex="1">
-          <mxGeometry height="30" width="182.5" x="-625" y="170" as="geometry" />
+          <mxGeometry height="30" width="182.5" x="-628" y="94" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="510" width="280" x="2165" y="29" as="geometry" />

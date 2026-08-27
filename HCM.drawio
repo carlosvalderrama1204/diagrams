@@ -32,22 +32,22 @@
           <mxGeometry height="30" width="280" x="783" y="-88" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;strokeWidth=3;" value="" vertex="1">
-          <mxGeometry height="120" width="200" x="-622" y="119" as="geometry" />
+          <mxGeometry height="120" width="200" x="-655" y="121.5" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=27;strokeWidth=3;" value="VUCIAM" vertex="1">
-          <mxGeometry height="30" width="60" x="-557" y="119" as="geometry" />
+          <mxGeometry height="30" width="60" x="-590" y="121.5" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=27;strokeWidth=3;" value="Candidatos y externos" vertex="1">
-          <mxGeometry height="30" width="60" x="-557" y="164" as="geometry" />
+          <mxGeometry height="30" width="60" x="-590" y="166.5" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;strokeWidth=3;" value="" vertex="1">
-          <mxGeometry height="120" width="200" x="-622" y="299" as="geometry" />
+          <mxGeometry height="120" width="200" x="-655" y="301.5" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=27;strokeWidth=3;" value="IAM" vertex="1">
-          <mxGeometry height="30" width="60" x="-557" y="299" as="geometry" />
+          <mxGeometry height="30" width="60" x="-590" y="301.5" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=27;strokeWidth=3;" value="Usuarios Internos" vertex="1">
-          <mxGeometry height="30" width="60" x="-557" y="344" as="geometry" />
+          <mxGeometry height="30" width="60" x="-590" y="346.5" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=27;strokeWidth=3;" value="Acceso e Identidad" vertex="1">
           <mxGeometry height="30" width="301.5" x="-697" y="71" as="geometry" />
@@ -343,10 +343,10 @@
           <mxGeometry height="99" width="223" x="80" y="1033" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-136" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=16;strokeWidth=3;" value="Tipología Documental" vertex="1">
-          <mxGeometry height="30" width="150" x="125" y="1035" as="geometry" />
+          <mxGeometry height="30" width="188" x="110" y="1040" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-137" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=0;fontSize=16;strokeWidth=3;" value="-Hoja de Vida&lt;div&gt;-Contrato&lt;/div&gt;&lt;div&gt;-Incapacidades&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="150" x="116.5" y="1067.5" as="geometry" />
+          <mxGeometry height="30" width="150" x="116.5" y="1086" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-139" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=27;strokeWidth=3;" value="Bidireccional" vertex="1">
           <mxGeometry height="30" width="60" x="821" y="870" as="geometry" />
@@ -391,7 +391,7 @@
           <mxGeometry height="30" width="138" x="2117" y="1022" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-154" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;strokeWidth=3;" value="Centros de Costos" vertex="1">
-          <mxGeometry height="22" width="252" x="1339" y="1075.5" as="geometry" />
+          <mxGeometry height="42" width="252" x="1339" y="1075.5" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-155" edge="1" parent="1" source="iPPC8-j_-edVFofwLlKc-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.648;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=27;strokeWidth=3;" target="iPPC8-j_-edVFofwLlKc-73">
           <mxGeometry relative="1" as="geometry">

@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="IO-tznYFpE7vNVZz4Usu">
-    <mxGraphModel dx="5140" dy="2175" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#F1F5F8,#121212)" math="0" shadow="0">
+    <mxGraphModel dx="5140" dy="2103" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#F1F5F8,#121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -223,8 +223,8 @@
         <mxCell id="iPPC8-j_-edVFofwLlKc-86" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;strokeWidth=3;" value="" vertex="1">
           <mxGeometry height="160" width="280" x="630" y="1210" as="geometry" />
         </mxCell>
-        <mxCell id="iPPC8-j_-edVFofwLlKc-87" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=27;strokeWidth=3;" value="DXP" vertex="1">
-          <mxGeometry height="30" width="170" x="675" y="1220" as="geometry" />
+        <mxCell id="iPPC8-j_-edVFofwLlKc-87" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=27;strokeWidth=3;" value="DXP - Portal Corporativo" vertex="1">
+          <mxGeometry height="30" width="170" x="681" y="1230" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-90" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;strokeWidth=3;" value="" vertex="1">
           <mxGeometry height="160" width="227" x="-491" y="995" as="geometry" />
@@ -349,7 +349,7 @@
           <mxGeometry height="30" width="150" x="116.5" y="1086" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-139" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=27;strokeWidth=3;" value="Bidireccional" vertex="1">
-          <mxGeometry height="30" width="60" x="821" y="870" as="geometry" />
+          <mxGeometry height="30" width="60" x="874" y="874" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-140" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=0;fontSize=27;strokeWidth=3;" value="Firma Electrónica" vertex="1">
           <mxGeometry height="30" width="150" x="411" y="1056" as="geometry" />
@@ -402,19 +402,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-156" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=27;strokeWidth=3;" value="Talento Humano*" vertex="1">
-          <mxGeometry height="42" width="120" x="1436" y="1259" as="geometry" />
+          <mxGeometry height="70" width="159" x="1420.5" y="1272" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-159" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;strokeWidth=3;" value="" vertex="1">
           <mxGeometry height="160" width="280" x="310" y="1214" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-160" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=27;strokeWidth=3;" value="BI Corporativo" vertex="1">
-          <mxGeometry height="30" width="170" x="358" y="1214" as="geometry" />
+          <mxGeometry height="30" width="287" x="304" y="1220" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-161" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;strokeWidth=3;" value="DataBricks" vertex="1">
-          <mxGeometry height="22" width="120" x="380" y="1258" as="geometry" />
+          <mxGeometry height="38" width="170" x="350" y="1258" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-162" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;strokeWidth=3;" value="Power BI" vertex="1">
-          <mxGeometry height="22" width="120" x="383" y="1303" as="geometry" />
+          <mxGeometry height="38" width="172" x="348" y="1310" as="geometry" />
         </mxCell>
         <mxCell id="iPPC8-j_-edVFofwLlKc-163" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;strokeWidth=3;" value="" vertex="1">
           <mxGeometry height="99" width="231" x="50" y="1237" as="geometry" />
@@ -430,6 +430,38 @@
         </mxCell>
         <mxCell id="FDlGVzIUQBYIlwIRfzE0-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;strokeWidth=3;" value="ParC" vertex="1">
           <mxGeometry height="26" width="120" x="110" y="1284" as="geometry" />
+        </mxCell>
+        <mxCell id="FDlGVzIUQBYIlwIRfzE0-9" edge="1" parent="1" source="iPPC8-j_-edVFofwLlKc-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.045;entryY=0.968;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;strokeWidth=4;" target="iPPC8-j_-edVFofwLlKc-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FDlGVzIUQBYIlwIRfzE0-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=27;strokeWidth=3;" value="Bidireccional" vertex="1">
+          <mxGeometry height="30" width="60" x="-46" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="FDlGVzIUQBYIlwIRfzE0-12" edge="1" parent="1" source="iPPC8-j_-edVFofwLlKc-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.622;entryY=0.987;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;strokeWidth=4;" target="iPPC8-j_-edVFofwLlKc-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FDlGVzIUQBYIlwIRfzE0-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=27;strokeWidth=3;" value="Bidireccional" vertex="1">
+          <mxGeometry height="30" width="60" x="1197" y="879" as="geometry" />
+        </mxCell>
+        <mxCell id="FDlGVzIUQBYIlwIRfzE0-14" edge="1" parent="1" source="iPPC8-j_-edVFofwLlKc-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeWidth=3;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1790" y="817" />
+            </Array>
+            <mxPoint x="1790" y="817.05" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FDlGVzIUQBYIlwIRfzE0-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;strokeWidth=3;" value="" vertex="1">
+          <mxGeometry height="160" width="280" x="2063" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="FDlGVzIUQBYIlwIRfzE0-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=27;strokeWidth=3;" value="Intranet" vertex="1">
+          <mxGeometry height="30" width="170" x="2101" y="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="FDlGVzIUQBYIlwIRfzE0-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;strokeWidth=3;" value="" vertex="1">
+          <mxGeometry height="160" width="280" x="-583.5" y="1227" as="geometry" />
+        </mxCell>
+        <mxCell id="FDlGVzIUQBYIlwIRfzE0-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=27;strokeWidth=3;" value="Offimizer" vertex="1">
+          <mxGeometry height="30" width="170" x="-545.5" y="1237" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

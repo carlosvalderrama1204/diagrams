@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" pages="36">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" pages="35">
   <diagram name="Page-1" id="_VkZlfbcH69sGK29IT94">
     <mxGraphModel dx="2062" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14056,7 +14056,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wGWB7qZo_XYcPTYLp_MY" name="Diagrama Proveedor">
-    <mxGraphModel dx="5535" dy="3270" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="12620" dy="5910" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14504,20 +14504,6 @@
         </mxCell>
         <mxCell id="Qp_st_JZZBhD1Bqo7IzP-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;" value="Consulta Receptores&amp;nbsp;&lt;div&gt;alternativos&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="341" x="2108" y="410" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="iFKyffe_AkUKOm5wP1LZ" name="Page-36">
-    <mxGraphModel dx="2264" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="IJvIfAXUGn0EFccvWN6D-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="140" width="440" x="100" y="120" as="geometry" />
-        </mxCell>
-        <mxCell id="IJvIfAXUGn0EFccvWN6D-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Descentrelización" vertex="1">
-          <mxGeometry height="30" width="60" x="-140" y="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

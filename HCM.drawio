@@ -612,7 +612,7 @@
           <mxGeometry height="132" width="308" x="1684" y="866.5" as="geometry" />
         </mxCell>
         <mxCell id="E3dzqTuflcIUIC3gn9QP-81" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=42;strokeWidth=2;" value="Analytics / OTBI" vertex="1">
-          <mxGeometry height="30" width="117" x="1800" y="926.5" as="geometry" />
+          <mxGeometry height="30" width="117" x="1779.5" y="927" as="geometry" />
         </mxCell>
         <mxCell id="E3dzqTuflcIUIC3gn9QP-83" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=42;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="132" width="365" x="2078" y="866.5" as="geometry" />

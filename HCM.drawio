@@ -486,7 +486,7 @@
         <mxCell id="E3dzqTuflcIUIC3gn9QP-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=42;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="249" width="1404" x="577" y="328" as="geometry" />
         </mxCell>
-        <mxCell id="E3dzqTuflcIUIC3gn9QP-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=50;strokeWidth=3;" value="" vertex="1">
+        <mxCell id="E3dzqTuflcIUIC3gn9QP-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=50;strokeWidth=3;shadow=1;" value="" vertex="1">
           <mxGeometry height="759" width="670" x="-422" y="369" as="geometry" />
         </mxCell>
         <mxCell id="E3dzqTuflcIUIC3gn9QP-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=50;strokeWidth=2;" value="Oracle HCM" vertex="1">

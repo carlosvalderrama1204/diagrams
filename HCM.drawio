@@ -804,6 +804,9 @@
         <mxCell id="7r9S4enVOdocWVYGvrER-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=50;fillColor=#fff2cc;strokeColor=#d6b656;" value="Productividad" vertex="1">
           <mxGeometry height="116" width="558" x="-501" y="2563" as="geometry" />
         </mxCell>
+        <mxCell id="7r9S4enVOdocWVYGvrER-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=50;fillColor=#fff2cc;strokeColor=#d6b656;" value="Activos Fijos" vertex="1">
+          <mxGeometry height="116" width="558" x="-513" y="2204" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -467,7 +467,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6UNJs7amlJJ07rWWXS9n" name="Page-2">
-    <mxGraphModel dx="6456" dy="2876" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#F1F3F4,#121212)" math="0" shadow="0">
+    <mxGraphModel dx="7256" dy="2876" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#F1F3F4,#121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -633,7 +633,7 @@
           <mxGeometry height="30" width="661" x="1451.5" y="1070.5" as="geometry" />
         </mxCell>
         <mxCell id="el2kU2_8uHdSqJqz_IDO-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=50;strokeWidth=3;shadow=1;" value="" vertex="1">
-          <mxGeometry height="982" width="4664" x="-708" y="1821" as="geometry" />
+          <mxGeometry height="982" width="5228" x="-1272" y="1821" as="geometry" />
         </mxCell>
         <mxCell id="EGuMg6QuF9xGsQemD2iI-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=50;dashed=1;strokeWidth=4;" value="" vertex="1">
           <mxGeometry height="354" width="872" x="228" y="1874" as="geometry" />
@@ -806,6 +806,9 @@
         </mxCell>
         <mxCell id="7r9S4enVOdocWVYGvrER-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=50;fillColor=#fff2cc;strokeColor=#d6b656;" value="Activos Fijos" vertex="1">
           <mxGeometry height="116" width="558" x="-513" y="2204" as="geometry" />
+        </mxCell>
+        <mxCell id="7r9S4enVOdocWVYGvrER-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=50;fillColor=#fff2cc;strokeColor=#d6b656;" value="BMC" vertex="1">
+          <mxGeometry height="116" width="558" x="-1209" y="2204" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

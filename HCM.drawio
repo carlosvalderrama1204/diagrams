@@ -467,7 +467,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6UNJs7amlJJ07rWWXS9n" name="Page-2">
-    <mxGraphModel dx="3411" dy="1437" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#F1F3F4,#121212)" math="0" shadow="0">
+    <mxGraphModel dx="5913" dy="2610" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#F1F3F4,#121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -830,13 +830,13 @@
         <mxCell id="SdH9dDq6NluPUPCzBp5F-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=50;" value="Daruma" vertex="1">
           <mxGeometry height="116" width="558" x="65" y="2027" as="geometry" />
         </mxCell>
-        <mxCell id="3zU7BCElkvxybgSDcDAs-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=50;" value="IDM - Ciclo de vida&amp;nbsp;&lt;div&gt;de Identidades&lt;/div&gt;" vertex="1">
+        <mxCell id="3zU7BCElkvxybgSDcDAs-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=40;" value="IDM - Ciclo de vida&amp;nbsp;&lt;div&gt;de Identidades&lt;/div&gt;" vertex="1">
           <mxGeometry height="127" width="596" x="-538.6199999999999" y="714" as="geometry" />
         </mxCell>
-        <mxCell id="3zU7BCElkvxybgSDcDAs-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=50;" value="NAM - federación y SSO" vertex="1">
+        <mxCell id="3zU7BCElkvxybgSDcDAs-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=40;" value="NAM - federación y SSO" vertex="1">
           <mxGeometry height="127" width="596" x="-536.3699999999999" y="860" as="geometry" />
         </mxCell>
-        <mxCell id="3zU7BCElkvxybgSDcDAs-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=50;" value="Advanced Authentication - MFA" vertex="1">
+        <mxCell id="3zU7BCElkvxybgSDcDAs-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=40;" value="Advanced Authentication - MFA" vertex="1">
           <mxGeometry height="127" width="596" x="-536.3699999999999" y="1002" as="geometry" />
         </mxCell>
         <mxCell id="3zU7BCElkvxybgSDcDAs-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=40;" value="SAML/OIDC" vertex="1">

@@ -467,7 +467,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6UNJs7amlJJ07rWWXS9n" name="Page-2">
-    <mxGraphModel dx="8524" dy="2959" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#F1F3F4,#121212)" math="0" shadow="0">
+    <mxGraphModel dx="7125" dy="2675" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#F1F3F4,#121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -849,7 +849,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pzndu0NZ_jS4-_vnn0OZ" name="Integraciones Kactus">
-    <mxGraphModel dx="2631" dy="1898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1727" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -877,7 +877,7 @@
         <mxCell id="k1JClALA74FNQ9zY6sHb-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Información Salarial?" vertex="1">
           <mxGeometry height="30" width="210" x="-220" y="554" as="geometry" />
         </mxCell>
-        <mxCell id="k1JClALA74FNQ9zY6sHb-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="??" vertex="1">
+        <mxCell id="k1JClALA74FNQ9zY6sHb-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Novedades*" vertex="1">
           <mxGeometry height="30" width="210" x="57.5" y="100" as="geometry" />
         </mxCell>
         <mxCell id="k1JClALA74FNQ9zY6sHb-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Autenticación SSO" vertex="1">
@@ -897,6 +897,18 @@
         </mxCell>
         <mxCell id="k1JClALA74FNQ9zY6sHb-16" parent="1" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;fillColor=#2D9C5E;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.check" value="" vertex="1">
           <mxGeometry height="30" width="37.5" x="-7.5" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="BeIw4ghBdGEe59y5EZBj-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="30" width="60" x="260" y="-30" as="geometry" />
+        </mxCell>
+        <mxCell id="BeIw4ghBdGEe59y5EZBj-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="30" width="60" x="260" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BeIw4ghBdGEe59y5EZBj-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="30" width="60" x="260" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BeIw4ghBdGEe59y5EZBj-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="30" width="60" x="260" y="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
